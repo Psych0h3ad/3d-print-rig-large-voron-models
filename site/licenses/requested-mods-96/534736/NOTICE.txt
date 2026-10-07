@@ -1,0 +1,11 @@
+Voron Trident Stepper Spacer
+Author: FOX (FOX_240146)
+Source: https://www.printables.com/model/534736-voron-trident-stepper-spacer
+Author model modified: 2023-08-03T13:41:21.489657+00:00
+Observed license ID 3: Creative Commons — Attribution  — Noncommercial
+License version: not stated by the captured author metadata; no CC version is asserted.
+License evidence: AUTHOR_METADATA.json SHA256 552aa6c95f6ee1a09d2eefe69a4f739bf0dd97e87ce50c2eb093a18929e51980
+Original downloaded file bytes are unchanged.
+Generated viewer assets are derivatives and require their own exact modification/hash receipt.
+Original source transfer and attribution only. No installed-machine, mounting, motion, endstop, spring, clearance or whole-machine verification is claimed.
+File 2312954: Stepper_Spacer.stl; 134484 bytes; SHA256 083c365efe8850f54d909c9c61a9ffafcc92f8cea37a5f84211d3311490af92b

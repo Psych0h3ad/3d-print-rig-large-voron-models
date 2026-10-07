@@ -1,0 +1,13 @@
+X1C/P1P style nozzle wiper MOD for Voron [Beta]
+Author: Iconic FAB (IconicFAB)
+Source: https://www.printables.com/model/546970-x1cp1p-style-nozzle-wiper-mod-for-voron-beta
+Author model modified: 2026-07-26T17:07:47.143712+00:00
+Observed license ID 2: Creative Commons — Attribution  — Share Alike
+License version: not stated by the captured author metadata; no CC version is asserted.
+License evidence: AUTHOR_METADATA.json SHA256 a86b7efac8ec5081f62458ad65d64edc951d26133dc3367218fce1af0e612030
+Original downloaded file bytes are unchanged.
+Generated viewer assets are derivatives and require their own exact modification/hash receipt.
+Original source transfer and attribution only. No installed-machine, mounting, motion, endstop, spring, clearance or whole-machine verification is claimed.
+The author description attributes the wiper mount base to hartk1213 Voron2.4 SexBolt ZEndstop; this is retained, not a separate license-version proof.
+File 2373424: nozzle_wiper_mount_beta_1.2_(Iconic-FAB.com).stl; 241084 bytes; SHA256 d78d6a89a5c3dc6d72e1cf5932567539f1571080014f2c83cb1cd9428280e37c
+File 7477232: X1CP1P style nozzle wiper MOD for Voron [Beta]_(Iconic-FAB.com).step; 494513 bytes; SHA256 3720e6d6f4f5d6856357aa62cdf70552be5fe27a91c57601d084521f59126b92

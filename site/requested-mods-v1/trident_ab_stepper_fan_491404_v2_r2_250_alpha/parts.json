@@ -1,0 +1,1396 @@
+{
+  "id": "trident_ab_stepper_fan_491404_v2_r2_250_alpha",
+  "parts": [
+    {
+      "key": "fan491404_250_B_holder",
+      "hand": "B",
+      "label": "holder",
+      "volume_mm3": 20906.657868890114,
+      "bounds_mm": [
+        [
+          -203.76814147888282,
+          158.58652800000004,
+          269.00001590000716
+        ],
+        [
+          -123.26814147888282,
+          202.58652800000004,
+          295.9999999000072
+        ]
+      ],
+      "name": "FOX V2 B handed holder with integral grille",
+      "appearance_role": "accent",
+      "material_role": "printed_accent",
+      "motion": "fixed",
+      "source_id": "trident_ab_stepper_fan_491404_v2_object_3",
+      "source_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/native-interface-probe-v1/triangles-native/trident_ab_stepper_fan_491404_v2_object_3.brep",
+        "bytes": 3288304,
+        "sha256": "8ed984cb9eeed86b69ce199617093213e70cee2c1b6fa685844a84ab8c142524"
+      },
+      "native_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/fan-v2-native-candidate-v3/parts/B_holder.brep",
+        "bytes": 3295739,
+        "sha256": "511bb2aeb8fb1a3a8b771b09f3b8863401b2f68bca905a32c52b339200b2e5df"
+      },
+      "source_author_hardware_bom": false,
+      "installed": true,
+      "local_mesh_anchor_mm": [
+        -163.51814147888282,
+        180.58652800000004,
+        282.5000079000072
+      ],
+      "original_print_source": {
+        "path": "output/requested-mods-96/trident-drive-mods/sources/printables-491404/AB Stepper Fan V2.3mf",
+        "bytes": 212093,
+        "sha256": "354e8f2959cfbbb86a6644e18addf98209510e1b3369fd44f75fc43e01e76eaa"
+      },
+      "source_object_id": "3",
+      "printed_derivative": false,
+      "source_pose_matrix_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          150.00030652111707
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -145.00000000000003
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          540.2908959000071
+        ]
+      ],
+      "assembled_350_native_to_host_translation_mm": [
+        50.000000000000085,
+        -49.999999999999915,
+        1.4210854715202004e-13
+      ],
+      "native_host_registration": "voron_trident_250",
+      "stock_replacement_keys": []
+    },
+    {
+      "key": "fan491404_250_B_fan",
+      "hand": "B",
+      "label": "fan",
+      "volume_mm3": 8403.813568690066,
+      "bounds_mm": [
+        [
+          -165.26816828536377,
+          160.5865191449985,
+          258.50001579999923
+        ],
+        [
+          -125.26816828536354,
+          200.58651914500055,
+          269.00001590000716
+        ]
+      ],
+      "name": "Voron original 4010 axial fan",
+      "appearance_role": null,
+      "material_role": "purchased_fan_black_polymer",
+      "motion": "fixed",
+      "source_id": "sb_revo_voron_15",
+      "source_file": {
+        "path": "output/modules/sb_revo_voron/sb_revo_voron_15.brep",
+        "bytes": 755278,
+        "sha256": "e21679eb79334594773fc062fb5bbf5032d383ac5a39c59bf20c5c133060be34"
+      },
+      "native_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/fan-v2-native-candidate-v3/parts/B_fan.brep",
+        "bytes": 755483,
+        "sha256": "bf358ff31674d5b0f6bb8192b63fd8adaa04dab253bf4b593be6e17ff0ec4857"
+      },
+      "source_author_hardware_bom": false,
+      "installed": true,
+      "local_mesh_anchor_mm": [
+        -145.26816828536366,
+        180.58651914499953,
+        263.75001585000314
+      ],
+      "assembled_350_native_to_host_translation_mm": [
+        50.000000000000085,
+        -49.999999999999915,
+        1.4210854715202004e-13
+      ],
+      "native_host_registration": "voron_trident_250",
+      "stock_replacement_keys": []
+    },
+    {
+      "key": "fan491404_250_B_frame_screw_0",
+      "hand": "B",
+      "label": "frame_screw_0",
+      "volume_mm3": 116.16435043322242,
+      "bounds_mm": [
+        [
+          -197.7497001453075,
+          178.58652790000002,
+          277.54089589963553
+        ],
+        [
+          -192.24970014530734,
+          189.5865280000001,
+          283.04089589963553
+        ]
+      ],
+      "name": "Voron original frame_screw_0",
+      "appearance_role": null,
+      "material_role": "purchased_steel_fixing",
+      "motion": "fixed",
+      "source_id": "trident_r2_gantry_350_20",
+      "source_file": {
+        "path": "output/modules/trident_r2_gantry_350/trident_r2_gantry_350_20.brep",
+        "bytes": 27300,
+        "sha256": "9b8980e9269c895943316fb838f4989641b131bdc4b6b8bd5a939e040098a18d"
+      },
+      "native_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/fan-v2-native-candidate-v3/parts/B_frame_screw_0.brep",
+        "bytes": 27506,
+        "sha256": "e6066369f8169ed8ef578e183aa34588bcd2b847fb8c7a821a3561d26e298326"
+      },
+      "source_author_hardware_bom": false,
+      "installed": true,
+      "local_mesh_anchor_mm": [
+        -194.9997001453074,
+        184.08652795000006,
+        280.29089589963553
+      ],
+      "assembled_350_native_to_host_translation_mm": [
+        50.000000000000085,
+        -49.999999999999915,
+        1.4210854715202004e-13
+      ],
+      "native_host_registration": "voron_trident_250",
+      "stock_replacement_keys": []
+    },
+    {
+      "key": "fan491404_250_B_frame_nut_0",
+      "hand": "B",
+      "label": "frame_nut_0",
+      "volume_mm3": 287.36701497709385,
+      "bounds_mm": [
+        [
+          -198.84970014530796,
+          186.7,
+          271.7908957996351
+        ],
+        [
+          -191.14970014530826,
+          191.0000001000007,
+          284.2908959996357
+        ]
+      ],
+      "name": "Voron original frame_nut_0",
+      "appearance_role": null,
+      "material_role": "purchased_steel_fixing",
+      "motion": "fixed",
+      "source_id": "voron_trident_350_base_1144",
+      "source_file": {
+        "path": "output/modules/voron_trident_350_base/voron_trident_350_base_1144.brep",
+        "bytes": 81974,
+        "sha256": "406e6a0cb2d0524aa41d56ce49895839fec35f2fecd441f280faaac8bcce3e5f"
+      },
+      "native_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/fan-v2-native-candidate-v3/parts/B_frame_nut_0.brep",
+        "bytes": 82181,
+        "sha256": "088a3536b0fbb485e36de65e8c7ce5a8a1eab0997fc0460294c6a804b91dc77d"
+      },
+      "source_author_hardware_bom": false,
+      "installed": true,
+      "local_mesh_anchor_mm": [
+        -194.9997001453081,
+        188.85000005000035,
+        278.0408958996354
+      ],
+      "assembled_350_native_to_host_translation_mm": [
+        50.000000000000085,
+        -49.999999999999915,
+        1.4210854715202004e-13
+      ],
+      "native_host_registration": "voron_trident_250",
+      "stock_replacement_keys": []
+    },
+    {
+      "key": "fan491404_250_B_frame_screw_1",
+      "hand": "B",
+      "label": "frame_screw_1",
+      "volume_mm3": 116.16435043322242,
+      "bounds_mm": [
+        [
+          -197.74970014529248,
+          178.58652790000002,
+          288.54089238763163
+        ],
+        [
+          -192.24970014529234,
+          189.5865280000001,
+          294.04089238763163
+        ]
+      ],
+      "name": "Voron original frame_screw_1",
+      "appearance_role": null,
+      "material_role": "purchased_steel_fixing",
+      "motion": "fixed",
+      "source_id": "trident_r2_gantry_350_20",
+      "source_file": {
+        "path": "output/modules/trident_r2_gantry_350/trident_r2_gantry_350_20.brep",
+        "bytes": 27300,
+        "sha256": "9b8980e9269c895943316fb838f4989641b131bdc4b6b8bd5a939e040098a18d"
+      },
+      "native_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/fan-v2-native-candidate-v3/parts/B_frame_screw_1.brep",
+        "bytes": 27506,
+        "sha256": "b50c5fd28c28ae59fe26d019d24447300c10991dd3d6eda88cf33d150e7ff729"
+      },
+      "source_author_hardware_bom": false,
+      "installed": true,
+      "local_mesh_anchor_mm": [
+        -194.9997001452924,
+        184.08652795000006,
+        291.29089238763163
+      ],
+      "assembled_350_native_to_host_translation_mm": [
+        50.000000000000085,
+        -49.999999999999915,
+        1.4210854715202004e-13
+      ],
+      "native_host_registration": "voron_trident_250",
+      "stock_replacement_keys": []
+    },
+    {
+      "key": "fan491404_250_B_frame_nut_1",
+      "hand": "B",
+      "label": "frame_nut_1",
+      "volume_mm3": 287.3670149770938,
+      "bounds_mm": [
+        [
+          -198.84970014529142,
+          186.7,
+          287.29089228763155
+        ],
+        [
+          -191.14970014529172,
+          191.0000001000007,
+          299.79089248763216
+        ]
+      ],
+      "name": "Voron original frame_nut_1",
+      "appearance_role": null,
+      "material_role": "purchased_steel_fixing",
+      "motion": "fixed",
+      "source_id": "voron_trident_350_base_1144",
+      "source_file": {
+        "path": "output/modules/voron_trident_350_base/voron_trident_350_base_1144.brep",
+        "bytes": 81974,
+        "sha256": "406e6a0cb2d0524aa41d56ce49895839fec35f2fecd441f280faaac8bcce3e5f"
+      },
+      "native_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/fan-v2-native-candidate-v3/parts/B_frame_nut_1.brep",
+        "bytes": 82178,
+        "sha256": "8d99eb684112e32c459ef2ef81a6ca1b6d5a6342ab7f1e6572456850f48ff8b2"
+      },
+      "source_author_hardware_bom": false,
+      "installed": true,
+      "local_mesh_anchor_mm": [
+        -194.99970014529157,
+        188.85000005000035,
+        293.54089238763186
+      ],
+      "assembled_350_native_to_host_translation_mm": [
+        50.000000000000085,
+        -49.999999999999915,
+        1.4210854715202004e-13
+      ],
+      "native_host_registration": "voron_trident_250",
+      "stock_replacement_keys": []
+    },
+    {
+      "key": "fan491404_250_B_fan_screw_0",
+      "hand": "B",
+      "label": "fan_screw_0",
+      "volume_mm3": 172.42601170881258,
+      "bounds_mm": [
+        [
+          -164.01816828538037,
+          193.8365191449777,
+          255.50001569999836
+        ],
+        [
+          -158.51816828538037,
+          199.3365191449777,
+          274.5000157999983
+        ]
+      ],
+      "name": "Voron original fan_screw_0",
+      "appearance_role": null,
+      "material_role": "purchased_steel_fixing",
+      "motion": "fixed",
+      "source_id": "voron_trident_350_base_743",
+      "source_file": {
+        "path": "output/modules/voron_trident_350_base/voron_trident_350_base_743.brep",
+        "bytes": 24220,
+        "sha256": "2b093803f00da3744bd61c33bc9a5a1c5ac47fbdd64ae6942e344aa59454a040"
+      },
+      "native_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/fan-v2-native-candidate-v3/parts/B_fan_screw_0.brep",
+        "bytes": 24424,
+        "sha256": "4df6ca716380363c64407d4536f8a2d75d2f93bf1ee6cd2eb984d80fbd1583b0"
+      },
+      "source_author_hardware_bom": false,
+      "installed": true,
+      "local_mesh_anchor_mm": [
+        -161.26816828538037,
+        196.5865191449777,
+        265.0000157499984
+      ],
+      "assembled_350_native_to_host_translation_mm": [
+        50.000000000000085,
+        -49.999999999999915,
+        1.4210854715202004e-13
+      ],
+      "native_host_registration": "voron_trident_250",
+      "stock_replacement_keys": []
+    },
+    {
+      "key": "fan491404_250_B_fan_insert_0",
+      "hand": "B",
+      "label": "fan_insert_0",
+      "volume_mm3": 38.43016185688906,
+      "bounds_mm": [
+        [
+          -163.76816650212757,
+          194.08647177730998,
+          269.50001590000716
+        ],
+        [
+          -158.76815013031086,
+          199.08651924454816,
+          273.350112331367
+        ]
+      ],
+      "name": "Voron original fan_insert_0",
+      "appearance_role": null,
+      "material_role": "purchased_brass_insert",
+      "motion": "fixed",
+      "source_id": "trident_r2_gantry_350_3",
+      "source_file": {
+        "path": "output/modules/trident_r2_gantry_350/trident_r2_gantry_350_3.brep",
+        "bytes": 510763,
+        "sha256": "36b38fbc195807bac87c9f4bd059c27526eb17e59f238373b8150b73cb49ae8f"
+      },
+      "native_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/fan-v2-native-candidate-v3/parts/B_fan_insert_0.brep",
+        "bytes": 508217,
+        "sha256": "ff00043ca66e098e3cfc79edd3a9f62affb26687cb67116dfb37113d96f851f0"
+      },
+      "source_author_hardware_bom": false,
+      "installed": true,
+      "local_mesh_anchor_mm": [
+        -161.2681583162192,
+        196.58649551092907,
+        271.42506411568706
+      ],
+      "assembled_350_native_to_host_translation_mm": [
+        50.000000000000085,
+        -49.999999999999915,
+        1.4210854715202004e-13
+      ],
+      "native_host_registration": "voron_trident_250",
+      "stock_replacement_keys": []
+    },
+    {
+      "key": "fan491404_250_B_fan_screw_1",
+      "hand": "B",
+      "label": "fan_screw_1",
+      "volume_mm3": 172.4260117088126,
+      "bounds_mm": [
+        [
+          -164.01816828536286,
+          161.83651914502295,
+          255.50001569999836
+        ],
+        [
+          -158.51816828536286,
+          167.33651914502295,
+          274.5000157999983
+        ]
+      ],
+      "name": "Voron original fan_screw_1",
+      "appearance_role": null,
+      "material_role": "purchased_steel_fixing",
+      "motion": "fixed",
+      "source_id": "voron_trident_350_base_743",
+      "source_file": {
+        "path": "output/modules/voron_trident_350_base/voron_trident_350_base_743.brep",
+        "bytes": 24220,
+        "sha256": "2b093803f00da3744bd61c33bc9a5a1c5ac47fbdd64ae6942e344aa59454a040"
+      },
+      "native_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/fan-v2-native-candidate-v3/parts/B_fan_screw_1.brep",
+        "bytes": 24425,
+        "sha256": "b6bf55d528a91501d80d1dc8710cff299044a8639ca5f8467bf1fac8313ff0d4"
+      },
+      "source_author_hardware_bom": false,
+      "installed": true,
+      "local_mesh_anchor_mm": [
+        -161.26816828536286,
+        164.58651914502295,
+        265.0000157499984
+      ],
+      "assembled_350_native_to_host_translation_mm": [
+        50.000000000000085,
+        -49.999999999999915,
+        1.4210854715202004e-13
+      ],
+      "native_host_registration": "voron_trident_250",
+      "stock_replacement_keys": []
+    },
+    {
+      "key": "fan491404_250_B_fan_insert_1",
+      "hand": "B",
+      "label": "fan_insert_1",
+      "volume_mm3": 38.430161856825904,
+      "bounds_mm": [
+        [
+          -163.76816650211003,
+          162.08647177735529,
+          269.50001590000727
+        ],
+        [
+          -158.76815013029338,
+          167.08651924459346,
+          273.35011233136686
+        ]
+      ],
+      "name": "Voron original fan_insert_1",
+      "appearance_role": null,
+      "material_role": "purchased_brass_insert",
+      "motion": "fixed",
+      "source_id": "trident_r2_gantry_350_3",
+      "source_file": {
+        "path": "output/modules/trident_r2_gantry_350/trident_r2_gantry_350_3.brep",
+        "bytes": 510763,
+        "sha256": "36b38fbc195807bac87c9f4bd059c27526eb17e59f238373b8150b73cb49ae8f"
+      },
+      "native_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/fan-v2-native-candidate-v3/parts/B_fan_insert_1.brep",
+        "bytes": 508210,
+        "sha256": "838a922116900c44bfdf488187c062e719de3a116557d20db040602f348fc7be"
+      },
+      "source_author_hardware_bom": false,
+      "installed": true,
+      "local_mesh_anchor_mm": [
+        -161.2681583162017,
+        164.58649551097437,
+        271.42506411568706
+      ],
+      "assembled_350_native_to_host_translation_mm": [
+        50.000000000000085,
+        -49.999999999999915,
+        1.4210854715202004e-13
+      ],
+      "native_host_registration": "voron_trident_250",
+      "stock_replacement_keys": []
+    },
+    {
+      "key": "fan491404_250_B_fan_screw_2",
+      "hand": "B",
+      "label": "fan_screw_2",
+      "volume_mm3": 172.42601170881258,
+      "bounds_mm": [
+        [
+          -132.01816828534376,
+          161.83651914501795,
+          255.50001569999836
+        ],
+        [
+          -126.51816828534376,
+          167.33651914501795,
+          274.5000157999983
+        ]
+      ],
+      "name": "Voron original fan_screw_2",
+      "appearance_role": null,
+      "material_role": "purchased_steel_fixing",
+      "motion": "fixed",
+      "source_id": "voron_trident_350_base_743",
+      "source_file": {
+        "path": "output/modules/voron_trident_350_base/voron_trident_350_base_743.brep",
+        "bytes": 24220,
+        "sha256": "2b093803f00da3744bd61c33bc9a5a1c5ac47fbdd64ae6942e344aa59454a040"
+      },
+      "native_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/fan-v2-native-candidate-v3/parts/B_fan_screw_2.brep",
+        "bytes": 24425,
+        "sha256": "ac565ccf5298463c6f6ffd137ca62f7285db66526a5a47b589d423f927c8fb18"
+      },
+      "source_author_hardware_bom": false,
+      "installed": true,
+      "local_mesh_anchor_mm": [
+        -129.26816828534376,
+        164.58651914501795,
+        265.0000157499984
+      ],
+      "assembled_350_native_to_host_translation_mm": [
+        50.000000000000085,
+        -49.999999999999915,
+        1.4210854715202004e-13
+      ],
+      "native_host_registration": "voron_trident_250",
+      "stock_replacement_keys": []
+    },
+    {
+      "key": "fan491404_250_B_fan_insert_2",
+      "hand": "B",
+      "label": "fan_insert_2",
+      "volume_mm3": 38.430161856838865,
+      "bounds_mm": [
+        [
+          -131.76816650209093,
+          162.0864717773502,
+          269.50001590000727
+        ],
+        [
+          -126.76815013027428,
+          167.08651924458837,
+          273.350112331367
+        ]
+      ],
+      "name": "Voron original fan_insert_2",
+      "appearance_role": null,
+      "material_role": "purchased_brass_insert",
+      "motion": "fixed",
+      "source_id": "trident_r2_gantry_350_3",
+      "source_file": {
+        "path": "output/modules/trident_r2_gantry_350/trident_r2_gantry_350_3.brep",
+        "bytes": 510763,
+        "sha256": "36b38fbc195807bac87c9f4bd059c27526eb17e59f238373b8150b73cb49ae8f"
+      },
+      "native_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/fan-v2-native-candidate-v3/parts/B_fan_insert_2.brep",
+        "bytes": 508204,
+        "sha256": "b4ab8ddc54c101cbe6059d58aeaca2f2eb3cb0c26ec5562ac7dbd3484dc6fddd"
+      },
+      "source_author_hardware_bom": false,
+      "installed": true,
+      "local_mesh_anchor_mm": [
+        -129.2681583161826,
+        164.58649551096929,
+        271.42506411568706
+      ],
+      "assembled_350_native_to_host_translation_mm": [
+        50.000000000000085,
+        -49.999999999999915,
+        1.4210854715202004e-13
+      ],
+      "native_host_registration": "voron_trident_250",
+      "stock_replacement_keys": []
+    },
+    {
+      "key": "fan491404_250_B_fan_screw_3",
+      "hand": "B",
+      "label": "fan_screw_3",
+      "volume_mm3": 172.42601170881255,
+      "bounds_mm": [
+        [
+          -132.0181682853677,
+          193.8365191449793,
+          255.50001569999836
+        ],
+        [
+          -126.5181682853677,
+          199.3365191449793,
+          274.5000157999983
+        ]
+      ],
+      "name": "Voron original fan_screw_3",
+      "appearance_role": null,
+      "material_role": "purchased_steel_fixing",
+      "motion": "fixed",
+      "source_id": "voron_trident_350_base_743",
+      "source_file": {
+        "path": "output/modules/voron_trident_350_base/voron_trident_350_base_743.brep",
+        "bytes": 24220,
+        "sha256": "2b093803f00da3744bd61c33bc9a5a1c5ac47fbdd64ae6942e344aa59454a040"
+      },
+      "native_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/fan-v2-native-candidate-v3/parts/B_fan_screw_3.brep",
+        "bytes": 24425,
+        "sha256": "f8b94adffc915bc513709c53d4d710a498886466eae92672a12cd0cd5b33f3bb"
+      },
+      "source_author_hardware_bom": false,
+      "installed": true,
+      "local_mesh_anchor_mm": [
+        -129.2681682853677,
+        196.5865191449793,
+        265.0000157499984
+      ],
+      "assembled_350_native_to_host_translation_mm": [
+        50.000000000000085,
+        -49.999999999999915,
+        1.4210854715202004e-13
+      ],
+      "native_host_registration": "voron_trident_250",
+      "stock_replacement_keys": []
+    },
+    {
+      "key": "fan491404_250_B_fan_insert_3",
+      "hand": "B",
+      "label": "fan_insert_3",
+      "volume_mm3": 38.430161856867976,
+      "bounds_mm": [
+        [
+          -131.7681665021149,
+          194.08647177731157,
+          269.50001590000727
+        ],
+        [
+          -126.76815013029821,
+          199.08651924454975,
+          273.350112331367
+        ]
+      ],
+      "name": "Voron original fan_insert_3",
+      "appearance_role": null,
+      "material_role": "purchased_brass_insert",
+      "motion": "fixed",
+      "source_id": "trident_r2_gantry_350_3",
+      "source_file": {
+        "path": "output/modules/trident_r2_gantry_350/trident_r2_gantry_350_3.brep",
+        "bytes": 510763,
+        "sha256": "36b38fbc195807bac87c9f4bd059c27526eb17e59f238373b8150b73cb49ae8f"
+      },
+      "native_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/fan-v2-native-candidate-v3/parts/B_fan_insert_3.brep",
+        "bytes": 508198,
+        "sha256": "2282570fb78dc4160dc15d35c7263365d49b10aa1f462efa74ebe8d5c3414f9b"
+      },
+      "source_author_hardware_bom": false,
+      "installed": true,
+      "local_mesh_anchor_mm": [
+        -129.26815831620655,
+        196.58649551093066,
+        271.42506411568706
+      ],
+      "assembled_350_native_to_host_translation_mm": [
+        50.000000000000085,
+        -49.999999999999915,
+        1.4210854715202004e-13
+      ],
+      "native_host_registration": "voron_trident_250",
+      "stock_replacement_keys": []
+    },
+    {
+      "key": "fan491404_250_A_holder",
+      "hand": "A",
+      "label": "holder",
+      "volume_mm3": 20905.01633809096,
+      "bounds_mm": [
+        [
+          123.26850133288275,
+          158.58622814527595,
+          269.000015900007
+        ],
+        [
+          203.76846933288274,
+          202.58622814527595,
+          295.999999900007
+        ]
+      ],
+      "name": "FOX V2 A handed holder with integral grille",
+      "appearance_role": "accent",
+      "material_role": "printed_accent",
+      "motion": "fixed",
+      "source_id": "trident_ab_stepper_fan_491404_v2_object_1",
+      "source_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/native-interface-probe-v1/triangles-native/trident_ab_stepper_fan_491404_v2_object_1.brep",
+        "bytes": 3288086,
+        "sha256": "5ccca892c58152c376306b5f04f11b509c731b86a6d9de6da3369a6968fca06f"
+      },
+      "native_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/fan-v2-native-candidate-v3/parts/A_holder.brep",
+        "bytes": 3306050,
+        "sha256": "3410826dcca6389eb4d97a166d0273d2c695bc49889d9e823bf94b4f24597bd2"
+      },
+      "source_author_hardware_bom": false,
+      "installed": true,
+      "local_mesh_anchor_mm": [
+        163.51848533288273,
+        180.58622814527595,
+        282.500007900007
+      ],
+      "original_print_source": {
+        "path": "output/requested-mods-96/trident-drive-mods/sources/printables-491404/AB Stepper Fan V2.3mf",
+        "bytes": 212093,
+        "sha256": "354e8f2959cfbbb86a6644e18addf98209510e1b3369fd44f75fc43e01e76eaa"
+      },
+      "source_object_id": "1",
+      "printed_derivative": true,
+      "source_pose_matrix_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          490.5369493328827
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -145.00029985472403
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          540.290895900007
+        ]
+      ],
+      "assembled_350_native_to_host_translation_mm": [
+        -50.0,
+        -50.0,
+        5.684341886080802e-14
+      ],
+      "native_host_registration": "voron_trident_250",
+      "stock_replacement_keys": []
+    },
+    {
+      "key": "fan491404_250_A_fan",
+      "hand": "A",
+      "label": "fan",
+      "volume_mm3": 8403.813568690066,
+      "bounds_mm": [
+        [
+          125.26846769527185,
+          160.58621929027015,
+          258.500015799999
+        ],
+        [
+          165.26846769527208,
+          200.5862192902722,
+          269.000015900007
+        ]
+      ],
+      "name": "Voron original 4010 axial fan",
+      "appearance_role": null,
+      "material_role": "purchased_fan_black_polymer",
+      "motion": "fixed",
+      "source_id": "sb_revo_voron_15",
+      "source_file": {
+        "path": "output/modules/sb_revo_voron/sb_revo_voron_15.brep",
+        "bytes": 755278,
+        "sha256": "e21679eb79334594773fc062fb5bbf5032d383ac5a39c59bf20c5c133060be34"
+      },
+      "native_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/fan-v2-native-candidate-v3/parts/A_fan.brep",
+        "bytes": 755482,
+        "sha256": "5ee0dcf4bca0b566110c8c224803cfc44c95e0fc642b8f669132e53fa6c7ee32"
+      },
+      "source_author_hardware_bom": false,
+      "installed": true,
+      "local_mesh_anchor_mm": [
+        145.26846769527197,
+        180.58621929027117,
+        263.75001585000297
+      ],
+      "assembled_350_native_to_host_translation_mm": [
+        -50.0,
+        -50.0,
+        5.684341886080802e-14
+      ],
+      "native_host_registration": "voron_trident_250",
+      "stock_replacement_keys": []
+    },
+    {
+      "key": "fan491404_250_A_frame_screw_0",
+      "hand": "A",
+      "label": "frame_screw_0",
+      "volume_mm3": 116.16435043322245,
+      "bounds_mm": [
+        [
+          192.25000000000287,
+          178.58622804527587,
+          277.5408958995633
+        ],
+        [
+          197.750000000003,
+          189.58622814527595,
+          283.0408958995633
+        ]
+      ],
+      "name": "Voron original frame_screw_0",
+      "appearance_role": null,
+      "material_role": "purchased_steel_fixing",
+      "motion": "fixed",
+      "source_id": "trident_r2_gantry_350_20",
+      "source_file": {
+        "path": "output/modules/trident_r2_gantry_350/trident_r2_gantry_350_20.brep",
+        "bytes": 27300,
+        "sha256": "9b8980e9269c895943316fb838f4989641b131bdc4b6b8bd5a939e040098a18d"
+      },
+      "native_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/fan-v2-native-candidate-v3/parts/A_frame_screw_0.brep",
+        "bytes": 27505,
+        "sha256": "91ba91000909a788df0c97fa0c2e0b64902080e7f5bff237568d6c3d29c24080"
+      },
+      "source_author_hardware_bom": false,
+      "installed": true,
+      "local_mesh_anchor_mm": [
+        195.00000000000296,
+        184.0862280952759,
+        280.2908958995633
+      ],
+      "assembled_350_native_to_host_translation_mm": [
+        -50.0,
+        -50.0,
+        5.684341886080802e-14
+      ],
+      "native_host_registration": "voron_trident_250",
+      "stock_replacement_keys": []
+    },
+    {
+      "key": "fan491404_250_A_frame_nut_0",
+      "hand": "A",
+      "label": "frame_nut_0",
+      "volume_mm3": 287.3670149770938,
+      "bounds_mm": [
+        [
+          191.1500000000024,
+          186.69970014527584,
+          271.79089579956286
+        ],
+        [
+          198.8500000000021,
+          190.99970024527656,
+          284.2908959995635
+        ]
+      ],
+      "name": "Voron original frame_nut_0",
+      "appearance_role": null,
+      "material_role": "purchased_steel_fixing",
+      "motion": "fixed",
+      "source_id": "voron_trident_350_base_1144",
+      "source_file": {
+        "path": "output/modules/voron_trident_350_base/voron_trident_350_base_1144.brep",
+        "bytes": 81974,
+        "sha256": "406e6a0cb2d0524aa41d56ce49895839fec35f2fecd441f280faaac8bcce3e5f"
+      },
+      "native_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/fan-v2-native-candidate-v3/parts/A_frame_nut_0.brep",
+        "bytes": 82178,
+        "sha256": "58182fd788e7da67c6248fbb0b00a8ef1bd2bd3724bf95e2ba8a1119d517e439"
+      },
+      "source_author_hardware_bom": false,
+      "installed": true,
+      "local_mesh_anchor_mm": [
+        195.00000000000225,
+        188.8497001952762,
+        278.04089589956317
+      ],
+      "assembled_350_native_to_host_translation_mm": [
+        -50.0,
+        -50.0,
+        5.684341886080802e-14
+      ],
+      "native_host_registration": "voron_trident_250",
+      "stock_replacement_keys": []
+    },
+    {
+      "key": "fan491404_250_A_frame_screw_1",
+      "hand": "A",
+      "label": "frame_screw_1",
+      "volume_mm3": 116.16435043322245,
+      "bounds_mm": [
+        [
+          192.25000000005795,
+          178.58622804527587,
+          288.54089238754653
+        ],
+        [
+          197.7500000000581,
+          189.58622814527595,
+          294.04089238754653
+        ]
+      ],
+      "name": "Voron original frame_screw_1",
+      "appearance_role": null,
+      "material_role": "purchased_steel_fixing",
+      "motion": "fixed",
+      "source_id": "trident_r2_gantry_350_20",
+      "source_file": {
+        "path": "output/modules/trident_r2_gantry_350/trident_r2_gantry_350_20.brep",
+        "bytes": 27300,
+        "sha256": "9b8980e9269c895943316fb838f4989641b131bdc4b6b8bd5a939e040098a18d"
+      },
+      "native_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/fan-v2-native-candidate-v3/parts/A_frame_screw_1.brep",
+        "bytes": 27504,
+        "sha256": "975849a781782fb1c395b431a55e079d4851a65905d544184591097d44733a3d"
+      },
+      "source_author_hardware_bom": false,
+      "installed": true,
+      "local_mesh_anchor_mm": [
+        195.00000000005804,
+        184.0862280952759,
+        291.29089238754653
+      ],
+      "assembled_350_native_to_host_translation_mm": [
+        -50.0,
+        -50.0,
+        5.684341886080802e-14
+      ],
+      "native_host_registration": "voron_trident_250",
+      "stock_replacement_keys": []
+    },
+    {
+      "key": "fan491404_250_A_frame_nut_1",
+      "hand": "A",
+      "label": "frame_nut_1",
+      "volume_mm3": 287.36701497709373,
+      "bounds_mm": [
+        [
+          191.150000000059,
+          186.69970014527584,
+          287.2908922875464
+        ],
+        [
+          198.8500000000587,
+          190.99970024527656,
+          299.790892487547
+        ]
+      ],
+      "name": "Voron original frame_nut_1",
+      "appearance_role": null,
+      "material_role": "purchased_steel_fixing",
+      "motion": "fixed",
+      "source_id": "voron_trident_350_base_1144",
+      "source_file": {
+        "path": "output/modules/voron_trident_350_base/voron_trident_350_base_1144.brep",
+        "bytes": 81974,
+        "sha256": "406e6a0cb2d0524aa41d56ce49895839fec35f2fecd441f280faaac8bcce3e5f"
+      },
+      "native_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/fan-v2-native-candidate-v3/parts/A_frame_nut_1.brep",
+        "bytes": 82183,
+        "sha256": "ca2f37afaa94e599dc8a2e090361de35093718cbdbc29b9971fe43b13f33a32d"
+      },
+      "source_author_hardware_bom": false,
+      "installed": true,
+      "local_mesh_anchor_mm": [
+        195.00000000005886,
+        188.8497001952762,
+        293.5408923875467
+      ],
+      "assembled_350_native_to_host_translation_mm": [
+        -50.0,
+        -50.0,
+        5.684341886080802e-14
+      ],
+      "native_host_registration": "voron_trident_250",
+      "stock_replacement_keys": []
+    },
+    {
+      "key": "fan491404_250_A_fan_screw_0",
+      "hand": "A",
+      "label": "fan_screw_0",
+      "volume_mm3": 172.4260117088126,
+      "bounds_mm": [
+        [
+          126.51846769528751,
+          161.83621929029425,
+          255.50001569999816
+        ],
+        [
+          132.0184676952875,
+          167.33621929029425,
+          274.50001579999815
+        ]
+      ],
+      "name": "Voron original fan_screw_0",
+      "appearance_role": null,
+      "material_role": "purchased_steel_fixing",
+      "motion": "fixed",
+      "source_id": "voron_trident_350_base_743",
+      "source_file": {
+        "path": "output/modules/voron_trident_350_base/voron_trident_350_base_743.brep",
+        "bytes": 24220,
+        "sha256": "2b093803f00da3744bd61c33bc9a5a1c5ac47fbdd64ae6942e344aa59454a040"
+      },
+      "native_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/fan-v2-native-candidate-v3/parts/A_fan_screw_0.brep",
+        "bytes": 24424,
+        "sha256": "b7182a713c2f30706d5e3195559fdcc6208bc11c1a5eca3624ce220debb7945f"
+      },
+      "source_author_hardware_bom": false,
+      "installed": true,
+      "local_mesh_anchor_mm": [
+        129.2684676952875,
+        164.58621929029425,
+        265.00001574999817
+      ],
+      "assembled_350_native_to_host_translation_mm": [
+        -50.0,
+        -50.0,
+        5.684341886080802e-14
+      ],
+      "native_host_registration": "voron_trident_250",
+      "stock_replacement_keys": []
+    },
+    {
+      "key": "fan491404_250_A_fan_insert_0",
+      "hand": "A",
+      "label": "fan_insert_0",
+      "volume_mm3": 38.430161856839874,
+      "bounds_mm": [
+        [
+          126.76846947854014,
+          162.08617192262653,
+          269.50001590000704
+        ],
+        [
+          131.76848585035683,
+          167.0862193898647,
+          273.35011233136674
+        ]
+      ],
+      "name": "Voron original fan_insert_0",
+      "appearance_role": null,
+      "material_role": "purchased_brass_insert",
+      "motion": "fixed",
+      "source_id": "trident_r2_gantry_350_3",
+      "source_file": {
+        "path": "output/modules/trident_r2_gantry_350/trident_r2_gantry_350_3.brep",
+        "bytes": 510763,
+        "sha256": "36b38fbc195807bac87c9f4bd059c27526eb17e59f238373b8150b73cb49ae8f"
+      },
+      "native_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/fan-v2-native-candidate-v3/parts/A_fan_insert_0.brep",
+        "bytes": 508084,
+        "sha256": "116e84638fb03dea22e399d1ce6e4ff73d5177954927e61318ef18f42eed94b3"
+      },
+      "source_author_hardware_bom": false,
+      "installed": true,
+      "local_mesh_anchor_mm": [
+        129.26847766444848,
+        164.58619565624562,
+        271.4250641156869
+      ],
+      "assembled_350_native_to_host_translation_mm": [
+        -50.0,
+        -50.0,
+        5.684341886080802e-14
+      ],
+      "native_host_registration": "voron_trident_250",
+      "stock_replacement_keys": []
+    },
+    {
+      "key": "fan491404_250_A_fan_screw_1",
+      "hand": "A",
+      "label": "fan_screw_1",
+      "volume_mm3": 172.4260117088126,
+      "bounds_mm": [
+        [
+          158.51846769529797,
+          161.83621929028573,
+          255.50001569999816
+        ],
+        [
+          164.01846769529797,
+          167.33621929028573,
+          274.50001579999815
+        ]
+      ],
+      "name": "Voron original fan_screw_1",
+      "appearance_role": null,
+      "material_role": "purchased_steel_fixing",
+      "motion": "fixed",
+      "source_id": "voron_trident_350_base_743",
+      "source_file": {
+        "path": "output/modules/voron_trident_350_base/voron_trident_350_base_743.brep",
+        "bytes": 24220,
+        "sha256": "2b093803f00da3744bd61c33bc9a5a1c5ac47fbdd64ae6942e344aa59454a040"
+      },
+      "native_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/fan-v2-native-candidate-v3/parts/A_fan_screw_1.brep",
+        "bytes": 24424,
+        "sha256": "64e1dfac27aa891e02d43d3703d0d9d68c09bc9c002e3f2bf93c57beb94e754a"
+      },
+      "source_author_hardware_bom": false,
+      "installed": true,
+      "local_mesh_anchor_mm": [
+        161.26846769529797,
+        164.58621929028573,
+        265.00001574999817
+      ],
+      "assembled_350_native_to_host_translation_mm": [
+        -50.0,
+        -50.0,
+        5.684341886080802e-14
+      ],
+      "native_host_registration": "voron_trident_250",
+      "stock_replacement_keys": []
+    },
+    {
+      "key": "fan491404_250_A_fan_insert_1",
+      "hand": "A",
+      "label": "fan_insert_1",
+      "volume_mm3": 38.43016185688968,
+      "bounds_mm": [
+        [
+          158.7684694785507,
+          162.08617192261804,
+          269.500015900007
+        ],
+        [
+          163.76848585036728,
+          167.0862193898562,
+          273.3501123313667
+        ]
+      ],
+      "name": "Voron original fan_insert_1",
+      "appearance_role": null,
+      "material_role": "purchased_brass_insert",
+      "motion": "fixed",
+      "source_id": "trident_r2_gantry_350_3",
+      "source_file": {
+        "path": "output/modules/trident_r2_gantry_350/trident_r2_gantry_350_3.brep",
+        "bytes": 510763,
+        "sha256": "36b38fbc195807bac87c9f4bd059c27526eb17e59f238373b8150b73cb49ae8f"
+      },
+      "native_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/fan-v2-native-candidate-v3/parts/A_fan_insert_1.brep",
+        "bytes": 508058,
+        "sha256": "395aff9ced4ffe8f76e27275c3d145fde66982ff3584434b97979930625a1aab"
+      },
+      "source_author_hardware_bom": false,
+      "installed": true,
+      "local_mesh_anchor_mm": [
+        161.268477664459,
+        164.58619565623712,
+        271.42506411568684
+      ],
+      "assembled_350_native_to_host_translation_mm": [
+        -50.0,
+        -50.0,
+        5.684341886080802e-14
+      ],
+      "native_host_registration": "voron_trident_250",
+      "stock_replacement_keys": []
+    },
+    {
+      "key": "fan491404_250_A_fan_screw_2",
+      "hand": "A",
+      "label": "fan_screw_2",
+      "volume_mm3": 172.42601170881264,
+      "bounds_mm": [
+        [
+          126.51846769524886,
+          193.83621929025196,
+          255.50001569999816
+        ],
+        [
+          132.01846769524886,
+          199.33621929025196,
+          274.50001579999815
+        ]
+      ],
+      "name": "Voron original fan_screw_2",
+      "appearance_role": null,
+      "material_role": "purchased_steel_fixing",
+      "motion": "fixed",
+      "source_id": "voron_trident_350_base_743",
+      "source_file": {
+        "path": "output/modules/voron_trident_350_base/voron_trident_350_base_743.brep",
+        "bytes": 24220,
+        "sha256": "2b093803f00da3744bd61c33bc9a5a1c5ac47fbdd64ae6942e344aa59454a040"
+      },
+      "native_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/fan-v2-native-candidate-v3/parts/A_fan_screw_2.brep",
+        "bytes": 24424,
+        "sha256": "92f787c91b5405208f672fbfcb6e8d2608743f0eeacb1b757d7a9c9f6db4fa5d"
+      },
+      "source_author_hardware_bom": false,
+      "installed": true,
+      "local_mesh_anchor_mm": [
+        129.26846769524886,
+        196.58621929025196,
+        265.00001574999817
+      ],
+      "assembled_350_native_to_host_translation_mm": [
+        -50.0,
+        -50.0,
+        5.684341886080802e-14
+      ],
+      "native_host_registration": "voron_trident_250",
+      "stock_replacement_keys": []
+    },
+    {
+      "key": "fan491404_250_A_fan_insert_2",
+      "hand": "A",
+      "label": "fan_insert_2",
+      "volume_mm3": 38.430161856916996,
+      "bounds_mm": [
+        [
+          126.76846947850149,
+          194.08617192258433,
+          269.50001590000704
+        ],
+        [
+          131.76848585031817,
+          199.0862193898225,
+          273.35011233136674
+        ]
+      ],
+      "name": "Voron original fan_insert_2",
+      "appearance_role": null,
+      "material_role": "purchased_brass_insert",
+      "motion": "fixed",
+      "source_id": "trident_r2_gantry_350_3",
+      "source_file": {
+        "path": "output/modules/trident_r2_gantry_350/trident_r2_gantry_350_3.brep",
+        "bytes": 510763,
+        "sha256": "36b38fbc195807bac87c9f4bd059c27526eb17e59f238373b8150b73cb49ae8f"
+      },
+      "native_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/fan-v2-native-candidate-v3/parts/A_fan_insert_2.brep",
+        "bytes": 508047,
+        "sha256": "2aa086b3c7582b0373ae8b92bd62d811c3f2faaa1741672ddd48d9261106e35f"
+      },
+      "source_author_hardware_bom": false,
+      "installed": true,
+      "local_mesh_anchor_mm": [
+        129.26847766440983,
+        196.58619565620342,
+        271.4250641156869
+      ],
+      "assembled_350_native_to_host_translation_mm": [
+        -50.0,
+        -50.0,
+        5.684341886080802e-14
+      ],
+      "native_host_registration": "voron_trident_250",
+      "stock_replacement_keys": []
+    },
+    {
+      "key": "fan491404_250_A_fan_screw_3",
+      "hand": "A",
+      "label": "fan_screw_3",
+      "volume_mm3": 172.4260117088126,
+      "bounds_mm": [
+        [
+          158.51846769525375,
+          193.83621929025253,
+          255.50001569999816
+        ],
+        [
+          164.01846769525375,
+          199.33621929025253,
+          274.50001579999815
+        ]
+      ],
+      "name": "Voron original fan_screw_3",
+      "appearance_role": null,
+      "material_role": "purchased_steel_fixing",
+      "motion": "fixed",
+      "source_id": "voron_trident_350_base_743",
+      "source_file": {
+        "path": "output/modules/voron_trident_350_base/voron_trident_350_base_743.brep",
+        "bytes": 24220,
+        "sha256": "2b093803f00da3744bd61c33bc9a5a1c5ac47fbdd64ae6942e344aa59454a040"
+      },
+      "native_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/fan-v2-native-candidate-v3/parts/A_fan_screw_3.brep",
+        "bytes": 24424,
+        "sha256": "25b407d6026f65d35de5203094f026cfb9ce632683f70161d6f7d46f61314fbe"
+      },
+      "source_author_hardware_bom": false,
+      "installed": true,
+      "local_mesh_anchor_mm": [
+        161.26846769525375,
+        196.58621929025253,
+        265.00001574999817
+      ],
+      "assembled_350_native_to_host_translation_mm": [
+        -50.0,
+        -50.0,
+        5.684341886080802e-14
+      ],
+      "native_host_registration": "voron_trident_250",
+      "stock_replacement_keys": []
+    },
+    {
+      "key": "fan491404_250_A_fan_insert_3",
+      "hand": "A",
+      "label": "fan_insert_3",
+      "volume_mm3": 38.430161857031905,
+      "bounds_mm": [
+        [
+          158.7684694785065,
+          194.08617192258487,
+          269.500015900007
+        ],
+        [
+          163.76848585032317,
+          199.08621938982304,
+          273.35011233136674
+        ]
+      ],
+      "name": "Voron original fan_insert_3",
+      "appearance_role": null,
+      "material_role": "purchased_brass_insert",
+      "motion": "fixed",
+      "source_id": "trident_r2_gantry_350_3",
+      "source_file": {
+        "path": "output/modules/trident_r2_gantry_350/trident_r2_gantry_350_3.brep",
+        "bytes": 510763,
+        "sha256": "36b38fbc195807bac87c9f4bd059c27526eb17e59f238373b8150b73cb49ae8f"
+      },
+      "native_file": {
+        "path": "output/requested-mods-96/trident-drive-mods/fan-v2-native-candidate-v3/parts/A_fan_insert_3.brep",
+        "bytes": 507899,
+        "sha256": "2b23e553e113aa62ca6db69f7a2555cbd3dcdf2ffe8890703db3d475673af1ca"
+      },
+      "source_author_hardware_bom": false,
+      "installed": true,
+      "local_mesh_anchor_mm": [
+        161.26847766441483,
+        196.58619565620396,
+        271.4250641156869
+      ],
+      "assembled_350_native_to_host_translation_mm": [
+        -50.0,
+        -50.0,
+        5.684341886080802e-14
+      ],
+      "native_host_registration": "voron_trident_250",
+      "stock_replacement_keys": []
+    }
+  ],
+  "notices": [
+    "FOX AB Stepper Fan V2 contains two handed holder objects, each with an integral grille: object 1 → A, object 3 → B.",
+    "Hardware selected from original Voron CAD: two 4010 axial fans, four M3x8 screws and M3 frame nuts, eight M3x16 screws and eight M3 heat-set inserts. FOX supplies no purchased-hardware BOM.",
+    "A holder has a measured frame-corner relief: 0.483828 mm³ removed (0.002314%); original mounting axes, fan seats and integral grille preserved. Purchased parts unchanged.",
+    "Alpha preview: static geometric attachment and selected source hardware. Full machine clearance, wiring, thermal, airflow and material performance are not certified.",
+    "No built-in supports removed. Source: FOX, Printables 491404, Creative Commons Attribution–Noncommercial."
+  ],
+  "coordinate_system": "metres, Y-up; converted from native mm XYZ Z-up using [x,z,-y]/1000",
+  "scope": "Installed-world geometric viewer alpha; not a physical-operation certificate.",
+  "installed": true,
+  "whole_machine_certified": false,
+  "installation_scope": "Static native mating and selected exact hardware; full physical certification false",
+  "source_object_hand_map": {
+    "1": "A",
+    "3": "B"
+  },
+  "machine_id": "voron_trident_250",
+  "gantry_ids": [
+    "trident_r2"
+  ],
+  "native_mating_report_sha256": "fbccf2ba7d4c558ccb888ac389be125f2423167189fc643ee77cfcdc1a316fab"
+}

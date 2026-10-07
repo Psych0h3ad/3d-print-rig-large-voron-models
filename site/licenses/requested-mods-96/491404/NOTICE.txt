@@ -1,0 +1,12 @@
+Voron Trident A/B Stepper FAN
+Author: FOX (FOX_240146)
+Source: https://www.printables.com/model/491404-voron-trident-ab-stepper-fan
+Author model modified: 2023-06-11T21:40:04.766486+00:00
+Observed license ID 3: Creative Commons — Attribution  — Noncommercial
+License version: not stated by the captured author metadata; no CC version is asserted.
+License evidence: AUTHOR_METADATA.json SHA256 e5cf960e15f5e448ca452525111e3827c209fe331ccffa9b7054c13a104e17f4
+Original downloaded file bytes are unchanged.
+Generated viewer assets are derivatives and require their own exact modification/hash receipt.
+Original source transfer and attribution only. No installed-machine, mounting, motion, endstop, spring, clearance or whole-machine verification is claimed.
+File 2113304: AB_Stepper_Fan.3mf; 411776 bytes; SHA256 34ad0f68b8acef21254ffa81183200d9dede73164953ba0adbce2fb27322d6e3
+File 2118641: AB Stepper Fan V2.3mf; 212093 bytes; SHA256 354e8f2959cfbbb86a6644e18addf98209510e1b3369fd44f75fc43e01e76eaa

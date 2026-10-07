@@ -1,0 +1,11 @@
+EVA TOOLHEAD FOR VORON TRIDENT
+Author: FOX (FOX_240146)
+Source: https://www.printables.com/model/681594-eva-toolhead-for-voron-trident
+Author model modified: 2023-12-15T15:55:24.505701+00:00
+Observed license ID 1: Creative Commons — Attribution
+License version: not stated by the captured author metadata; no CC version is asserted.
+License evidence: AUTHOR_METADATA.json SHA256 13f263cf52ea44ee995437952397225def045203753dc482a24ee314a65f89e7
+Original downloaded file bytes are unchanged.
+Generated viewer assets are derivatives and require their own exact modification/hash receipt.
+Original source transfer and attribution only. No installed-machine, mounting, motion, endstop, spring, clearance or whole-machine verification is claimed.
+File 2869449: EVA_VORON v41.step; 92244030 bytes; SHA256 458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227

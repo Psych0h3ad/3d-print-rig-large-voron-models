@@ -1,0 +1,807 @@
+{
+  "id": "v0mod_tall_skirts_841565",
+  "parts": [
+    {
+      "key": "requested_mod_841565_file_3712558_printed",
+      "name": "Tall_Foot_Front_Right_x1.stl",
+      "motion": "fixed",
+      "material_role": "base",
+      "appearance_role": "base",
+      "appearance_role_basis": "Author printable part; neutral base display",
+      "color": "#eeeeee",
+      "source_id": "841565",
+      "source_file_id": "3712558",
+      "source_file": "Tall_Foot_Front_Right_x1.stl",
+      "source_sha256": "a41c6e0a810e0955cc520ba8b4ca1d187e607669de0db7bcad013569b92000de",
+      "bounds_mm": [
+        [
+          136.60000610351562,
+          117.13800048828125,
+          0.0
+        ],
+        [
+          163.39999389648438,
+          182.86199951171875,
+          26.79999542236328
+        ]
+      ],
+      "source_geometry": "original_STL_triangles",
+      "purchased_hardware": false
+    },
+    {
+      "key": "requested_mod_841565_file_3712531_printed",
+      "name": "Tall_Foot_Front_Left_x1.stl",
+      "motion": "fixed",
+      "material_role": "base",
+      "appearance_role": "base",
+      "appearance_role_basis": "Author printable part; neutral base display",
+      "color": "#eeeeee",
+      "source_id": "841565",
+      "source_file_id": "3712531",
+      "source_file": "Tall_Foot_Front_Left_x1.stl",
+      "source_sha256": "99e974a6343ee2009c7e2cf1a37def085d706528ea58aa1f96cca8c270bf2188",
+      "bounds_mm": [
+        [
+          151.60000610351562,
+          122.13800048828125,
+          0.0
+        ],
+        [
+          178.39999389648438,
+          187.86199951171875,
+          26.79999542236328
+        ]
+      ],
+      "source_geometry": "original_STL_triangles",
+      "purchased_hardware": false
+    },
+    {
+      "key": "requested_mod_841565_file_3712543_printed",
+      "name": "Tall_Foot_Rear_Right_Plain_x1.stl",
+      "motion": "fixed",
+      "material_role": "base",
+      "appearance_role": "base",
+      "appearance_role_basis": "Author printable part; neutral base display",
+      "color": "#eeeeee",
+      "source_id": "841565",
+      "source_file_id": "3712543",
+      "source_file": "Tall_Foot_Rear_Right_Plain_x1.stl",
+      "source_sha256": "8a877c7e89fd382676f1a0b5e83b36e5e88c85379e7170262f2132ebb0fe465e",
+      "bounds_mm": [
+        [
+          136.60000610351562,
+          117.13800048828125,
+          0.0
+        ],
+        [
+          163.39999389648438,
+          182.86199951171875,
+          26.79999542236328
+        ]
+      ],
+      "source_geometry": "original_STL_triangles",
+      "purchased_hardware": false
+    },
+    {
+      "key": "requested_mod_841565_file_3712555_printed",
+      "name": "Tall_Foot_Rear_Right_FRS_x1.stl",
+      "motion": "fixed",
+      "material_role": "base",
+      "appearance_role": "base",
+      "appearance_role_basis": "Author printable part; neutral base display",
+      "color": "#eeeeee",
+      "source_id": "841565",
+      "source_file_id": "3712555",
+      "source_file": "Tall_Foot_Rear_Right_FRS_x1.stl",
+      "source_sha256": "25a1cb61e9ec708a3df955bdc1df4092c2321f68472c873e2e70954dadcd97b3",
+      "bounds_mm": [
+        [
+          134.24459838867188,
+          117.13800048828125,
+          0.0
+        ],
+        [
+          165.75540161132812,
+          182.86199951171875,
+          38.39330291748047
+        ]
+      ],
+      "source_geometry": "original_STL_triangles",
+      "purchased_hardware": false
+    },
+    {
+      "key": "requested_mod_841565_file_3712544_printed",
+      "name": "Tall_Foot_Rear_Left_Mains_Inlet_x1.stl",
+      "motion": "fixed",
+      "material_role": "base",
+      "appearance_role": "base",
+      "appearance_role_basis": "Author printable part; neutral base display",
+      "color": "#eeeeee",
+      "source_id": "841565",
+      "source_file_id": "3712544",
+      "source_file": "Tall_Foot_Rear_Left_Mains_Inlet_x1.stl",
+      "source_sha256": "702c83504057b2e7f965a5129f0ef31843cfe6fa931fb404b4d7867a889ce3bc",
+      "bounds_mm": [
+        [
+          112.98572540283203,
+          116.10405731201172,
+          0.0
+        ],
+        [
+          209.4182891845703,
+          195.8280487060547,
+          52.00010299682617
+        ]
+      ],
+      "source_geometry": "original_STL_triangles",
+      "purchased_hardware": false
+    },
+    {
+      "key": "requested_mod_841565_file_3712542_printed",
+      "name": "Tall_Foot_Rear_Left_Mains_Inlet_RJ45_x1.stl",
+      "motion": "fixed",
+      "material_role": "base",
+      "appearance_role": "base",
+      "appearance_role_basis": "Author printable part; neutral base display",
+      "color": "#eeeeee",
+      "source_id": "841565",
+      "source_file_id": "3712542",
+      "source_file": "Tall_Foot_Rear_Left_Mains_Inlet_RJ45_x1.stl",
+      "source_sha256": "83976e613250ff71b9aad816c44c9963f7e004692a1c1bc24f11388d085702d7",
+      "bounds_mm": [
+        [
+          101.78372192382812,
+          110.13800048828125,
+          0.0
+        ],
+        [
+          198.21627807617188,
+          189.86199951171875,
+          52.00010299682617
+        ]
+      ],
+      "source_geometry": "original_STL_triangles",
+      "purchased_hardware": false
+    },
+    {
+      "key": "requested_mod_841565_file_3712552_printed",
+      "name": "Tall_Foot_Rear_Left_24V_Inlet_x1.stl",
+      "motion": "fixed",
+      "material_role": "base",
+      "appearance_role": "base",
+      "appearance_role_basis": "Author printable part; neutral base display",
+      "color": "#eeeeee",
+      "source_id": "841565",
+      "source_file_id": "3712552",
+      "source_file": "Tall_Foot_Rear_Left_24V_Inlet_x1.stl",
+      "source_sha256": "48a117dad403cb4c0a0cc848661c6c7dc00547b86eda474ba6a4c5b310717c54",
+      "bounds_mm": [
+        [
+          109.74337005615234,
+          89.88995361328125,
+          0.0
+        ],
+        [
+          206.17593383789062,
+          169.61395263671875,
+          52.00010299682617
+        ]
+      ],
+      "source_geometry": "original_STL_triangles",
+      "purchased_hardware": false
+    },
+    {
+      "key": "requested_mod_841565_file_3712538_printed",
+      "name": "Tall_Foot_Rear_Left_24V_Inlet_RJ45_x1.stl",
+      "motion": "fixed",
+      "material_role": "base",
+      "appearance_role": "base",
+      "appearance_role_basis": "Author printable part; neutral base display",
+      "color": "#eeeeee",
+      "source_id": "841565",
+      "source_file_id": "3712538",
+      "source_file": "Tall_Foot_Rear_Left_24V_Inlet_RJ45_x1.stl",
+      "source_sha256": "e8d410b9f1ee410b44208bfdddcd1180ab85f21a2ac2ea70040e1b98314dcbc0",
+      "bounds_mm": [
+        [
+          101.78372192382812,
+          110.13800048828125,
+          0.0
+        ],
+        [
+          198.21627807617188,
+          189.86199951171875,
+          52.00010299682617
+        ]
+      ],
+      "source_geometry": "original_STL_triangles",
+      "purchased_hardware": false
+    },
+    {
+      "key": "requested_mod_841565_file_3712535_printed",
+      "name": "Tall_Foot_Rear_Left_Cover.stl",
+      "motion": "fixed",
+      "material_role": "base",
+      "appearance_role": "base",
+      "appearance_role_basis": "Author printable part; neutral base display",
+      "color": "#eeeeee",
+      "source_id": "841565",
+      "source_file_id": "3712535",
+      "source_file": "Tall_Foot_Rear_Left_Cover.stl",
+      "source_sha256": "ba3b51b1bab26acb28512cfe5301fc2316b44d57c95db7c5d8c35765a7735b69",
+      "bounds_mm": [
+        [
+          125.94999694824219,
+          137.3999481201172,
+          0.0
+        ],
+        [
+          174.0500030517578,
+          162.6000518798828,
+          36.19999694824219
+        ]
+      ],
+      "source_geometry": "original_STL_triangles",
+      "purchased_hardware": false
+    },
+    {
+      "key": "requested_mod_841565_file_3712541_printed",
+      "name": "Keystone_Insert_Bracket.stl",
+      "motion": "fixed",
+      "material_role": "base",
+      "appearance_role": "base",
+      "appearance_role_basis": "Author printable part; neutral base display",
+      "color": "#eeeeee",
+      "source_id": "841565",
+      "source_file_id": "3712541",
+      "source_file": "Keystone_Insert_Bracket.stl",
+      "source_sha256": "04ce6fb278e8a309ec66bc524ecf8d8b243ae6078c56df81f83bde07cc41ad5a",
+      "bounds_mm": [
+        [
+          141.0,
+          91.44998931884766,
+          3.9523939676655573e-13
+        ],
+        [
+          169.0,
+          118.55001068115234,
+          13.863587379455566
+        ]
+      ],
+      "source_geometry": "original_STL_triangles",
+      "purchased_hardware": false
+    },
+    {
+      "key": "requested_mod_841565_file_3712532_printed",
+      "name": "[a]_Foot_Accent_A_x2.stl",
+      "motion": "fixed",
+      "material_role": "accent",
+      "appearance_role": "accent",
+      "appearance_role_basis": "Author [a] filename",
+      "color": "#eeeeee",
+      "source_id": "841565",
+      "source_file_id": "3712532",
+      "source_file": "[a]_Foot_Accent_A_x2.stl",
+      "source_sha256": "818c4268b57affc707e876cad5c57e5bd77c32c6c17f334e89f426cee1f1a26a",
+      "bounds_mm": [
+        [
+          131.60000610351562,
+          141.60000610351562,
+          8.881784197001252e-16
+        ],
+        [
+          158.39999389648438,
+          168.39999389648438,
+          4.0
+        ]
+      ],
+      "source_geometry": "original_STL_triangles",
+      "purchased_hardware": false
+    },
+    {
+      "key": "requested_mod_841565_file_3712525_printed",
+      "name": "[a]_Foot_Accent_B_x2.stl",
+      "motion": "fixed",
+      "material_role": "accent",
+      "appearance_role": "accent",
+      "appearance_role_basis": "Author [a] filename",
+      "color": "#eeeeee",
+      "source_id": "841565",
+      "source_file_id": "3712525",
+      "source_file": "[a]_Foot_Accent_B_x2.stl",
+      "source_sha256": "f576eaade721a09e1770fbf2c21d03cb803d7a0aaf2d0dc93cf8ea1f6aa8696b",
+      "bounds_mm": [
+        [
+          151.60000610351562,
+          141.60000610351562,
+          8.881784197001252e-16
+        ],
+        [
+          178.39999389648438,
+          168.39999389648438,
+          4.0
+        ]
+      ],
+      "source_geometry": "original_STL_triangles",
+      "purchased_hardware": false
+    },
+    {
+      "key": "requested_mod_841565_file_3712551_printed",
+      "name": "Tall_Front_Skirt_x1.stl",
+      "motion": "fixed",
+      "material_role": "base",
+      "appearance_role": "base",
+      "appearance_role_basis": "Author printable part; neutral base display",
+      "color": "#eeeeee",
+      "source_id": "841565",
+      "source_file_id": "3712551",
+      "source_file": "Tall_Front_Skirt_x1.stl",
+      "source_sha256": "62dc91f0c9dd07235408fdb3a6efe50a2867c60569bd1628520233fc7407a49a",
+      "bounds_mm": [
+        [
+          52.7158203125,
+          116.7999496459961,
+          0.0
+        ],
+        [
+          247.2841796875,
+          183.20004272460938,
+          42.894832611083984
+        ]
+      ],
+      "source_geometry": "original_STL_triangles",
+      "purchased_hardware": false
+    },
+    {
+      "key": "requested_mod_841565_file_3712533_printed",
+      "name": "[a]_Logo_Insert_x2.stl",
+      "motion": "fixed",
+      "material_role": "accent",
+      "appearance_role": "accent",
+      "appearance_role_basis": "Author [a] filename",
+      "color": "#eeeeee",
+      "source_id": "841565",
+      "source_file_id": "3712533",
+      "source_file": "[a]_Logo_Insert_x2.stl",
+      "source_sha256": "2420b44e896ead24711b31c396596e3a22cf78aa88550e864503d58e13b0681a",
+      "bounds_mm": [
+        [
+          140.73007202148438,
+          140.73007202148438,
+          -1.1920928955078125e-07
+        ],
+        [
+          159.26992797851562,
+          159.26992797851562,
+          6.415963172912598
+        ]
+      ],
+      "source_geometry": "original_STL_triangles",
+      "purchased_hardware": false
+    },
+    {
+      "key": "requested_mod_841565_file_3712556_printed",
+      "name": "Tall_Front_Skirt_Mesh_x1.stl",
+      "motion": "fixed",
+      "material_role": "base",
+      "appearance_role": "base",
+      "appearance_role_basis": "Author printable part; neutral base display",
+      "color": "#eeeeee",
+      "source_id": "841565",
+      "source_file_id": "3712556",
+      "source_file": "Tall_Front_Skirt_Mesh_x1.stl",
+      "source_sha256": "90e51c4c9bb0b5085feea4e3b341aa9cfa0a4214d979c6595af535c000b5c2de",
+      "bounds_mm": [
+        [
+          52.7158203125,
+          116.7999496459961,
+          0.0
+        ],
+        [
+          247.2841796875,
+          183.20004272460938,
+          43.894832611083984
+        ]
+      ],
+      "source_geometry": "original_STL_triangles",
+      "purchased_hardware": false
+    },
+    {
+      "key": "requested_mod_841565_file_3712530_printed",
+      "name": "[a]_Logo_Insert_Mesh_x2.stl",
+      "motion": "fixed",
+      "material_role": "accent",
+      "appearance_role": "accent",
+      "appearance_role_basis": "Author [a] filename",
+      "color": "#eeeeee",
+      "source_id": "841565",
+      "source_file_id": "3712530",
+      "source_file": "[a]_Logo_Insert_Mesh_x2.stl",
+      "source_sha256": "e8965f32abaeceaf89a93f789e48bf9b5bd3624b97b6e3244826753a7e89bbbd",
+      "bounds_mm": [
+        [
+          140.73007202148438,
+          140.73007202148438,
+          -1.1920928955078125e-07
+        ],
+        [
+          159.26992797851562,
+          159.26992797851562,
+          7.415963172912598
+        ]
+      ],
+      "source_geometry": "original_STL_triangles",
+      "purchased_hardware": false
+    },
+    {
+      "key": "requested_mod_841565_file_3712549_printed",
+      "name": "Waveshare_4.3_DSI_LCD_Faceplate.stl",
+      "motion": "fixed",
+      "material_role": "base",
+      "appearance_role": "base",
+      "appearance_role_basis": "Author printable part; neutral base display",
+      "color": "#eeeeee",
+      "source_id": "841565",
+      "source_file_id": "3712549",
+      "source_file": "Waveshare_4.3_DSI_LCD_Faceplate.stl",
+      "source_sha256": "beb46f4618a5f4dfa7eb9f142459b6b859638d840a49861332de0ea50f0b9a07",
+      "bounds_mm": [
+        [
+          94.99998474121094,
+          113.14997100830078,
+          0.0
+        ],
+        [
+          205.00001525878906,
+          186.8500213623047,
+          14.900030136108398
+        ]
+      ],
+      "source_geometry": "original_STL_triangles",
+      "purchased_hardware": false
+    },
+    {
+      "key": "requested_mod_841565_file_3712553_printed",
+      "name": "Tall_Side_Skirt_x2.stl",
+      "motion": "fixed",
+      "material_role": "base",
+      "appearance_role": "base",
+      "appearance_role_basis": "Author printable part; neutral base display",
+      "color": "#eeeeee",
+      "source_id": "841565",
+      "source_file_id": "3712553",
+      "source_file": "Tall_Side_Skirt_x2.stl",
+      "source_sha256": "d1d76b7c037a45d6f6ed5a394be1e5f8e07ba1d931c45ae3e6749c6e12aa4b80",
+      "bounds_mm": [
+        [
+          52.53999328613281,
+          117.43800354003906,
+          0.0
+        ],
+        [
+          247.4600067138672,
+          182.56199645996094,
+          12.000007629394531
+        ]
+      ],
+      "source_geometry": "original_STL_triangles",
+      "purchased_hardware": false
+    },
+    {
+      "key": "requested_mod_841565_file_3712554_printed",
+      "name": "Tall_Side_Skirt_Mesh_x2.stl",
+      "motion": "fixed",
+      "material_role": "base",
+      "appearance_role": "base",
+      "appearance_role_basis": "Author printable part; neutral base display",
+      "color": "#eeeeee",
+      "source_id": "841565",
+      "source_file_id": "3712554",
+      "source_file": "Tall_Side_Skirt_Mesh_x2.stl",
+      "source_sha256": "6555fe97e43c6e25b852d34dcc74e9f4cd6b9c31103ccb74e1693f78dd34163b",
+      "bounds_mm": [
+        [
+          52.53999328613281,
+          117.43800354003906,
+          0.0
+        ],
+        [
+          247.4600067138672,
+          182.56199645996094,
+          13.000007629394531
+        ]
+      ],
+      "source_geometry": "original_STL_triangles",
+      "purchased_hardware": false
+    },
+    {
+      "key": "requested_mod_841565_file_3712548_printed",
+      "name": "Tall_Rear_Skirt_x1.stl",
+      "motion": "fixed",
+      "material_role": "base",
+      "appearance_role": "base",
+      "appearance_role_basis": "Author printable part; neutral base display",
+      "color": "#eeeeee",
+      "source_id": "841565",
+      "source_file_id": "3712548",
+      "source_file": "Tall_Rear_Skirt_x1.stl",
+      "source_sha256": "0c9f186b4125ede8e1bca15c18b6b52679c1a0192384219cd93561c75d3a9bd8",
+      "bounds_mm": [
+        [
+          87.74000549316406,
+          117.63800048828125,
+          0.0
+        ],
+        [
+          212.25999450683594,
+          182.36199951171875,
+          12.000007629394531
+        ]
+      ],
+      "source_geometry": "original_STL_triangles",
+      "purchased_hardware": false
+    },
+    {
+      "key": "requested_mod_841565_file_3712557_printed",
+      "name": "Tall_Rear_Skirt_Mesh_x1.stl",
+      "motion": "fixed",
+      "material_role": "base",
+      "appearance_role": "base",
+      "appearance_role_basis": "Author printable part; neutral base display",
+      "color": "#eeeeee",
+      "source_id": "841565",
+      "source_file_id": "3712557",
+      "source_file": "Tall_Rear_Skirt_Mesh_x1.stl",
+      "source_sha256": "f2cc8977d19d9bbfe2b25582ac12783b0da8dad6a6656accf3bcabd99a2f3774",
+      "bounds_mm": [
+        [
+          87.74000549316406,
+          117.63800048828125,
+          0.0
+        ],
+        [
+          212.25999450683594,
+          182.36199951171875,
+          13.000007629394531
+        ]
+      ],
+      "source_geometry": "original_STL_triangles",
+      "purchased_hardware": false
+    },
+    {
+      "key": "requested_mod_841565_file_3712545_printed",
+      "name": "Bottom_Panel_Mesh.stl",
+      "motion": "fixed",
+      "material_role": "base",
+      "appearance_role": "base",
+      "appearance_role_basis": "Author printable part; neutral base display",
+      "color": "#eeeeee",
+      "source_id": "841565",
+      "source_file_id": "3712545",
+      "source_file": "Bottom_Panel_Mesh.stl",
+      "source_sha256": "a46c9fe3327226d006cdee3152b8e43f6df52911e0624c5c46c6913a2ef94b67",
+      "bounds_mm": [
+        [
+          38.003662109375,
+          48.0,
+          0.0
+        ],
+        [
+          251.996337890625,
+          262.0,
+          3.0
+        ]
+      ],
+      "source_geometry": "original_STL_triangles",
+      "purchased_hardware": false
+    }
+  ],
+  "source_modules": [
+    {
+      "component_id": "requested_mod_841565_file_3712558",
+      "model_sha256": "e5825ce558001a2b8f3ff085834cc86d056f3ad3fd6468c4f765fa5d2c24996b",
+      "decoded_sha256": "6fb3a426f0f4de3f7f9d4aa607ff2fbd534c20a225474085776fb703735b639a",
+      "metadata_sha256": "913157a0cad3d2d1c0b8daccae74d6eb7de52213b55fd0ac69a503c16c7c3154",
+      "parts": [
+        "requested_mod_841565_file_3712558_printed"
+      ]
+    },
+    {
+      "component_id": "requested_mod_841565_file_3712531",
+      "model_sha256": "b10f32e505c037ec5357561651a4775a0b203a2394c656e79ed703e061b2108a",
+      "decoded_sha256": "184699f6d9d6488afe7b71c7e73a88521c4f27e380c8790da65b8ab0aed9e357",
+      "metadata_sha256": "a2aa936b3bcba773936e62b5efc71416a5ac5e89953133378cc6b2e3cb900c93",
+      "parts": [
+        "requested_mod_841565_file_3712531_printed"
+      ]
+    },
+    {
+      "component_id": "requested_mod_841565_file_3712543",
+      "model_sha256": "2ecb511f11ab3a5c71d42f3ce5211cf5bff33de4d0c703ff6c4b09af10c293ee",
+      "decoded_sha256": "bbe63dc3546397e3889ee4ee93011ac48ec38cd612923b39805f1aca86e790b9",
+      "metadata_sha256": "35da2b6d264a6c26baa44c94325ce0d1f15f3156abe58610241c1f35a39fecd9",
+      "parts": [
+        "requested_mod_841565_file_3712543_printed"
+      ]
+    },
+    {
+      "component_id": "requested_mod_841565_file_3712555",
+      "model_sha256": "3106815d40387df3db2c7101c2731d41240f8a22c8cd09f45818a54a3e33be6c",
+      "decoded_sha256": "02cf65fc46595a74f7fd539e455e35300094ddbe69d5bb1fdc2f06dee3197e40",
+      "metadata_sha256": "38ff68689f9672d6b5d0812f7a709635931b073726627dfcfaf1883ad2f84778",
+      "parts": [
+        "requested_mod_841565_file_3712555_printed"
+      ]
+    },
+    {
+      "component_id": "requested_mod_841565_file_3712544",
+      "model_sha256": "8bb26403cce55290ee25f32a979b22e851ca2ab807be391bb89298f9ca1c1d81",
+      "decoded_sha256": "2e79057d975fad5ebab7cd1fc444304e0e6a2d33ccca09549e89fab15218c8ae",
+      "metadata_sha256": "bc75c6d3a51f0a6297cd95ef798e8d1e6083d03cad229b64c43b881aae42b7e1",
+      "parts": [
+        "requested_mod_841565_file_3712544_printed"
+      ]
+    },
+    {
+      "component_id": "requested_mod_841565_file_3712542",
+      "model_sha256": "4171401e1ee2e4059de8c34c17777402b468a742f730e8c23b5b0bb180bde82d",
+      "decoded_sha256": "e1c17008a019342e86aac1874f259bcf1d3cefb3d18f59cd2ef4aff4b7a24e64",
+      "metadata_sha256": "df053693b721a54ac873377d91c0717efc68070bf2d124d5267c2213feef258e",
+      "parts": [
+        "requested_mod_841565_file_3712542_printed"
+      ]
+    },
+    {
+      "component_id": "requested_mod_841565_file_3712552",
+      "model_sha256": "516a717c7efe917b7a6a0ae5fff03882c053a18ac80e644f865a11f10b2cd0e4",
+      "decoded_sha256": "d8691dde8a39758a85b702f09791481b28a4a3bd411a67a1e7581720f5dad3d1",
+      "metadata_sha256": "4725ce81404cb4c1a8e08fa1a01b780e21223fce40df793a0d1fba5e869b767f",
+      "parts": [
+        "requested_mod_841565_file_3712552_printed"
+      ]
+    },
+    {
+      "component_id": "requested_mod_841565_file_3712538",
+      "model_sha256": "96102daf70469136e2bb9823d2a5614bff48fd54fca948260c8f2d7f3b84d912",
+      "decoded_sha256": "d7dc009eafade273db52f0554a74136ede0899fea54ad7bb68e3621701a33353",
+      "metadata_sha256": "a1914cb1d5ae6596a3aa0ccd4da87b095776ce473895aae90897b0d250331506",
+      "parts": [
+        "requested_mod_841565_file_3712538_printed"
+      ]
+    },
+    {
+      "component_id": "requested_mod_841565_file_3712535",
+      "model_sha256": "e1c287ccc581d9e966227147961e7a118058f6e79fd9ed992ce0323538a70c2c",
+      "decoded_sha256": "fcbcccbbaf2c8f50d9b958d304b2f6260ed5046fd00b002d60feb547cee232a2",
+      "metadata_sha256": "2ddbf7bd832c2d7a590a56430c92355a5670e95d680ea5d514188831fd8fab06",
+      "parts": [
+        "requested_mod_841565_file_3712535_printed"
+      ]
+    },
+    {
+      "component_id": "requested_mod_841565_file_3712541",
+      "model_sha256": "3df54144d2da1d953405c3a095f181687b58324656890b8231b52611268c30ed",
+      "decoded_sha256": "509e4af67df1c21676ad90aaa693dbd82363159e8f3c552062c10e7dc226b0be",
+      "metadata_sha256": "789237eb5afb5d831068280b22b851d15cece0ad1a11a9b8184b97301f8d5728",
+      "parts": [
+        "requested_mod_841565_file_3712541_printed"
+      ]
+    },
+    {
+      "component_id": "requested_mod_841565_file_3712532",
+      "model_sha256": "7cf94fc7fd613020e06607771fdb3c3e20b3398c5617777c93ec99203e087333",
+      "decoded_sha256": "1c7b14f0491fdbb89f980bba5597ef4970139cca2055c56e6dc883b5b6338fe5",
+      "metadata_sha256": "b8529eea2346040cc8108e6985b8c7a79438c7a722a9ea22e1d7a65a3851f510",
+      "parts": [
+        "requested_mod_841565_file_3712532_printed"
+      ]
+    },
+    {
+      "component_id": "requested_mod_841565_file_3712525",
+      "model_sha256": "e2fd08d72cc7b1eb6b63b23070518dfd69702000f7fbae6c0bf0231fe9923d93",
+      "decoded_sha256": "4d2da9ce900dc188872d029981e331bb7904698b8e20c4f5bb7f3e739c534e00",
+      "metadata_sha256": "d3fc044fb76edb33c9059eedbf2450f2fc4ba546442f2db71d7dd033516118fa",
+      "parts": [
+        "requested_mod_841565_file_3712525_printed"
+      ]
+    },
+    {
+      "component_id": "requested_mod_841565_file_3712551",
+      "model_sha256": "8c371330b47d5c3ee77871680647d0319a8208bfb3a2e699c4da64df2ecf8e5b",
+      "decoded_sha256": "965bdfb9d967c64fda7eaf6a526c14c3182b672ce3d67ffdd8079511ecc64158",
+      "metadata_sha256": "0a4e3f4ad25cb7eb750cc9a41019324f9b027a6f2d7b31d3fb6dc003a8f40e1f",
+      "parts": [
+        "requested_mod_841565_file_3712551_printed"
+      ]
+    },
+    {
+      "component_id": "requested_mod_841565_file_3712533",
+      "model_sha256": "570ea0a96265ca51ead4ea7db24ebaa8af70885f59344669a4baba4dae2c578b",
+      "decoded_sha256": "29a8e58b4562a2ba53a446231e2bd28bec296c607b3078fbc2b307b5c293bfa6",
+      "metadata_sha256": "bd9b2a86b82daf85f3c7f6c0d99e5d72194283865b7cd0c12c45bafca50438e5",
+      "parts": [
+        "requested_mod_841565_file_3712533_printed"
+      ]
+    },
+    {
+      "component_id": "requested_mod_841565_file_3712556",
+      "model_sha256": "67a7dd602c379b3fa4b6df617dd492c229f18775cc7f02d341ef89fe6314abe9",
+      "decoded_sha256": "b444b991b93d7f9c6a1f9812d561c10a9abaafc9d11c451a5a8124e3d2a46d95",
+      "metadata_sha256": "75a861bdc7e72fa2989f196391e3ede2fce95f71f0bfbce7bb66dff4f10960a8",
+      "parts": [
+        "requested_mod_841565_file_3712556_printed"
+      ]
+    },
+    {
+      "component_id": "requested_mod_841565_file_3712530",
+      "model_sha256": "0e0d661e99a52041de7ec46f3ad6deab25c3bdec41ae043224211ca33a4ea1b7",
+      "decoded_sha256": "63427658986ed5c8e779c35104f4d8235772639cbabc7cd1da3bcb04b3ffffde",
+      "metadata_sha256": "4c91c0348c11d62137add4d8ef1e210ad495a24b755d60b32b34f607d97178b7",
+      "parts": [
+        "requested_mod_841565_file_3712530_printed"
+      ]
+    },
+    {
+      "component_id": "requested_mod_841565_file_3712549",
+      "model_sha256": "5120429a5624d0ae3d16f74ca604c80b3830b220c9cb27733a806cdb82f97155",
+      "decoded_sha256": "9941c9810f22623d43da0574bb281076b02dbdbbe67974d9276801b712c738f7",
+      "metadata_sha256": "294590fd7d8023980223b96ada9256438d4ef0d8484562fff63b7c1c0ecb9f85",
+      "parts": [
+        "requested_mod_841565_file_3712549_printed"
+      ]
+    },
+    {
+      "component_id": "requested_mod_841565_file_3712553",
+      "model_sha256": "bcbcd191f91198fdf068a16ae0b94e609d30723bb2756ec42436686bff1eaf2a",
+      "decoded_sha256": "c8f89dabec36260ea2c2fa00c1e2475d33d323bc13f6817897455abee5230ca5",
+      "metadata_sha256": "40eba9a39756c39f9e8a9a886f8aee162a7617b1d0c7a96d7b9747d352c500a2",
+      "parts": [
+        "requested_mod_841565_file_3712553_printed"
+      ]
+    },
+    {
+      "component_id": "requested_mod_841565_file_3712554",
+      "model_sha256": "b6c16119ea8d8ae65f9e38deec74fd50215c54725c663816b50c8874d4311bf7",
+      "decoded_sha256": "72e1908fb7844d4e35275759b200241da3cb6c4978048cdb7561dcf0c372c8a1",
+      "metadata_sha256": "0b7b2a7b8b09ad983719e29edb7558992e9dc47bbabf3c97ae7bddc032491f39",
+      "parts": [
+        "requested_mod_841565_file_3712554_printed"
+      ]
+    },
+    {
+      "component_id": "requested_mod_841565_file_3712548",
+      "model_sha256": "c24810364e7ef0816a677dd0fe36ac255adb3bc26eaa83903783c21819d3594c",
+      "decoded_sha256": "4c78b8e11d36922608823a3f5e9870f9c5bcf9f0dce5119eaf71a11803d47f9c",
+      "metadata_sha256": "3c7c1281c7e910090f7e359db0e8ad9b50495d9483a82e02660a3212d87c2c9a",
+      "parts": [
+        "requested_mod_841565_file_3712548_printed"
+      ]
+    },
+    {
+      "component_id": "requested_mod_841565_file_3712557",
+      "model_sha256": "eeef6ce182da774113384f5dfe7e69ed754b6fece64ce6cbbc7d05419a225cba",
+      "decoded_sha256": "c89f0ded5cd789f8be8aa18e1238dacb306327bf1168a8bdbf687f618a78e31d",
+      "metadata_sha256": "4a2fe07f548cbfc18640ae755d88ac133c1bdb7416de672651360588735612a2",
+      "parts": [
+        "requested_mod_841565_file_3712557_printed"
+      ]
+    },
+    {
+      "component_id": "requested_mod_841565_file_3712545",
+      "model_sha256": "0ee22c4ad98e5e5026cf4637be1a731744a5453cae1100ff8490a1ee89b114f4",
+      "decoded_sha256": "4e20c17b916043084d40fecbda0e7aaec805e09e63196ee4981d85829789636c",
+      "metadata_sha256": "776c6a51cba4d63610587cf1169e9df24703d890f2cb5d9e4848124532f636ec",
+      "parts": [
+        "requested_mod_841565_file_3712545_printed"
+      ]
+    }
+  ],
+  "coordinate_frame": "GLB_metres_Y_up",
+  "source_geometry_changed": false,
+  "installed": false,
+  "complete_author_assembly": false,
+  "whole_machine_certified": false,
+  "notices": [
+    "Original source part variants are shown separately in their retained coordinates. This is not an installed assembly. No mounting or clearance qualification is asserted."
+  ]
+}

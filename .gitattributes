@@ -3,3 +3,5 @@
 *.json text eol=lf
 *.py text eol=lf
 *.yml text eol=lf
+# Indexed assets retain their exact checksum-pinned bytes.
+site/** -text

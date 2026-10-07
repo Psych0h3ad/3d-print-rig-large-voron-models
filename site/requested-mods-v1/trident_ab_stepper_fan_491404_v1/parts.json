@@ -1,0 +1,126 @@
+{
+  "id": "trident_ab_stepper_fan_491404_v1",
+  "parts": [
+    {
+      "key": "trident_ab_stepper_fan_491404_v1_object_1",
+      "name": "AB_fan_ (1)",
+      "source_id": "1",
+      "source_file": {
+        "path": "sources/printables-491404/AB_Stepper_Fan.3mf",
+        "bytes": 411776,
+        "sha256": "34ad0f68b8acef21254ffa81183200d9dede73164953ba0adbce2fb27322d6e3"
+      },
+      "source_model_xml_sha256": "8c048fea6c8250466dd99694d90f71a8f78bbce5721255aa4068886d74a9771b",
+      "source_build_index": 0,
+      "source_build_matrix_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "source_component": "Printables491404/3MF/object/1",
+      "appearance_role": "accent",
+      "material_role": "printed_accent",
+      "motion": "fixed",
+      "bounds_mm": [
+        [
+          -319.084576,
+          353.545856,
+          -260.290896
+        ],
+        [
+          -238.169136,
+          397.545856,
+          -238.581792
+        ]
+      ],
+      "source_volume_mm3": 14008.67131810227,
+      "source_watertight": true,
+      "installed": false
+    },
+    {
+      "key": "trident_ab_stepper_fan_491404_v1_object_3",
+      "name": "AB_fan_",
+      "source_id": "3",
+      "source_file": {
+        "path": "sources/printables-491404/AB_Stepper_Fan.3mf",
+        "bytes": 411776,
+        "sha256": "34ad0f68b8acef21254ffa81183200d9dede73164953ba0adbce2fb27322d6e3"
+      },
+      "source_model_xml_sha256": "8c048fea6c8250466dd99694d90f71a8f78bbce5721255aa4068886d74a9771b",
+      "source_build_index": 1,
+      "source_build_matrix_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "source_component": "Printables491404/3MF/object/3",
+      "appearance_role": "accent",
+      "material_role": "printed_accent",
+      "motion": "fixed",
+      "bounds_mm": [
+        [
+          -400.0,
+          353.545856,
+          -260.290896
+        ],
+        [
+          -319.084576,
+          397.545856,
+          -238.581792
+        ]
+      ],
+      "source_volume_mm3": 14008.742194907667,
+      "source_watertight": true,
+      "installed": false
+    }
+  ],
+  "notices": [
+    "Original FOX fan bracket/grille only. The author file supplies no purchased fan or fixing hardware. No built-in supports removed."
+  ],
+  "coordinate_system": "metres, Y-up; converted from native mm XYZ Z-up using [x,z,-y]/1000",
+  "scope": "Original uninstalled print reference; installation/native-fit pending.",
+  "installed": false,
+  "whole_machine_certified": false
+}

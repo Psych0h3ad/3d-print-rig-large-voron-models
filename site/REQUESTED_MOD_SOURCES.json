@@ -1,0 +1,1631 @@
+{
+  "schema": "requested-mod-original-sources-96",
+  "source_links": 9,
+  "sources": [
+    {
+      "id": "requested_mod_1230133",
+      "source_id": "1230133",
+      "title": "Voron 2.4 PG7 Canbus Rear Exhaust Filter Mod v2",
+      "author": {
+        "id": "286112",
+        "handle": "Ampp33",
+        "publicUsername": "Kevin Kunst"
+      },
+      "source_url": "https://www.printables.com/model/1230133-voron-24-pg7-canbus-rear-exhaust-filter-mod-v2",
+      "source_version": {
+        "model_modified": "2025-03-15T04:54:28.479610+00:00",
+        "file_revisions": [
+          {
+            "file_id": "5110836",
+            "created": "2025-03-15T04:29:53.050772+00:00",
+            "modified": "2025-03-15T04:29:53.050787+00:00"
+          },
+          {
+            "file_id": "5110840",
+            "created": "2025-03-15T04:47:10.460609+00:00",
+            "modified": "2025-03-15T04:47:10.460623+00:00"
+          }
+        ]
+      },
+      "license": {
+        "observed_id": "12",
+        "observed_name": "GNU General Public License v3.0",
+        "version": "3.0",
+        "version_inferred": false,
+        "author_license_url": "https://www.printables.com/model/1230133-voron-24-pg7-canbus-rear-exhaust-filter-mod-v2",
+        "specific_deed_url_proven": false,
+        "disallowRemixing": false,
+        "evidence_sha256": "1037040921a0957e18ad6de522109a476448dd3d011a51c7fbc961b085edd771",
+        "evidence_file": "AUTHOR_METADATA.json",
+        "scope": "Observed author upload license; does not assert separate purchased/vendored component terms."
+      },
+      "original_files_modified": false,
+      "original_files": [
+        {
+          "source_id": "1230133/5110836",
+          "file_id": "5110836",
+          "name": "exhaust_filter_grillv2.stl",
+          "bytes": 1549284,
+          "sha256": "eebfa0abcc67151a690600116fbdd5972775bb544e5ab01f33ead6983943444b",
+          "created": "2025-03-15T04:29:53.050772+00:00",
+          "modified": "2025-03-15T04:29:53.050787+00:00",
+          "retrieved_at_utc": "2026-10-07T20:26:03.735034+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/1cf72a15-7b91-4934-a5b4-23c0cb8a2340/stls/9222713_6d4df21f-31fd-4ab7-be14-4219b2ca816b_cab532c7-5387-4738-8b94-d2ecc54740f5/exhaust_filter_grillv2.stl",
+          "archive_member": "originals/exhaust_filter_grillv2.stl"
+        },
+        {
+          "source_id": "1230133/5110840",
+          "file_id": "5110840",
+          "name": "exhaust_filter_housing.stl",
+          "bytes": 24562284,
+          "sha256": "66903baef98ec9e1b0e931da5f08d90d8156b437fc5a7bfa3898efda7ab5b4b2",
+          "created": "2025-03-15T04:47:10.460609+00:00",
+          "modified": "2025-03-15T04:47:10.460623+00:00",
+          "retrieved_at_utc": "2026-10-07T20:26:05.138672+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/c9ff43f8-6a48-45f9-97e7-cbf547b80cd1/stls/9222716_98d209f5-465e-49c7-b7c1-c59139e57a1b_547f0021-6b05-4b08-b505-c3089227b542/exhaust_filter_housing.stl",
+          "archive_member": "originals/exhaust_filter_housing.stl"
+        }
+      ],
+      "derived_asset_modifications": null,
+      "derived_asset_hash_binding": "Bind final viewer producer/asset receipts separately; this source archive makes no assertion that derived geometry is unchanged.",
+      "authored_description_sha256": "75f7d3065fff3be1b0fed0aa84032ab2e520ef6289b53f51cec1619a1a731e31",
+      "author_remix_metadata": [
+        {
+          "id": "537576",
+          "parentPrintId": "1166813",
+          "parentPrintName": "Voron 2.4 PG7 Canbus Rear Exhaust Filter Mod",
+          "parentPrintAuthor": {
+            "id": "998702",
+            "publicUsername": "Pronterhead"
+          }
+        }
+      ],
+      "scope": "Original source transfer and attribution only. No installed-machine, mounting, motion, endstop, spring, clearance or whole-machine verification is claimed.",
+      "machine_verification_claims": false,
+      "related_original_parent": {
+        "source_id": "1166813",
+        "source_url": "https://www.printables.com/model/1166813-voron-24-pg7-canbus-rear-exhaust-filter-mod",
+        "author": {
+          "id": "998702",
+          "handle": "Pronterhead_998702",
+          "publicUsername": "Pronterhead"
+        },
+        "observed_license": {
+          "id": "12",
+          "name": "GNU General Public License v3.0",
+          "disallowRemixing": false
+        },
+        "metadata_sha256": "293888a4e63845ca359d4c9376f2691bc41f40136a2747ce8c66027f8ea9cc1f",
+        "evidence_file": "RELATED_ORIGINAL_PARENT_METADATA.json",
+        "is_exact_requested_v2": false,
+        "parent_source_files_acquired": 0,
+        "scope": "Original credited parent only. The v2 threaded geometry is not replaced by this parent CAD."
+      },
+      "license_file": "licenses/requested-mods-96/1230133/LICENSE.txt",
+      "license_sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "source_archive": {
+        "name": "REQUESTED_MOD_1230133_ORIGINAL_SOURCE_96.zip",
+        "bytes": 12617273,
+        "sha256": "dcb289966647d64ed00c022fafda51473f59f834df9903047eb1cffcf6a168f6",
+        "url": "https://github.com/Psych0h3ad/3d-print-rig-large-voron-models/releases/download/requested-mods-v1/REQUESTED_MOD_1230133_ORIGINAL_SOURCE_96.zip",
+        "publication_pending": false,
+        "distribution": "Release artifact; not counted as a Pages model asset."
+      },
+      "notice_file": "licenses/requested-mods-96/1230133/NOTICE.txt",
+      "notice_sha256": "9e0c9d549e4514f2f02a061e3fd0fe22fe353da6e335532fc4a11c179601309f"
+    },
+    {
+      "id": "requested_mod_430168",
+      "source_id": "430168",
+      "title": "VORON TRIDENT STEPPER DECOUPLER",
+      "author": {
+        "id": "240146",
+        "handle": "FOX_240146",
+        "publicUsername": "FOX"
+      },
+      "source_url": "https://www.printables.com/model/430168-voron-trident-stepper-decoupler",
+      "source_version": {
+        "model_modified": "2023-03-22T07:50:21.597875+00:00",
+        "file_revisions": [
+          {
+            "file_id": "1872528",
+            "created": "2023-03-22T07:24:31.842245+00:00",
+            "modified": null
+          },
+          {
+            "file_id": "1872529",
+            "created": "2023-03-22T07:24:32.095450+00:00",
+            "modified": null
+          },
+          {
+            "file_id": "1872530",
+            "created": "2023-03-22T07:24:32.253818+00:00",
+            "modified": null
+          },
+          {
+            "file_id": "1872531",
+            "created": "2023-03-22T07:24:32.322810+00:00",
+            "modified": null
+          },
+          {
+            "file_id": "1872532",
+            "created": "2023-03-22T07:24:32.348922+00:00",
+            "modified": null
+          },
+          {
+            "file_id": "1872533",
+            "created": "2023-03-22T07:24:32.880523+00:00",
+            "modified": null
+          },
+          {
+            "file_id": "1872534",
+            "created": "2023-03-22T07:24:37.065168+00:00",
+            "modified": null
+          },
+          {
+            "file_id": "1872537",
+            "created": "2023-03-22T07:26:15.952283+00:00",
+            "modified": null
+          }
+        ]
+      },
+      "license": {
+        "observed_id": "3",
+        "observed_name": "Creative Commons — Attribution  — Noncommercial",
+        "version": null,
+        "version_inferred": false,
+        "author_license_url": "https://www.printables.com/model/430168-voron-trident-stepper-decoupler",
+        "specific_deed_url_proven": false,
+        "disallowRemixing": false,
+        "evidence_sha256": "b506500e5ba0e7edda8f9be1ec53aaf33aff1bca396c92c9bd95d0d0a3c03437",
+        "evidence_file": "AUTHOR_METADATA.json",
+        "scope": "Observed author upload license; does not assert separate purchased/vendored component terms."
+      },
+      "original_files_modified": false,
+      "original_files": [
+        {
+          "source_id": "430168/1872528",
+          "file_id": "1872528",
+          "name": "Top Bearing-A.stl",
+          "bytes": 697184,
+          "sha256": "2312d0aada0bd980f1c2973b7dc93d6ab6d9725e463c4695c15c7ea0bd5a6465",
+          "created": "2023-03-22T07:24:31.842245+00:00",
+          "modified": null,
+          "retrieved_at_utc": "2026-10-07T20:34:20.407811+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/430168/stls/3563054_8e84f2d6-844d-4e4f-879e-6d3edf8e9b3f/top-bearing-a.stl",
+          "author_github_exact_byte_match": true,
+          "author_github_sha256": "2312d0aada0bd980f1c2973b7dc93d6ab6d9725e463c4695c15c7ea0bd5a6465",
+          "archive_member": "originals/Top Bearing-A.stl"
+        },
+        {
+          "source_id": "430168/1872529",
+          "file_id": "1872529",
+          "name": "Bottom Bearing-B.stl",
+          "bytes": 768884,
+          "sha256": "b625b39614d2c91be262762b78c4741751bd5d23abfb9519610463b3657c6525",
+          "created": "2023-03-22T07:24:32.095450+00:00",
+          "modified": null,
+          "retrieved_at_utc": "2026-10-07T20:34:20.407811+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/430168/stls/3563053_2d6df55b-19f9-4cd3-835f-5abe79570143/bottom-bearing-b.stl",
+          "author_github_exact_byte_match": false,
+          "author_github_sha256": "8f490e7f1bee3c976f13e81ac42f6845ccf06e37b978d08af416fb7b6f2bd541",
+          "archive_member": "originals/Bottom Bearing-B.stl"
+        },
+        {
+          "source_id": "430168/1872530",
+          "file_id": "1872530",
+          "name": "Bottom Bearing-A.stl",
+          "bytes": 768884,
+          "sha256": "9a8551274736d412f4e96af18ee453a181ea41122bc1f03be0871bf6adc546fc",
+          "created": "2023-03-22T07:24:32.253818+00:00",
+          "modified": null,
+          "retrieved_at_utc": "2026-10-07T20:34:20.407811+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/430168/stls/3563058_48d0e7cb-b6ef-462d-a2a8-c6b1850a6cf2/bottom-bearing-a.stl",
+          "author_github_exact_byte_match": false,
+          "author_github_sha256": "ad2ae13ecb8b7d9f1b1891b7d5c879fbd21e89ea07cfce86fcf92daf35339f07",
+          "archive_member": "originals/Bottom Bearing-A.stl"
+        },
+        {
+          "source_id": "430168/1872531",
+          "file_id": "1872531",
+          "name": "Spacer-A.stl",
+          "bytes": 1305984,
+          "sha256": "481112527537bd315461602bc44ef3c4963d7f5727a740d4aeb092a273eb02b1",
+          "created": "2023-03-22T07:24:32.322810+00:00",
+          "modified": null,
+          "retrieved_at_utc": "2026-10-07T20:34:20.407811+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/430168/stls/3563055_7d608c95-caee-40b3-846f-38d8f7635032/spacer-a.stl",
+          "author_github_exact_byte_match": true,
+          "author_github_sha256": "481112527537bd315461602bc44ef3c4963d7f5727a740d4aeb092a273eb02b1",
+          "archive_member": "originals/Spacer-A.stl"
+        },
+        {
+          "source_id": "430168/1872532",
+          "file_id": "1872532",
+          "name": "Top Bearing-B.stl",
+          "bytes": 697184,
+          "sha256": "fc6120d4c0f7fbeffb2a12e4ca83dd0d42566512e8a4ad8be2624ae97d85970a",
+          "created": "2023-03-22T07:24:32.348922+00:00",
+          "modified": null,
+          "retrieved_at_utc": "2026-10-07T20:34:20.407811+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/430168/stls/3563057_ffeff02e-86e5-4d2b-8418-61df14bae137/top-bearing-b.stl",
+          "author_github_exact_byte_match": true,
+          "author_github_sha256": "fc6120d4c0f7fbeffb2a12e4ca83dd0d42566512e8a4ad8be2624ae97d85970a",
+          "archive_member": "originals/Top Bearing-B.stl"
+        },
+        {
+          "source_id": "430168/1872533",
+          "file_id": "1872533",
+          "name": "Spacer-B.stl",
+          "bytes": 1306184,
+          "sha256": "97dc8eb393969ece3fca4fd3e8e44da7e7c292c8b2ac80d9e07e9959d384d499",
+          "created": "2023-03-22T07:24:32.880523+00:00",
+          "modified": null,
+          "retrieved_at_utc": "2026-10-07T20:34:20.407811+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/430168/stls/3563059_d3f6bbbb-225e-48b2-acc4-9508bdb7dad7/spacer-b.stl",
+          "author_github_exact_byte_match": true,
+          "author_github_sha256": "97dc8eb393969ece3fca4fd3e8e44da7e7c292c8b2ac80d9e07e9959d384d499",
+          "archive_member": "originals/Spacer-B.stl"
+        },
+        {
+          "source_id": "430168/1872534",
+          "file_id": "1872534",
+          "name": "Gantry Upgrade v25.f3d",
+          "bytes": 4956389,
+          "sha256": "6e9033bf8271c930e423452e9ff2383b9de48377ddeeca9d11e7708f1a32c81a",
+          "created": "2023-03-22T07:24:37.065168+00:00",
+          "modified": null,
+          "retrieved_at_utc": "2026-10-07T20:34:20.407811+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/430168/stls/3563056_7b400b2a-b413-4320-b0aa-92392cd4eed6/gantry-upgrade-v25.f3d",
+          "author_github_exact_byte_match": true,
+          "author_github_sha256": "6e9033bf8271c930e423452e9ff2383b9de48377ddeeca9d11e7708f1a32c81a",
+          "archive_member": "originals/Gantry Upgrade v25.f3d"
+        },
+        {
+          "source_id": "430168/1872537",
+          "file_id": "1872537",
+          "name": "Gantry Upgrade v25.step",
+          "bytes": 15193169,
+          "sha256": "0d4f90740695161c6d67440e06bde61d62f5b5951f9da8993d2eadec450c2514",
+          "created": "2023-03-22T07:26:15.952283+00:00",
+          "modified": null,
+          "retrieved_at_utc": "2026-10-07T20:34:20.407811+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/430168/stls/3563060_860079c8-be54-4bb0-a166-708b4f4a3c74/gantry-upgrade-v25.step",
+          "author_github_exact_byte_match": true,
+          "author_github_sha256": "0d4f90740695161c6d67440e06bde61d62f5b5951f9da8993d2eadec450c2514",
+          "archive_member": "originals/Gantry Upgrade v25.step"
+        }
+      ],
+      "derived_asset_modifications": null,
+      "derived_asset_hash_binding": "Bind final viewer producer/asset receipts separately; this source archive makes no assertion that derived geometry is unchanged.",
+      "authored_description_sha256": "65c1f4da19b563469f23921dbb921812541d76fa4d26dd014cb353e5e4bb332d",
+      "author_remix_metadata": [],
+      "scope": "Original source transfer and attribution only. No installed-machine, mounting, motion, endstop, spring, clearance or whole-machine verification is claimed.",
+      "machine_verification_claims": false,
+      "alternative_author_repository": {
+        "url": "https://github.com/WINTFOX00/TRIDENT-STEPPER-DECOUPLER",
+        "commit": "6f7a9f3565c6f54061c11e5833171ee4326edd1f",
+        "repository_license_file_present": false,
+        "notice": "Two author-repository Bottom Bearing STL revisions differ from the current official uploads. They are not silently substituted or assigned the Printables license."
+      },
+      "source_archive": {
+        "name": "REQUESTED_MOD_430168_ORIGINAL_SOURCE_96.zip",
+        "bytes": 8781967,
+        "sha256": "bd14727896309fc858ddd94cbd99753f2c28e30221975592977bf61224aa79aa",
+        "url": "https://github.com/Psych0h3ad/3d-print-rig-large-voron-models/releases/download/requested-mods-v1/REQUESTED_MOD_430168_ORIGINAL_SOURCE_96.zip",
+        "publication_pending": false,
+        "distribution": "Release artifact; not counted as a Pages model asset."
+      },
+      "notice_file": "licenses/requested-mods-96/430168/NOTICE.txt",
+      "notice_sha256": "d0459be59260b420f1450ae83768196d51c5d78e5dac1acb385ad32fced8d6cf"
+    },
+    {
+      "id": "requested_mod_491404",
+      "source_id": "491404",
+      "title": "Voron Trident A/B Stepper FAN",
+      "author": {
+        "id": "240146",
+        "handle": "FOX_240146",
+        "publicUsername": "FOX"
+      },
+      "source_url": "https://www.printables.com/model/491404-voron-trident-ab-stepper-fan",
+      "source_version": {
+        "model_modified": "2023-06-11T21:40:04.766486+00:00",
+        "file_revisions": [
+          {
+            "file_id": "2113304",
+            "created": "2023-05-27T12:34:50.013740+00:00",
+            "modified": null
+          },
+          {
+            "file_id": "2118641",
+            "created": "2023-05-28T22:39:11.393955+00:00",
+            "modified": null
+          }
+        ]
+      },
+      "license": {
+        "observed_id": "3",
+        "observed_name": "Creative Commons — Attribution  — Noncommercial",
+        "version": null,
+        "version_inferred": false,
+        "author_license_url": "https://www.printables.com/model/491404-voron-trident-ab-stepper-fan",
+        "specific_deed_url_proven": false,
+        "disallowRemixing": false,
+        "evidence_sha256": "e5cf960e15f5e448ca452525111e3827c209fe331ccffa9b7054c13a104e17f4",
+        "evidence_file": "AUTHOR_METADATA.json",
+        "scope": "Observed author upload license; does not assert separate purchased/vendored component terms."
+      },
+      "original_files_modified": false,
+      "original_files": [
+        {
+          "source_id": "491404/2113304",
+          "file_id": "2113304",
+          "name": "AB_Stepper_Fan.3mf",
+          "bytes": 411776,
+          "sha256": "34ad0f68b8acef21254ffa81183200d9dede73164953ba0adbce2fb27322d6e3",
+          "created": "2023-05-27T12:34:50.013740+00:00",
+          "modified": null,
+          "retrieved_at_utc": "2026-10-07T20:34:20.407811+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/491404/stls/4007062_d5f0539d-7adc-4f79-9cce-90daf695cb3c/ab_stepper_fan.3mf",
+          "archive_member": "originals/AB_Stepper_Fan.3mf"
+        },
+        {
+          "source_id": "491404/2118641",
+          "file_id": "2118641",
+          "name": "AB Stepper Fan V2.3mf",
+          "bytes": 212093,
+          "sha256": "354e8f2959cfbbb86a6644e18addf98209510e1b3369fd44f75fc43e01e76eaa",
+          "created": "2023-05-28T22:39:11.393955+00:00",
+          "modified": null,
+          "retrieved_at_utc": "2026-10-07T20:34:20.407811+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/491404/stls/4016820_d117975d-ccfb-4c70-976c-7bcac030628b/ab-stepper-fan-v2.3mf",
+          "archive_member": "originals/AB Stepper Fan V2.3mf"
+        }
+      ],
+      "derived_asset_modifications": null,
+      "derived_asset_hash_binding": "Bind final viewer producer/asset receipts separately; this source archive makes no assertion that derived geometry is unchanged.",
+      "authored_description_sha256": "40a0e97e3a34f509307935063a4c7c54ae6408ef972bcab616221b5cdfcc6bb8",
+      "author_remix_metadata": [],
+      "scope": "Original source transfer and attribution only. No installed-machine, mounting, motion, endstop, spring, clearance or whole-machine verification is claimed.",
+      "machine_verification_claims": false,
+      "source_archive": {
+        "name": "REQUESTED_MOD_491404_ORIGINAL_SOURCE_96.zip",
+        "bytes": 614963,
+        "sha256": "fb61d81bc7cb0813106f591317e6a7ae61128078149bb063787d75e9e04370fc",
+        "url": "https://github.com/Psych0h3ad/3d-print-rig-large-voron-models/releases/download/requested-mods-v1/REQUESTED_MOD_491404_ORIGINAL_SOURCE_96.zip",
+        "publication_pending": false,
+        "distribution": "Release artifact; not counted as a Pages model asset."
+      },
+      "notice_file": "licenses/requested-mods-96/491404/NOTICE.txt",
+      "notice_sha256": "4363ff79075929fbc67363b0c66146b4bbb4aaae86ba7ef95fddc0bdbec5c243"
+    },
+    {
+      "id": "requested_mod_534736",
+      "source_id": "534736",
+      "title": "Voron Trident Stepper Spacer",
+      "author": {
+        "id": "240146",
+        "handle": "FOX_240146",
+        "publicUsername": "FOX"
+      },
+      "source_url": "https://www.printables.com/model/534736-voron-trident-stepper-spacer",
+      "source_version": {
+        "model_modified": "2023-08-03T13:41:21.489657+00:00",
+        "file_revisions": [
+          {
+            "file_id": "2312954",
+            "created": "2023-08-03T13:36:45.432179+00:00",
+            "modified": null
+          }
+        ]
+      },
+      "license": {
+        "observed_id": "3",
+        "observed_name": "Creative Commons — Attribution  — Noncommercial",
+        "version": null,
+        "version_inferred": false,
+        "author_license_url": "https://www.printables.com/model/534736-voron-trident-stepper-spacer",
+        "specific_deed_url_proven": false,
+        "disallowRemixing": false,
+        "evidence_sha256": "552aa6c95f6ee1a09d2eefe69a4f739bf0dd97e87ce50c2eb093a18929e51980",
+        "evidence_file": "AUTHOR_METADATA.json",
+        "scope": "Observed author upload license; does not assert separate purchased/vendored component terms."
+      },
+      "original_files_modified": false,
+      "original_files": [
+        {
+          "source_id": "534736/2312954",
+          "file_id": "2312954",
+          "name": "Stepper_Spacer.stl",
+          "bytes": 134484,
+          "sha256": "083c365efe8850f54d909c9c61a9ffafcc92f8cea37a5f84211d3311490af92b",
+          "created": "2023-08-03T13:36:45.432179+00:00",
+          "modified": null,
+          "retrieved_at_utc": "2026-10-07T20:34:20.407811+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/534736/stls/4368348_bfe0ec05-87ff-4bd7-b850-aa89f5e07a40/stepper_spacer.stl",
+          "archive_member": "originals/Stepper_Spacer.stl"
+        }
+      ],
+      "derived_asset_modifications": null,
+      "derived_asset_hash_binding": "Bind final viewer producer/asset receipts separately; this source archive makes no assertion that derived geometry is unchanged.",
+      "authored_description_sha256": "2530ab76004cb90da9a1a0eff5cb3b890642d160b0debe436d5f57a020e165e6",
+      "author_remix_metadata": [],
+      "scope": "Original source transfer and attribution only. No installed-machine, mounting, motion, endstop, spring, clearance or whole-machine verification is claimed.",
+      "machine_verification_claims": false,
+      "source_archive": {
+        "name": "REQUESTED_MOD_534736_ORIGINAL_SOURCE_96.zip",
+        "bytes": 36027,
+        "sha256": "5d24614493589a7a81cd525f6e02cc7b42897d8370f61fdcf07a49b83bdda149",
+        "url": "https://github.com/Psych0h3ad/3d-print-rig-large-voron-models/releases/download/requested-mods-v1/REQUESTED_MOD_534736_ORIGINAL_SOURCE_96.zip",
+        "publication_pending": false,
+        "distribution": "Release artifact; not counted as a Pages model asset."
+      },
+      "notice_file": "licenses/requested-mods-96/534736/NOTICE.txt",
+      "notice_sha256": "051a33c1f9dbb9b614884054c2209c799ebd8da661aa68cc5b5ab721a5540f53"
+    },
+    {
+      "id": "requested_mod_546970",
+      "source_id": "546970",
+      "title": "X1C/P1P style nozzle wiper MOD for Voron [Beta]",
+      "author": {
+        "id": "171725",
+        "handle": "IconicFAB",
+        "publicUsername": "Iconic FAB"
+      },
+      "source_url": "https://www.printables.com/model/546970-x1cp1p-style-nozzle-wiper-mod-for-voron-beta",
+      "source_version": {
+        "model_modified": "2026-07-26T17:07:47.143712+00:00",
+        "file_revisions": [
+          {
+            "file_id": "2373424",
+            "created": "2023-08-20T18:38:28.352577+00:00",
+            "modified": "2023-08-20T18:44:15.923129+00:00"
+          },
+          {
+            "file_id": "7477232",
+            "created": "2026-07-26T17:06:33.334792+00:00",
+            "modified": "2026-07-26T17:06:33.334799+00:00"
+          }
+        ]
+      },
+      "license": {
+        "observed_id": "2",
+        "observed_name": "Creative Commons — Attribution  — Share Alike",
+        "version": null,
+        "version_inferred": false,
+        "author_license_url": "https://www.printables.com/model/546970-x1cp1p-style-nozzle-wiper-mod-for-voron-beta",
+        "specific_deed_url_proven": false,
+        "disallowRemixing": false,
+        "evidence_sha256": "a86b7efac8ec5081f62458ad65d64edc951d26133dc3367218fce1af0e612030",
+        "evidence_file": "AUTHOR_METADATA.json",
+        "scope": "Observed author upload license; does not assert separate purchased/vendored component terms."
+      },
+      "original_files_modified": false,
+      "original_files": [
+        {
+          "source_id": "546970/2373424",
+          "file_id": "2373424",
+          "name": "nozzle_wiper_mount_beta_1.2_(Iconic-FAB.com).stl",
+          "bytes": 241084,
+          "sha256": "d78d6a89a5c3dc6d72e1cf5932567539f1571080014f2c83cb1cd9428280e37c",
+          "created": "2023-08-20T18:38:28.352577+00:00",
+          "modified": "2023-08-20T18:44:15.923129+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:00.948012+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/546970/stls/4481092_9058d5f5-bd70-4ab4-be60-786a74286137/nozzle_wiper_mount_beta_12_iconic-fabcom.stl",
+          "archive_member": "originals/nozzle_wiper_mount_beta_1.2_(Iconic-FAB.com).stl"
+        },
+        {
+          "source_id": "546970/7477232",
+          "file_id": "7477232",
+          "name": "X1CP1P style nozzle wiper MOD for Voron [Beta]_(Iconic-FAB.com).step",
+          "bytes": 494513,
+          "sha256": "3720e6d6f4f5d6856357aa62cdf70552be5fe27a91c57601d084521f59126b92",
+          "created": "2026-07-26T17:06:33.334792+00:00",
+          "modified": "2026-07-26T17:06:33.334799+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:02.430758+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/eb6bad14-0fe0-45ff-9e24-b650cdb7b30e/stls/13432966_82e8b709-ac5f-4981-98ea-cd797813188f_330cd89c-6266-465c-ab14-cc08110e70ed/x1cp1p-style-nozzle-wiper-mod-for-voron-beta_iconic-fabcom.step",
+          "archive_member": "originals/X1CP1P style nozzle wiper MOD for Voron [Beta]_(Iconic-FAB.com).step"
+        }
+      ],
+      "derived_asset_modifications": null,
+      "derived_asset_hash_binding": "Bind final viewer producer/asset receipts separately; this source archive makes no assertion that derived geometry is unchanged.",
+      "authored_description_sha256": "47006db1e054b265c8cae8b019cb4ff4eacf8eafd72adbaa2200274a3bb5202e",
+      "author_remix_metadata": [],
+      "scope": "Original source transfer and attribution only. No installed-machine, mounting, motion, endstop, spring, clearance or whole-machine verification is claimed.",
+      "machine_verification_claims": false,
+      "authored_attribution": "The author description attributes the wiper mount base to hartk1213 Voron2.4 SexBolt ZEndstop; this is retained, not a separate license-version proof.",
+      "source_archive": {
+        "name": "REQUESTED_MOD_546970_ORIGINAL_SOURCE_96.zip",
+        "bytes": 1369821,
+        "sha256": "d6dac9ee7d0b58673fc26f5118b05e011c2c547f17ee5a6acdd71cdd36ff30a2",
+        "url": "https://github.com/Psych0h3ad/3d-print-rig-large-voron-models/releases/download/requested-mods-v1/REQUESTED_MOD_546970_ORIGINAL_SOURCE_96.zip",
+        "publication_pending": false,
+        "distribution": "Release artifact; not counted as a Pages model asset."
+      },
+      "notice_file": "licenses/requested-mods-96/546970/NOTICE.txt",
+      "notice_sha256": "6e55b511fe7cb9651a62b1169691392ea1c9025cf8047e026cc84343d2a1f6d6"
+    },
+    {
+      "id": "requested_mod_681594",
+      "source_id": "681594",
+      "title": "EVA TOOLHEAD FOR VORON TRIDENT",
+      "author": {
+        "id": "240146",
+        "handle": "FOX_240146",
+        "publicUsername": "FOX"
+      },
+      "source_url": "https://www.printables.com/model/681594-eva-toolhead-for-voron-trident",
+      "source_version": {
+        "model_modified": "2023-12-15T15:55:24.505701+00:00",
+        "file_revisions": [
+          {
+            "file_id": "2869449",
+            "created": "2023-12-15T15:51:50.572127+00:00",
+            "modified": "2023-12-15T15:51:50.572151+00:00"
+          }
+        ]
+      },
+      "license": {
+        "observed_id": "1",
+        "observed_name": "Creative Commons — Attribution",
+        "version": null,
+        "version_inferred": false,
+        "author_license_url": "https://www.printables.com/model/681594-eva-toolhead-for-voron-trident",
+        "specific_deed_url_proven": false,
+        "disallowRemixing": false,
+        "evidence_sha256": "13f263cf52ea44ee995437952397225def045203753dc482a24ee314a65f89e7",
+        "evidence_file": "AUTHOR_METADATA.json",
+        "scope": "Observed author upload license; does not assert separate purchased/vendored component terms."
+      },
+      "original_files_modified": false,
+      "original_files": [
+        {
+          "source_id": "681594/2869449",
+          "file_id": "2869449",
+          "name": "EVA_VORON v41.step",
+          "bytes": 92244030,
+          "sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+          "created": "2023-12-15T15:51:50.572127+00:00",
+          "modified": "2023-12-15T15:51:50.572151+00:00",
+          "retrieved_at_utc": "2026-10-07T20:24:58.657683+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/681594/stls/5356013_071c6d81-f1f0-4314-8c6d-88a94cdf9626_f852f48c-161d-4aa7-b15a-a083924821e3/eva_voron-v41.step",
+          "archive_member": "originals/EVA_VORON v41.step"
+        }
+      ],
+      "derived_asset_modifications": null,
+      "derived_asset_hash_binding": "Bind final viewer producer/asset receipts separately; this source archive makes no assertion that derived geometry is unchanged.",
+      "authored_description_sha256": "8432aa26fb0b4fff05b4a6e15d82ec56ac71d53188d34f4b5902033fd41f59ae",
+      "author_remix_metadata": [],
+      "scope": "Original source transfer and attribution only. No installed-machine, mounting, motion, endstop, spring, clearance or whole-machine verification is claimed.",
+      "machine_verification_claims": false,
+      "source_archive": {
+        "name": "REQUESTED_MOD_681594_ORIGINAL_SOURCE_96.zip",
+        "bytes": 18404906,
+        "sha256": "9cc5ec51c9416003df4acc2a6738ec669aee8163ec9d00063c0e46af9d31946f",
+        "url": "https://github.com/Psych0h3ad/3d-print-rig-large-voron-models/releases/download/requested-mods-v1/REQUESTED_MOD_681594_ORIGINAL_SOURCE_96.zip",
+        "publication_pending": false,
+        "distribution": "Release artifact; not counted as a Pages model asset."
+      },
+      "notice_file": "licenses/requested-mods-96/681594/NOTICE.txt",
+      "notice_sha256": "871a3190154d212963c986d678558a53303958efb0aadc0cd85dd5979b0b76dc"
+    },
+    {
+      "id": "requested_mod_841565",
+      "source_id": "841565",
+      "title": "Tall skirts mod for Voron 0.2",
+      "author": {
+        "id": "145063",
+        "handle": "Akio",
+        "publicUsername": "Akio"
+      },
+      "source_url": "https://www.printables.com/model/841565-tall-skirts-mod-for-voron-02",
+      "source_version": {
+        "model_modified": "2024-05-16T19:38:43.821078+00:00",
+        "file_revisions": [
+          {
+            "file_id": "3712558",
+            "created": "2024-05-15T18:40:39.073514+00:00",
+            "modified": "2024-05-15T19:46:46.884320+00:00"
+          },
+          {
+            "file_id": "3712522",
+            "created": "2024-05-15T18:40:28.612727+00:00",
+            "modified": "2024-05-15T19:46:46.915814+00:00"
+          },
+          {
+            "file_id": "3712531",
+            "created": "2024-05-15T18:40:30.916685+00:00",
+            "modified": "2024-05-15T19:46:46.895247+00:00"
+          },
+          {
+            "file_id": "3712520",
+            "created": "2024-05-15T18:40:27.650671+00:00",
+            "modified": "2024-05-15T19:46:46.909091+00:00"
+          },
+          {
+            "file_id": "3712543",
+            "created": "2024-05-15T18:40:34.688226+00:00",
+            "modified": "2024-05-15T19:46:46.902991+00:00"
+          },
+          {
+            "file_id": "3712534",
+            "created": "2024-05-15T18:40:31.153575+00:00",
+            "modified": "2024-05-15T19:46:46.912884+00:00"
+          },
+          {
+            "file_id": "3712555",
+            "created": "2024-05-15T18:40:38.362133+00:00",
+            "modified": "2024-05-15T19:46:46.931050+00:00"
+          },
+          {
+            "file_id": "3712528",
+            "created": "2024-05-15T18:40:30.541684+00:00",
+            "modified": "2024-05-15T19:46:46.899766+00:00"
+          },
+          {
+            "file_id": "3712544",
+            "created": "2024-05-15T18:40:35.330406+00:00",
+            "modified": "2024-05-15T19:46:46.941392+00:00"
+          },
+          {
+            "file_id": "3712523",
+            "created": "2024-05-15T18:40:29.022967+00:00",
+            "modified": "2024-05-15T19:46:46.900917+00:00"
+          },
+          {
+            "file_id": "3712542",
+            "created": "2024-05-15T18:40:34.611313+00:00",
+            "modified": "2024-05-15T19:46:46.821485+00:00"
+          },
+          {
+            "file_id": "3712526",
+            "created": "2024-05-15T18:40:29.912597+00:00",
+            "modified": "2024-05-15T19:46:46.817478+00:00"
+          },
+          {
+            "file_id": "3712552",
+            "created": "2024-05-15T18:40:38.190999+00:00",
+            "modified": "2024-05-15T19:46:46.851905+00:00"
+          },
+          {
+            "file_id": "3712537",
+            "created": "2024-05-15T18:40:32.102972+00:00",
+            "modified": "2024-05-15T19:46:46.822389+00:00"
+          },
+          {
+            "file_id": "3712538",
+            "created": "2024-05-15T18:40:32.997208+00:00",
+            "modified": "2024-05-15T19:46:46.817247+00:00"
+          },
+          {
+            "file_id": "3712524",
+            "created": "2024-05-15T18:40:29.271885+00:00",
+            "modified": "2024-05-15T19:46:46.851400+00:00"
+          },
+          {
+            "file_id": "3712535",
+            "created": "2024-05-15T18:40:31.485746+00:00",
+            "modified": "2024-05-15T19:46:46.823713+00:00"
+          },
+          {
+            "file_id": "3712521",
+            "created": "2024-05-15T18:40:28.207276+00:00",
+            "modified": "2024-05-15T19:46:46.822650+00:00"
+          },
+          {
+            "file_id": "3712541",
+            "created": "2024-05-15T18:40:33.653505+00:00",
+            "modified": "2024-05-15T19:46:46.830603+00:00"
+          },
+          {
+            "file_id": "3712515",
+            "created": "2024-05-15T18:40:26.796205+00:00",
+            "modified": "2024-05-15T19:46:46.828362+00:00"
+          },
+          {
+            "file_id": "3712532",
+            "created": "2024-05-15T18:40:31.015483+00:00",
+            "modified": "2024-05-15T19:46:46.855219+00:00"
+          },
+          {
+            "file_id": "3712516",
+            "created": "2024-05-15T18:40:26.801733+00:00",
+            "modified": "2024-05-15T19:46:46.872393+00:00"
+          },
+          {
+            "file_id": "3712525",
+            "created": "2024-05-15T18:40:29.432912+00:00",
+            "modified": "2024-05-15T19:46:46.881946+00:00"
+          },
+          {
+            "file_id": "3712518",
+            "created": "2024-05-15T18:40:26.839953+00:00",
+            "modified": "2024-05-15T19:46:46.903387+00:00"
+          },
+          {
+            "file_id": "3712551",
+            "created": "2024-05-15T18:40:37.067428+00:00",
+            "modified": "2024-05-15T19:46:46.911247+00:00"
+          },
+          {
+            "file_id": "3712546",
+            "created": "2024-05-15T18:40:36.353416+00:00",
+            "modified": "2024-05-15T19:46:46.887877+00:00"
+          },
+          {
+            "file_id": "3712533",
+            "created": "2024-05-15T18:40:31.016665+00:00",
+            "modified": "2024-05-15T19:46:46.860528+00:00"
+          },
+          {
+            "file_id": "3712519",
+            "created": "2024-05-15T18:40:26.970451+00:00",
+            "modified": "2024-05-15T19:46:46.903688+00:00"
+          },
+          {
+            "file_id": "3712556",
+            "created": "2024-05-15T18:40:38.851107+00:00",
+            "modified": "2024-05-15T19:46:46.862733+00:00"
+          },
+          {
+            "file_id": "3712529",
+            "created": "2024-05-15T18:40:30.548319+00:00",
+            "modified": "2024-05-15T19:46:46.876615+00:00"
+          },
+          {
+            "file_id": "3712530",
+            "created": "2024-05-15T18:40:30.648117+00:00",
+            "modified": "2024-05-15T19:46:46.877006+00:00"
+          },
+          {
+            "file_id": "3712517",
+            "created": "2024-05-15T18:40:26.810760+00:00",
+            "modified": "2024-05-15T19:46:46.886313+00:00"
+          },
+          {
+            "file_id": "3712549",
+            "created": "2024-05-15T18:40:36.954759+00:00",
+            "modified": "2024-05-15T19:46:46.896065+00:00"
+          },
+          {
+            "file_id": "3712527",
+            "created": "2024-05-15T18:40:29.976166+00:00",
+            "modified": "2024-05-15T19:46:46.876858+00:00"
+          },
+          {
+            "file_id": "3712553",
+            "created": "2024-05-15T18:40:38.292657+00:00",
+            "modified": "2024-05-15T19:46:46.866019+00:00"
+          },
+          {
+            "file_id": "3712547",
+            "created": "2024-05-15T18:40:36.660464+00:00",
+            "modified": "2024-05-15T19:46:46.901361+00:00"
+          },
+          {
+            "file_id": "3712554",
+            "created": "2024-05-15T18:40:38.331762+00:00",
+            "modified": "2024-05-15T19:46:46.857018+00:00"
+          },
+          {
+            "file_id": "3712536",
+            "created": "2024-05-15T18:40:32.052391+00:00",
+            "modified": "2024-05-15T19:46:46.871199+00:00"
+          },
+          {
+            "file_id": "3712548",
+            "created": "2024-05-15T18:40:36.761546+00:00",
+            "modified": "2024-05-15T19:46:46.876316+00:00"
+          },
+          {
+            "file_id": "3712539",
+            "created": "2024-05-15T18:40:33.199682+00:00",
+            "modified": "2024-05-15T19:46:46.867190+00:00"
+          },
+          {
+            "file_id": "3712557",
+            "created": "2024-05-15T18:40:38.885268+00:00",
+            "modified": "2024-05-15T19:46:46.862008+00:00"
+          },
+          {
+            "file_id": "3712540",
+            "created": "2024-05-15T18:40:33.388397+00:00",
+            "modified": "2024-05-15T19:46:46.868713+00:00"
+          },
+          {
+            "file_id": "3712545",
+            "created": "2024-05-15T18:40:35.510130+00:00",
+            "modified": "2024-05-15T19:46:46.863516+00:00"
+          },
+          {
+            "file_id": "3712550",
+            "created": "2024-05-15T18:40:37.061008+00:00",
+            "modified": "2024-05-15T19:46:46.899525+00:00"
+          },
+          {
+            "file_id": "3717273",
+            "created": "2024-05-16T19:23:04.120767+00:00",
+            "modified": "2024-05-16T19:29:13.225921+00:00"
+          }
+        ]
+      },
+      "license": {
+        "observed_id": "12",
+        "observed_name": "GNU General Public License v3.0",
+        "version": "3.0",
+        "version_inferred": false,
+        "author_license_url": "https://www.printables.com/model/841565-tall-skirts-mod-for-voron-02",
+        "specific_deed_url_proven": false,
+        "disallowRemixing": false,
+        "evidence_sha256": "495cab27d37701c16ad59c0da766d3db285249e452833bbe6433523fcf37d18c",
+        "evidence_file": "AUTHOR_METADATA.json",
+        "scope": "Observed author upload license; does not assert separate purchased/vendored component terms."
+      },
+      "original_files_modified": false,
+      "original_files": [
+        {
+          "source_id": "841565/3712558",
+          "file_id": "3712558",
+          "name": "Tall_Foot_Front_Right_x1.stl",
+          "bytes": 1042584,
+          "sha256": "a41c6e0a810e0955cc520ba8b4ca1d187e607669de0db7bcad013569b92000de",
+          "created": "2024-05-15T18:40:39.073514+00:00",
+          "modified": "2024-05-15T19:46:46.884320+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:05.036501+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752221_598752dd-fe78-4cae-8adf-755e8bb03abf_b645e928-ff2b-41d7-806c-2ac11cc568ac/tall_foot_front_right_x1.stl",
+          "archive_member": "originals/Tall_Foot_Front_Right_x1.stl"
+        },
+        {
+          "source_id": "841565/3712522",
+          "file_id": "3712522",
+          "name": "Tall_Foot_Front_Right_x1.step",
+          "bytes": 370819,
+          "sha256": "98ddfbe45027daabcbee90dd9cbf665e7baa84b1333e9f911eeede176caed0f0",
+          "created": "2024-05-15T18:40:28.612727+00:00",
+          "modified": "2024-05-15T19:46:46.915814+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:05.851715+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752187_24366ae3-3672-4d5b-8d75-cde0ddec04e4_c7bacfa6-2ab1-4bb4-b36e-e267cbda8142/tall_foot_front_right_x1.step",
+          "archive_member": "originals/Tall_Foot_Front_Right_x1.step"
+        },
+        {
+          "source_id": "841565/3712531",
+          "file_id": "3712531",
+          "name": "Tall_Foot_Front_Left_x1.stl",
+          "bytes": 1043284,
+          "sha256": "99e974a6343ee2009c7e2cf1a37def085d706528ea58aa1f96cca8c270bf2188",
+          "created": "2024-05-15T18:40:30.916685+00:00",
+          "modified": "2024-05-15T19:46:46.895247+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:07.066995+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752194_f7a15947-a075-432a-a85d-8b3335296419_ee7f61fd-85a8-4dab-b88d-81757faf94df/tall_foot_front_left_x1.stl",
+          "archive_member": "originals/Tall_Foot_Front_Left_x1.stl"
+        },
+        {
+          "source_id": "841565/3712520",
+          "file_id": "3712520",
+          "name": "Tall_Foot_Front_Left_x1.step",
+          "bytes": 373366,
+          "sha256": "c729f99209d1cccd4e750a4b0cab8868fa4e5af678aaa3664e6ded9571007ed9",
+          "created": "2024-05-15T18:40:27.650671+00:00",
+          "modified": "2024-05-15T19:46:46.909091+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:08.612798+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752185_3036622b-0bb9-40c4-a50e-74e6c56e99c3_0b4d8f69-93ce-42d3-bf3c-ec709f8fa3e5/tall_foot_front_left_x1.step",
+          "archive_member": "originals/Tall_Foot_Front_Left_x1.step"
+        },
+        {
+          "source_id": "841565/3712543",
+          "file_id": "3712543",
+          "name": "Tall_Foot_Rear_Right_Plain_x1.stl",
+          "bytes": 608584,
+          "sha256": "8a877c7e89fd382676f1a0b5e83b36e5e88c85379e7170262f2132ebb0fe465e",
+          "created": "2024-05-15T18:40:34.688226+00:00",
+          "modified": "2024-05-15T19:46:46.902991+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:09.741880+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752213_15b0c755-8474-42ea-96d2-bfebfaea1105_d8391899-1892-4d61-9afe-83df9e300125/tall_foot_rear_right_plain_x1.stl",
+          "archive_member": "originals/Tall_Foot_Rear_Right_Plain_x1.stl"
+        },
+        {
+          "source_id": "841565/3712534",
+          "file_id": "3712534",
+          "name": "Tall_Foot_Rear_Right_Plain_x1.step",
+          "bytes": 299369,
+          "sha256": "a5538fc43a9f494beba5507001eac04238797701c78f8695b12277e2e1177819",
+          "created": "2024-05-15T18:40:31.153575+00:00",
+          "modified": "2024-05-15T19:46:46.912884+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:10.659973+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752196_a336f38a-c6c5-4faf-9d79-e8d35627ea57_80dd3fe8-8769-4a0d-9b19-38096f4e7c04/tall_foot_rear_right_plain_x1.step",
+          "archive_member": "originals/Tall_Foot_Rear_Right_Plain_x1.step"
+        },
+        {
+          "source_id": "841565/3712555",
+          "file_id": "3712555",
+          "name": "Tall_Foot_Rear_Right_FRS_x1.stl",
+          "bytes": 2259984,
+          "sha256": "25a1cb61e9ec708a3df955bdc1df4092c2321f68472c873e2e70954dadcd97b3",
+          "created": "2024-05-15T18:40:38.362133+00:00",
+          "modified": "2024-05-15T19:46:46.931050+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:12.334622+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752209_cd867465-2e9e-4640-a9ff-20ea114e979a_f894962d-f30c-416b-9284-e7c163745a35/tall_foot_rear_right_frs_x1.stl",
+          "archive_member": "originals/Tall_Foot_Rear_Right_FRS_x1.stl"
+        },
+        {
+          "source_id": "841565/3712528",
+          "file_id": "3712528",
+          "name": "Tall_Foot_Rear_Right_FRS_x1.step",
+          "bytes": 828875,
+          "sha256": "d1d39901b4ed86f7e9c296bf7cd67e55db060dfb4704594e734586bc4db69139",
+          "created": "2024-05-15T18:40:30.541684+00:00",
+          "modified": "2024-05-15T19:46:46.899766+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:13.915498+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752192_cf31e89a-b965-46f9-baa6-911bedaf4e7c_126e2d8c-5dc3-4390-9dcc-bca02d9f6579/tall_foot_rear_right_frs_x1.step",
+          "archive_member": "originals/Tall_Foot_Rear_Right_FRS_x1.step"
+        },
+        {
+          "source_id": "841565/3712544",
+          "file_id": "3712544",
+          "name": "Tall_Foot_Rear_Left_Mains_Inlet_x1.stl",
+          "bytes": 512184,
+          "sha256": "702c83504057b2e7f965a5129f0ef31843cfe6fa931fb404b4d7867a889ce3bc",
+          "created": "2024-05-15T18:40:35.330406+00:00",
+          "modified": "2024-05-15T19:46:46.941392+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:14.985613+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752218_51c21159-fb66-4404-97e7-05ebec8cc2cf_a1c52a06-ac59-438c-9a98-ab99370acf38/tall_foot_rear_left_mains_inlet_x1.stl",
+          "archive_member": "originals/Tall_Foot_Rear_Left_Mains_Inlet_x1.stl"
+        },
+        {
+          "source_id": "841565/3712523",
+          "file_id": "3712523",
+          "name": "Tall_Foot_Rear_Left_Mains_Inlet_x1.step",
+          "bytes": 677127,
+          "sha256": "295c425a23d2d43af26fbee2deef6d33c1f00849e78c7ffd9f789fcb5a2487ef",
+          "created": "2024-05-15T18:40:29.022967+00:00",
+          "modified": "2024-05-15T19:46:46.900917+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:15.858558+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752190_75175d3b-56fa-4280-98db-cec7325a9842_608fa643-6b6a-49dc-9559-95475bb1a150/tall_foot_rear_left_mains_inlet_x1.step",
+          "archive_member": "originals/Tall_Foot_Rear_Left_Mains_Inlet_x1.step"
+        },
+        {
+          "source_id": "841565/3712542",
+          "file_id": "3712542",
+          "name": "Tall_Foot_Rear_Left_Mains_Inlet_RJ45_x1.stl",
+          "bytes": 531184,
+          "sha256": "83976e613250ff71b9aad816c44c9963f7e004692a1c1bc24f11388d085702d7",
+          "created": "2024-05-15T18:40:34.611313+00:00",
+          "modified": "2024-05-15T19:46:46.821485+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:16.995966+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752208_e3533552-4116-42d4-b7fa-e6f16c8719d5_c528bb8f-ae35-4f3d-ab95-a162f30cd932/tall_foot_rear_left_mains_inlet_rj45_x1.stl",
+          "archive_member": "originals/Tall_Foot_Rear_Left_Mains_Inlet_RJ45_x1.stl"
+        },
+        {
+          "source_id": "841565/3712526",
+          "file_id": "3712526",
+          "name": "Tall_Foot_Rear_Left_Mains_Inlet_RJ45_x1.step",
+          "bytes": 707640,
+          "sha256": "b1be4dbd9a7aaac390251867982072da6f02f1e4ffbb0c846b66c333bdd7f72e",
+          "created": "2024-05-15T18:40:29.912597+00:00",
+          "modified": "2024-05-15T19:46:46.817478+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:17.867031+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752189_4fefccc2-f11e-45e7-8c24-68883b0e53e9_82a65801-663a-4f02-aad3-57e2f114f9dd/tall_foot_rear_left_mains_inlet_rj45_x1.step",
+          "archive_member": "originals/Tall_Foot_Rear_Left_Mains_Inlet_RJ45_x1.step"
+        },
+        {
+          "source_id": "841565/3712552",
+          "file_id": "3712552",
+          "name": "Tall_Foot_Rear_Left_24V_Inlet_x1.stl",
+          "bytes": 511784,
+          "sha256": "48a117dad403cb4c0a0cc848661c6c7dc00547b86eda474ba6a4c5b310717c54",
+          "created": "2024-05-15T18:40:38.190999+00:00",
+          "modified": "2024-05-15T19:46:46.851905+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:19.407413+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752219_0458a738-cd8a-4c96-8e58-29544e92a406_11bd455b-26c7-4227-be0b-e551969530be/tall_foot_rear_left_24v_inlet_x1.stl",
+          "archive_member": "originals/Tall_Foot_Rear_Left_24V_Inlet_x1.stl"
+        },
+        {
+          "source_id": "841565/3712537",
+          "file_id": "3712537",
+          "name": "Tall_Foot_Rear_Left_24V_Inlet_x1.step",
+          "bytes": 679625,
+          "sha256": "3918541ef4e3c10a10cbdc54f5877447bdb2260714872bae69c26545e4444bb0",
+          "created": "2024-05-15T18:40:32.102972+00:00",
+          "modified": "2024-05-15T19:46:46.822389+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:20.312437+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752203_b0bce4c3-164d-4f97-b6fd-3346a60b64fd_c568758a-d0d2-4ad8-a7c5-4a89749fd553/tall_foot_rear_left_24v_inlet_x1.step",
+          "archive_member": "originals/Tall_Foot_Rear_Left_24V_Inlet_x1.step"
+        },
+        {
+          "source_id": "841565/3712538",
+          "file_id": "3712538",
+          "name": "Tall_Foot_Rear_Left_24V_Inlet_RJ45_x1.stl",
+          "bytes": 539584,
+          "sha256": "e8d410b9f1ee410b44208bfdddcd1180ab85f21a2ac2ea70040e1b98314dcbc0",
+          "created": "2024-05-15T18:40:32.997208+00:00",
+          "modified": "2024-05-15T19:46:46.817247+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:21.268725+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752205_d258aa6e-5186-491a-94a3-f82c1445d34c_d4b406ba-d835-46af-bab7-0d4f450d066f/tall_foot_rear_left_24v_inlet_rj45_x1.stl",
+          "archive_member": "originals/Tall_Foot_Rear_Left_24V_Inlet_RJ45_x1.stl"
+        },
+        {
+          "source_id": "841565/3712524",
+          "file_id": "3712524",
+          "name": "Tall_Foot_Rear_Left_24V_Inlet_RJ45_x1.step",
+          "bytes": 719021,
+          "sha256": "efdb1566e2d2e25da2c38765d23181122b30503ac097384b2ff46f18f7f42db7",
+          "created": "2024-05-15T18:40:29.271885+00:00",
+          "modified": "2024-05-15T19:46:46.851400+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:22.505885+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752188_82bcd014-c6b9-44a2-a565-686c7feddc8d_b236f8d9-7664-446c-b799-f09905d50657/tall_foot_rear_left_24v_inlet_rj45_x1.step",
+          "archive_member": "originals/Tall_Foot_Rear_Left_24V_Inlet_RJ45_x1.step"
+        },
+        {
+          "source_id": "841565/3712535",
+          "file_id": "3712535",
+          "name": "Tall_Foot_Rear_Left_Cover.stl",
+          "bytes": 168784,
+          "sha256": "ba3b51b1bab26acb28512cfe5301fc2316b44d57c95db7c5d8c35765a7735b69",
+          "created": "2024-05-15T18:40:31.485746+00:00",
+          "modified": "2024-05-15T19:46:46.823713+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:23.433932+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752197_62356f28-0a1c-4f3b-b9a8-d707e4cc0a12_7959619a-df68-4dd1-94db-4b6bd8fe5a8b/tall_foot_rear_left_cover.stl",
+          "archive_member": "originals/Tall_Foot_Rear_Left_Cover.stl"
+        },
+        {
+          "source_id": "841565/3712521",
+          "file_id": "3712521",
+          "name": "Tall_Foot_Rear_Left_Cover.step",
+          "bytes": 136092,
+          "sha256": "2825b11ebfe80af2350b65da71006e2b8787bda8431464771124b79d898d8db5",
+          "created": "2024-05-15T18:40:28.207276+00:00",
+          "modified": "2024-05-15T19:46:46.822650+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:24.215450+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752186_67591aa8-0c55-4298-bc8c-bf38701e0668_ea44f6f5-e4c5-4924-bbe2-67c9dc6a8dd9/tall_foot_rear_left_cover.step",
+          "archive_member": "originals/Tall_Foot_Rear_Left_Cover.step"
+        },
+        {
+          "source_id": "841565/3712541",
+          "file_id": "3712541",
+          "name": "Keystone_Insert_Bracket.stl",
+          "bytes": 47684,
+          "sha256": "04ce6fb278e8a309ec66bc524ecf8d8b243ae6078c56df81f83bde07cc41ad5a",
+          "created": "2024-05-15T18:40:33.653505+00:00",
+          "modified": "2024-05-15T19:46:46.830603+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:25.070864+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752212_2f4fa0e8-d82b-4b2f-9738-03d149aa1ef0_7f220038-1142-4314-bd9d-229b8ff08b01/keystone_insert_bracket.stl",
+          "archive_member": "originals/Keystone_Insert_Bracket.stl"
+        },
+        {
+          "source_id": "841565/3712515",
+          "file_id": "3712515",
+          "name": "Keystone_Insert_Bracket.step",
+          "bytes": 92842,
+          "sha256": "c38d261815b8da957d9f8dd1d5900134e156ce9e3bb7d14764d63679504c08d2",
+          "created": "2024-05-15T18:40:26.796205+00:00",
+          "modified": "2024-05-15T19:46:46.828362+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:25.861060+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752184_ebf2f12f-6787-4a31-864b-f477c13c9d75_409000dc-295e-4547-b201-dc30fbe0c9d0/keystone_insert_bracket.step",
+          "archive_member": "originals/Keystone_Insert_Bracket.step"
+        },
+        {
+          "source_id": "841565/3712532",
+          "file_id": "3712532",
+          "name": "[a]_Foot_Accent_A_x2.stl",
+          "bytes": 435084,
+          "sha256": "818c4268b57affc707e876cad5c57e5bd77c32c6c17f334e89f426cee1f1a26a",
+          "created": "2024-05-15T18:40:31.015483+00:00",
+          "modified": "2024-05-15T19:46:46.855219+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:27.199008+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752200_f729fd03-fe2f-4509-9d1b-c9e4df3bb0ce_161de55f-d0c8-4ab7-af32-5c5d6e0c87b2/a_foot_accent_a_x2.stl",
+          "archive_member": "originals/[a]_Foot_Accent_A_x2.stl"
+        },
+        {
+          "source_id": "841565/3712516",
+          "file_id": "3712516",
+          "name": "[a]_Foot_Accent_A_x2.step",
+          "bytes": 128146,
+          "sha256": "361d0eddd9c2a1f050105030f54d91cb3e5e9887aa8861fa51537e47d3cc2608",
+          "created": "2024-05-15T18:40:26.801733+00:00",
+          "modified": "2024-05-15T19:46:46.872393+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:28.018322+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752180_63e62fd8-b1d7-45fc-9bef-b601406c0954_39c3b3f2-822a-439f-b0c5-62c1a890dfd3/a_foot_accent_a_x2.step",
+          "archive_member": "originals/[a]_Foot_Accent_A_x2.step"
+        },
+        {
+          "source_id": "841565/3712525",
+          "file_id": "3712525",
+          "name": "[a]_Foot_Accent_B_x2.stl",
+          "bytes": 435084,
+          "sha256": "f576eaade721a09e1770fbf2c21d03cb803d7a0aaf2d0dc93cf8ea1f6aa8696b",
+          "created": "2024-05-15T18:40:29.432912+00:00",
+          "modified": "2024-05-15T19:46:46.881946+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:29.182726+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752193_22842345-4c4c-44f6-9621-535e9e50ae9a_150aa39b-fcaa-4b7d-ac12-6bbda9bcfe42/a_foot_accent_b_x2.stl",
+          "archive_member": "originals/[a]_Foot_Accent_B_x2.stl"
+        },
+        {
+          "source_id": "841565/3712518",
+          "file_id": "3712518",
+          "name": "[a]_Foot_Accent_B_x2.step",
+          "bytes": 128700,
+          "sha256": "926485bd2c51a98e8aa3512ac9b5eebafc8344616e001dd1d87bc6891be342ce",
+          "created": "2024-05-15T18:40:26.839953+00:00",
+          "modified": "2024-05-15T19:46:46.903387+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:29.938539+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752179_7f24aad8-7ad9-408c-b79a-2a634d29e1d1_af43d8ec-0810-44b4-92b2-cf69265cc448/a_foot_accent_b_x2.step",
+          "archive_member": "originals/[a]_Foot_Accent_B_x2.step"
+        },
+        {
+          "source_id": "841565/3712551",
+          "file_id": "3712551",
+          "name": "Tall_Front_Skirt_x1.stl",
+          "bytes": 1267784,
+          "sha256": "62dc91f0c9dd07235408fdb3a6efe50a2867c60569bd1628520233fc7407a49a",
+          "created": "2024-05-15T18:40:37.067428+00:00",
+          "modified": "2024-05-15T19:46:46.911247+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:31.156006+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752215_c4565cca-cf87-49c8-82fc-30856291d858_d2110116-5c5d-49cf-8069-0d1395dcf0e7/tall_front_skirt_x1.stl",
+          "archive_member": "originals/Tall_Front_Skirt_x1.stl"
+        },
+        {
+          "source_id": "841565/3712546",
+          "file_id": "3712546",
+          "name": "Tall_Front_Skirt_x1.step",
+          "bytes": 1702332,
+          "sha256": "6e5f13a8c36c058e5ba78e0ccc327e915d3bc4ed38dc3493cecfac00eb66d363",
+          "created": "2024-05-15T18:40:36.353416+00:00",
+          "modified": "2024-05-15T19:46:46.887877+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:32.461548+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752211_1de2578b-b13a-48f4-9544-186f8c6fa8c6_7c7d7bbe-2c4b-417c-b7c7-dfbfb4699787/tall_front_skirt_x1.step",
+          "archive_member": "originals/Tall_Front_Skirt_x1.step"
+        },
+        {
+          "source_id": "841565/3712533",
+          "file_id": "3712533",
+          "name": "[a]_Logo_Insert_x2.stl",
+          "bytes": 58184,
+          "sha256": "2420b44e896ead24711b31c396596e3a22cf78aa88550e864503d58e13b0681a",
+          "created": "2024-05-15T18:40:31.016665+00:00",
+          "modified": "2024-05-15T19:46:46.860528+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:33.431526+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752198_81891cad-3d5b-426f-829e-eefcdfd97357_e09a0430-1972-4df9-80a9-d773ab179ab0/a_logo_insert_x2.stl",
+          "archive_member": "originals/[a]_Logo_Insert_x2.stl"
+        },
+        {
+          "source_id": "841565/3712519",
+          "file_id": "3712519",
+          "name": "[a]_Logo_Insert_x2.step",
+          "bytes": 43499,
+          "sha256": "26f52c64943afc94302c86757a072e265bcc938b64d0775ca904306a9d842242",
+          "created": "2024-05-15T18:40:26.970451+00:00",
+          "modified": "2024-05-15T19:46:46.903688+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:34.246868+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752182_7f20b091-1c28-4b5a-b704-2fb3eadf5d83_826e968c-62a7-40ff-b3b9-3ae5618cd8e0/a_logo_insert_x2.step",
+          "archive_member": "originals/[a]_Logo_Insert_x2.step"
+        },
+        {
+          "source_id": "841565/3712556",
+          "file_id": "3712556",
+          "name": "Tall_Front_Skirt_Mesh_x1.stl",
+          "bytes": 1276384,
+          "sha256": "90e51c4c9bb0b5085feea4e3b341aa9cfa0a4214d979c6595af535c000b5c2de",
+          "created": "2024-05-15T18:40:38.851107+00:00",
+          "modified": "2024-05-15T19:46:46.862733+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:34.896274+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752222_a694b73a-d4ee-4a40-9d6f-860959c0fd92_6b68d56a-b435-4339-84aa-177c1880e6dd/tall_front_skirt_mesh_x1.stl",
+          "archive_member": "originals/Tall_Front_Skirt_Mesh_x1.stl"
+        },
+        {
+          "source_id": "841565/3712529",
+          "file_id": "3712529",
+          "name": "Tall_Front_Skirt_Mesh_x1.step",
+          "bytes": 1816973,
+          "sha256": "5c7089e7fb137d22e57102a94f957ef48679e03773cad8b8777e6e382f2de822",
+          "created": "2024-05-15T18:40:30.548319+00:00",
+          "modified": "2024-05-15T19:46:46.876615+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:36.663925+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752191_96aa7d85-3fa8-4c7e-ac22-1dc517e32a73_a28c51d8-bdb0-4506-949f-b9c3468dcd80/tall_front_skirt_mesh_x1.step",
+          "archive_member": "originals/Tall_Front_Skirt_Mesh_x1.step"
+        },
+        {
+          "source_id": "841565/3712530",
+          "file_id": "3712530",
+          "name": "[a]_Logo_Insert_Mesh_x2.stl",
+          "bytes": 58184,
+          "sha256": "e8965f32abaeceaf89a93f789e48bf9b5bd3624b97b6e3244826753a7e89bbbd",
+          "created": "2024-05-15T18:40:30.648117+00:00",
+          "modified": "2024-05-15T19:46:46.877006+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:37.497801+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752195_234b9590-240d-4337-8d07-4c929cebe25b_3e6f1664-7060-4515-8b7d-d670b4cf695c/a_logo_insert_mesh_x2.stl",
+          "archive_member": "originals/[a]_Logo_Insert_Mesh_x2.stl"
+        },
+        {
+          "source_id": "841565/3712517",
+          "file_id": "3712517",
+          "name": "[a]_Logo_Insert_Mesh_x2.step",
+          "bytes": 43593,
+          "sha256": "d8bf80b924c84de6b7e4cc5d7002dcedbd680b4975c4cfcd310613172b349427",
+          "created": "2024-05-15T18:40:26.810760+00:00",
+          "modified": "2024-05-15T19:46:46.886313+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:38.283273+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752181_2eedb683-1407-4af1-a49d-2236d523a45b_9bdc9fb8-0581-448f-87a4-2d3443faadf1/a_logo_insert_mesh_x2.step",
+          "archive_member": "originals/[a]_Logo_Insert_Mesh_x2.step"
+        },
+        {
+          "source_id": "841565/3712549",
+          "file_id": "3712549",
+          "name": "Waveshare_4.3_DSI_LCD_Faceplate.stl",
+          "bytes": 96884,
+          "sha256": "beb46f4618a5f4dfa7eb9f142459b6b859638d840a49861332de0ea50f0b9a07",
+          "created": "2024-05-15T18:40:36.954759+00:00",
+          "modified": "2024-05-15T19:46:46.896065+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:39.184982+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752216_af88341d-6376-4217-a8e9-8159b83e180f_9186f110-24e5-4a6e-b1c3-b93732aca62f/waveshare_43_dsi_lcd_faceplate.stl",
+          "archive_member": "originals/Waveshare_4.3_DSI_LCD_Faceplate.stl"
+        },
+        {
+          "source_id": "841565/3712527",
+          "file_id": "3712527",
+          "name": "Waveshare_4.3_DSI_LCD_Faceplate.step",
+          "bytes": 219641,
+          "sha256": "f64442fab9a9421ff45c4313cffd824a29689caedb8c9397491952a228df75f1",
+          "created": "2024-05-15T18:40:29.976166+00:00",
+          "modified": "2024-05-15T19:46:46.876858+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:40.040615+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752201_a994493f-8f42-4f8f-a7ce-fff3b159f088_88e01ecb-8453-43bb-9073-3ce05b0a33f4/waveshare_43_dsi_lcd_faceplate.step",
+          "archive_member": "originals/Waveshare_4.3_DSI_LCD_Faceplate.step"
+        },
+        {
+          "source_id": "841565/3712553",
+          "file_id": "3712553",
+          "name": "Tall_Side_Skirt_x2.stl",
+          "bytes": 779784,
+          "sha256": "d1d76b7c037a45d6f6ed5a394be1e5f8e07ba1d931c45ae3e6749c6e12aa4b80",
+          "created": "2024-05-15T18:40:38.292657+00:00",
+          "modified": "2024-05-15T19:46:46.866019+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:40.697020+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752217_2e5349dc-81d3-4faf-ac8d-d5233062c4a2_6f387c3b-c919-47bc-b5b7-54194a385012/tall_side_skirt_x2.stl",
+          "archive_member": "originals/Tall_Side_Skirt_x2.stl"
+        },
+        {
+          "source_id": "841565/3712547",
+          "file_id": "3712547",
+          "name": "Tall_Side_Skirt_x2.step",
+          "bytes": 1552844,
+          "sha256": "ba3743af59b5f8c662858987ecb9fd790dd6228b01b804588e402ef938345fb4",
+          "created": "2024-05-15T18:40:36.660464+00:00",
+          "modified": "2024-05-15T19:46:46.901361+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:41.425664+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752204_664eb0b1-b3c2-4b92-ab83-2f6a3965518d_d5a4f0d7-1af8-4323-b5bd-3ce59029902d/tall_side_skirt_x2.step",
+          "archive_member": "originals/Tall_Side_Skirt_x2.step"
+        },
+        {
+          "source_id": "841565/3712554",
+          "file_id": "3712554",
+          "name": "Tall_Side_Skirt_Mesh_x2.stl",
+          "bytes": 778984,
+          "sha256": "6555fe97e43c6e25b852d34dcc74e9f4cd6b9c31103ccb74e1693f78dd34163b",
+          "created": "2024-05-15T18:40:38.331762+00:00",
+          "modified": "2024-05-15T19:46:46.857018+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:42.504873+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752210_ea1bf704-0c26-419d-bdc4-8adba0c28ff9_7cc7794b-c8e0-4fef-aff7-e238fec1eae7/tall_side_skirt_mesh_x2.stl",
+          "archive_member": "originals/Tall_Side_Skirt_Mesh_x2.stl"
+        },
+        {
+          "source_id": "841565/3712536",
+          "file_id": "3712536",
+          "name": "Tall_Side_Skirt_Mesh_x2.step",
+          "bytes": 1600707,
+          "sha256": "a05fa6bd45d277c6eeb17a02acf5841c7734f4f38d1b1d2c77bd984ef7633b00",
+          "created": "2024-05-15T18:40:32.052391+00:00",
+          "modified": "2024-05-15T19:46:46.871199+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:43.599462+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752199_97e7e5ce-2923-415e-a979-2e7478d53384_ab4608e8-8caa-4b0e-9efe-dd8feb2e1506/tall_side_skirt_mesh_x2.step",
+          "archive_member": "originals/Tall_Side_Skirt_Mesh_x2.step"
+        },
+        {
+          "source_id": "841565/3712548",
+          "file_id": "3712548",
+          "name": "Tall_Rear_Skirt_x1.stl",
+          "bytes": 589384,
+          "sha256": "0c9f186b4125ede8e1bca15c18b6b52679c1a0192384219cd93561c75d3a9bd8",
+          "created": "2024-05-15T18:40:36.761546+00:00",
+          "modified": "2024-05-15T19:46:46.876316+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:44.266608+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752214_845a1bca-f6ea-4f08-9897-1a519d8235c0_45ad9833-6a7c-44b1-a183-d85d95492f26/tall_rear_skirt_x1.stl",
+          "archive_member": "originals/Tall_Rear_Skirt_x1.stl"
+        },
+        {
+          "source_id": "841565/3712539",
+          "file_id": "3712539",
+          "name": "Tall_Rear_Skirt_x1.step",
+          "bytes": 941112,
+          "sha256": "814f372c798bf80e8a88fc6a578648b225a63fa9c84a7468dd4f5058e61f276c",
+          "created": "2024-05-15T18:40:33.199682+00:00",
+          "modified": "2024-05-15T19:46:46.867190+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:45.345261+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752202_8311280d-9ab6-4d90-b698-10884485be77_6ff4888b-b360-40e9-a5d4-d6af44780249/tall_rear_skirt_x1.step",
+          "archive_member": "originals/Tall_Rear_Skirt_x1.step"
+        },
+        {
+          "source_id": "841565/3712557",
+          "file_id": "3712557",
+          "name": "Tall_Rear_Skirt_Mesh_x1.stl",
+          "bytes": 592984,
+          "sha256": "f2cc8977d19d9bbfe2b25582ac12783b0da8dad6a6656accf3bcabd99a2f3774",
+          "created": "2024-05-15T18:40:38.885268+00:00",
+          "modified": "2024-05-15T19:46:46.862008+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:46.229544+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752220_209b7f66-eadf-4774-bfe2-bc414fe8e453_6850fadc-d880-4e03-8663-8e9bf28acbac/tall_rear_skirt_mesh_x1.stl",
+          "archive_member": "originals/Tall_Rear_Skirt_Mesh_x1.stl"
+        },
+        {
+          "source_id": "841565/3712540",
+          "file_id": "3712540",
+          "name": "Tall_Rear_Skirt_Mesh_x1.step",
+          "bytes": 983003,
+          "sha256": "887486615ea8566d88f1de382e2e3fca5af4c78e2a4f2dad22d1b146d6f5fa2c",
+          "created": "2024-05-15T18:40:33.388397+00:00",
+          "modified": "2024-05-15T19:46:46.868713+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:47.306608+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752207_7c961ca8-033e-44fe-afb4-2c292e6e6bbf_665ccd40-f59a-41ae-ad97-133c4bace894/tall_rear_skirt_mesh_x1.step",
+          "archive_member": "originals/Tall_Rear_Skirt_Mesh_x1.step"
+        },
+        {
+          "source_id": "841565/3712545",
+          "file_id": "3712545",
+          "name": "Bottom_Panel_Mesh.stl",
+          "bytes": 1793984,
+          "sha256": "a46c9fe3327226d006cdee3152b8e43f6df52911e0624c5c46c6913a2ef94b67",
+          "created": "2024-05-15T18:40:35.510130+00:00",
+          "modified": "2024-05-15T19:46:46.863516+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:48.176874+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752206_48f6692b-75be-4bbc-93b6-f070ea905a48_4a060000-fdc0-4452-bd26-56d5f26b36b6/bottom_panel_mesh.stl",
+          "archive_member": "originals/Bottom_Panel_Mesh.stl"
+        },
+        {
+          "source_id": "841565/3712550",
+          "file_id": "3712550",
+          "name": "Bottom_Panel_Mesh.step",
+          "bytes": 5540376,
+          "sha256": "be1d40b736a9c9fd6a85f7b7e66e354f14cd9a8ac4c9a67e3219bf8255b5f79a",
+          "created": "2024-05-15T18:40:37.061008+00:00",
+          "modified": "2024-05-15T19:46:46.899525+00:00",
+          "retrieved_at_utc": "2026-10-07T20:25:49.536565+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6752183_ff109c89-1edd-4515-836f-f0d0192ad5c4_cabfd643-dcb7-46db-a4f8-31aa6a2846d8/bottom_panel_mesh.step",
+          "archive_member": "originals/Bottom_Panel_Mesh.step"
+        },
+        {
+          "source_id": "841565/3717273",
+          "file_id": "3717273",
+          "name": "Tall_Skirts_Mod_Assembly.step",
+          "bytes": 33877624,
+          "sha256": "f680f5395f4aade299749fccea17c45f61cd3bfdee7d6fd72acb8cd1a26f80c4",
+          "created": "2024-05-16T19:23:04.120767+00:00",
+          "modified": "2024-05-16T19:29:13.225921+00:00",
+          "retrieved_at_utc": "2026-10-07T20:26:00.847035+00:00",
+          "original_modified": false,
+          "download_url": "https://files.printables.com/media/prints/841565/stls/6760088_23bf9c4c-bbd0-473a-b1fa-7e6d6607f2ff_3efbf7cf-1063-4ffe-8561-eabddd344cf6/tall_skirts_mod_assembly.step",
+          "archive_member": "originals/Tall_Skirts_Mod_Assembly.step"
+        }
+      ],
+      "derived_asset_modifications": null,
+      "derived_asset_hash_binding": "Bind final viewer producer/asset receipts separately; this source archive makes no assertion that derived geometry is unchanged.",
+      "authored_description_sha256": "c8e7c3caaccca564e4e5e8a751ba1074e62849815a9d75f06914fc84a59f450c",
+      "author_remix_metadata": [
+        {
+          "id": "472029",
+          "parentPrintId": null,
+          "parentPrintName": null,
+          "parentPrintAuthor": null
+        },
+        {
+          "id": "472030",
+          "parentPrintId": null,
+          "parentPrintName": null,
+          "parentPrintAuthor": null
+        }
+      ],
+      "scope": "Original source transfer and attribution only. No installed-machine, mounting, motion, endstop, spring, clearance or whole-machine verification is claimed.",
+      "machine_verification_claims": false,
+      "license_file": "licenses/requested-mods-96/841565/LICENSE.txt",
+      "license_sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "source_archive": {
+        "name": "REQUESTED_MOD_841565_ORIGINAL_SOURCE_96.zip",
+        "bytes": 25105848,
+        "sha256": "55c9ced1d53f15cbaf383a2a0201a0e3a3cfb1865757a2000dfbbf8e6711c997",
+        "url": "https://github.com/Psych0h3ad/3d-print-rig-large-voron-models/releases/download/requested-mods-v1/REQUESTED_MOD_841565_ORIGINAL_SOURCE_96.zip",
+        "publication_pending": false,
+        "distribution": "Release artifact; not counted as a Pages model asset."
+      },
+      "notice_file": "licenses/requested-mods-96/841565/NOTICE.txt",
+      "notice_sha256": "84f0a2b6242306d6a1e558fb034c2755228712aa2f363e4f553984ab1af39160"
+    },
+    {
+      "id": "requested_mod_kinematic_trident",
+      "source_id": "kinematic_trident",
+      "title": "Whoppingpochard kinematic bed — trident author assembly",
+      "author": {
+        "handle": "tanaes",
+        "publicUsername": "whoppingpochard"
+      },
+      "source_url": "https://github.com/tanaes/whopping_Voron_mods/blob/62268ed817878e54d6a1186882060aa8368d4f0f/kinematic_bed/README_trident_assembly.md",
+      "source_version": {
+        "commit": "62268ed817878e54d6a1186882060aa8368d4f0f",
+        "author_assembly": "Trident-simple_kinematic v10.f3z"
+      },
+      "license": {
+        "observed_name": "GNU General Public License v3.0 repository LICENSE",
+        "version": "3.0",
+        "version_inferred": false,
+        "author_license_url": "https://github.com/tanaes/whopping_Voron_mods/blob/62268ed817878e54d6a1186882060aa8368d4f0f/LICENSE",
+        "license_sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+        "scope": "Original repository terms retained; no blanket relicensing of separate bought/vendored bodies."
+      },
+      "original_files_modified": false,
+      "original_source_files": 94,
+      "README": {
+        "bytes": 5289,
+        "sha256": "8f28970762a4599e9d05d2a199534a549683b2473655f90e6277a61622619747"
+      },
+      "original_author_assembly": {
+        "filename": "Trident-simple_kinematic v10.f3z",
+        "bytes": 14725916,
+        "sha256": "1b2918bc0d189d7c1bac75a816072c835a1a1748cc09ebf0aef5ef2f38b5453a"
+      },
+      "source_archive": {
+        "name": "WHOPPING_KINEMATIC_SOURCE_62268ED.zip",
+        "bytes": 62405433,
+        "sha256": "ebff77b5ea11494c7525d072bf85bc49ade2bc0f5bff167851a4a32d2ed3d642",
+        "url": "https://github.com/Psych0h3ad/3d-print-rig-large-voron-models/releases/download/requested-mods-v1/WHOPPING_KINEMATIC_SOURCE_62268ED.zip",
+        "publication_pending": false,
+        "shared_exact_archive_for_both_author_links": true,
+        "distribution": "Release artifact; not a Pages model asset."
+      },
+      "complete_native_assembly_converted": false,
+      "installed_mod_ready": false,
+      "measured_bed_offset_mm": null,
+      "derived_asset_modifications": null,
+      "scope": "Original source transfer and attribution only. No installed-machine, mounting, motion, endstop, spring, clearance or whole-machine verification is claimed.",
+      "machine_verification_claims": false,
+      "available_source_only_component": {
+        "component_id": "tanaes_trident_kinematic_left_STEP_62268ed",
+        "source_file": "kinematic_bed/DXFs/Trident/Trident_kinematic-left.step",
+        "source_sha256": "40be5a0b4097e2b0d81dbf3506190994ba7a4ddf1e1c9d3145391b22ad798dea",
+        "native_geometry_modified": false,
+        "coordinate_derivation": "[x,z,-y]/1000; native source shape unchanged, rendered material neutral/unassigned",
+        "model": {
+          "path": "__PARENT_SUBPATH__/model.glb.gz",
+          "bytes": 142567,
+          "sha256": "448196e531492f7da378cda5d37ea472a46f1fa72eae67b040647e323f037f63",
+          "encoding": "gzip",
+          "decoded_bytes": 453348,
+          "decoded_sha256": "fa1f1f89fbd69198dfa670bb79a314203527deb99ec6f8777885272650d0403a"
+        },
+        "parts_metadata": {
+          "path": "__PARENT_SUBPATH__/parts.json",
+          "bytes": 1831,
+          "sha256": "e3916181bf576aa49be236ffb35fd5295af284a440519c30d19ba8e1ed229a2c"
+        },
+        "complete_kit": false,
+        "installed": false
+      },
+      "license_file": "licenses/requested-mods-96/kinematic_trident/LICENSE.txt",
+      "license_sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "notice_file": "licenses/requested-mods-96/kinematic_trident/NOTICE.txt",
+      "notice_sha256": "b8d0a9f9185e5c052f8d9dfcfbbd2d3f4cb957bf2a959d9710840b9e314823bd"
+    },
+    {
+      "id": "requested_mod_kinematic_v24",
+      "source_id": "kinematic_v24",
+      "title": "Whoppingpochard kinematic bed — v24 author assembly",
+      "author": {
+        "handle": "tanaes",
+        "publicUsername": "whoppingpochard"
+      },
+      "source_url": "https://github.com/tanaes/whopping_Voron_mods/blob/62268ed817878e54d6a1186882060aa8368d4f0f/kinematic_bed/README_v2_assembly.md",
+      "source_version": {
+        "commit": "62268ed817878e54d6a1186882060aa8368d4f0f",
+        "author_assembly": "kinematic bed mount v52.f3z"
+      },
+      "license": {
+        "observed_name": "GNU General Public License v3.0 repository LICENSE",
+        "version": "3.0",
+        "version_inferred": false,
+        "author_license_url": "https://github.com/tanaes/whopping_Voron_mods/blob/62268ed817878e54d6a1186882060aa8368d4f0f/LICENSE",
+        "license_sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+        "scope": "Original repository terms retained; no blanket relicensing of separate bought/vendored bodies."
+      },
+      "original_files_modified": false,
+      "original_source_files": 94,
+      "README": {
+        "bytes": 7002,
+        "sha256": "d2c02cde07eaf5df26a1d4ae623345e2b4264ef5e8990fced2e54c1398afe775"
+      },
+      "original_author_assembly": {
+        "filename": "kinematic bed mount v52.f3z",
+        "bytes": 25270204,
+        "sha256": "f08217628ab6715a5836bd3b5a0d1f96d63c7727993a6b80395c31206c85e0bb"
+      },
+      "source_archive": {
+        "name": "WHOPPING_KINEMATIC_SOURCE_62268ED.zip",
+        "bytes": 62405433,
+        "sha256": "ebff77b5ea11494c7525d072bf85bc49ade2bc0f5bff167851a4a32d2ed3d642",
+        "url": "https://github.com/Psych0h3ad/3d-print-rig-large-voron-models/releases/download/requested-mods-v1/WHOPPING_KINEMATIC_SOURCE_62268ED.zip",
+        "publication_pending": false,
+        "shared_exact_archive_for_both_author_links": true,
+        "distribution": "Release artifact; not a Pages model asset."
+      },
+      "complete_native_assembly_converted": false,
+      "installed_mod_ready": false,
+      "measured_bed_offset_mm": null,
+      "derived_asset_modifications": null,
+      "scope": "Original source transfer and attribution only. No installed-machine, mounting, motion, endstop, spring, clearance or whole-machine verification is claimed.",
+      "machine_verification_claims": false,
+      "license_file": "licenses/requested-mods-96/kinematic_v24/LICENSE.txt",
+      "license_sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "notice_file": "licenses/requested-mods-96/kinematic_v24/NOTICE.txt",
+      "notice_sha256": "ae1b3d36bc8d80316f01da33bd2ecc8edc9403d317ada8c581c20dcb6722ed4c"
+    }
+  ],
+  "release_urls_pending": false,
+  "native_workers": 0,
+  "scope": "Original source transfer and attribution only. No installed-machine, mounting, motion, endstop, spring, clearance or whole-machine verification is claimed."
+}

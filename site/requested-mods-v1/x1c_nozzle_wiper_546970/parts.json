@@ -1,0 +1,51 @@
+{
+  "id": "x1c_nozzle_wiper_546970",
+  "parts": [
+    {
+      "key": "requested_mod_546970_file_2373424_printed",
+      "name": "nozzle_wiper_mount_beta_1.2_(Iconic-FAB.com).stl",
+      "motion": "fixed",
+      "material_role": "base",
+      "appearance_role": "base",
+      "appearance_role_basis": "Author printable part; neutral base display",
+      "color": "#eeeeee",
+      "source_id": "546970",
+      "source_file_id": "2373424",
+      "source_file": "nozzle_wiper_mount_beta_1.2_(Iconic-FAB.com).stl",
+      "source_sha256": "d78d6a89a5c3dc6d72e1cf5932567539f1571080014f2c83cb1cd9428280e37c",
+      "bounds_mm": [
+        [
+          315.29443359375,
+          112.79657745361328,
+          341.1516418457031
+        ],
+        [
+          334.09442138671875,
+          126.79657745361328,
+          365.0516357421875
+        ]
+      ],
+      "source_geometry": "original_STL_triangles",
+      "purchased_hardware": false
+    }
+  ],
+  "source_modules": [
+    {
+      "component_id": "requested_mod_546970_file_2373424",
+      "model_sha256": "40a89d52850ff35cab37c11085d4cdee7e9f3f0a71395c1473016d859a3d36c3",
+      "decoded_sha256": "f7aeaa38e8ec9a46834623cf9932fa166ff41438a31825d7d2928c18235ae7da",
+      "metadata_sha256": "708dd35a68783be0f8f83c2d3c4efc120d5fae3429ad4eb6c201d54215608c52",
+      "parts": [
+        "requested_mod_546970_file_2373424_printed"
+      ]
+    }
+  ],
+  "coordinate_frame": "GLB_metres_Y_up",
+  "source_geometry_changed": false,
+  "installed": false,
+  "complete_author_assembly": false,
+  "whole_machine_certified": false,
+  "notices": [
+    "Original source part variants are shown separately in their retained coordinates. This is not an installed assembly. No mounting or clearance qualification is asserted."
+  ]
+}

@@ -1,0 +1,55 @@
+Tall skirts mod for Voron 0.2
+Author: Akio (Akio)
+Source: https://www.printables.com/model/841565-tall-skirts-mod-for-voron-02
+Author model modified: 2024-05-16T19:38:43.821078+00:00
+Observed license ID 12: GNU General Public License v3.0
+License version: 3.0
+License evidence: AUTHOR_METADATA.json SHA256 495cab27d37701c16ad59c0da766d3db285249e452833bbe6433523fcf37d18c
+Original downloaded file bytes are unchanged.
+Generated viewer assets are derivatives and require their own exact modification/hash receipt.
+Original source transfer and attribution only. No installed-machine, mounting, motion, endstop, spring, clearance or whole-machine verification is claimed.
+File 3712558: Tall_Foot_Front_Right_x1.stl; 1042584 bytes; SHA256 a41c6e0a810e0955cc520ba8b4ca1d187e607669de0db7bcad013569b92000de
+File 3712522: Tall_Foot_Front_Right_x1.step; 370819 bytes; SHA256 98ddfbe45027daabcbee90dd9cbf665e7baa84b1333e9f911eeede176caed0f0
+File 3712531: Tall_Foot_Front_Left_x1.stl; 1043284 bytes; SHA256 99e974a6343ee2009c7e2cf1a37def085d706528ea58aa1f96cca8c270bf2188
+File 3712520: Tall_Foot_Front_Left_x1.step; 373366 bytes; SHA256 c729f99209d1cccd4e750a4b0cab8868fa4e5af678aaa3664e6ded9571007ed9
+File 3712543: Tall_Foot_Rear_Right_Plain_x1.stl; 608584 bytes; SHA256 8a877c7e89fd382676f1a0b5e83b36e5e88c85379e7170262f2132ebb0fe465e
+File 3712534: Tall_Foot_Rear_Right_Plain_x1.step; 299369 bytes; SHA256 a5538fc43a9f494beba5507001eac04238797701c78f8695b12277e2e1177819
+File 3712555: Tall_Foot_Rear_Right_FRS_x1.stl; 2259984 bytes; SHA256 25a1cb61e9ec708a3df955bdc1df4092c2321f68472c873e2e70954dadcd97b3
+File 3712528: Tall_Foot_Rear_Right_FRS_x1.step; 828875 bytes; SHA256 d1d39901b4ed86f7e9c296bf7cd67e55db060dfb4704594e734586bc4db69139
+File 3712544: Tall_Foot_Rear_Left_Mains_Inlet_x1.stl; 512184 bytes; SHA256 702c83504057b2e7f965a5129f0ef31843cfe6fa931fb404b4d7867a889ce3bc
+File 3712523: Tall_Foot_Rear_Left_Mains_Inlet_x1.step; 677127 bytes; SHA256 295c425a23d2d43af26fbee2deef6d33c1f00849e78c7ffd9f789fcb5a2487ef
+File 3712542: Tall_Foot_Rear_Left_Mains_Inlet_RJ45_x1.stl; 531184 bytes; SHA256 83976e613250ff71b9aad816c44c9963f7e004692a1c1bc24f11388d085702d7
+File 3712526: Tall_Foot_Rear_Left_Mains_Inlet_RJ45_x1.step; 707640 bytes; SHA256 b1be4dbd9a7aaac390251867982072da6f02f1e4ffbb0c846b66c333bdd7f72e
+File 3712552: Tall_Foot_Rear_Left_24V_Inlet_x1.stl; 511784 bytes; SHA256 48a117dad403cb4c0a0cc848661c6c7dc00547b86eda474ba6a4c5b310717c54
+File 3712537: Tall_Foot_Rear_Left_24V_Inlet_x1.step; 679625 bytes; SHA256 3918541ef4e3c10a10cbdc54f5877447bdb2260714872bae69c26545e4444bb0
+File 3712538: Tall_Foot_Rear_Left_24V_Inlet_RJ45_x1.stl; 539584 bytes; SHA256 e8d410b9f1ee410b44208bfdddcd1180ab85f21a2ac2ea70040e1b98314dcbc0
+File 3712524: Tall_Foot_Rear_Left_24V_Inlet_RJ45_x1.step; 719021 bytes; SHA256 efdb1566e2d2e25da2c38765d23181122b30503ac097384b2ff46f18f7f42db7
+File 3712535: Tall_Foot_Rear_Left_Cover.stl; 168784 bytes; SHA256 ba3b51b1bab26acb28512cfe5301fc2316b44d57c95db7c5d8c35765a7735b69
+File 3712521: Tall_Foot_Rear_Left_Cover.step; 136092 bytes; SHA256 2825b11ebfe80af2350b65da71006e2b8787bda8431464771124b79d898d8db5
+File 3712541: Keystone_Insert_Bracket.stl; 47684 bytes; SHA256 04ce6fb278e8a309ec66bc524ecf8d8b243ae6078c56df81f83bde07cc41ad5a
+File 3712515: Keystone_Insert_Bracket.step; 92842 bytes; SHA256 c38d261815b8da957d9f8dd1d5900134e156ce9e3bb7d14764d63679504c08d2
+File 3712532: [a]_Foot_Accent_A_x2.stl; 435084 bytes; SHA256 818c4268b57affc707e876cad5c57e5bd77c32c6c17f334e89f426cee1f1a26a
+File 3712516: [a]_Foot_Accent_A_x2.step; 128146 bytes; SHA256 361d0eddd9c2a1f050105030f54d91cb3e5e9887aa8861fa51537e47d3cc2608
+File 3712525: [a]_Foot_Accent_B_x2.stl; 435084 bytes; SHA256 f576eaade721a09e1770fbf2c21d03cb803d7a0aaf2d0dc93cf8ea1f6aa8696b
+File 3712518: [a]_Foot_Accent_B_x2.step; 128700 bytes; SHA256 926485bd2c51a98e8aa3512ac9b5eebafc8344616e001dd1d87bc6891be342ce
+File 3712551: Tall_Front_Skirt_x1.stl; 1267784 bytes; SHA256 62dc91f0c9dd07235408fdb3a6efe50a2867c60569bd1628520233fc7407a49a
+File 3712546: Tall_Front_Skirt_x1.step; 1702332 bytes; SHA256 6e5f13a8c36c058e5ba78e0ccc327e915d3bc4ed38dc3493cecfac00eb66d363
+File 3712533: [a]_Logo_Insert_x2.stl; 58184 bytes; SHA256 2420b44e896ead24711b31c396596e3a22cf78aa88550e864503d58e13b0681a
+File 3712519: [a]_Logo_Insert_x2.step; 43499 bytes; SHA256 26f52c64943afc94302c86757a072e265bcc938b64d0775ca904306a9d842242
+File 3712556: Tall_Front_Skirt_Mesh_x1.stl; 1276384 bytes; SHA256 90e51c4c9bb0b5085feea4e3b341aa9cfa0a4214d979c6595af535c000b5c2de
+File 3712529: Tall_Front_Skirt_Mesh_x1.step; 1816973 bytes; SHA256 5c7089e7fb137d22e57102a94f957ef48679e03773cad8b8777e6e382f2de822
+File 3712530: [a]_Logo_Insert_Mesh_x2.stl; 58184 bytes; SHA256 e8965f32abaeceaf89a93f789e48bf9b5bd3624b97b6e3244826753a7e89bbbd
+File 3712517: [a]_Logo_Insert_Mesh_x2.step; 43593 bytes; SHA256 d8bf80b924c84de6b7e4cc5d7002dcedbd680b4975c4cfcd310613172b349427
+File 3712549: Waveshare_4.3_DSI_LCD_Faceplate.stl; 96884 bytes; SHA256 beb46f4618a5f4dfa7eb9f142459b6b859638d840a49861332de0ea50f0b9a07
+File 3712527: Waveshare_4.3_DSI_LCD_Faceplate.step; 219641 bytes; SHA256 f64442fab9a9421ff45c4313cffd824a29689caedb8c9397491952a228df75f1
+File 3712553: Tall_Side_Skirt_x2.stl; 779784 bytes; SHA256 d1d76b7c037a45d6f6ed5a394be1e5f8e07ba1d931c45ae3e6749c6e12aa4b80
+File 3712547: Tall_Side_Skirt_x2.step; 1552844 bytes; SHA256 ba3743af59b5f8c662858987ecb9fd790dd6228b01b804588e402ef938345fb4
+File 3712554: Tall_Side_Skirt_Mesh_x2.stl; 778984 bytes; SHA256 6555fe97e43c6e25b852d34dcc74e9f4cd6b9c31103ccb74e1693f78dd34163b
+File 3712536: Tall_Side_Skirt_Mesh_x2.step; 1600707 bytes; SHA256 a05fa6bd45d277c6eeb17a02acf5841c7734f4f38d1b1d2c77bd984ef7633b00
+File 3712548: Tall_Rear_Skirt_x1.stl; 589384 bytes; SHA256 0c9f186b4125ede8e1bca15c18b6b52679c1a0192384219cd93561c75d3a9bd8
+File 3712539: Tall_Rear_Skirt_x1.step; 941112 bytes; SHA256 814f372c798bf80e8a88fc6a578648b225a63fa9c84a7468dd4f5058e61f276c
+File 3712557: Tall_Rear_Skirt_Mesh_x1.stl; 592984 bytes; SHA256 f2cc8977d19d9bbfe2b25582ac12783b0da8dad6a6656accf3bcabd99a2f3774
+File 3712540: Tall_Rear_Skirt_Mesh_x1.step; 983003 bytes; SHA256 887486615ea8566d88f1de382e2e3fca5af4c78e2a4f2dad22d1b146d6f5fa2c
+File 3712545: Bottom_Panel_Mesh.stl; 1793984 bytes; SHA256 a46c9fe3327226d006cdee3152b8e43f6df52911e0624c5c46c6913a2ef94b67
+File 3712550: Bottom_Panel_Mesh.step; 5540376 bytes; SHA256 be1d40b736a9c9fd6a85f7b7e66e354f14cd9a8ac4c9a67e3219bf8255b5f79a
+File 3717273: Tall_Skirts_Mod_Assembly.step; 33877624 bytes; SHA256 f680f5395f4aade299749fccea17c45f61cd3bfdee7d6fd72acb8cd1a26f80c4

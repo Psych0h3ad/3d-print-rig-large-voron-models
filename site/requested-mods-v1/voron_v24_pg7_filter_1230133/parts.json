@@ -1,0 +1,87 @@
+{
+  "id": "voron_v24_pg7_filter_1230133",
+  "parts": [
+    {
+      "key": "requested_mod_1230133_file_5110836_printed",
+      "name": "exhaust_filter_grillv2.stl",
+      "motion": "fixed",
+      "material_role": "base",
+      "appearance_role": "base",
+      "appearance_role_basis": "Author printable part; neutral base display",
+      "color": "#eeeeee",
+      "source_id": "1230133",
+      "source_file_id": "5110836",
+      "source_file": "exhaust_filter_grillv2.stl",
+      "source_sha256": "eebfa0abcc67151a690600116fbdd5972775bb544e5ab01f33ead6983943444b",
+      "bounds_mm": [
+        [
+          100.03498840332031,
+          -17.399999618530273,
+          64.67858123779297
+        ],
+        [
+          107.63499450683594,
+          137.39999389648438,
+          102.27857971191406
+        ]
+      ],
+      "source_geometry": "original_STL_triangles",
+      "purchased_hardware": false
+    },
+    {
+      "key": "requested_mod_1230133_file_5110840_printed",
+      "name": "exhaust_filter_housing.stl",
+      "motion": "fixed",
+      "material_role": "base",
+      "appearance_role": "base",
+      "appearance_role_basis": "Author printable part; neutral base display",
+      "color": "#eeeeee",
+      "source_id": "1230133",
+      "source_file_id": "5110840",
+      "source_file": "exhaust_filter_housing.stl",
+      "source_sha256": "66903baef98ec9e1b0e931da5f08d90d8156b437fc5a7bfa3898efda7ab5b4b2",
+      "bounds_mm": [
+        [
+          -78.69756317138672,
+          -77.61526489257812,
+          -0.691366970539093
+        ],
+        [
+          65.01081085205078,
+          77.18473815917969,
+          44.308162689208984
+        ]
+      ],
+      "source_geometry": "original_STL_triangles",
+      "purchased_hardware": false
+    }
+  ],
+  "source_modules": [
+    {
+      "component_id": "requested_mod_1230133_file_5110836",
+      "model_sha256": "0be13bb1e7f6ae060623790e1e082ed014433d2fc760de06b022fe8d536a95f4",
+      "decoded_sha256": "b456862f0308340f828b9bf2e3969d82a9b3d81919e0071ba61de887b9e978a4",
+      "metadata_sha256": "a247f21d937130402c3a09331d235f9c251d900f35d3088f03ebc39e85cffc2c",
+      "parts": [
+        "requested_mod_1230133_file_5110836_printed"
+      ]
+    },
+    {
+      "component_id": "requested_mod_1230133_file_5110840",
+      "model_sha256": "d20ad9a837a2ced91a1889b6f4d3634c92caa19619c352ed31d28e6c39f39e60",
+      "decoded_sha256": "0e370c1fbcaf207553716e1903c1d12125efd851b95a0e923e198f42ddc13553",
+      "metadata_sha256": "ff2efbf5dc4378e378d9cefb2b3d157fc58c0a06048decce718e5cec43d44ab6",
+      "parts": [
+        "requested_mod_1230133_file_5110840_printed"
+      ]
+    }
+  ],
+  "coordinate_frame": "GLB_metres_Y_up",
+  "source_geometry_changed": false,
+  "installed": false,
+  "complete_author_assembly": false,
+  "whole_machine_certified": false,
+  "notices": [
+    "Original source part variants are shown separately in their retained coordinates. This is not an installed assembly. No mounting or clearance qualification is asserted."
+  ]
+}

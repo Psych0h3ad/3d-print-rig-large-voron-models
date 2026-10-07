@@ -1,0 +1,303 @@
+{
+  "id": "trident_stepper_decoupler_430168",
+  "parts": [
+    {
+      "key": "requested_mod_430168_file_1872528_printed",
+      "name": "Top Bearing-A.stl",
+      "appearance_role": "base",
+      "material_role": "base",
+      "appearance_role_basis": "Original single printable STL",
+      "motion": "fixed",
+      "source_id": "430168",
+      "source_file_id": "1872528",
+      "source_file": "Top Bearing-A.stl",
+      "source_sha256": "2312d0aada0bd980f1c2973b7dc93d6ab6d9725e463c4695c15c7ea0bd5a6465",
+      "bounds_mm": [
+        [
+          -72.44490814208984,
+          353.5672607421875,
+          -145.0
+        ],
+        [
+          -26.587186813354492,
+          397.0,
+          -140.0
+        ]
+      ],
+      "purchased_hardware": false,
+      "source_geometry": "original_STL_triangles",
+      "source_color_rgba": [
+        66,
+        115,
+        189,
+        255
+      ],
+      "source_header_rgba": [
+        67,
+        116,
+        195,
+        255
+      ],
+      "source_facet_attribute": 24008
+    },
+    {
+      "key": "requested_mod_430168_file_1872529_printed",
+      "name": "Bottom Bearing-B.stl",
+      "appearance_role": "base",
+      "material_role": "base",
+      "appearance_role_basis": "Original single printable STL",
+      "motion": "fixed",
+      "source_id": "430168",
+      "source_file_id": "1872529",
+      "source_file": "Bottom Bearing-B.stl",
+      "source_sha256": "b625b39614d2c91be262762b78c4741751bd5d23abfb9519610463b3657c6525",
+      "bounds_mm": [
+        [
+          -361.8041076660156,
+          354.0,
+          -180.0
+        ],
+        [
+          -319.8041076660156,
+          396.0,
+          -175.0
+        ]
+      ],
+      "purchased_hardware": false,
+      "source_geometry": "original_STL_triangles",
+      "source_color_rgba": [
+        66,
+        115,
+        189,
+        255
+      ],
+      "source_header_rgba": [
+        67,
+        116,
+        195,
+        255
+      ],
+      "source_facet_attribute": 24008
+    },
+    {
+      "key": "requested_mod_430168_file_1872530_printed",
+      "name": "Bottom Bearing-A.stl",
+      "appearance_role": "base",
+      "material_role": "base",
+      "appearance_role_basis": "Original single printable STL",
+      "motion": "fixed",
+      "source_id": "430168",
+      "source_file_id": "1872530",
+      "source_file": "Bottom Bearing-A.stl",
+      "source_sha256": "9a8551274736d412f4e96af18ee453a181ea41122bc1f03be0871bf6adc546fc",
+      "bounds_mm": [
+        [
+          -69.80411529541016,
+          354.0,
+          -180.0
+        ],
+        [
+          -27.804115295410156,
+          396.0,
+          -175.0
+        ]
+      ],
+      "purchased_hardware": false,
+      "source_geometry": "original_STL_triangles",
+      "source_color_rgba": [
+        66,
+        115,
+        189,
+        255
+      ],
+      "source_header_rgba": [
+        67,
+        116,
+        195,
+        255
+      ],
+      "source_facet_attribute": 24008
+    },
+    {
+      "key": "requested_mod_430168_file_1872531_printed",
+      "name": "Spacer-A.stl",
+      "appearance_role": "base",
+      "material_role": "base",
+      "appearance_role_basis": "Original single printable STL",
+      "motion": "fixed",
+      "source_id": "430168",
+      "source_file_id": "1872531",
+      "source_file": "Spacer-A.stl",
+      "source_sha256": "481112527537bd315461602bc44ef3c4963d7f5727a740d4aeb092a273eb02b1",
+      "bounds_mm": [
+        [
+          -69.80411529541016,
+          354.0,
+          -215.0
+        ],
+        [
+          -27.804115295410156,
+          396.0,
+          -180.0
+        ]
+      ],
+      "purchased_hardware": false,
+      "source_geometry": "original_STL_triangles",
+      "source_color_rgba": [
+        58,
+        58,
+        58,
+        255
+      ],
+      "source_header_rgba": [
+        63,
+        63,
+        63,
+        255
+      ],
+      "source_facet_attribute": 7399
+    },
+    {
+      "key": "requested_mod_430168_file_1872532_printed",
+      "name": "Top Bearing-B.stl",
+      "appearance_role": "base",
+      "material_role": "base",
+      "appearance_role_basis": "Original single printable STL",
+      "motion": "fixed",
+      "source_id": "430168",
+      "source_file_id": "1872532",
+      "source_file": "Top Bearing-B.stl",
+      "source_sha256": "fc6120d4c0f7fbeffb2a12e4ca83dd0d42566512e8a4ad8be2624ae97d85970a",
+      "bounds_mm": [
+        [
+          -363.02105712890625,
+          353.5672607421875,
+          -145.0
+        ],
+        [
+          -317.163330078125,
+          397.0,
+          -140.0
+        ]
+      ],
+      "purchased_hardware": false,
+      "source_geometry": "original_STL_triangles",
+      "source_color_rgba": [
+        66,
+        115,
+        189,
+        255
+      ],
+      "source_header_rgba": [
+        67,
+        116,
+        195,
+        255
+      ],
+      "source_facet_attribute": 24008
+    },
+    {
+      "key": "requested_mod_430168_file_1872533_printed",
+      "name": "Spacer-B.stl",
+      "appearance_role": "base",
+      "material_role": "base",
+      "appearance_role_basis": "Original single printable STL",
+      "motion": "fixed",
+      "source_id": "430168",
+      "source_file_id": "1872533",
+      "source_file": "Spacer-B.stl",
+      "source_sha256": "97dc8eb393969ece3fca4fd3e8e44da7e7c292c8b2ac80d9e07e9959d384d499",
+      "bounds_mm": [
+        [
+          -361.8041076660156,
+          354.0,
+          -215.0
+        ],
+        [
+          -319.8041076660156,
+          396.0,
+          -180.0
+        ]
+      ],
+      "purchased_hardware": false,
+      "source_geometry": "original_STL_triangles",
+      "source_color_rgba": [
+        58,
+        58,
+        58,
+        255
+      ],
+      "source_header_rgba": [
+        63,
+        63,
+        63,
+        255
+      ],
+      "source_facet_attribute": 7399
+    }
+  ],
+  "source_modules": [
+    {
+      "component_id": "requested_mod_430168_file_1872528",
+      "model_sha256": "f7d1500174917e9befee75a5e609baf0d45d2169d335613fa1bb23524c2e4fd7",
+      "decoded_sha256": "c692eda66c411e5a5191b3b134718b8b56d04f90e92751c260ce4d07c6329ab8",
+      "metadata_sha256": "e7d6079fa181f9f88f2ce922ad48cf6aae7d0b039b428f3b79635fc7abe0d489",
+      "parts": [
+        "requested_mod_430168_file_1872528_printed"
+      ]
+    },
+    {
+      "component_id": "requested_mod_430168_file_1872529",
+      "model_sha256": "494d67d5884cf3b8d8fbbcac8cad299dc8c84d65ed3c0b4b89b5d1c03b391484",
+      "decoded_sha256": "f0d9faa796fef1b1947acbc5508954bc344358b3f75cd6dda99f3b22791f0793",
+      "metadata_sha256": "8177433f595ec29f4e221aa8cc4021aca170b676e33e4bf10441476186a782f3",
+      "parts": [
+        "requested_mod_430168_file_1872529_printed"
+      ]
+    },
+    {
+      "component_id": "requested_mod_430168_file_1872530",
+      "model_sha256": "488b510b35131cece9de37b732e0b28e302de495a8688ef156d20465b303986d",
+      "decoded_sha256": "d360a888dbce06ebc7f4ec9b3112cd929e04a281a510a98b59bfde8be15718da",
+      "metadata_sha256": "9d9f1b63a4148acac265c22f0274cd3d78b08c58563b96ae4d865506caff0d00",
+      "parts": [
+        "requested_mod_430168_file_1872530_printed"
+      ]
+    },
+    {
+      "component_id": "requested_mod_430168_file_1872531",
+      "model_sha256": "d5d757044acf9d1f07e4cc8a0e8b4e8d959b704189ba797d7f5ee29d2db472e3",
+      "decoded_sha256": "cb788961caa92b343fb2c4088e7bb98dfc7a6c2a2c49077dd840775d97619edb",
+      "metadata_sha256": "944b31993e510efee96648a02a25343ed67f0a71a9df28a1ac8f8ed251b6a84e",
+      "parts": [
+        "requested_mod_430168_file_1872531_printed"
+      ]
+    },
+    {
+      "component_id": "requested_mod_430168_file_1872532",
+      "model_sha256": "71430ba79a35048903b54a6a35f8b9da058307dd90bb416a8fbeb377021cd2aa",
+      "decoded_sha256": "f20d5fbdb65930ea17114c6586459d8f2fb8b6b6e6364cba812145f23b48728c",
+      "metadata_sha256": "39ef550662877d43610d4933a2b2c606636a6187b5cf71f81efd07c82f0433ae",
+      "parts": [
+        "requested_mod_430168_file_1872532_printed"
+      ]
+    },
+    {
+      "component_id": "requested_mod_430168_file_1872533",
+      "model_sha256": "77874e4bd1cda9b2aefb27ec4418c8ea6aadf765b2774a0f75c7b9a6e4c3b749",
+      "decoded_sha256": "82a041319460aa6d326e8d1da61ee9c8cfe2eaa0344971509880295b2c8bceb2",
+      "metadata_sha256": "0bf300dc302b77cdd12fd654fa7b2ac53cb62510a5d2df924c0feef66f5699d6",
+      "parts": [
+        "requested_mod_430168_file_1872533_printed"
+      ]
+    }
+  ],
+  "coordinate_frame": "GLB_metres_Y_up",
+  "source_geometry_changed": false,
+  "installed": false,
+  "complete_author_assembly": false,
+  "whole_machine_certified": false,
+  "notices": [
+    "Original source part variants are shown separately in their retained coordinates. This is not an installed assembly. No mounting or clearance qualification is asserted."
+  ]
+}

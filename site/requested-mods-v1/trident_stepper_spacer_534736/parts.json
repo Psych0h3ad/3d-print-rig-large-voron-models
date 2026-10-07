@@ -1,0 +1,41 @@
+{
+  "id": "trident_stepper_spacer_534736",
+  "parts": [
+    {
+      "key": "trident_stepper_spacer_534736_original",
+      "name": "Stepper Spacer — original 22.5 mm",
+      "source_id": "2312954",
+      "source_file": {
+        "path": "sources/printables-534736/Stepper_Spacer.stl",
+        "bytes": 134484,
+        "sha256": "083c365efe8850f54d909c9c61a9ffafcc92f8cea37a5f84211d3311490af92b"
+      },
+      "source_component": "Printables534736/Stepper_Spacer.stl",
+      "appearance_role": "base",
+      "material_role": "printed_base",
+      "motion": "fixed",
+      "bounds_mm": [
+        [
+          189.6370086669922,
+          -48.79999923706055,
+          -562.5
+        ],
+        [
+          222.43701171875,
+          -7.0,
+          -540.0
+        ]
+      ],
+      "source_volume_mm3": 16364.278676327347,
+      "source_watertight": false,
+      "installed": false
+    }
+  ],
+  "notices": [
+    "Original unscaled 22.5 mm spacer; author recommends ABS. No built-in supports removed. Motor/coupler and mounting hardware are not supplied in this source file."
+  ],
+  "coordinate_system": "metres, Y-up; converted from native mm XYZ Z-up using [x,z,-y]/1000",
+  "scope": "Original uninstalled print reference; installation/native-fit pending.",
+  "installed": false,
+  "whole_machine_certified": false
+}

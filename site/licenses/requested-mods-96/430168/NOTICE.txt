@@ -1,0 +1,19 @@
+VORON TRIDENT STEPPER DECOUPLER
+Author: FOX (FOX_240146)
+Source: https://www.printables.com/model/430168-voron-trident-stepper-decoupler
+Author model modified: 2023-03-22T07:50:21.597875+00:00
+Observed license ID 3: Creative Commons — Attribution  — Noncommercial
+License version: not stated by the captured author metadata; no CC version is asserted.
+License evidence: AUTHOR_METADATA.json SHA256 b506500e5ba0e7edda8f9be1ec53aaf33aff1bca396c92c9bd95d0d0a3c03437
+Original downloaded file bytes are unchanged.
+Generated viewer assets are derivatives and require their own exact modification/hash receipt.
+Original source transfer and attribution only. No installed-machine, mounting, motion, endstop, spring, clearance or whole-machine verification is claimed.
+Two author-repository Bottom Bearing STL revisions differ from the current official uploads. They are not silently substituted or assigned the Printables license.
+File 1872528: Top Bearing-A.stl; 697184 bytes; SHA256 2312d0aada0bd980f1c2973b7dc93d6ab6d9725e463c4695c15c7ea0bd5a6465
+File 1872529: Bottom Bearing-B.stl; 768884 bytes; SHA256 b625b39614d2c91be262762b78c4741751bd5d23abfb9519610463b3657c6525
+File 1872530: Bottom Bearing-A.stl; 768884 bytes; SHA256 9a8551274736d412f4e96af18ee453a181ea41122bc1f03be0871bf6adc546fc
+File 1872531: Spacer-A.stl; 1305984 bytes; SHA256 481112527537bd315461602bc44ef3c4963d7f5727a740d4aeb092a273eb02b1
+File 1872532: Top Bearing-B.stl; 697184 bytes; SHA256 fc6120d4c0f7fbeffb2a12e4ca83dd0d42566512e8a4ad8be2624ae97d85970a
+File 1872533: Spacer-B.stl; 1306184 bytes; SHA256 97dc8eb393969ece3fca4fd3e8e44da7e7c292c8b2ac80d9e07e9959d384d499
+File 1872534: Gantry Upgrade v25.f3d; 4956389 bytes; SHA256 6e9033bf8271c930e423452e9ff2383b9de48377ddeeca9d11e7708f1a32c81a
+File 1872537: Gantry Upgrade v25.step; 15193169 bytes; SHA256 0d4f90740695161c6d67440e06bde61d62f5b5951f9da8993d2eadec450c2514

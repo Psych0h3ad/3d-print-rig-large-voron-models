@@ -1,0 +1,44 @@
+{
+  "component_id": "tanaes_trident_kinematic_left_STEP_62268ed",
+  "id": "tanaes_trident_kinematic_left_STEP_62268ed",
+  "parts": [
+    {
+      "key": "tanaes_trident_kinematic_left_STEP_62268ed_Body6",
+      "name": "Body6",
+      "source_id": "FusionComponent/Body6",
+      "source_file": "kinematic_bed/DXFs/Trident/Trident_kinematic-left.step",
+      "source_sha256": "40be5a0b4097e2b0d81dbf3506190994ba7a4ddf1e1c9d3145391b22ad798dea",
+      "file": "parts/tanaes_trident_kinematic_left_STEP_62268ed_Body6.brep",
+      "native_sha256": "f57d9ba00596fe1e03e48a42c805bc8f46610df7f670f8f5d8d54caa2535ae46",
+      "material_role": "source_unassigned",
+      "appearance_role": null,
+      "motion": "fixed",
+      "bounds_mm": [
+        [
+          -10.00000609294922,
+          19.999999900070403,
+          -205.8849651831687
+        ],
+        [
+          92.78063295399714,
+          87.94036218569809,
+          -158.05467003680664
+        ]
+      ],
+      "valid": true,
+      "solids": 1,
+      "native_faces": 108
+    }
+  ],
+  "source_repository": "https://github.com/tanaes/whopping_Voron_mods",
+  "source_commit": "62268ed817878e54d6a1186882060aa8368d4f0f",
+  "license": "GPL-3.0",
+  "installed_machine": false,
+  "complete_author_assembly": false,
+  "notices": [
+    "The one author-supplied left STEP Body6 is shown in original coordinates. It is not either complete F3Z assembly or an installed Mod.",
+    "No purchased bodies have been invented. Original body/subassembly identities and material separation require complete Fusion assembly export.",
+    "Neutral display material is unassigned; it does not assert the original finish.",
+    "No assembly helper or built-in support was removed from this one STEP. Complete-assembly helper exclusions remain pending."
+  ]
+}

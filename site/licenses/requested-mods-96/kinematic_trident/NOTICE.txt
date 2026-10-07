@@ -1,0 +1,12 @@
+Whoppingpochard kinematic bed — trident author assembly
+Author: tanaes / whoppingpochard
+Original source: https://github.com/tanaes/whopping_Voron_mods/blob/62268ed817878e54d6a1186882060aa8368d4f0f/kinematic_bed/README_trident_assembly.md
+Exact commit: 62268ed817878e54d6a1186882060aa8368d4f0f
+Author assembly: Trident-simple_kinematic v10.f3z; SHA256 1b2918bc0d189d7c1bac75a816072c835a1a1748cc09ebf0aef5ef2f38b5453a
+Original repository LICENSE: https://github.com/tanaes/whopping_Voron_mods/blob/62268ed817878e54d6a1186882060aa8368d4f0f/LICENSE
+LICENSE SHA256: 3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986
+The original 94-file GPL source archive is unchanged; original CAD, drawings, instructions and helper meshes are retained.
+F3Z ShapeManager bodies/external references have not been converted to a complete native assembly.
+The one author Trident left STEP Body6 is a separate uninstalled source-only reference; never either complete kit.
+No purchased hardware was approximated. No guessed +8 mm homing datum or installed transform is supplied.
+Original source transfer and attribution only. No installed-machine, mounting, motion, endstop, spring, clearance or whole-machine verification is claimed.

@@ -1,0 +1,15 @@
+Voron 2.4 PG7 Canbus Rear Exhaust Filter Mod v2
+Author: Kevin Kunst (Ampp33)
+Source: https://www.printables.com/model/1230133-voron-24-pg7-canbus-rear-exhaust-filter-mod-v2
+Author model modified: 2025-03-15T04:54:28.479610+00:00
+Observed license ID 12: GNU General Public License v3.0
+License version: 3.0
+License evidence: AUTHOR_METADATA.json SHA256 1037040921a0957e18ad6de522109a476448dd3d011a51c7fbc961b085edd771
+Original downloaded file bytes are unchanged.
+Generated viewer assets are derivatives and require their own exact modification/hash receipt.
+Original source transfer and attribution only. No installed-machine, mounting, motion, endstop, spring, clearance or whole-machine verification is claimed.
+Related original parent: Pronterhead (Pronterhead_998702) — https://www.printables.com/model/1166813-voron-24-pg7-canbus-rear-exhaust-filter-mod
+Parent author metadata observes GNU General Public License v3.0; SHA256 293888a4e63845ca359d4c9376f2691bc41f40136a2747ce8c66027f8ea9cc1f.
+The parent is not the exact requested v2 threaded model and no missing parent body/file is synthesized.
+File 5110836: exhaust_filter_grillv2.stl; 1549284 bytes; SHA256 eebfa0abcc67151a690600116fbdd5972775bb544e5ab01f33ead6983943444b
+File 5110840: exhaust_filter_housing.stl; 24562284 bytes; SHA256 66903baef98ec9e1b0e931da5f08d90d8156b437fc5a7bfa3898efda7ab5b4b2

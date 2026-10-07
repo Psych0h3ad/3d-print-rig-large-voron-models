@@ -2,3 +2,5 @@
 Original VoronDesign/component licensing applies; see SOURCES.json and licenses.
 At this scale, consider upgrades to the frame and mechanisms before a real build.
 Rigid purchased parts retain source dimensions. These are not tested printer designs.
+
+Additional original Mod components: see REQUESTED_MOD_SOURCES.json and licenses/requested-mods-96. GPL-3.0 and author CC BY, CC BY-SA and CC BY-NC terms are recorded separately. Original sources are available from the linked release archives.

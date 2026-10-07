@@ -1,0 +1,5264 @@
+{
+  "id": "requested_mod_681594_head_source_preview_v5",
+  "parts": [
+    {
+      "key": "requested_mod_681594_head_738-solid-0",
+      "name": "Author EVA root 738-solid-0",
+      "source_native_key": "738-solid-0",
+      "source_path": [
+        "EVA_VORON v41",
+        "=>[0:1:1:704]",
+        "738-solid-0"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/other-native-validity-diagnosis-v1/eva-native-assembly-v1-738-solid-0.brep",
+        "bytes": 429303,
+        "sha256": "e94ccc9ade0c89e46c58ee15af34f32b54c073ff0d56b325f3bf3e327165ad08"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/738-solid-0.brep",
+      "native_sha256": "2626f6f084c16fc875dffa8edbb945bfc7ead5e763a375cb4feb943f8c375b1c",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": null,
+      "appearance_role_basis": "Anonymous native source identity; material role unresolved",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          -26.742976956793203,
+          157.7037259612757,
+          -33.309523840885596
+        ],
+        [
+          17.25702324320681,
+          183.997526120672,
+          8.290476359114532
+        ]
+      ],
+      "local_origin_native_mm": [
+        -4.742976856793197,
+        170.85062604097385,
+        -12.509523740885532
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_738-solid-1",
+      "name": "Author EVA root 738-solid-1",
+      "source_native_key": "738-solid-1",
+      "source_path": [
+        "EVA_VORON v41",
+        "=>[0:1:1:704]",
+        "738-solid-1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/other-native-validity-diagnosis-v1/eva-native-assembly-v1-738-solid-1.brep",
+        "bytes": 246527,
+        "sha256": "aefa1ac43b0a1eb912598251d290db76415ac53bbf6174d1667049527fac139f"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/738-solid-1.brep",
+      "native_sha256": "c3eedafde2c9e848f6883045c935bc1f38f4faeba69f5ac39b0028759914d87e",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": null,
+      "appearance_role_basis": "Anonymous native source identity; material role unresolved",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          -27.700181509173902,
+          183.364232303219,
+          -34.9231669494772
+        ],
+        [
+          17.6998088587454,
+          187.8642465274609,
+          23.30835376111634
+        ]
+      ],
+      "local_origin_native_mm": [
+        -5.000186325214251,
+        185.61423941533997,
+        -5.80740659418043
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_738-solid-2",
+      "name": "Author EVA root 738-solid-2",
+      "source_native_key": "738-solid-2",
+      "source_path": [
+        "EVA_VORON v41",
+        "=>[0:1:1:704]",
+        "738-solid-2"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/other-native-validity-diagnosis-v1/eva-native-assembly-v1-738-solid-2.brep",
+        "bytes": 110629,
+        "sha256": "9631723a4c22261cca55429d3bd91e0114c0a65af1267eb4f4d0037b10116455"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/738-solid-2.brep",
+      "native_sha256": "7752b333a4500e9b97b54c0896d3e37344d148457bcbc68cbb72a7d1d9a173fd",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": null,
+      "appearance_role_basis": "Anonymous native source identity; material role unresolved",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          -26.6361665056935,
+          187.890916224474,
+          -33.68230782329675
+        ],
+        [
+          17.36383349430655,
+          223.363001032823,
+          -25.18230782329669
+        ]
+      ],
+      "local_origin_native_mm": [
+        -4.636166505693474,
+        205.6269586286485,
+        -29.43230782329672
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_738-solid-3",
+      "name": "Author EVA root 738-solid-3",
+      "source_native_key": "738-solid-3",
+      "source_path": [
+        "EVA_VORON v41",
+        "=>[0:1:1:704]",
+        "738-solid-3"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/other-native-validity-diagnosis-v1/eva-native-assembly-v1-738-solid-3.brep",
+        "bytes": 154377,
+        "sha256": "a03999a4c287daf84bde2fa763e011639f9d6883dcb3c204bbcfe120648a645a"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/738-solid-3.brep",
+      "native_sha256": "463b5f96f26884f5d0e5d5ff0e60ce936aef19bd4b9e62377e93fdcaacb73233",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": null,
+      "appearance_role_basis": "Anonymous native source identity; material role unresolved",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          -31.660813545392433,
+          156.7654004270949,
+          28.42772327357007
+        ],
+        [
+          21.5042888086834,
+          190.00000323012924,
+          35.327724836348786
+        ]
+      ],
+      "local_origin_native_mm": [
+        -5.078262368354517,
+        173.38270182861208,
+        31.87772405495943
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_738-solid-4",
+      "name": "Author EVA root 738-solid-4",
+      "source_native_key": "738-solid-4",
+      "source_path": [
+        "EVA_VORON v41",
+        "=>[0:1:1:704]",
+        "738-solid-4"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/other-native-validity-diagnosis-v1/eva-native-assembly-v1-738-solid-4.brep",
+        "bytes": 10690,
+        "sha256": "e0fbf0e7ca7a1db65421de962e1a028a9565703c239f3394b9cf0f51b0415532"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/738-solid-4.brep",
+      "native_sha256": "993f54346d01f3712ad064f8c048190b364a45abb3e175946da4a390ddd6be3e",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": null,
+      "appearance_role_basis": "Anonymous native source identity; material role unresolved",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          -19.238941026948808,
+          228.87845826487302,
+          53.2198031143602
+        ],
+        [
+          9.861057531380727,
+          237.58941586644698,
+          61.22977532168401
+        ]
+      ],
+      "local_origin_native_mm": [
+        -4.688941747784041,
+        233.23393706566,
+        57.2247892180221
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_738-solid-5",
+      "name": "Author EVA root 738-solid-5",
+      "source_native_key": "738-solid-5",
+      "source_path": [
+        "EVA_VORON v41",
+        "=>[0:1:1:704]",
+        "738-solid-5"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/other-native-validity-diagnosis-v1/eva-native-assembly-v1-738-solid-5.brep",
+        "bytes": 895360,
+        "sha256": "9c2f5643d914c809efa26cfad687d6b2f9537a0b62ddece34453e1dee6c1fb91"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/738-solid-5.brep",
+      "native_sha256": "566ce5d52fd9668eba113c67d47bc834cce35020bcd99e732ef89d8d353bb44a",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": null,
+      "appearance_role_basis": "Anonymous native source identity; material role unresolved",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          -39.0039992640449,
+          227.85391654225498,
+          -47.215537907548935
+        ],
+        [
+          29.0969994629754,
+          253.75000385509307,
+          17.22977532168403
+        ]
+      ],
+      "local_origin_native_mm": [
+        -4.953499900534753,
+        240.80152378698074,
+        -15.001400828233738
+      ],
+      "precision_face_meshes": [
+        {
+          "face": 309,
+          "points": [
+            [
+              [
+                -0.030104225501418114,
+                0.007212763652205467,
+                -7.774889354550396e-07
+              ],
+              [
+                -0.03457886725664139,
+                0.005652913358062506,
+                -8.008545364646125e-07
+              ],
+              [
+                -0.03621069714426994,
+                0.007498378399759531,
+                -8.458445677206328e-07
+              ]
+            ],
+            [
+              [
+                -0.035191141068935394,
+                0.002204546006396413,
+                3.5551743167161476e-06
+              ],
+              [
+                -0.03457886725664139,
+                0.005652913358062506,
+                -8.008545364646125e-07
+              ],
+              [
+                -0.030104225501418114,
+                0.007212763652205467,
+                -7.774889354550396e-07
+              ]
+            ],
+            [
+              [
+                -0.037526536732912064,
+                -0.01094860304147005,
+                -5.602976216323441e-07
+              ],
+              [
+                -0.035191141068935394,
+                0.002204546006396413,
+                3.5551743167161476e-06
+              ],
+              [
+                -0.030104225501418114,
+                0.007212763652205467,
+                -7.774889354550396e-07
+              ]
+            ],
+            [
+              [
+                0.02298533357679844,
+                0.004716843366622925,
+                8.532705209063352e-08
+              ],
+              [
+                0.022985322400927544,
+                0.00471696350723505,
+                8.532805395589094e-08
+              ],
+              [
+                0.022985311225056648,
+                0.004717084113508463,
+                8.531473127959543e-08
+              ]
+            ],
+            [
+              [
+                0.02298535779118538,
+                0.004716602619737387,
+                -4.8837438981763626e-08
+              ],
+              [
+                -0.030104225501418114,
+                0.007212763652205467,
+                -7.774889354550396e-07
+              ],
+              [
+                0.022985311225056648,
+                0.004717084113508463,
+                8.531473127959543e-08
+              ]
+            ],
+            [
+              [
+                0.02298535779118538,
+                0.004716602619737387,
+                -4.8837438981763626e-08
+              ],
+              [
+                0.02298533357679844,
+                0.004716843366622925,
+                8.532705209063352e-08
+              ],
+              [
+                0.022985311225056648,
+                0.004717084113508463,
+                8.531473127959543e-08
+              ]
+            ],
+            [
+              [
+                0.02306816726922989,
+                0.003883196273818612,
+                -1.6955209503066726e-07
+              ],
+              [
+                -0.030104225501418114,
+                0.007212763652205467,
+                -7.774889354550396e-07
+              ],
+              [
+                0.02298535779118538,
+                0.004716602619737387,
+                -4.8837438981763626e-08
+              ]
+            ],
+            [
+              [
+                0.02323755994439125,
+                0.0021784210111945868,
+                -1.4202448994637962e-07
+              ],
+              [
+                -0.030104225501418114,
+                0.007212763652205467,
+                -7.774889354550396e-07
+              ],
+              [
+                0.02306816726922989,
+                0.003883196273818612,
+                -1.6955209503066726e-07
+              ]
+            ],
+            [
+              [
+                0.024787142872810364,
+                -0.013873648829758167,
+                1.3877243532078865e-07
+              ],
+              [
+                -0.03753573074936867,
+                -0.011012171395123005,
+                -5.801336442345928e-07
+              ],
+              [
+                -0.037526536732912064,
+                -0.01094860304147005,
+                -5.602976216323441e-07
+              ]
+            ],
+            [
+              [
+                0.024787142872810364,
+                -0.013873648829758167,
+                1.3877243532078865e-07
+              ],
+              [
+                0.02323755994439125,
+                0.0021784210111945868,
+                -1.4202448994637962e-07
+              ],
+              [
+                0.023322010412812233,
+                0.0022787931375205517,
+                -1.4265495451581955e-07
+              ]
+            ],
+            [
+              [
+                0.024787142872810364,
+                -0.013873648829758167,
+                1.3877243532078865e-07
+              ],
+              [
+                -0.037526536732912064,
+                -0.01094860304147005,
+                -5.602976216323441e-07
+              ],
+              [
+                -0.030104225501418114,
+                0.007212763652205467,
+                -7.774889354550396e-07
+              ]
+            ],
+            [
+              [
+                0.024787142872810364,
+                -0.013873648829758167,
+                1.3877243532078865e-07
+              ],
+              [
+                -0.030104225501418114,
+                0.007212763652205467,
+                -7.774889354550396e-07
+              ],
+              [
+                0.02323755994439125,
+                0.0021784210111945868,
+                -1.4202448994637962e-07
+              ]
+            ],
+            [
+              [
+                0.024790991097688675,
+                -0.013942081481218338,
+                1.177718047529197e-07
+              ],
+              [
+                -0.03753573074936867,
+                -0.011012171395123005,
+                -5.801336442345928e-07
+              ],
+              [
+                0.024787142872810364,
+                -0.013873648829758167,
+                1.3877243532078865e-07
+              ]
+            ]
+          ],
+          "normals": [
+            [
+              1.0487449799256865e-05,
+              -1.5105284546734765e-05,
+              -1.0
+            ],
+            [
+              1.0487449799256865e-05,
+              -1.5105284546734765e-05,
+              -1.0
+            ],
+            [
+              1.0487449799256865e-05,
+              -1.5105284546734765e-05,
+              -1.0
+            ],
+            [
+              1.0487449799256865e-05,
+              -1.5105284546734765e-05,
+              -1.0
+            ],
+            [
+              1.0487449799256865e-05,
+              -1.5105284546734765e-05,
+              -1.0
+            ],
+            [
+              1.0487449799256865e-05,
+              -1.5105284546734765e-05,
+              -1.0
+            ],
+            [
+              1.0487449799256865e-05,
+              -1.5105284546734765e-05,
+              -1.0
+            ],
+            [
+              1.0487449799256865e-05,
+              -1.5105284546734765e-05,
+              -1.0
+            ],
+            [
+              1.0487449799256865e-05,
+              -1.5105284546734765e-05,
+              -1.0
+            ],
+            [
+              1.0487449799256865e-05,
+              -1.5105284546734765e-05,
+              -1.0
+            ],
+            [
+              1.0487449799256865e-05,
+              -1.5105284546734765e-05,
+              -1.0
+            ],
+            [
+              1.0487449799256865e-05,
+              -1.5105284546734765e-05,
+              -1.0
+            ],
+            [
+              1.0487449799256865e-05,
+              -1.5105284546734765e-05,
+              -1.0
+            ]
+          ],
+          "center_native_mm": [
+            1.0903650232082542,
+            228.3589409398254,
+            -26.03281483078958
+          ],
+          "basis_native": [
+            [
+              0.9988969101424873,
+              -2.5691641802265408e-05,
+              -0.046957025541776255
+            ],
+            [
+              -0.04695703123796514,
+              -0.0003083270312214115,
+              -0.9988968626198397
+            ],
+            [
+              1.1185180111555054e-05,
+              0.9999999521371896,
+              -0.0003091933220271681
+            ]
+          ]
+        }
+      ],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_738-solid-6",
+      "name": "Author EVA root 738-solid-6",
+      "source_native_key": "738-solid-6",
+      "source_path": [
+        "EVA_VORON v41",
+        "=>[0:1:1:704]",
+        "738-solid-6"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/other-native-validity-diagnosis-v1/eva-native-assembly-v1-738-solid-6.brep",
+        "bytes": 45769,
+        "sha256": "94f26cfc627402768db51878dc433c0bff6c9339f8584bee3223c08c859f0080"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/738-solid-6.brep",
+      "native_sha256": "94f26cfc627402768db51878dc433c0bff6c9339f8584bee3223c08c859f0080",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": null,
+      "appearance_role_basis": "Anonymous native source identity; material role unresolved",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          -34.6889410269489,
+          229.56272041091097,
+          13.729775121683883
+        ],
+        [
+          -9.68894082694876,
+          277.0627205990361,
+          61.22977532168401
+        ]
+      ],
+      "local_origin_native_mm": [
+        -22.18894092694883,
+        253.31272050497353,
+        37.479775221683944
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_738-solid-7",
+      "name": "Author EVA root 738-solid-7",
+      "source_native_key": "738-solid-7",
+      "source_path": [
+        "EVA_VORON v41",
+        "=>[0:1:1:704]",
+        "738-solid-7"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/other-native-validity-diagnosis-v1/eva-native-assembly-v1-738-solid-7.brep",
+        "bytes": 45705,
+        "sha256": "5fb9762624cb6882a55d0ab98a6983189460649ffa64cb5a5c74dd9f23996929"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/738-solid-7.brep",
+      "native_sha256": "5fb9762624cb6882a55d0ab98a6983189460649ffa64cb5a5c74dd9f23996929",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": null,
+      "appearance_role_basis": "Anonymous native source identity; material role unresolved",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          0.311058973051141,
+          229.56272041091097,
+          13.729775121683883
+        ],
+        [
+          25.31105917305123,
+          277.0627205990361,
+          61.22977532168401
+        ]
+      ],
+      "local_origin_native_mm": [
+        12.811059073051185,
+        253.31272050497353,
+        37.479775221683944
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_738-solid-8",
+      "name": "Author EVA root 738-solid-8",
+      "source_native_key": "738-solid-8",
+      "source_path": [
+        "EVA_VORON v41",
+        "=>[0:1:1:704]",
+        "738-solid-8"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/other-native-validity-diagnosis-v1/eva-native-assembly-v1-738-solid-8.brep",
+        "bytes": 380653,
+        "sha256": "e651f7af995e782915220d0404686eac5482d0b2d615f048bd2a9705b7fde831"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/738-solid-8.brep",
+      "native_sha256": "97a045604a589dd771688293d693d56675ec4f8b10efe7eb3932768700a796af",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": null,
+      "appearance_role_basis": "Anonymous native source identity; material role unresolved",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          24.0308140367688,
+          184.29725271117,
+          11.00000026822087
+        ],
+        [
+          35.5652832163577,
+          230.50203265895556,
+          90.12971536082142
+        ]
+      ],
+      "local_origin_native_mm": [
+        29.795373140498473,
+        207.39717011479678,
+        50.57366666926052
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_738-solid-9",
+      "name": "Author EVA root 738-solid-9",
+      "source_native_key": "738-solid-9",
+      "source_path": [
+        "EVA_VORON v41",
+        "=>[0:1:1:704]",
+        "738-solid-9"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/other-native-validity-diagnosis-v1/eva-native-assembly-v1-738-solid-9.brep",
+        "bytes": 106033,
+        "sha256": "789f4861e252f736fae5ea555dc796aa0e76f98bd417fded8588db76dd36986c"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/738-solid-9.brep",
+      "native_sha256": "43cc56ef1cd974caa72dd63ea32f6895134592d9f53b2c617c665529706c546f",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": null,
+      "appearance_role_basis": "Anonymous native source identity; material role unresolved",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          -29.138941026948807,
+          229.58941566644697,
+          52.31579441807061
+        ],
+        [
+          19.761059173051247,
+          250.87370735030447,
+          66.02589077473395
+        ]
+      ],
+      "local_origin_native_mm": [
+        -4.68894092694878,
+        240.2315615083757,
+        59.17084259640228
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_738-solid-10",
+      "name": "Author EVA root 738-solid-10",
+      "source_native_key": "738-solid-10",
+      "source_path": [
+        "EVA_VORON v41",
+        "=>[0:1:1:704]",
+        "738-solid-10"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/other-native-validity-diagnosis-v1/eva-native-assembly-v1-738-solid-10.brep",
+        "bytes": 9156,
+        "sha256": "94e36d6b711fe3bf461853dad26901e20da9c9276f0496f3531f4e5dcd558680"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/738-solid-10.brep",
+      "native_sha256": "94e36d6b711fe3bf461853dad26901e20da9c9276f0496f3531f4e5dcd558680",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": null,
+      "appearance_role_basis": "Anonymous native source identity; material role unresolved",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          -19.238941142740543,
+          265.57612888967776,
+          14.421509026750789
+        ],
+        [
+          9.861059173051169,
+          276.562720610911,
+          24.6079228654087
+        ]
+      ],
+      "local_origin_native_mm": [
+        -4.688940984844687,
+        271.0694247502944,
+        19.514715946079743
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_738-solid-11",
+      "name": "Author EVA root 738-solid-11",
+      "source_native_key": "738-solid-11",
+      "source_path": [
+        "EVA_VORON v41",
+        "=>[0:1:1:704]",
+        "738-solid-11"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/other-native-validity-diagnosis-v1/eva-native-assembly-v1-738-solid-11.brep",
+        "bytes": 212498,
+        "sha256": "a3139c40b804a9d4efcf337d90025f3d10d59f552c6bedee7be4405e5c16e109"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/738-solid-11.brep",
+      "native_sha256": "1f83c290d9278af58b8d2deb7f62aee5e814631ea0241b020e6ebf13393b9cb0",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": null,
+      "appearance_role_basis": "Anonymous native source identity; material role unresolved",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          31.0235215135205,
+          183.79725261117,
+          24.65920422512471
+        ],
+        [
+          53.6126495300129,
+          237.30285209800903,
+          72.3273402701264
+        ]
+      ],
+      "local_origin_native_mm": [
+        42.318085521766704,
+        210.55005235458952,
+        48.493272247625555
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_738-solid-12",
+      "name": "Author EVA root 738-solid-12",
+      "source_native_key": "738-solid-12",
+      "source_path": [
+        "EVA_VORON v41",
+        "=>[0:1:1:704]",
+        "738-solid-12"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/other-native-validity-diagnosis-v1/eva-native-assembly-v1-738-solid-12.brep",
+        "bytes": 137479,
+        "sha256": "dd248aa8d2277641b20ef2dba2125f8a7b2f1874475924bea669d54390848bbd"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/738-solid-12.brep",
+      "native_sha256": "7a9c304b121db1a6b6af03cb472e0de2148886bdadf82a373d747be1102302ac",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": null,
+      "appearance_role_basis": "Anonymous native source identity; material role unresolved",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          -12.646586203216119,
+          184.33262175072434,
+          57.81444331412245
+        ],
+        [
+          35.02352171352051,
+          191.464883269458,
+          86.13066150849839
+        ]
+      ],
+      "local_origin_native_mm": [
+        11.188467755152196,
+        187.89875251009119,
+        71.97255241131042
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_738-solid-13",
+      "name": "Author EVA root 738-solid-13",
+      "source_native_key": "738-solid-13",
+      "source_path": [
+        "EVA_VORON v41",
+        "=>[0:1:1:704]",
+        "738-solid-13"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/other-native-validity-diagnosis-v1/eva-native-assembly-v1-738-solid-13.brep",
+        "bytes": 83967,
+        "sha256": "a1f17e57e7b11eb3da2a435539729578f07dea39963ca2db3958b37c41120814"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/738-solid-13.brep",
+      "native_sha256": "1528734f992f34d40ac1947ea24f2178d82f56fbcf31e75a76143e46f44c397a",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": null,
+      "appearance_role_basis": "Anonymous native source identity; material role unresolved",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          -28.728582603311786,
+          177.364250322564,
+          -24.068772038927612
+        ],
+        [
+          -20.299817363946598,
+          183.36425581247337,
+          4.95914189710394
+        ]
+      ],
+      "local_origin_native_mm": [
+        -24.51419998362919,
+        180.3642530675187,
+        -9.554815070911836
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_738-solid-14",
+      "name": "Author EVA root 738-solid-14",
+      "source_native_key": "738-solid-14",
+      "source_path": [
+        "EVA_VORON v41",
+        "=>[0:1:1:704]",
+        "738-solid-14"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/other-native-validity-diagnosis-v1/eva-native-assembly-v1-738-solid-14.brep",
+        "bytes": 83498,
+        "sha256": "349c148df1362670b35968f9c6be4f49d81e192e3cda789a8337e59d79dba1bd"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/738-solid-14.brep",
+      "native_sha256": "86d723f9ae0474de22889bad385b797189662ad4f80ae6b30d23653be8abe847",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": null,
+      "appearance_role_basis": "Anonymous native source identity; material role unresolved",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          10.271417396688213,
+          177.364250322564,
+          -24.068772038927612
+        ],
+        [
+          18.700182636053402,
+          183.36425581247337,
+          4.95914189710394
+        ]
+      ],
+      "local_origin_native_mm": [
+        14.485800016370806,
+        180.3642530675187,
+        -9.554815070911836
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_738-solid-15",
+      "name": "Author EVA root 738-solid-15",
+      "source_native_key": "738-solid-15",
+      "source_path": [
+        "EVA_VORON v41",
+        "=>[0:1:1:704]",
+        "738-solid-15"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/other-native-validity-diagnosis-v1/eva-native-assembly-v1-738-solid-15.brep",
+        "bytes": 46810,
+        "sha256": "4fc9e20a4d1c5c8619f9ddbf5d1982a82cf23d4f984696249e29b16afd4e417e"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/738-solid-15.brep",
+      "native_sha256": "071269f8d032bab8578bd6a221d0af1efb61f50167c8694d4884ed36d712897e",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": null,
+      "appearance_role_basis": "Anonymous native source identity; material role unresolved",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          18.3036941079375,
+          193.455883618695,
+          12.060110260243695
+        ],
+        [
+          38.3036941079376,
+          213.255883618695,
+          18.460110260243802
+        ]
+      ],
+      "local_origin_native_mm": [
+        28.303694107937552,
+        203.355883618695,
+        15.26011026024375
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_738-solid-16",
+      "name": "Author EVA root 738-solid-16",
+      "source_native_key": "738-solid-16",
+      "source_path": [
+        "EVA_VORON v41",
+        "=>[0:1:1:704]",
+        "738-solid-16"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/other-native-validity-diagnosis-v1/eva-native-assembly-v1-738-solid-16.brep",
+        "bytes": 56229,
+        "sha256": "9ddb622280090ecd41e756561b806c35f04333af68914358cef01c106f6b9b93"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/738-solid-16.brep",
+      "native_sha256": "96708b81e1fca63fd46f4c50cdb3803c895adb9e4a84af587dd87048368d724f",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": null,
+      "appearance_role_basis": "Anonymous native source identity; material role unresolved",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          -24.67659015450135,
+          145.33116867032197,
+          -33.2908980879165
+        ],
+        [
+          15.32341004549865,
+          151.831168770322,
+          6.7091021120835
+        ]
+      ],
+      "local_origin_native_mm": [
+        -4.676590054501351,
+        148.58116872032198,
+        -13.290897987916502
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_738-solid-18",
+      "name": "Author EVA root 738-solid-18",
+      "source_native_key": "738-solid-18",
+      "source_path": [
+        "EVA_VORON v41",
+        "=>[0:1:1:704]",
+        "738-solid-18"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/other-native-validity-diagnosis-v1/eva-native-assembly-v1-738-solid-18.brep",
+        "bytes": 56966,
+        "sha256": "501d751799f449eb454b7b937822974d4c51c22cee64c56fdcac86b17a778bc8"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/738-solid-18.brep",
+      "native_sha256": "1a5199fed920f65c4bd32eda698998e698a6710b07c612139cbca6d4a2f2cb03",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": null,
+      "appearance_role_basis": "Anonymous native source identity; material role unresolved",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          -18.00000175928575,
+          187.0000012397406,
+          -25.00000037250935
+        ],
+        [
+          8.000000299628944,
+          199.00000381468405,
+          5.0000000745267705
+        ]
+      ],
+      "local_origin_native_mm": [
+        -5.000000729828404,
+        193.00000252721233,
+        -10.00000014899129
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_738-solid-19",
+      "name": "Author EVA root 738-solid-19",
+      "source_native_key": "738-solid-19",
+      "source_path": [
+        "EVA_VORON v41",
+        "=>[0:1:1:704]",
+        "738-solid-19"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/other-native-validity-diagnosis-v1/eva-native-assembly-v1-738-solid-19.brep",
+        "bytes": 636714,
+        "sha256": "1bbb287ab389dd2dbfa43b62faadcf61e6326dac53b32a313586f2db7fd3f94d"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/738-solid-19.brep",
+      "native_sha256": "28f6c71e9de78055048e7004c3f2c01e0ebf0781eba63c8a41cc3fdbb7603e60",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": null,
+      "appearance_role_basis": "Anonymous native source identity; material role unresolved",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          -31.66678629593595,
+          164.9940295932465,
+          7.309101912083459
+        ],
+        [
+          24.03081413213623,
+          229.35415753624608,
+          28.5277248363487
+        ]
+      ],
+      "local_origin_native_mm": [
+        -3.8179860818998606,
+        197.17409356474627,
+        17.91841337421608
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_738-solid-20",
+      "name": "Author EVA root 738-solid-20",
+      "source_native_key": "738-solid-20",
+      "source_path": [
+        "EVA_VORON v41",
+        "=>[0:1:1:704]",
+        "738-solid-20"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/other-native-validity-diagnosis-v1/eva-native-assembly-v1-738-solid-20.brep",
+        "bytes": 4216,
+        "sha256": "910857e55468f330f68ddadeeac00223a116ee2872fde1379fc9c3325216a4c3"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/738-solid-20.brep",
+      "native_sha256": "6c0a4bf0a76a0014c9796c9b3a08926b88478ce67af7653f6430196d1b2dbd59",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": null,
+      "appearance_role_basis": "Anonymous native source identity; material role unresolved",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          -25.1504748831225,
+          180.151933021293,
+          28.5090579983223
+        ],
+        [
+          -25.08884386624649,
+          183.37901898167647,
+          28.527722414095418
+        ]
+      ],
+      "local_origin_native_mm": [
+        -25.119659374684495,
+        181.76547600148473,
+        28.51839020620886
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_738-solid-21",
+      "name": "Author EVA root 738-solid-21",
+      "source_native_key": "738-solid-21",
+      "source_path": [
+        "EVA_VORON v41",
+        "=>[0:1:1:704]",
+        "738-solid-21"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/other-native-validity-diagnosis-v1/eva-native-assembly-v1-738-solid-21.brep",
+        "bytes": 109229,
+        "sha256": "c16fad6e6e2b362bec2a0f86e1eb579aae248d50fc768aa55f50233998b80888"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/738-solid-21.brep",
+      "native_sha256": "c16fad6e6e2b362bec2a0f86e1eb579aae248d50fc768aa55f50233998b80888",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": null,
+      "appearance_role_basis": "Anonymous native source identity; material role unresolved",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          -22.46696685289611,
+          208.403277191625,
+          28.5277255408255
+        ],
+        [
+          11.1278588209981,
+          221.22058447942598,
+          70.4133033760198
+        ]
+      ],
+      "local_origin_native_mm": [
+        -5.669554015949005,
+        214.8119308355255,
+        49.47051445842265
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_738-solid-23",
+      "name": "Author EVA root 738-solid-23",
+      "source_native_key": "738-solid-23",
+      "source_path": [
+        "EVA_VORON v41",
+        "=>[0:1:1:704]",
+        "738-solid-23"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/other-native-validity-diagnosis-v1/eva-native-assembly-v1-738-solid-23.brep",
+        "bytes": 31718,
+        "sha256": "aeb4f2772d32768bf6438bce48645c1f04b7f0533b54e6a326ed19fe372897a1"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/738-solid-23.brep",
+      "native_sha256": "3b60a2eacab375a2a5c36eb7069c7633de4f9dc65f601425075a3b647361f3e8",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": null,
+      "appearance_role_basis": "Anonymous native source identity; material role unresolved",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          -12.900954377917829,
+          156.214882279825,
+          40.48046071416798
+        ],
+        [
+          5.78628217315507,
+          159.214882897162,
+          47.86769777733104
+        ]
+      ],
+      "local_origin_native_mm": [
+        -3.5573361023813796,
+        157.71488258849348,
+        44.17407924574951
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_738-solid-24",
+      "name": "Author EVA root 738-solid-24",
+      "source_native_key": "738-solid-24",
+      "source_path": [
+        "EVA_VORON v41",
+        "=>[0:1:1:704]",
+        "738-solid-24"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/other-native-validity-diagnosis-v1/eva-native-assembly-v1-738-solid-24.brep",
+        "bytes": 1274647,
+        "sha256": "1f115ef35f3df55869fc587dc3f2b4124f8975bb951361ee89b23515b1f4b7dd"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/738-solid-24.brep",
+      "native_sha256": "85a4be1ed169ab9b328ff48b3aa0f844ad065191e04f19debe407ba03da2dba0",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": null,
+      "appearance_role_basis": "Anonymous native source identity; material role unresolved",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          -44.16569711766841,
+          153.61403847978877,
+          -61.00001005341233
+        ],
+        [
+          34.16735621617489,
+          222.363019395869,
+          -33.5431083433158
+        ]
+      ],
+      "local_origin_native_mm": [
+        -4.999192477805231,
+        191.69245469163985,
+        -47.63182181492885
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_0",
+      "name": "radiator",
+      "source_native_key": "0",
+      "source_path": [
+        "EVA_VORON v41",
+        "Mellow All Metal NF-Crazy-Volcano v17 v1:1",
+        "MellowNFCrazy:1",
+        "radiator:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/0.brep",
+        "bytes": 1022989,
+        "sha256": "a4a7528308a5f5818d3ff592e9dcb29a2ff8ad530df8ec6c4c712c10daffef1e"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/0.brep",
+      "native_sha256": "573d69713ccdc555180def3d0f4d5878888e754d412eaf9fb297978d7c91a3eb",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.0666259378194809,
+        0.06480326503515244,
+        0.06480326503515244
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -17.1886720276722,
+          167.02635493826392,
+          -31.41492320752881
+        ],
+        [
+          7.811328172327803,
+          180.02635493826392,
+          -6.4149231075287965
+        ]
+      ],
+      "local_origin_native_mm": [
+        -4.688671927672199,
+        173.52635493826392,
+        -18.914923157528804
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_1",
+      "name": "heatbreakFins",
+      "source_native_key": "1",
+      "source_path": [
+        "EVA_VORON v41",
+        "Mellow All Metal NF-Crazy-Volcano v17 v1:1",
+        "MellowNFCrazy:1",
+        "heatbreakFins:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/1.brep",
+        "bytes": 16955,
+        "sha256": "1e8f504d352fce02169401d603ac6596c21ad794abe40846ab4cfae620a4777e"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/1.brep",
+      "native_sha256": "1e8f504d352fce02169401d603ac6596c21ad794abe40846ab4cfae620a4777e",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.8468732237815857,
+        0.6172065734863281,
+        0.5457244515419006
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -8.688671927672203,
+          169.52635493826392,
+          -25.4149231075288
+        ],
+        [
+          -0.6886719276722024,
+          177.52635493826392,
+          -14.414923107528798
+        ]
+      ],
+      "local_origin_native_mm": [
+        -4.688671927672203,
+        173.52635493826392,
+        -19.9149231075288
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_2",
+      "name": "centreTube",
+      "source_native_key": "2",
+      "source_path": [
+        "EVA_VORON v41",
+        "Mellow All Metal NF-Crazy-Volcano v17 v1:1",
+        "MellowNFCrazy:1",
+        "centreTube:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/2.brep",
+        "bytes": 3723,
+        "sha256": "c57b1fcacc696c46a7c521605c118a01605f4ea987874033f04cc61b2ec883a8"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/2.brep",
+      "native_sha256": "c57b1fcacc696c46a7c521605c118a01605f4ea987874033f04cc61b2ec883a8",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.5972017645835876,
+        0.5972017645835876,
+        0.5972017645835876
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -5.838671927672204,
+          172.37635493826392,
+          -40.91492310752881
+        ],
+        [
+          -3.5386719276722,
+          174.67635493826393,
+          -9.4149231075288
+        ]
+      ],
+      "local_origin_native_mm": [
+        -4.6886719276722015,
+        173.52635493826392,
+        -25.164923107528804
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_3",
+      "name": "hiFlow",
+      "source_native_key": "3",
+      "source_path": [
+        "EVA_VORON v41",
+        "Mellow All Metal NF-Crazy-Volcano v17 v1:1",
+        "MellowNFCrazy:1",
+        "hiFlow:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/3.brep",
+        "bytes": 183307,
+        "sha256": "e77d5ad2347ec353a8672ea4d4b3d056945aae1481edceb5e772784e8bac7512"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/3.brep",
+      "native_sha256": "baa033e18e2c3559c9038335cf51aef17835a2c645fd6ef18ef8a03f8bb51329",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.8468732237815857,
+        0.6172065734863281,
+        0.5457244515419006
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -9.43867211131316,
+          168.89205086446663,
+          -40.914923207528844
+        ],
+        [
+          0.061327888686840915,
+          178.16065883263815,
+          -27.414923107528796
+        ]
+      ],
+      "local_origin_native_mm": [
+        -4.68867211131316,
+        173.5263548485524,
+        -34.16492315752882
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_4",
+      "name": "hiFlowInsulator",
+      "source_native_key": "4",
+      "source_path": [
+        "EVA_VORON v41",
+        "Mellow All Metal NF-Crazy-Volcano v17 v1:1",
+        "MellowNFCrazy:1",
+        "hiFlowInsulator:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/4.brep",
+        "bytes": 9874,
+        "sha256": "f34d082b7379f331955244f397637db27bb45cdee60af6efd5356569a0427716"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/4.brep",
+      "native_sha256": "f34d082b7379f331955244f397637db27bb45cdee60af6efd5356569a0427716",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.05126945674419403,
+        0.05126945674419403,
+        0.05126945674419403
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -10.68867192767221,
+          167.52635483826393,
+          -36.9149231075288
+        ],
+        [
+          1.3113280723278082,
+          179.52635493826392,
+          -26.914923107528796
+        ]
+      ],
+      "local_origin_native_mm": [
+        -4.6886719276722015,
+        173.52635488826394,
+        -31.9149231075288
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_5",
+      "name": "T2",
+      "source_native_key": "5",
+      "source_path": [
+        "EVA_VORON v41",
+        "Mellow All Metal NF-Crazy-Volcano v17 v1:1",
+        "MellowNFCrazy:1",
+        "T2:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/5.brep",
+        "bytes": 3255,
+        "sha256": "d4501ed61d8a66f8d990f5c8aa283410988cbdfa3c217e362046b94f7174d59b"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/5.brep",
+      "native_sha256": "d4501ed61d8a66f8d990f5c8aa283410988cbdfa3c217e362046b94f7174d59b",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.5972017645835876,
+        0.5972017645835876,
+        0.5972017645835876
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          1.6113280723278018,
+          168.57635493826393,
+          -42.4149231075288
+        ],
+        [
+          4.011328072327803,
+          170.9763549382639,
+          -27.9149231075288
+        ]
+      ],
+      "local_origin_native_mm": [
+        2.8113280723278025,
+        169.77635493826392,
+        -35.1649231075288
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_6",
+      "name": "T1",
+      "source_native_key": "6",
+      "source_path": [
+        "EVA_VORON v41",
+        "Mellow All Metal NF-Crazy-Volcano v17 v1:1",
+        "MellowNFCrazy:1",
+        "T1:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/6.brep",
+        "bytes": 3305,
+        "sha256": "bf6ff46f5fa08d1838ff5aab57032d328dfcd6dfb01e3b8be3f29d2d1f0f5d75"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/6.brep",
+      "native_sha256": "bf6ff46f5fa08d1838ff5aab57032d328dfcd6dfb01e3b8be3f29d2d1f0f5d75",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.5972017645835876,
+        0.5972017645835876,
+        0.5972017645835876
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          1.611328072327802,
+          176.07635493826393,
+          -42.4149231075288
+        ],
+        [
+          4.011328072327803,
+          178.4763549382639,
+          -27.914923107528793
+        ]
+      ],
+      "local_origin_native_mm": [
+        2.8113280723278025,
+        177.27635493826392,
+        -35.16492310752879
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_7",
+      "name": "T3",
+      "source_native_key": "7",
+      "source_path": [
+        "EVA_VORON v41",
+        "Mellow All Metal NF-Crazy-Volcano v17 v1:1",
+        "MellowNFCrazy:1",
+        "T3:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/7.brep",
+        "bytes": 2559,
+        "sha256": "a3f787a6b9bc139aae97c6a093a9b89740d905edf0a50a384ebe8b7f6a34b456"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/7.brep",
+      "native_sha256": "a3f787a6b9bc139aae97c6a093a9b89740d905edf0a50a384ebe8b7f6a34b456",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.5972017645835876,
+        0.5972017645835876,
+        0.5972017645835876
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -13.388671927672197,
+          168.57635493826393,
+          -42.4149231075288
+        ],
+        [
+          -10.988671927672197,
+          170.9763549382639,
+          -27.9149231075288
+        ]
+      ],
+      "local_origin_native_mm": [
+        -12.188671927672196,
+        169.77635493826392,
+        -35.1649231075288
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_8",
+      "name": "T4",
+      "source_native_key": "8",
+      "source_path": [
+        "EVA_VORON v41",
+        "Mellow All Metal NF-Crazy-Volcano v17 v1:1",
+        "MellowNFCrazy:1",
+        "T4:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/8.brep",
+        "bytes": 3285,
+        "sha256": "c6e4b9c1d79cc66ef999d54a0ecf0eb21edbef389bc78cad169cae6f0dacca69"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/8.brep",
+      "native_sha256": "c6e4b9c1d79cc66ef999d54a0ecf0eb21edbef389bc78cad169cae6f0dacca69",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.5972017645835876,
+        0.5972017645835876,
+        0.5972017645835876
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -13.388671927672197,
+          176.07635493826393,
+          -42.4149231075288
+        ],
+        [
+          -10.988671927672197,
+          178.4763549382639,
+          -27.9149231075288
+        ]
+      ],
+      "local_origin_native_mm": [
+        -12.188671927672196,
+        177.27635493826392,
+        -35.1649231075288
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_9",
+      "name": "M3x10_buttonHead",
+      "source_native_key": "9",
+      "source_path": [
+        "EVA_VORON v41",
+        "Mellow All Metal NF-Crazy-Volcano v17 v1:1",
+        "MellowNFCrazyVolcano:1",
+        "M3x10_buttonHead:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/9.brep",
+        "bytes": 409382,
+        "sha256": "af047fe60e789699c8945517466bb7089c0c780a930ce33947b5eeeff23d2fd3"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/9.brep",
+      "native_sha256": "d169e468d344d2074973f4e452f9ec36ea6f488df51990f3c1cd1426ed1ad31d",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.02518685907125473,
+        0.02518685907125473,
+        0.02518685907125473
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -8.438672027672185,
+          158.12635483826415,
+          -54.21492320752879
+        ],
+        [
+          3.2113281723278377,
+          163.72635503826416,
+          -48.614923007528795
+        ]
+      ],
+      "local_origin_native_mm": [
+        -2.613671927672174,
+        160.92635493826415,
+        -51.41492310752879
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_10",
+      "name": "M3x10_buttonHead",
+      "source_native_key": "10",
+      "source_path": [
+        "EVA_VORON v41",
+        "Mellow All Metal NF-Crazy-Volcano v17 v1:1",
+        "MellowNFCrazyVolcano:1",
+        "M3x10_buttonHead:2"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/10.brep",
+        "bytes": 409387,
+        "sha256": "de86083e6400d3eb993b2e1dd087fa6449f38789a50ba10b972fb704c7145d48"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/10.brep",
+      "native_sha256": "8f83362d279405ffe1769eadd52a4cb96647df68dab13716570d21f01202b2bd",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.02518685907125473,
+        0.02518685907125473,
+        0.02518685907125473
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -8.438693954839039,
+          158.12635483826404,
+          -46.71492320699684
+        ],
+        [
+          3.2113573107699547,
+          163.72635503826405,
+          -41.114916373408846
+        ]
+      ],
+      "local_origin_native_mm": [
+        -2.613668322034542,
+        160.92635493826404,
+        -43.914919790202845
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_11",
+      "name": "M3x5_grubScrew",
+      "source_native_key": "11",
+      "source_path": [
+        "EVA_VORON v41",
+        "Mellow All Metal NF-Crazy-Volcano v17 v1:1",
+        "MellowNFCrazyVolcano:1",
+        "M3x5_grubScrew:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/11.brep",
+        "bytes": 239612,
+        "sha256": "6a440d0271ddfd35ae7738147bbbc49d6f682a36d34a11e8d70ab5ce4e7ac92e"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/11.brep",
+      "native_sha256": "bf4f35593c01fce24ff66548dc2e2a9d6abb02463b4750719ac5f9cb440aae24",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.02518685907125473,
+        0.02518685907125473,
+        0.02518685907125473
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -3.2011720276722078,
+          179.57635483826397,
+          -52.16492346364472
+        ],
+        [
+          1.7988283960669549,
+          182.57635635773394,
+          -49.16492300755506
+        ]
+      ],
+      "local_origin_native_mm": [
+        -0.6994823794674286,
+        181.07630001162846,
+        -50.66492200928416
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": false,
+      "unrenderable_native_faces": [
+        {
+          "native_face": 19,
+          "type": "CONE",
+          "area_mm2": 2.040524284763493,
+          "center_mm": [
+            0.7169905050303889,
+            181.07635493826396,
+            -50.66492310752879
+          ],
+          "source_mesher_triangles": 1,
+          "exported_triangles": 0,
+          "triangle_start": 3421,
+          "degenerate_mesher_triangles": 1,
+          "source_face_tolerance_mm": 1e-07,
+          "native_display_face_coverage": false,
+          "unqualified_preview_only": true,
+          "reason": "Actual native mesher and isolated recovery yield no positive double-precision triangle. No replacement face or generic shape created.",
+          "isolated_mesher_attempts": [
+            {
+              "method": "isolated_exact_native_face",
+              "deflection_mm": 0.02,
+              "angular_deflection": 0.1,
+              "status": 4,
+              "triangles": 0
+            },
+            {
+              "method": "isolated_exact_native_face",
+              "deflection_mm": 0.01,
+              "angular_deflection": 0.1,
+              "status": 4,
+              "triangles": 0
+            },
+            {
+              "method": "isolated_exact_native_face",
+              "deflection_mm": 0.05,
+              "angular_deflection": 0.3,
+              "status": 4,
+              "triangles": 0
+            },
+            {
+              "method": "isolated_exact_native_face",
+              "deflection_mm": 0.1,
+              "angular_deflection": 0.7,
+              "status": 0,
+              "triangles": 1
+            }
+          ],
+          "display_only_representation": null,
+          "precision_frame": null
+        }
+      ]
+    },
+    {
+      "key": "requested_mod_681594_head_12",
+      "name": "volcanoNozzle_steel",
+      "source_native_key": "12",
+      "source_path": [
+        "EVA_VORON v41",
+        "Mellow All Metal NF-Crazy-Volcano v17 v1:1",
+        "MellowNFCrazyVolcano:1",
+        "volcanoNozzle_steel:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/12.brep",
+        "bytes": 681561,
+        "sha256": "51e8a1d8d154e1b1a25447438c3e1aded21997a75d5599249f2016bc62118ad7"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/12.brep",
+      "native_sha256": "70f5a3c53e89da2ffeb588abe624d5be7f68ab35dc56b555ee7ccb1ec115e9a3",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.02518685907125473,
+        0.02518685907125473,
+        0.02518685907125473
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -8.471767413316508,
+          169.57511150592927,
+          -61.914923107528764
+        ],
+        [
+          -0.9055764420277782,
+          177.47759837059843,
+          -40.914922744550765
+        ]
+      ],
+      "local_origin_native_mm": [
+        -4.688671927672143,
+        173.52635493826386,
+        -51.414922926039765
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_13",
+      "name": "MFvolcanoBlock",
+      "source_native_key": "13",
+      "source_path": [
+        "EVA_VORON v41",
+        "Mellow All Metal NF-Crazy-Volcano v17 v1:1",
+        "MellowNFCrazyVolcano:1",
+        "MFvolcanoBlock:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/13.brep",
+        "bytes": 3472379,
+        "sha256": "2f2a0d2cabb44815bc02c664e79586150dfa53e708a4fbeb5ddcc4962a14a39b"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/13.brep",
+      "native_sha256": "93ff3b560e6a3c92c1a9583fc5fee9e6b7cff0776d3dc9ac11b1f415f11438cf",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.9130986332893372,
+        0.9130986332893372,
+        0.9215818643569946
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -14.088671927672209,
+          157.92635483826393,
+          -56.41492320752881
+        ],
+        [
+          4.711328072327817,
+          183.92635493826396,
+          -36.9149230075288
+        ]
+      ],
+      "local_origin_native_mm": [
+        -4.688671927672196,
+        170.92635488826394,
+        -46.66492310752881
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_14",
+      "name": "M1.6x17_1",
+      "source_native_key": "14",
+      "source_path": [
+        "EVA_VORON v41",
+        "Mellow All Metal NF-Crazy-Volcano v17 v1:1",
+        "MellowNFCrazyVolcano:1",
+        "M1.6x17_1:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/14.brep",
+        "bytes": 2404174,
+        "sha256": "f872d5c2b4ad41ac16469c8db98178844e1765f2dbe9835ea108418ee94c5d7c"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/14.brep",
+      "native_sha256": "771d3fe0ff48e1a4a6287fa3970241cbcbfb6cdeb57df00478aa70defb5f4c9d",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.5972017645835876,
+        0.5972017645835876,
+        0.5972017645835876
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -13.188671927672205,
+          172.02635493826392,
+          -46.514923107528794
+        ],
+        [
+          -10.188671927672203,
+          175.02635493826392,
+          -27.91492300752877
+        ]
+      ],
+      "local_origin_native_mm": [
+        -11.688671927672203,
+        173.52635493826392,
+        -37.21492305752878
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_15",
+      "name": "M1.6x17_2",
+      "source_native_key": "15",
+      "source_path": [
+        "EVA_VORON v41",
+        "Mellow All Metal NF-Crazy-Volcano v17 v1:1",
+        "MellowNFCrazyVolcano:1",
+        "M1.6x17_2:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/15.brep",
+        "bytes": 2469909,
+        "sha256": "acd316caa3778317eb821496fb8f705d429c60dea16cb696ca2c9745f36fce7c"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/15.brep",
+      "native_sha256": "c2b5068a764d18a6d0213fd492ef119bf66b32e9ee0eaac524017e3643683eb5",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.5972017645835876,
+        0.5972017645835876,
+        0.5972017645835876
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          0.8113280723277949,
+          172.02635483826393,
+          -46.5149231075288
+        ],
+        [
+          3.811328072327796,
+          175.02635493826392,
+          -27.914660672703327
+        ]
+      ],
+      "local_origin_native_mm": [
+        2.3113280723277954,
+        173.52635488826394,
+        -37.21479189011606
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_16",
+      "name": "6x20_heater",
+      "source_native_key": "16",
+      "source_path": [
+        "EVA_VORON v41",
+        "Mellow All Metal NF-Crazy-Volcano v17 v1:1",
+        "MellowNFCrazyVolcano:1",
+        "6x20_heater:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/16.brep",
+        "bytes": 14162,
+        "sha256": "13b8c89f84438b405c2b83744627cc3f789f77cdf663b42cde6aa7e1f3012d58"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/16.brep",
+      "native_sha256": "f69e480706461ccc7b489e24e28d9ac2c6707a1a194e58915c00c8201de6808e",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.637596845626831,
+        0.6038273572921753,
+        0.5271151065826416
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -7.688672027672167,
+          163.02635483826396,
+          -56.91492429962169
+        ],
+        [
+          -1.688671827672166,
+          169.02635493826395,
+          -26.914924299621685
+        ]
+      ],
+      "local_origin_native_mm": [
+        -4.688671927672167,
+        166.02635488826394,
+        -41.91492429962169
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_17",
+      "name": "3x16_thermistor",
+      "source_native_key": "17",
+      "source_path": [
+        "EVA_VORON v41",
+        "Mellow All Metal NF-Crazy-Volcano v17 v1:1",
+        "MellowNFCrazyVolcano:1",
+        "3x16_thermistor:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/17.brep",
+        "bytes": 9871,
+        "sha256": "1dac6fbf349b1fd445855f6590066f361c2b8815f30e2bc8f0be41aabd18b2bc"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/17.brep",
+      "native_sha256": "2ba41ebb9e8b0a7ede3dd69b9860e92a2dd8ce3e3b63a8f7ea40dffe213998c5",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.8468732237815857,
+        0.6172065734863281,
+        0.5457244515419006
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -6.188672027672255,
+          179.57635483826397,
+          -56.314923107528806
+        ],
+        [
+          -3.1886718276722186,
+          182.57635503826396,
+          -30.314923107528806
+        ]
+      ],
+      "local_origin_native_mm": [
+        -4.688671927672237,
+        181.07635493826396,
+        -43.314923107528806
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_18",
+      "name": "shaft^drive_core_sherpa_mini_compact_r6a",
+      "source_native_key": "18",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "drive_core^sherpa_mini_compact_r6a:1",
+        "shaft^drive_core_sherpa_mini_compact_r6a:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/18.brep",
+        "bytes": 66263,
+        "sha256": "05f429797caf076718bf96b136e245161b16d489ab0c6c94da7cb63fc550f108"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/18.brep",
+      "native_sha256": "05f429797caf076718bf96b136e245161b16d489ab0c6c94da7cb63fc550f108",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.5647115111351013,
+        0.533276379108429,
+        0.5028864741325378
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -11.542397683285314,
+          159.46488237982496,
+          50.50914088269838
+        ],
+        [
+          -6.5423974832853,
+          186.06488237982498,
+          55.50914108269844
+        ]
+      ],
+      "local_origin_native_mm": [
+        -9.042397583285307,
+        172.76488237982497,
+        53.00914098269841
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_19",
+      "name": "0.5mm_shim^drive_core_sherpa_mini_compact_r6a",
+      "source_native_key": "19",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "drive_core^sherpa_mini_compact_r6a:1",
+        "0.5mm_shim^drive_core_sherpa_mini_compact_r6a:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/19.brep",
+        "bytes": 6842,
+        "sha256": "3b20f8f1a0630c7a021c711f6bb4cf3e7a186725fccecd4ff26590157bc437bd"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/19.brep",
+      "native_sha256": "3b20f8f1a0630c7a021c711f6bb4cf3e7a186725fccecd4ff26590157bc437bd",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.5647115111351013,
+        0.533276379108429,
+        0.5028864741325378
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -12.542397583285304,
+          161.96488237982507,
+          49.509140982698455
+        ],
+        [
+          -5.542397583285304,
+          162.46488237982507,
+          56.509140982698455
+        ]
+      ],
+      "local_origin_native_mm": [
+        -9.042397583285304,
+        162.21488237982507,
+        53.009140982698455
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_20",
+      "name": "sherpa_mini_gear_50t_sl_7mm^drive_core_sherpa_mini_compact_r6a",
+      "source_native_key": "20",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "drive_core^sherpa_mini_compact_r6a:1",
+        "sherpa_mini_gear_50t_sl_7mm^drive_core_sherpa_mini_compact_r6a:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/20.brep",
+        "bytes": 1470434,
+        "sha256": "c10a65591075a64bf7592c8d801bda1926c3a7e368474853167d142da449fe00"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/20.brep",
+      "native_sha256": "80b28f8ded8f865d9f3f67b759ac7b3e6a440fefe5005fc161b7713859a83c06",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.21223075687885284,
+        0.21223075687885284,
+        0.21223075687885284
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -22.042397683285323,
+          176.46488227981996,
+          40.02406398426979
+        ],
+        [
+          3.9576025167146818,
+          183.4648824798932,
+          65.99421798112708
+        ]
+      ],
+      "local_origin_native_mm": [
+        -9.04239758328532,
+        179.9648823798566,
+        53.00914098269843
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_21",
+      "name": "filament_gear^drive_core_sherpa_mini_compact_r6a",
+      "source_native_key": "21",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "drive_core^sherpa_mini_compact_r6a:1",
+        "filament_gear^drive_core_sherpa_mini_compact_r6a:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/21.brep",
+        "bytes": 3640963,
+        "sha256": "4ba1d3534f1779786df6d0055ed08a6489c440a5084ed0ee48d8906b1733ae04"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/21.brep",
+      "native_sha256": "0db8f3bb91046f1cd3c0dabec49f0b64c5e4d1e89d76cce15cf6617569394c99",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.5647115111351013,
+        0.533276379108429,
+        0.5028864741325378
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -13.781291251105552,
+          162.46488227982488,
+          48.31967205905666
+        ],
+        [
+          -4.303503915464125,
+          176.46488237982487,
+          57.75914108269844
+        ]
+      ],
+      "local_origin_native_mm": [
+        -9.042397583284838,
+        169.4648823298249,
+        53.039406570877546
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_22",
+      "name": "MR85-2RS^drive_core_sherpa_mini_compact_r6a",
+      "source_native_key": "22",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "drive_core^sherpa_mini_compact_r6a:1",
+        "MR85-2RS^drive_core_sherpa_mini_compact_r6a:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/22.brep",
+        "bytes": 13931,
+        "sha256": "e38111495cda4f1d83ffec9662f070d3784663bb5c46294dc17980728736e037"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/22.brep",
+      "native_sha256": "e38111495cda4f1d83ffec9662f070d3784663bb5c46294dc17980728736e037",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          -13.042397583285307,
+          159.46488237982507,
+          49.009140982698455
+        ],
+        [
+          -5.042397583285306,
+          161.96488237982507,
+          57.009140982698455
+        ]
+      ],
+      "local_origin_native_mm": [
+        -9.042397583285307,
+        160.71488237982507,
+        53.009140982698455
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_23",
+      "name": "MR85-2RS^drive_core_sherpa_mini_compact_r6a",
+      "source_native_key": "23",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "drive_core^sherpa_mini_compact_r6a:1",
+        "MR85-2RS^drive_core_sherpa_mini_compact_r6a:2"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/23.brep",
+        "bytes": 13929,
+        "sha256": "0a29bb05e57a6226d60662019e46fc8764ec7abc273fe2c79fb91bf4c61c9641"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/23.brep",
+      "native_sha256": "0a29bb05e57a6226d60662019e46fc8764ec7abc273fe2c79fb91bf4c61c9641",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          -13.042397583285322,
+          183.56488237982498,
+          49.009140982698405
+        ],
+        [
+          -5.04239758328532,
+          186.06488237982498,
+          57.009140982698405
+        ]
+      ],
+      "local_origin_native_mm": [
+        -9.042397583285322,
+        184.81488237982498,
+        53.009140982698405
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_25",
+      "name": "housing_core^housing_sherpa_mini_compact_r6a_FDM",
+      "source_native_key": "25",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "housing^sherpa_mini_compact_r6a_FDM:1",
+        "housing_core^housing_sherpa_mini_compact_r6a_FDM:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/25.brep",
+        "bytes": 3643210,
+        "sha256": "e85ecfb89aef12bc0ef162097c42cc79133991e7e48c1eb333fc11fb14b046aa"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/25.brep",
+      "native_sha256": "41d81d3833fba22151a86bc86c2cb1a00fba5faf07181791cbfc3ace05f00d08",
+      "appearance_role": "base",
+      "material_role": "base",
+      "motion": "fixed",
+      "purchased_hardware": false,
+      "appearance_role_basis": "Explicit Annex FDM identity",
+      "source_color_linear": [
+        0.061246052384376526,
+        0.061246052384376526,
+        0.061246052384376526
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -25.842397683285288,
+          161.964882279825,
+          39.50914088269784
+        ],
+        [
+          20.35760251671471,
+          179.4648824798251,
+          82.727799821126
+        ]
+      ],
+      "local_origin_native_mm": [
+        -2.742397583285287,
+        170.7154344895398,
+        61.10988341779943
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_26",
+      "name": "housing_front^housing_sherpa_mini_compact_r6a_FDM",
+      "source_native_key": "26",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "housing^sherpa_mini_compact_r6a_FDM:1",
+        "housing_front^housing_sherpa_mini_compact_r6a_FDM:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/26.brep",
+        "bytes": 163530,
+        "sha256": "4b831b3bb4eb3ca7c2e616585b3074bba4c6d73ba54626f416e024bb4823dbaa"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/26.brep",
+      "native_sha256": "aeecab37c8cc457b7d294bfc66c2d796bb28c6b1849b80530dd76382c3ac0a40",
+      "appearance_role": "base",
+      "material_role": "base",
+      "motion": "fixed",
+      "purchased_hardware": false,
+      "appearance_role_basis": "Explicit Annex FDM identity",
+      "source_color_linear": [
+        0.061246052384376526,
+        0.061246052384376526,
+        0.061246052384376526
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -17.042397583285304,
+          158.06488237982498,
+          39.50914098269846
+        ],
+        [
+          6.757602416714717,
+          161.96488247982504,
+          66.00914098269848
+        ]
+      ],
+      "local_origin_native_mm": [
+        -5.155315287708392,
+        160.0127122441249,
+        52.75749738144027
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_27",
+      "name": "housing_rear_nema14^housing_sherpa_mini_compact_r6a_FDM",
+      "source_native_key": "27",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "housing^sherpa_mini_compact_r6a_FDM:1",
+        "housing_rear_nema14^housing_sherpa_mini_compact_r6a_FDM:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/27.brep",
+        "bytes": 1005250,
+        "sha256": "8ad3b8ca9a37aa5bb80d49897107ac61fdb0d5f046718355eddbd5dbdbb1df07"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/27.brep",
+      "native_sha256": "9d9fed91319a6613eb07f8b8437f69fe56ce845a86ec2fbd9e7195d25e9fe0f0",
+      "appearance_role": "base",
+      "material_role": "base",
+      "motion": "fixed",
+      "purchased_hardware": false,
+      "appearance_role_basis": "Explicit Annex FDM identity",
+      "source_color_linear": [
+        0.5906188488006592,
+        0.637596845626831,
+        0.8549926280975342
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -25.8423975832853,
+          179.464882279825,
+          39.50914088148225
+        ],
+        [
+          20.357602416714702,
+          186.46488247982631,
+          82.72779972112598
+        ]
+      ],
+      "local_origin_native_mm": [
+        -2.7424695691470546,
+        182.9653613756248,
+        61.10769081195562
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_28",
+      "name": "idler_arm_short^housing_sherpa_mini_compact_r6a_FDM",
+      "source_native_key": "28",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "housing^sherpa_mini_compact_r6a_FDM:1",
+        "idler_arm_short^housing_sherpa_mini_compact_r6a_FDM:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/28.brep",
+        "bytes": 1281373,
+        "sha256": "eb281c14940a4a7068b96a7057308c51a3ab622560272849023ad7802ab3cd9d"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/28.brep",
+      "native_sha256": "f3dda5ad2b3493cef1c5f990a1454b23cc8003152e6c3b9a3bd56fda6c4379bb",
+      "appearance_role": "base",
+      "material_role": "base",
+      "motion": "fixed",
+      "purchased_hardware": false,
+      "appearance_role_basis": "Explicit Annex FDM identity",
+      "source_color_linear": [
+        0.017641954123973846,
+        0.09084171056747437,
+        0.31854677200317383
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -1.5423976832853246,
+          158.06488227982493,
+          39.50914088269851
+        ],
+        [
+          7.757602519439197,
+          179.66488247982494,
+          66.76647321186314
+        ]
+      ],
+      "local_origin_native_mm": [
+        3.107602418076936,
+        168.86488237982493,
+        53.13780704728083
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_29",
+      "name": "idler_arm_long^housing_sherpa_mini_compact_r6a_FDM",
+      "source_native_key": "29",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "housing^sherpa_mini_compact_r6a_FDM:1",
+        "idler_arm_long^housing_sherpa_mini_compact_r6a_FDM:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/29.brep",
+        "bytes": 1483331,
+        "sha256": "8812bb85c071c84ac451b4b95f1c1300578c15342194c80cdef267c4408ce4ef"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/29.brep",
+      "native_sha256": "ee8a3f31cd61870960f29647f9beb14fd0ad4a81dc7d0e2a53d1fa720ade7168",
+      "appearance_role": "base",
+      "material_role": "base",
+      "motion": "fixed",
+      "purchased_hardware": false,
+      "appearance_role_basis": "Explicit Annex FDM identity",
+      "source_color_linear": [
+        0.017641954123973846,
+        0.09084171056747437,
+        0.31854677200317383
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -1.5423976832856316,
+          158.0648822798244,
+          39.50914088269851
+        ],
+        [
+          7.757602520267796,
+          179.66488247982548,
+          78.26647331186314
+        ]
+      ],
+      "local_origin_native_mm": [
+        3.1049281939625133,
+        168.8648539494081,
+        58.88856323719457
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_30",
+      "name": "idler_pin^sherpa_mini_compact_r6a",
+      "source_native_key": "30",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "idler_pin^sherpa_mini_compact_r6a:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/30.brep",
+        "bytes": 3629,
+        "sha256": "58f8078faf048e6dad26ae4b10529156162f78480e18d37b04c62a4b1622c43d"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/30.brep",
+      "native_sha256": "58f8078faf048e6dad26ae4b10529156162f78480e18d37b04c62a4b1622c43d",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.5906188488006592,
+        0.637596845626831,
+        0.8549926280975342
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          1.55760241671471,
+          159.2148823798249,
+          41.70914098269843
+        ],
+        [
+          4.557602416714725,
+          179.2148823798249,
+          44.70914098269847
+        ]
+      ],
+      "local_origin_native_mm": [
+        3.0576024167147176,
+        169.2148823798249,
+        43.20914098269845
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_31",
+      "name": "idler_gear^idler_gear_assy_sherpa_mini_compact_r6a",
+      "source_native_key": "31",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "idler_gear_assy^sherpa_mini_compact_r6a:1",
+        "idler_gear^idler_gear_assy_sherpa_mini_compact_r6a:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/31.brep",
+        "bytes": 3251341,
+        "sha256": "2ad4fe0c105da03f1bd4ef2439b258bf8f80c4789c2b45cf68bd31bf7db2227d"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/31.brep",
+      "native_sha256": "cbce1d9f2fabf255a217b3b6549275f09136ddba1291fc2f722332002e66a35a",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.5647115111351013,
+        0.533276379108429,
+        0.5028864741325378
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -5.181291251106492,
+          162.46488227982496,
+          48.25914088269845
+        ],
+        [
+          4.29649608453494,
+          176.46488237982496,
+          57.69860990634024
+        ]
+      ],
+      "local_origin_native_mm": [
+        -0.44239758328577583,
+        169.46488232982495,
+        52.97887539451935
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_32",
+      "name": "shaft^idler_gear_assy_sherpa_mini_compact_r6a",
+      "source_native_key": "32",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "idler_gear_assy^sherpa_mini_compact_r6a:1",
+        "shaft^idler_gear_assy_sherpa_mini_compact_r6a:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/32.brep",
+        "bytes": 3826,
+        "sha256": "0794f13fb2f47bc949dbf88f532a4f44646a1a11a97c17d7fc6f4c24f082ac4f"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/32.brep",
+      "native_sha256": "0794f13fb2f47bc949dbf88f532a4f44646a1a11a97c17d7fc6f4c24f082ac4f",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.5906188488006592,
+        0.637596845626831,
+        0.8549926280975342
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -1.942397583285329,
+          158.8648823798249,
+          51.50914098269839
+        ],
+        [
+          1.0576024167146816,
+          178.8648823798249,
+          54.50914098269843
+        ]
+      ],
+      "local_origin_native_mm": [
+        -0.44239758328532375,
+        168.8648823798249,
+        53.00914098269841
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_33",
+      "name": "needle_bearing^idler_gear_assy_sherpa_mini_compact_r6a",
+      "source_native_key": "33",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "idler_gear_assy^sherpa_mini_compact_r6a:1",
+        "needle_bearing^idler_gear_assy_sherpa_mini_compact_r6a:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/33.brep",
+        "bytes": 100012,
+        "sha256": "c1b834f840580680e27c4a29a282edfc8028894754b3fbd0bc1c19af5cfaddf5"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/33.brep",
+      "native_sha256": "dadcc23e7fc556baf5a9c2986c8285f0505006311c0d75e0130ec8a0dadfbc85",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          -2.842397583285323,
+          169.96488237982499,
+          50.578432805394336
+        ],
+        [
+          2.0560344689632553,
+          176.46488237982499,
+          55.475087182066225
+        ]
+      ],
+      "local_origin_native_mm": [
+        -0.393181557161034,
+        173.21488237982499,
+        53.02675999373028
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_34",
+      "name": "needle_bearing^idler_gear_assy_sherpa_mini_compact_r6a",
+      "source_native_key": "34",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "idler_gear_assy^sherpa_mini_compact_r6a:1",
+        "needle_bearing^idler_gear_assy_sherpa_mini_compact_r6a:2"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/34.brep",
+        "bytes": 100012,
+        "sha256": "5215472e30afbcc73f0ebcf20760a97bbc8d05b6fd54c76357ff1c806f744771"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/34.brep",
+      "native_sha256": "6e670fb281789485ff1e8c6da429413a6c62857d5bda22dd96db242dd2b6b71f",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          -2.842397583285325,
+          162.46488237982499,
+          50.57843280539436
+        ],
+        [
+          2.0560344689632535,
+          168.96488237982499,
+          55.47508718206625
+        ]
+      ],
+      "local_origin_native_mm": [
+        -0.39318155716103576,
+        165.71488237982499,
+        53.0267599937303
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_35",
+      "name": "NEMA14_10t^sherpa_mini_compact_r6a",
+      "source_native_key": "35",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "NEMA14_10t^sherpa_mini_compact_r6a:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/35.brep",
+        "bytes": 239392,
+        "sha256": "fa940a6c80c749c2118d2d61ed0de6db62f71d6c0b0371b5b7df9e989cae0bf1"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/35.brep",
+      "native_sha256": "4d07e851d5c5abec66450389400a7f72cbbdeb1cfd74637338eb32b0e5c713c0",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.5906188488006592,
+        0.637596845626831,
+        0.8549926280975342
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -14.535726450552191,
+          180.464882279825,
+          39.68517960178621
+        ],
+        [
+          21.964273749447813,
+          203.96488237983775,
+          82.11503233982727
+        ]
+      ],
+      "local_origin_native_mm": [
+        3.7142736494478106,
+        192.21488232983137,
+        60.900105970806734
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_36",
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 12 - 12N",
+      "source_native_key": "36",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "socket button head screw_iso_ISO 7380 - M3 x 12 - 12N:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/36.brep",
+        "bytes": 16722,
+        "sha256": "1ce4e15e99d2957556555060642d72dcfe0222ca6ffe7eb915d3ef417c91e101"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/36.brep",
+      "native_sha256": "f6ec92366c1972abdb2b0aa15bb347414170457c2a987b2f9e03ef750850f6c2",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.5647115111351013,
+        0.533276379108429,
+        0.5028864741325378
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -12.079055117819212,
+          174.81488237982495,
+          75.74107085784472
+        ],
+        [
+          -6.379055117819211,
+          188.46488237982496,
+          81.44107085784471
+        ]
+      ],
+      "local_origin_native_mm": [
+        -9.229055117819215,
+        181.63628147874533,
+        78.5910708578447
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": false,
+      "unrenderable_native_faces": [
+        {
+          "native_face": 0,
+          "type": "CONE",
+          "area_mm2": 3.6275987284652063,
+          "center_mm": [
+            -9.229055117819213,
+            176.047332469563,
+            78.59107085784471
+          ],
+          "source_mesher_triangles": 1,
+          "exported_triangles": 0,
+          "triangle_start": 0,
+          "degenerate_mesher_triangles": 1,
+          "source_face_tolerance_mm": 1e-07,
+          "native_display_face_coverage": false,
+          "unqualified_preview_only": true,
+          "reason": "Actual native mesher and isolated recovery yield no positive double-precision triangle. No replacement face or generic shape created.",
+          "isolated_mesher_attempts": [
+            {
+              "method": "isolated_exact_native_face",
+              "deflection_mm": 0.02,
+              "angular_deflection": 0.1,
+              "status": 4,
+              "triangles": 0
+            },
+            {
+              "method": "isolated_exact_native_face",
+              "deflection_mm": 0.01,
+              "angular_deflection": 0.1,
+              "status": 4,
+              "triangles": 0
+            },
+            {
+              "method": "isolated_exact_native_face",
+              "deflection_mm": 0.05,
+              "angular_deflection": 0.3,
+              "status": 4,
+              "triangles": 0
+            },
+            {
+              "method": "isolated_exact_native_face",
+              "deflection_mm": 0.1,
+              "angular_deflection": 0.7,
+              "status": 0,
+              "triangles": 1
+            }
+          ],
+          "display_only_representation": null,
+          "precision_frame": null
+        }
+      ]
+    },
+    {
+      "key": "requested_mod_681594_head_37",
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 8 - 8N",
+      "source_native_key": "37",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "socket button head screw_iso_ISO 7380 - M3 x 8 - 8N:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/37.brep",
+        "bytes": 16799,
+        "sha256": "48e0961b8da804b34c860a82fb47235f21e5a4390e7048fb7faafe77c00b5a11"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/37.brep",
+      "native_sha256": "237e8a46a8fc91b303b4c086a3adde7bf7780612e0dcb7f48468646dcfa75a8f",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.5647115111351013,
+        0.533276379108429,
+        0.5028864741325378
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -11.892397583285328,
+          157.56488237982512,
+          59.15914098269843
+        ],
+        [
+          -6.192397583285329,
+          167.21488237982513,
+          64.85914098269843
+        ]
+      ],
+      "local_origin_native_mm": [
+        -9.04239758328533,
+        162.3862814787455,
+        62.00914098269843
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": false,
+      "unrenderable_native_faces": [
+        {
+          "native_face": 0,
+          "type": "CONE",
+          "area_mm2": 3.6275987284652036,
+          "center_mm": [
+            -9.042397583285329,
+            158.79733246956317,
+            62.00914098269844
+          ],
+          "source_mesher_triangles": 1,
+          "exported_triangles": 0,
+          "triangle_start": 0,
+          "degenerate_mesher_triangles": 1,
+          "source_face_tolerance_mm": 1e-07,
+          "native_display_face_coverage": false,
+          "unqualified_preview_only": true,
+          "reason": "Actual native mesher and isolated recovery yield no positive double-precision triangle. No replacement face or generic shape created.",
+          "isolated_mesher_attempts": [
+            {
+              "method": "isolated_exact_native_face",
+              "deflection_mm": 0.02,
+              "angular_deflection": 0.1,
+              "status": 4,
+              "triangles": 0
+            },
+            {
+              "method": "isolated_exact_native_face",
+              "deflection_mm": 0.01,
+              "angular_deflection": 0.1,
+              "status": 4,
+              "triangles": 0
+            },
+            {
+              "method": "isolated_exact_native_face",
+              "deflection_mm": 0.05,
+              "angular_deflection": 0.3,
+              "status": 4,
+              "triangles": 0
+            },
+            {
+              "method": "isolated_exact_native_face",
+              "deflection_mm": 0.1,
+              "angular_deflection": 0.7,
+              "status": 0,
+              "triangles": 1
+            }
+          ],
+          "display_only_representation": null,
+          "precision_frame": null
+        }
+      ]
+    },
+    {
+      "key": "requested_mod_681594_head_38",
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 8 - 8N",
+      "source_native_key": "38",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "socket button head screw_iso_ISO 7380 - M3 x 8 - 8N:2"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/38.brep",
+        "bytes": 16799,
+        "sha256": "5af9532abb103ca634f1aefea7b88831487262e345c899a6add84eaa21d16333"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/38.brep",
+      "native_sha256": "bfcab8891af329698468413aad1c27587d8bc15a7dbb6ec7f753887ae859cfed",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.5647115111351013,
+        0.533276379108429,
+        0.5028864741325378
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -11.892397583285268,
+          157.5648823798251,
+          41.159140982698446
+        ],
+        [
+          -6.192397583285269,
+          167.2148823798251,
+          46.859140982698456
+        ]
+      ],
+      "local_origin_native_mm": [
+        -9.042397583285268,
+        162.38628147874547,
+        44.009140982698455
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": false,
+      "unrenderable_native_faces": [
+        {
+          "native_face": 0,
+          "type": "CONE",
+          "area_mm2": 3.6275987284652036,
+          "center_mm": [
+            -9.042397583285268,
+            158.79733246956314,
+            44.009140982698455
+          ],
+          "source_mesher_triangles": 1,
+          "exported_triangles": 0,
+          "triangle_start": 0,
+          "degenerate_mesher_triangles": 1,
+          "source_face_tolerance_mm": 1e-07,
+          "native_display_face_coverage": false,
+          "unqualified_preview_only": true,
+          "reason": "Actual native mesher and isolated recovery yield no positive double-precision triangle. No replacement face or generic shape created.",
+          "isolated_mesher_attempts": [
+            {
+              "method": "isolated_exact_native_face",
+              "deflection_mm": 0.02,
+              "angular_deflection": 0.1,
+              "status": 4,
+              "triangles": 0
+            },
+            {
+              "method": "isolated_exact_native_face",
+              "deflection_mm": 0.01,
+              "angular_deflection": 0.1,
+              "status": 4,
+              "triangles": 0
+            },
+            {
+              "method": "isolated_exact_native_face",
+              "deflection_mm": 0.05,
+              "angular_deflection": 0.3,
+              "status": 4,
+              "triangles": 0
+            },
+            {
+              "method": "isolated_exact_native_face",
+              "deflection_mm": 0.1,
+              "angular_deflection": 0.7,
+              "status": 0,
+              "triangles": 1
+            }
+          ],
+          "display_only_representation": null,
+          "precision_frame": null
+        }
+      ]
+    },
+    {
+      "key": "requested_mod_681594_head_39",
+      "name": "socket button head cap screw_am_B18.3.4M - 3 x 0.5 x 20 SBHCS --N",
+      "source_native_key": "39",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "socket button head cap screw_am_B18.3.4M - 3 x 0.5 x 20 SBHCS --N:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/39.brep",
+        "bytes": 16812,
+        "sha256": "2f836382d508e1f45d32ced44b250f7ae74deb753ce9e9919b883011221b9d67"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/39.brep",
+      "native_sha256": "2415eb4e9609a3f584f2867e60b5e25d3542bb1462e88dc7dea95b862c10271f",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.5647115111351013,
+        0.533276379108429,
+        0.5028864741325378
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          13.807602416714717,
+          167.8148823798249,
+          40.359140982698435
+        ],
+        [
+          19.507602416714718,
+          189.4648823798249,
+          46.059140982698445
+        ]
+      ],
+      "local_origin_native_mm": [
+        16.657602416714717,
+        178.63628147874527,
+        43.20914098269844
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": false,
+      "unrenderable_native_faces": [
+        {
+          "native_face": 0,
+          "type": "CONE",
+          "area_mm2": 3.6275987284652036,
+          "center_mm": [
+            16.657602416714717,
+            169.04733246956295,
+            43.20914098269844
+          ],
+          "source_mesher_triangles": 1,
+          "exported_triangles": 0,
+          "triangle_start": 0,
+          "degenerate_mesher_triangles": 1,
+          "source_face_tolerance_mm": 1e-07,
+          "native_display_face_coverage": false,
+          "unqualified_preview_only": true,
+          "reason": "Actual native mesher and isolated recovery yield no positive double-precision triangle. No replacement face or generic shape created.",
+          "isolated_mesher_attempts": [
+            {
+              "method": "isolated_exact_native_face",
+              "deflection_mm": 0.02,
+              "angular_deflection": 0.1,
+              "status": 4,
+              "triangles": 0
+            },
+            {
+              "method": "isolated_exact_native_face",
+              "deflection_mm": 0.01,
+              "angular_deflection": 0.1,
+              "status": 4,
+              "triangles": 0
+            },
+            {
+              "method": "isolated_exact_native_face",
+              "deflection_mm": 0.05,
+              "angular_deflection": 0.3,
+              "status": 4,
+              "triangles": 0
+            },
+            {
+              "method": "isolated_exact_native_face",
+              "deflection_mm": 0.1,
+              "angular_deflection": 0.7,
+              "status": 0,
+              "triangles": 1
+            }
+          ],
+          "display_only_representation": null,
+          "precision_frame": null
+        }
+      ]
+    },
+    {
+      "key": "requested_mod_681594_head_40",
+      "name": "socket button head cap screw_am_B18.3.4M - 3 x 0.5 x 18 SBHCS --N",
+      "source_native_key": "40",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "socket button head cap screw_am_B18.3.4M - 3 x 0.5 x 18 SBHCS --N:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/40.brep",
+        "bytes": 16705,
+        "sha256": "129c8b5bb923a9199a7fe8c1d51bfed645ff79da9c25d53d35998f65f4a74708"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/40.brep",
+      "native_sha256": "37eda8cbe50a1e0e0d843760a1c13829e38e5c91dc1450e71beaaba4eb388bae",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.5647115111351013,
+        0.533276379108429,
+        0.5028864741325378
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -24.992397583285186,
+          167.8148823798249,
+          40.359140982698435
+        ],
+        [
+          -19.292397583285183,
+          187.4648823798249,
+          46.059140982698445
+        ]
+      ],
+      "local_origin_native_mm": [
+        -22.142397583285188,
+        177.63628147874525,
+        43.20914098269844
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": false,
+      "unrenderable_native_faces": [
+        {
+          "native_face": 0,
+          "type": "CONE",
+          "area_mm2": 3.6275987284652036,
+          "center_mm": [
+            -22.142397583285184,
+            169.04733246956295,
+            43.20914098269844
+          ],
+          "source_mesher_triangles": 1,
+          "exported_triangles": 0,
+          "triangle_start": 0,
+          "degenerate_mesher_triangles": 1,
+          "source_face_tolerance_mm": 1e-07,
+          "native_display_face_coverage": false,
+          "unqualified_preview_only": true,
+          "reason": "Actual native mesher and isolated recovery yield no positive double-precision triangle. No replacement face or generic shape created.",
+          "isolated_mesher_attempts": [
+            {
+              "method": "isolated_exact_native_face",
+              "deflection_mm": 0.02,
+              "angular_deflection": 0.1,
+              "status": 4,
+              "triangles": 0
+            },
+            {
+              "method": "isolated_exact_native_face",
+              "deflection_mm": 0.01,
+              "angular_deflection": 0.1,
+              "status": 4,
+              "triangles": 0
+            },
+            {
+              "method": "isolated_exact_native_face",
+              "deflection_mm": 0.05,
+              "angular_deflection": 0.3,
+              "status": 4,
+              "triangles": 0
+            },
+            {
+              "method": "isolated_exact_native_face",
+              "deflection_mm": 0.1,
+              "angular_deflection": 0.7,
+              "status": 0,
+              "triangles": 1
+            }
+          ],
+          "display_only_representation": null,
+          "precision_frame": null
+        }
+      ]
+    },
+    {
+      "key": "requested_mod_681594_head_41",
+      "name": "insert_m3x5x4",
+      "source_native_key": "41",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "insert_m3x5x4:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/41.brep",
+        "bytes": 1254346,
+        "sha256": "c9b2ddca41c8f936d2729ad6c632df3996006d4e6719761d011669138be5eb27"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/41.brep",
+      "native_sha256": "6a11e53eb9e18c5b488e3c363cebd7edd742fa2b54da5b5622fdac61943bd3c2",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.6514056324958801,
+        0.4019777774810791,
+        0.015208514407277107
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -1.8423976832853264,
+          166.71488227982505,
+          60.25914088269843
+        ],
+        [
+          2.1576025167253405,
+          171.71488247982504,
+          65.25914108269843
+        ]
+      ],
+      "local_origin_native_mm": [
+        0.15760241672000708,
+        169.21488237982504,
+        62.75914098269843
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_42",
+      "name": "insert_m3x5x4",
+      "source_native_key": "42",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "insert_m3x5x4:2"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/42.brep",
+        "bytes": 1254352,
+        "sha256": "d20e3bf47ac77ddfaa6875cd040d90c4af0dd6d9ceb281e4b5a4568f99e9bcde"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/42.brep",
+      "native_sha256": "b918c277ac71fb06c00cc28f0e6c7c377973cc5ef4907f2d2f1505e9cca4d1a9",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.6514056324958801,
+        0.4019777774810791,
+        0.015208514407277107
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -11.542397683285339,
+          161.9648822798144,
+          59.50914088269846
+        ],
+        [
+          -6.542397483285335,
+          165.96488247982504,
+          64.50914108269846
+        ]
+      ],
+      "local_origin_native_mm": [
+        -9.042397583285336,
+        163.9648823798197,
+        62.00914098269846
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_43",
+      "name": "insert_m3x5x4",
+      "source_native_key": "43",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "insert_m3x5x4:3"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/43.brep",
+        "bytes": 1254352,
+        "sha256": "6fb6d93d4242663f399f14a18d93ca6bd1dc23d301f001e3482a4f954a14e337"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/43.brep",
+      "native_sha256": "c825d4ff7d06ba9d007e745af2ff51e9e637f6ded217625c5fb4ec51c2947284",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.6514056324958801,
+        0.4019777774810791,
+        0.015208514407277107
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -11.542397683285285,
+          161.96488227981433,
+          41.50914088269843
+        ],
+        [
+          -6.542397483285283,
+          165.96488247982498,
+          46.50914108269844
+        ]
+      ],
+      "local_origin_native_mm": [
+        -9.042397583285284,
+        163.96488237981964,
+        44.00914098269844
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_44",
+      "name": "insert_m3x5x4",
+      "source_native_key": "44",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "insert_m3x5x4:4"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/44.brep",
+        "bytes": 1254354,
+        "sha256": "487298b5298acdad39e81ae7baea9e5dc8c97c7b5a4975f975264bec6be2fd64"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/44.brep",
+      "native_sha256": "0cae9c66576b778978846b3dd2fed16d245d57d4667515a468baef48be35aae7",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.6514056324958801,
+        0.4019777774810791,
+        0.015208514407277107
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -24.642397683285196,
+          182.464882279825,
+          40.709140882698435
+        ],
+        [
+          -19.64239748328519,
+          186.46488247983567,
+          45.709141082698444
+        ]
+      ],
+      "local_origin_native_mm": [
+        -22.142397583285195,
+        184.46488237983033,
+        43.20914098269844
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_45",
+      "name": "thumbscrew^thumbscrew",
+      "source_native_key": "45",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "thumbscrew:1",
+        "thumbscrew^thumbscrew:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/45.brep",
+        "bytes": 8384045,
+        "sha256": "1177c326ccd1d8c69155f6e21fc516e5a90b925920705728a0711c14ea46fdbb"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/45.brep",
+      "native_sha256": "40cb1d7e13802231f59b90c7cb9aa9781ac581fbd8e23bf9441e786d6c06daff",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          0.7576023167144745,
+          163.21488227979336,
+          56.759140882666756
+        ],
+        [
+          23.757602416714487,
+          175.21488247985673,
+          68.75914108273011
+        ]
+      ],
+      "local_origin_native_mm": [
+        12.257602366714481,
+        169.21488237982504,
+        62.75914098269843
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_46",
+      "name": "spring^thumbscrew",
+      "source_native_key": "46",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "thumbscrew:1",
+        "spring^thumbscrew:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/46.brep",
+        "bytes": 144201,
+        "sha256": "b2867e727b18df54d9f4e02189a305649048234416930480dc323eba0112cb65"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/46.brep",
+      "native_sha256": "d497dcf70ad556fd4328a0959d40d4d54c947cd22962c19106edbe512ac71810",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.5647115111351013,
+        0.533276379108429,
+        0.5028864741325378
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          7.757602316649748,
+          166.21480136984636,
+          59.75998981085736
+        ],
+        [
+          21.256572133220992,
+          172.21488247982518,
+          65.75890867724506
+        ]
+      ],
+      "local_origin_native_mm": [
+        14.50708722493537,
+        169.21484192483575,
+        62.75944924405121
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_487",
+      "name": "1939K17_Low-Voltage Equipment-Cooling Fan",
+      "source_native_key": "487",
+      "source_path": [
+        "EVA_VORON v41",
+        "1939K17_Low-Voltage Equipment-Cooling Fan:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/487.brep",
+        "bytes": 261641,
+        "sha256": "479afd5923d1b41bc12705c1430dbf80a17371d890d529a74b622e8d56386e50"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/487.brep",
+      "native_sha256": "82c1cd2eacb09346ad1394c09035ae0a3e933e3362c905f5951d585e538394d3",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          -24.676590054501368,
+          151.831168770322,
+          -33.290897987916594
+        ],
+        [
+          15.323409945498645,
+          161.831168770322,
+          6.709102012083688
+        ]
+      ],
+      "local_origin_native_mm": [
+        -4.676590054501362,
+        156.831168770322,
+        -13.290897987916452
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_488",
+      "name": "1939K17_Low-Voltage Equipment-Cooling Fan (1)",
+      "source_native_key": "488",
+      "source_path": [
+        "EVA_VORON v41",
+        "1939K17_Low-Voltage Equipment-Cooling Fan (1):1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/488.brep",
+        "bytes": 261648,
+        "sha256": "14c420757630fa14d5b82ff8893b06faf9cbf1dfe76869950376b8513a8a9fa3"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/488.brep",
+      "native_sha256": "93229d63219d423aa5e4bb05996b71845fec32d907740156e71c27638a6f1fbe",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Original named purchased component",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          53.96264808163561,
+          197.30285199800886,
+          32.32734017012629
+        ],
+        [
+          63.96264808163699,
+          237.30285199800915,
+          72.32734017012659
+        ]
+      ],
+      "local_origin_native_mm": [
+        58.9626480816363,
+        217.302851998009,
+        52.32734017012644
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_738-solid-17",
+      "name": "Author EVA root 738-solid-17",
+      "source_native_key": "738-solid-17",
+      "source_path": [
+        "EVA_VORON v41",
+        "=>[0:1:1:704]"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/other-native-validity-diagnosis-v1/eva-native-assembly-v1-738-solid-17.brep",
+        "bytes": 120602,
+        "sha256": "7b69f557ad32824c03a1177f98c482499b1df644234b29db06549e19d53ee1d3"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/738-solid-17.brep",
+      "native_sha256": "48805a7563481edb6ef715e6b328c47786228391db246d7119f9f205c52c0937",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": null,
+      "appearance_role_basis": "Anonymous source role unresolved",
+      "source_color_linear": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "source_color_present": false,
+      "bounds_mm": [
+        [
+          -22.14239768328531,
+          156.912972936292,
+          35.32772274337569
+        ],
+        [
+          16.6576025167148,
+          186.16488247982505,
+          39.50914108269855
+        ]
+      ],
+      "local_origin_native_mm": [
+        -2.741966227700292,
+        171.52912588228855,
+        37.43256384210139
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    },
+    {
+      "key": "requested_mod_681594_head_24",
+      "name": "m3_set_screw^drive_core_sherpa_mini_compact_r6a",
+      "source_native_key": "24",
+      "source_path": [
+        "EVA_VORON v41",
+        "sherpa_micro_release1 v1:1",
+        "drive_core^sherpa_mini_compact_r6a:1",
+        "m3_set_screw^drive_core_sherpa_mini_compact_r6a:1"
+      ],
+      "source_file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+      "source_file_id": "2869449",
+      "source_sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227",
+      "source_id": "681594",
+      "original_native": {
+        "file": "output/requested-mods-96/other-mods/eva-native-assembly-v1/24.brep",
+        "bytes": 665977,
+        "sha256": "b5bd6eb6792a72d0ac2dc97bb5c416ab2dc758adedf4f4fc88fb8e5736c697d1"
+      },
+      "native_file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/native/24.brep",
+      "native_sha256": "a8eef9f67fad3924f8b12bd0444779308ca7dacf43e1bdfb2bfa2fad32a8faa8",
+      "appearance_role": null,
+      "material_role": null,
+      "motion": "fixed",
+      "purchased_hardware": true,
+      "appearance_role_basis": "Named purchased source bolt",
+      "source_color_linear": [
+        0.03310476616024971,
+        0.03310476616024971,
+        0.03310476616024971
+      ],
+      "source_color_present": true,
+      "bounds_mm": [
+        [
+          -10.542421130505234,
+          167.96486538426552,
+          55.00912029685405
+        ],
+        [
+          -7.5423854942399995,
+          170.96489905271574,
+          57.00914108276297
+        ]
+      ],
+      "local_origin_native_mm": [
+        -9.041634052654185,
+        169.4648823798249,
+        56.007738265624276
+      ],
+      "precision_face_meshes": [],
+      "native_shape_valid": true,
+      "native_display_face_coverage": true,
+      "unrenderable_native_faces": []
+    }
+  ],
+  "units": "GLB_metres_Y_up",
+  "coordinate_conversion": "[x,z,-y]/1000",
+  "source": {
+    "file": "output/requested-mods-96/other-mods/originals-v1/681594/EVA_VORON v41.step",
+    "bytes": 92244030,
+    "sha256": "458c26329b3c80457d8d1c031b8c78259893fb81c9031b5b79a6c67c92e71227"
+  },
+  "source_url": "https://www.printables.com/model/681594-eva-toolhead-for-voron-trident",
+  "source_author": {
+    "id": "240146",
+    "handle": "FOX_240146",
+    "publicUsername": "FOX"
+  },
+  "license": {
+    "id": "1",
+    "name": "Creative Commons — Attribution",
+    "disallowRemixing": false
+  },
+  "installed": false,
+  "complete_author_toolhead": false,
+  "source_preview_only": true,
+  "native_clearance_qualified": false,
+  "whole_machine_certified": false,
+  "supports_removed": [],
+  "source_bodies_changed": false,
+  "omitted_body_failures": [],
+  "excluded_source_context": {
+    "fixed_gantry_root_solid": "738-solid-22",
+    "board_keys": [
+      "47",
+      "48",
+      "49",
+      "50",
+      "51",
+      "52",
+      "53",
+      "54",
+      "55",
+      "56",
+      "57",
+      "58",
+      "59",
+      "60",
+      "61",
+      "62",
+      "63",
+      "64",
+      "65",
+      "66",
+      "67",
+      "68",
+      "69",
+      "70",
+      "71",
+      "72",
+      "73",
+      "74",
+      "75",
+      "76",
+      "77",
+      "78",
+      "79",
+      "80",
+      "81",
+      "82",
+      "83",
+      "84",
+      "85",
+      "86",
+      "87",
+      "88",
+      "89",
+      "90",
+      "91",
+      "92",
+      "93",
+      "94",
+      "95",
+      "96",
+      "97",
+      "98",
+      "99",
+      "100",
+      "101",
+      "102",
+      "103",
+      "104",
+      "105",
+      "106",
+      "107",
+      "108",
+      "109",
+      "110",
+      "111",
+      "112",
+      "113",
+      "114",
+      "115",
+      "116",
+      "117",
+      "118",
+      "119",
+      "120",
+      "121",
+      "122",
+      "123",
+      "124",
+      "125",
+      "126",
+      "127",
+      "128",
+      "129",
+      "130",
+      "131",
+      "132",
+      "133",
+      "134",
+      "135",
+      "136",
+      "137",
+      "138",
+      "139",
+      "140",
+      "141",
+      "142",
+      "143",
+      "144",
+      "145",
+      "146",
+      "147",
+      "148",
+      "149",
+      "150",
+      "151",
+      "152",
+      "153",
+      "154",
+      "155",
+      "156",
+      "157",
+      "158",
+      "159",
+      "160",
+      "161",
+      "162",
+      "163",
+      "164",
+      "165",
+      "166",
+      "167",
+      "168",
+      "169",
+      "170",
+      "171",
+      "172",
+      "173",
+      "174",
+      "175",
+      "176",
+      "177",
+      "178",
+      "179",
+      "180",
+      "181",
+      "182",
+      "183",
+      "184",
+      "185",
+      "186",
+      "187",
+      "188",
+      "189",
+      "190",
+      "191",
+      "192",
+      "193",
+      "194",
+      "195",
+      "196",
+      "197",
+      "198",
+      "199",
+      "200",
+      "201",
+      "202",
+      "203",
+      "204",
+      "205",
+      "206",
+      "207",
+      "208",
+      "209",
+      "210",
+      "211",
+      "212",
+      "213",
+      "214",
+      "215",
+      "216",
+      "217",
+      "218",
+      "219",
+      "220",
+      "221",
+      "222",
+      "223",
+      "224",
+      "225",
+      "226",
+      "227",
+      "228",
+      "229",
+      "230",
+      "231",
+      "232",
+      "233",
+      "234",
+      "235",
+      "236",
+      "237",
+      "238",
+      "239",
+      "240",
+      "241",
+      "242",
+      "243",
+      "244",
+      "245",
+      "246",
+      "247",
+      "248",
+      "249",
+      "250",
+      "251",
+      "252",
+      "253",
+      "254",
+      "255",
+      "256",
+      "257",
+      "258",
+      "259",
+      "260",
+      "261",
+      "262",
+      "263",
+      "264",
+      "265",
+      "266",
+      "267",
+      "268",
+      "269",
+      "270",
+      "271",
+      "272",
+      "273",
+      "274",
+      "275",
+      "276",
+      "277",
+      "278",
+      "279",
+      "280",
+      "281",
+      "282",
+      "283",
+      "284",
+      "285",
+      "286",
+      "287",
+      "288",
+      "289",
+      "290",
+      "291",
+      "292",
+      "293",
+      "294",
+      "295",
+      "296",
+      "297",
+      "298",
+      "299",
+      "300",
+      "301",
+      "302",
+      "303",
+      "304",
+      "305",
+      "306",
+      "307",
+      "308",
+      "309",
+      "310",
+      "311",
+      "312",
+      "313",
+      "314",
+      "315",
+      "316",
+      "317",
+      "318",
+      "319",
+      "320",
+      "321",
+      "322",
+      "323",
+      "324",
+      "325",
+      "326",
+      "327",
+      "328",
+      "329",
+      "330",
+      "331",
+      "332",
+      "333",
+      "334",
+      "335",
+      "336",
+      "337",
+      "338",
+      "339",
+      "340",
+      "341",
+      "342",
+      "343",
+      "344",
+      "345",
+      "346",
+      "347",
+      "348",
+      "349",
+      "350",
+      "351",
+      "352",
+      "353",
+      "354",
+      "355",
+      "356",
+      "357",
+      "358",
+      "359",
+      "360",
+      "361",
+      "362",
+      "363",
+      "364",
+      "365",
+      "366",
+      "367",
+      "368",
+      "369",
+      "370",
+      "371",
+      "372",
+      "373",
+      "374",
+      "375",
+      "376",
+      "377",
+      "378",
+      "379",
+      "380",
+      "381",
+      "382",
+      "383",
+      "384",
+      "385",
+      "386",
+      "387",
+      "388",
+      "389",
+      "390",
+      "391",
+      "392",
+      "393",
+      "394",
+      "395",
+      "396",
+      "397",
+      "398",
+      "399",
+      "400",
+      "401",
+      "402",
+      "403",
+      "404",
+      "405",
+      "406",
+      "407",
+      "408",
+      "409",
+      "410",
+      "411",
+      "412",
+      "413",
+      "414",
+      "415",
+      "416",
+      "417",
+      "418",
+      "419",
+      "420",
+      "421",
+      "422",
+      "423",
+      "424",
+      "425",
+      "426",
+      "427",
+      "428",
+      "429",
+      "430",
+      "431",
+      "432",
+      "433",
+      "434",
+      "435",
+      "436",
+      "437"
+    ],
+    "probe_keys": [
+      "438",
+      "439",
+      "440",
+      "441",
+      "442",
+      "443",
+      "444",
+      "445",
+      "446",
+      "447",
+      "448",
+      "449",
+      "450",
+      "451",
+      "452",
+      "453",
+      "454",
+      "455",
+      "456",
+      "457",
+      "458",
+      "459",
+      "460",
+      "461",
+      "462",
+      "463",
+      "464",
+      "465",
+      "466",
+      "467",
+      "468",
+      "469",
+      "470",
+      "471",
+      "472",
+      "473",
+      "474",
+      "475",
+      "476",
+      "477",
+      "478",
+      "479",
+      "480",
+      "481",
+      "482",
+      "483",
+      "484",
+      "485",
+      "486"
+    ],
+    "gantry_keys": [
+      "489",
+      "490",
+      "491",
+      "492",
+      "493",
+      "494",
+      "495",
+      "496",
+      "497",
+      "498",
+      "499",
+      "500",
+      "501",
+      "502",
+      "503",
+      "504",
+      "505",
+      "506",
+      "507",
+      "508",
+      "509",
+      "510",
+      "511",
+      "512",
+      "513",
+      "514",
+      "515",
+      "516",
+      "517",
+      "518",
+      "519",
+      "520",
+      "521",
+      "522",
+      "523",
+      "524",
+      "525",
+      "526",
+      "527",
+      "528",
+      "529",
+      "530",
+      "531",
+      "532",
+      "533",
+      "534",
+      "535",
+      "536",
+      "537",
+      "538",
+      "539",
+      "540",
+      "541",
+      "542",
+      "543",
+      "544",
+      "545",
+      "546",
+      "547",
+      "548",
+      "549",
+      "550",
+      "551",
+      "552",
+      "553",
+      "554",
+      "555",
+      "556",
+      "557",
+      "558",
+      "559",
+      "560",
+      "561",
+      "562",
+      "563",
+      "564",
+      "565",
+      "566",
+      "567",
+      "568",
+      "569",
+      "570",
+      "571",
+      "572",
+      "573",
+      "574",
+      "575",
+      "576",
+      "577",
+      "578",
+      "579",
+      "580",
+      "581",
+      "582",
+      "583",
+      "584",
+      "585",
+      "586",
+      "587",
+      "588",
+      "589",
+      "590",
+      "591",
+      "592",
+      "593",
+      "594",
+      "595",
+      "596",
+      "597",
+      "598",
+      "599",
+      "600",
+      "601",
+      "602",
+      "603",
+      "604",
+      "605",
+      "606",
+      "607",
+      "608",
+      "609",
+      "610",
+      "611",
+      "612",
+      "613",
+      "614",
+      "615",
+      "616",
+      "617",
+      "618",
+      "619",
+      "620",
+      "621",
+      "622",
+      "623",
+      "624",
+      "625",
+      "626",
+      "627",
+      "628",
+      "629",
+      "630",
+      "631",
+      "632",
+      "633",
+      "634",
+      "635",
+      "636",
+      "637",
+      "638",
+      "639",
+      "640",
+      "641",
+      "642",
+      "643",
+      "644",
+      "645",
+      "646",
+      "647",
+      "648",
+      "649",
+      "650",
+      "651",
+      "652",
+      "653",
+      "654",
+      "655",
+      "656",
+      "657",
+      "658",
+      "659",
+      "660",
+      "661",
+      "662",
+      "663",
+      "664",
+      "665",
+      "666",
+      "667",
+      "668",
+      "669",
+      "670",
+      "671",
+      "672",
+      "673",
+      "674",
+      "675",
+      "676",
+      "677",
+      "678",
+      "679",
+      "680",
+      "681",
+      "682",
+      "683",
+      "684",
+      "685",
+      "686",
+      "687",
+      "688",
+      "689",
+      "690",
+      "691",
+      "692",
+      "693",
+      "694",
+      "695",
+      "696",
+      "697",
+      "698",
+      "699",
+      "700",
+      "701",
+      "702",
+      "703",
+      "704",
+      "705",
+      "706",
+      "707",
+      "708",
+      "709",
+      "710",
+      "711",
+      "712",
+      "713",
+      "714",
+      "715",
+      "716",
+      "717",
+      "718",
+      "719",
+      "720",
+      "721",
+      "722",
+      "723",
+      "724",
+      "725",
+      "726",
+      "727",
+      "728",
+      "729",
+      "730",
+      "731",
+      "732",
+      "733",
+      "734",
+      "735",
+      "736",
+      "737"
+    ],
+    "free_surface_census": {
+      "file": "output/requested-mods-96/other-mods/eva-head-physical-subset-v1/SOURCE_CONTEXT_CENSUS.json",
+      "bytes": 489,
+      "sha256": "7fcf0b9e41a47cf28b330486a4e4bcf2fdab5a78400bafbe01e3145715fbb327"
+    }
+  },
+  "notice": "Unqualified original head subset preview. Board/probe and unclassified free surfaces excluded. Recorded degenerate native faces have no renderable positive triangulation. All source CAD retained unchanged; no installed/head-complete claim.",
+  "embedded_terms": {
+    "sherpa_micro": "Annex EULA applies to embedded original source, not blanket upload CC-BY",
+    "gantry": "Voron GPL source excluded",
+    "purchased": "Underlying source CAD terms not established by upload license"
+  }
+}
