@@ -1,0 +1,4 @@
+1000 mm VORON V2.4 and Trident dimensional references for 3D Print Rig.
+Original VoronDesign/component licensing applies; see SOURCES.json and licenses.
+At this scale, consider upgrades to the frame and mechanisms before a real build.
+Rigid purchased parts retain source dimensions. These are not tested printer designs.

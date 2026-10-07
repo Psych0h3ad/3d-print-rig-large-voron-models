@@ -1,0 +1,92 @@
+{
+  "schema": "large-voron-assets-1",
+  "files": {
+    "voron_v24_1000_custom/model.glb": {
+      "path": "voron1000-v1/voron_v24_1000_custom/model.glb.gz",
+      "bytes": 50823557,
+      "sha256": "0ee2c64df01eca581bbd3d93e3843a496e5b5f0ff90e024bc1ad75a8c68d52df",
+      "encoding": "gzip",
+      "decoded_bytes": 140338736,
+      "decoded_sha256": "01352fffd56a9b95ca66962888cf5df722e6af115a94d6ff52f6d0dda98e1b93"
+    },
+    "voron_v24_1000_custom/assembly_manifest.json": {
+      "path": "voron1000-v1/voron_v24_1000_custom/assembly_manifest.json",
+      "bytes": 1926124,
+      "sha256": "b17e233be8996b0ebf7f7f5014c46ee138df3775fc0a5ad739760430114568f6"
+    },
+    "voron_v24_1000_custom/machine_profile.json": {
+      "path": "voron1000-v1/voron_v24_1000_custom/machine_profile.json",
+      "bytes": 4088,
+      "sha256": "76040fee984f76b2004e8d1349dc58fbea3325e585db704288137bcc1bcd3dc3"
+    },
+    "voron_trident_1000_custom/model.glb": {
+      "path": "voron1000-v1/voron_trident_1000_custom/model.glb.gz",
+      "bytes": 60209946,
+      "sha256": "7b2c9edae75d1ab594c59f98f4831806b63a4d5747d0d53be6508a4c1982a063",
+      "encoding": "gzip",
+      "decoded_bytes": 182647008,
+      "decoded_sha256": "1c1f4d3b282bec2666cc8f14e5d70b248326d4714edf1cad088f1492409355b6"
+    },
+    "voron_trident_1000_custom/assembly_manifest.json": {
+      "path": "voron1000-v1/voron_trident_1000_custom/assembly_manifest.json",
+      "bytes": 1897393,
+      "sha256": "535ad28652ad221d4abfcc54a980a67507cf516313b3ddd390db9794c907417b"
+    },
+    "voron_trident_1000_custom/machine_profile.json": {
+      "path": "voron1000-v1/voron_trident_1000_custom/machine_profile.json",
+      "bytes": 8875,
+      "sha256": "47c96b8df0388b30251415ac538065d1d3ee4e85dca3126562378c26cde35aa2"
+    },
+    "licenses/voron_v24/LICENSE": {
+      "path": "licenses/voron_v24/LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "licenses/voron_trident/LICENSE": {
+      "path": "licenses/voron_trident/LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "licenses/stealthburner/LICENSE": {
+      "path": "licenses/stealthburner/LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "SOURCES.json": {
+      "bytes": 8379,
+      "sha256": "d34bce1a33a62d1e19f363fcdad0ffe4d9ca78defdc29ac9d2a46cccb39b7ed0",
+      "path": "SOURCES.json"
+    },
+    "elcrni_trident_internal_spool_holder_v32_installed_300/model.glb": {
+      "sha256": "b35bb552b295b6497643e949fd1aed5c7f19078ea9ef75afe34d90e4a4b68f4b",
+      "bytes": 8550961,
+      "encoding": "gzip",
+      "decoded_bytes": 27358140,
+      "decoded_sha256": "e2af79ba292b08c16931e6f3bb9ec4893ec5bb062d0b1fd8ea5255b35ef6adff",
+      "path": "internal-spool-v1/elcrni_trident_internal_spool_holder_v32_installed_300/model.glb.gz"
+    },
+    "elcrni_trident_internal_spool_holder_v32_installed_300/parts.json": {
+      "sha256": "9b099cd8fc3446a966eb73eed7df8a74017a4c2dfbcdbe9d0e402a05866100ed",
+      "bytes": 376942,
+      "path": "internal-spool-v1/elcrni_trident_internal_spool_holder_v32_installed_300/parts.json"
+    },
+    "elcrni_trident_internal_spool_holder_v32_installed_350/model.glb": {
+      "sha256": "fa08b8af321af144bc63609bd712e4ab8afa02e76fb57e783dc5f1ef69660cb6",
+      "bytes": 8551864,
+      "encoding": "gzip",
+      "decoded_bytes": 27358112,
+      "decoded_sha256": "4bd2134add3e430f77b3ec4483e09456d052e4dee5abec65795a34a8179efa5e",
+      "path": "internal-spool-v1/elcrni_trident_internal_spool_holder_v32_installed_350/model.glb.gz"
+    },
+    "elcrni_trident_internal_spool_holder_v32_installed_350/parts.json": {
+      "sha256": "27e4e35d317df3ccc2e675590d7ff6073ee29aff8de062aa147ac91ca48852fd",
+      "bytes": 376952,
+      "path": "internal-spool-v1/elcrni_trident_internal_spool_holder_v32_installed_350/parts.json"
+    },
+    "licenses/elcrni/LICENSE": {
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "path": "licenses/elcrni/LICENSE"
+    }
+  }
+}

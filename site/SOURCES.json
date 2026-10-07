@@ -1,0 +1,114 @@
+{
+  "schema": "large-voron-native-source-1",
+  "machines": [
+    {
+      "machine_id": "voron_v24_1000_custom",
+      "sources": [
+        {
+          "id": "voron_v24",
+          "label": "VORON V2.4 R2",
+          "repository": "VoronDesign/Voron-2",
+          "author": "VoronDesign",
+          "commit": "a192410e27ea345644ae5c4b29b4c9c40cbe1a73",
+          "url": "https://github.com/VoronDesign/Voron-2/tree/a192410e27ea345644ae5c4b29b4c9c40cbe1a73",
+          "scope": "250の公式アセンブリから構築したV2.4 350基準モデル。",
+          "license": "GPL-3.0",
+          "changes": "350 mm寸法への再配置。選択部品の重複を除き、スカート・ラッチ・固定具・ベッドの取付面を調整。 Zレール固定用ナットをM3へ交換してレール裏の溝へ配置。XYを含む68組のレール固定ナットをボルト軸に合わせて調整。 Complete 250/300/350 upper and lower latch groups are registered to the door seam and native magnet recesses.",
+          "license_url": "../licenses/voron_v24/LICENSE",
+          "license_sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+        }
+      ],
+      "notices": [
+        "Custom dimensions derived from native VORON 350 mm reference parts. Rigid hardware retains native dimensions.",
+        "Native 25 mm skirt cells are repeated with the original logo and end mount sections retained. This is an advisory 1000 mm reference, not an official size or a tested build kit.",
+        "Moving belts are smooth route previews; teeth, tension and electrical wiring mechanics are not simulated.",
+        "External PTFE is a variable-length flexible viewer preview and is not included in native STEP assembly body counts."
+      ],
+      "geometry_revision": "custom-voron-95",
+      "native_source_url": "https://github.com/Psych0h3ad/3d-print-rig-large-voron-models/releases/tag/voron1000-v1",
+      "full_physical_fit_certified": false
+    },
+    {
+      "machine_id": "voron_trident_1000_custom",
+      "sources": [
+        {
+          "id": "siboor_trident",
+          "label": "SIBOOR Trident JUNE / ClickyClacky・FumePack",
+          "repository": "Lzhikai/SIBOOR-Voron-Trident-June",
+          "author": "Lzhikai",
+          "commit": "2dccffff009af5eb511ff6a6bbbdd8a3e8ec5ef3",
+          "url": "https://github.com/Lzhikai/SIBOOR-Voron-Trident-June/tree/2dccffff009af5eb511ff6a6bbbdd8a3e8ec5ef3",
+          "scope": "取得した300mm STEPから350へ再構成した本体。ドア・フィルターを含む。",
+          "license": "再配布条件の明記を確認できず / 公開前に確認が必要",
+          "changes": "配置・表示用三角形化・配色の調整。機種ごとの変更履歴を検証記録に保存。",
+          "version": "300mm STEP SHA256: 0c8eeb356bd3809dee9c0909d182262b714048eaa98bad1da90d33c0d5b1f88e",
+          "notice": "上記commitはキット資料の版。取得したSTEPはこのSHA256で識別し、同commitから取得したCADとは扱いません。"
+        },
+        {
+          "id": "voron_trident",
+          "label": "VORON Trident R2",
+          "repository": "VoronDesign/Voron-Trident",
+          "author": "VoronDesign",
+          "commit": "a8628f48546948ce1fc15511b7765b7f31f80722",
+          "url": "https://github.com/VoronDesign/Voron-Trident/tree/a8628f48546948ce1fc15511b7765b7f31f80722",
+          "scope": "Independent standard Trident 250 / 300 / 350 chassis, fixed frame, three Z guides, moving bed and 6 mm R2 gantries.",
+          "license": "GPL-3.0",
+          "changes": "Rigid native hardware retains its dimensions. Size-specific rails preserve native periodic hole pitch and fixing axes. Extrusions, bed and panels use central or perimeter inserts. Static mounting references and native Z limits remain disclosed.",
+          "license_url": "../licenses/voron_trident/LICENSE",
+          "license_sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+          "version": "CAD/contents/trident_assembly.step / SHA256 416eda4e9212b894ed6f78ad3a6af55757115ebfcc4c18db933743d97dd48ccf"
+        },
+        {
+          "id": "stealthburner",
+          "label": "Stealthburner / Clockwork 2 / Revo CAD",
+          "repository": "VoronDesign/Voron-Stealthburner",
+          "author": "VoronDesign",
+          "commit": "8bcb9c246fac19d8ac03931ef97fa07c5e5f0f2b",
+          "url": "https://github.com/VoronDesign/Voron-Stealthburner/tree/8bcb9c246fac19d8ac03931ef97fa07c5e5f0f2b",
+          "scope": "SBのRevo Voron・Rapido HF・Dragon SF/HF・V6用CW2マウント、前面本体、CW2修復用形状。",
+          "license": "GPL-3.0",
+          "changes": "配置・表示用三角形化・配色の調整。機種ごとの変更履歴を検証記録に保存。",
+          "license_url": "../licenses/stealthburner/LICENSE",
+          "license_sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+        }
+      ],
+      "notices": [
+        "Custom dimensions derived from native VORON 350 mm reference parts. Rigid hardware retains native dimensions.",
+        "Native 25 mm skirt cells are repeated with the original logo and end mount sections retained. This is an advisory 1000 mm reference, not an official size or a tested build kit.",
+        "Moving belts are smooth route previews; teeth, tension and electrical wiring mechanics are not simulated.",
+        "PTFE is a variable-length hollow viewer reference derived from the native 4/3 mm section. Cut length, retention and continuous native clearance are unverified.",
+        "The extended native-link bed chain is registered at its native high pose; full 1000 mm articulated travel and wiring mechanics require further qualification.",
+        "Preview bed descent is limited to 994 mm. Contacts646 is the lowest rigid bed component; its source support bound remains above the deck at this limit. Full-machine clearance and firmware homing remain unverified.",
+        "Reference chain repair: 68 original link bodies are rolled 180 degrees about their measured hinge chords; the upper fixed end, its three screws and inserts, and printed insert568 move together by Y -0.114500534 mm. Rail and carriage remain unchanged.",
+        "Native source constraints remain unqualified: the upper fixed-end/link contact is 0.400133 mm3 and the printed insert568/link contact is 14.576066 mm3. Original350 CAD measures 0.400133 mm3 and 18.915325 mm3 for those pairs. These positive contacts are retained explicitly; intended snap engagement, whole-machine fit and continuous clearance are not certified."
+      ],
+      "geometry_revision": "source-guided-native-trident-chain-reference-v7-95",
+      "native_source_url": "https://github.com/Psych0h3ad/3d-print-rig-large-voron-models/releases/tag/voron1000-v1",
+      "full_physical_fit_certified": false
+    }
+  ],
+  "source_archive": {
+    "url": "https://github.com/Psych0h3ad/3d-print-rig-large-voron-models/releases/download/voron1000-v1/VORON_1000_Custom_Native_Source.zip",
+    "bytes": 209576717,
+    "sha256": "f67b117397fe8681752d080c825ae54f449d7467df8b8b621a86b6e6c74489d1"
+  },
+  "internal_spool_source": {
+    "id": "trident_internal_spool",
+    "name": "Trident Internal Spool Holder · elcrni",
+    "url": "https://github.com/elcrni/Voron-Mods",
+    "commit": "b35e4ddcde50adc4f93a1a29342ac467e651f992",
+    "license": "GPL-3.0; added native VORON hardware retains original component terms",
+    "scope": "Original v32 holder and guides with rigid roller phase corrections, native VORON fixings, a relocated lower guide and an upper guide mounted below the rear frame member. Author sizes 300/350, capacity Ø200 × up to 75 mm. Actual spool body and filament route are not included. Exact host installation qualification is kept in a separate receipt.",
+    "files": [
+      {
+        "path": "Trident_Internal_Spool_Holder/CAD/Trident_internal_spool_holder_001 v32.step",
+        "sha256": "a59e6db9ed290f755f17d14ed28958a02fe92ef3c73678597fcbc03acce7df8e"
+      }
+    ]
+  },
+  "internal_spool_source_archive": {
+    "url": "https://github.com/Psych0h3ad/3d-print-rig-large-voron-models/releases/download/internal-spool-v1/Trident_Internal_Spool_Native_Source.zip",
+    "bytes": 15390746,
+    "sha256": "0c76bb2c674c2bbcc8b2ad1da96129f1803001ff620d07f97e191addf86f9909"
+  }
+}
