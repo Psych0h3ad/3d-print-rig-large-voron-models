@@ -6,3 +6,5 @@ Rigid purchased parts retain source dimensions. These are not tested printer des
 Additional original Mod components: see REQUESTED_MOD_SOURCES.json and licenses/requested-mods-96. GPL-3.0 and author CC BY, CC BY-SA and CC BY-NC terms are recorded separately. Original sources are available from the linked release archives.
 
 Trinity render delivery preserves all 205 part nodes, 105 native source identities and exact triangle-corner position/normal values. Data is loaded in checked packets; original source versions, separate licenses and the reproducible lossless recipe are retained in trinity-lossless-v1/licenses. Original native placement and alpha review limitations remain unchanged.
+
+DoomCube 2 native 350 reference: FrankenVoron/DoomCube-2, revision 02baa8c02c8984d46450843e8b41f24b135f6478. Repository GPL-3.0; see doomcube-v103/LICENSE.txt. Embedded community designs retain their own author credit and license terms; see the pinned upstream README and the model source notices. Original static CAD placements; mutually exclusive frame/probe/gantry variants are separated. Three invalid native printed bodies remain finite mesh references. Motion is not qualified.

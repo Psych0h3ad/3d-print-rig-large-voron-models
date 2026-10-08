@@ -562,6 +562,83 @@
       "path": "trident-front-v100/voron_trident_1000_custom/machine_profile.json",
       "bytes": 8875,
       "sha256": "47c96b8df0388b30251415ac538065d1d3ee4e85dca3126562378c26cde35aa2"
+    },
+    "trident-deck-v103/voron_trident_500_custom/model.glb": {
+      "bytes": 39752779,
+      "sha256": "f9b66a158697e7b8be7cf6434fa0f583b1e6f6162758d0d36e97ef9e566530b3",
+      "decoded_bytes": 109083980,
+      "decoded_sha256": "4aa9673623c73d1090227efe2d522e68ee99b210c4704ae7bd15f5f7d09866b2",
+      "path": "trident-deck-v103/voron_trident_500_custom/model.glb.gz",
+      "encoding": "gzip"
+    },
+    "trident-deck-v103/voron_trident_500_custom/assembly_manifest.json": {
+      "bytes": 1052517,
+      "sha256": "f5e370eb6a825d3e81d8384610e0898584df507f60b9cbeec0d97e6346985792",
+      "path": "trident-deck-v103/voron_trident_500_custom/assembly_manifest.json"
+    },
+    "trident-deck-v103/voron_trident_500_custom/machine_profile.json": {
+      "bytes": 7379,
+      "sha256": "8dcb398d4d65665b87cc68973df84c7b63733c501339ece5a6144a2bf9e8d74b",
+      "path": "trident-deck-v103/voron_trident_500_custom/machine_profile.json"
+    },
+    "trident-deck-v103/voron_trident_1000_custom/model.glb": {
+      "bytes": 57542644,
+      "sha256": "8f10f1c594fac72625118aa76fe8f9c761324d8915b7d9f3d09e8b5087451775",
+      "decoded_bytes": 182657056,
+      "decoded_sha256": "094d657422da5f74965a164e02c9e95824d5e0670fdaed9ffedd0590d4369ede",
+      "path": "trident-deck-v103/voron_trident_1000_custom/model.glb.gz",
+      "encoding": "gzip"
+    },
+    "trident-deck-v103/voron_trident_1000_custom/assembly_manifest.json": {
+      "bytes": 1901715,
+      "sha256": "768233d0c3fbf28c9ff4f49718ee60af83c5b2294ee9bb8bb35a4d09a05444e4",
+      "path": "trident-deck-v103/voron_trident_1000_custom/assembly_manifest.json"
+    },
+    "trident-deck-v103/voron_trident_1000_custom/machine_profile.json": {
+      "bytes": 8875,
+      "sha256": "47c96b8df0388b30251415ac538065d1d3ee4e85dca3126562378c26cde35aa2",
+      "path": "trident-deck-v103/voron_trident_1000_custom/machine_profile.json"
+    },
+    "trident-deck-v103/voron_trident_350_half_z/model.glb": {
+      "bytes": 31897441,
+      "sha256": "1024170505a60e07a9cebcc13964efaac1d6b994b35dea659d46f9a2d8036f9e",
+      "decoded_bytes": 90749888,
+      "decoded_sha256": "c7964f897e5d1be6450c3adeb699d20ad375583a4989afb705ed9ee481a346a3",
+      "path": "trident-deck-v103/voron_trident_350_half_z/model.glb.gz",
+      "encoding": "gzip"
+    },
+    "trident-deck-v103/voron_trident_350_half_z/assembly_manifest.json": {
+      "bytes": 1023502,
+      "sha256": "8704526653a8308dc542b34f27fbb6eae94407be1671c296ad9d2225e669c5ff",
+      "path": "trident-deck-v103/voron_trident_350_half_z/assembly_manifest.json"
+    },
+    "trident-deck-v103/voron_trident_350_half_z/machine_profile.json": {
+      "bytes": 6014,
+      "sha256": "f8f3316c0ea84089826f4ed587ebbc68e637d11c33a5b8caa07bfa4edf8bae7d",
+      "path": "trident-deck-v103/voron_trident_350_half_z/machine_profile.json"
+    },
+    "doomcube-v103/doomcube2_350_reference/assembly_manifest.json": {
+      "path": "doomcube-v103/doomcube2_350_reference/assembly_manifest.json",
+      "bytes": 3177904,
+      "sha256": "08072ed2c19bc2717f8bb79262ddac8fbcdad863da889379e608d3d19efa24bc"
+    },
+    "doomcube-v103/doomcube2_350_reference/machine_profile.json": {
+      "path": "doomcube-v103/doomcube2_350_reference/machine_profile.json",
+      "bytes": 5954,
+      "sha256": "b04011b2b8e30e809d7525a648d5ba2bc028f49fef6f81fdf34fc9c390402118"
+    },
+    "doomcube-v103/doomcube2_350_reference/model.glb": {
+      "path": "doomcube-v103/doomcube2_350_reference/model.glb.gz",
+      "bytes": 24022510,
+      "sha256": "67d368be1f7bb9a055bf7ad466ad0fd9391d7f5be6392fb7ab55a5289c0a0f76",
+      "encoding": "gzip",
+      "decoded_bytes": 69636092,
+      "decoded_sha256": "7a8d958a198ffabd374314c95a9d49e8b0f0f64fc51a488cdb3a1b973c8e95ad"
+    },
+    "doomcube-v103/LICENSE.txt": {
+      "path": "doomcube-v103/LICENSE.txt",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
     }
   }
 }
