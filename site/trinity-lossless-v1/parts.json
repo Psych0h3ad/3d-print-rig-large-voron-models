@@ -1,0 +1,1654 @@
+{
+  "id": "trinity_v13_current105_alpha_92",
+  "coordinate_frame": "original_native_CAD_mm_XY_Zup",
+  "parts": [
+    {
+      "key": "v13_0",
+      "source_native_part": "v13_0",
+      "component": "fan",
+      "appearance_role": null,
+      "name": "FFB036XX-XXN_FRAME_1",
+      "source_brep_sha256": "331eeb320e8497b874844c02bbcb14b73f461afb924289840d8d00df4eb5f0e8"
+    },
+    {
+      "key": "v13_1",
+      "source_native_part": "v13_1",
+      "component": "fan",
+      "appearance_role": null,
+      "name": "PRT0001_1",
+      "source_brep_sha256": "86738f2c60d6a35e62224c43c981112e6cbd100daa1c470ef8cb0c49f4385075"
+    },
+    {
+      "key": "v13_2",
+      "source_native_part": "v13_2",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Component1_4goliath",
+      "source_brep_sha256": "8d1348dc7dfbdafe6b6fec256800f41011415d531ad07ad141275929f808258b"
+    },
+    {
+      "key": "v13_3",
+      "source_native_part": "v13_3",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Component2_4goliath",
+      "source_brep_sha256": "75b73799b4cb0fcb53308be82c17978065004cf2bde23f3f5c49c64ecb7dc595"
+    },
+    {
+      "key": "v13_4",
+      "source_native_part": "v13_4",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Ace - Body v5_4goliath",
+      "source_brep_sha256": "7d1584fe5ae8d475aef96b1a7130f915edb353f66cd6a47ab73d9f35abb85b0b"
+    },
+    {
+      "key": "v13_5",
+      "source_native_part": "v13_5",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Ace - Spacer_4goliath",
+      "source_brep_sha256": "b119682f2e7eea788c4a6487b86069ac86991bb916c6364778b0ea2780286043"
+    },
+    {
+      "key": "v13_6",
+      "source_native_part": "v13_6",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Ace - Heatsink_4goliath",
+      "source_brep_sha256": "47e585c5c41a5c0fa04259a9684c4d157c66ec4981413cc6e787592fff60e315"
+    },
+    {
+      "key": "v13_7",
+      "source_native_part": "v13_7",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Ace - Sock_4goliath",
+      "source_brep_sha256": "a603d662741c0b4a9822d753ab06ab3fb50522e23d2b65a70cb60393b040aa32"
+    },
+    {
+      "key": "v13_8",
+      "source_native_part": "v13_8",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Ace - Spacer_4goliath",
+      "source_brep_sha256": "5e1acb2633f3529c7737462f88f7ee9e9de60c7cc004abd0ea87f1d727a823a1"
+    },
+    {
+      "key": "v13_9",
+      "source_native_part": "v13_9",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Ace - Spacer_4goliath",
+      "source_brep_sha256": "e9a33f8f7ccfa7e69556cfb5338f173b2e50d53b4ba60bb8f27f369cbb79e211"
+    },
+    {
+      "key": "v13_10",
+      "source_native_part": "v13_10",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Ace - Spacer_4goliath",
+      "source_brep_sha256": "66efc44e4ae3d2e07ddc9412786e0f5ec50571c3bc275d71a452c03da572dfba"
+    },
+    {
+      "key": "v13_11",
+      "source_native_part": "v13_11",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "din_913-m3x3-45h v1_4goliath",
+      "source_brep_sha256": "1172b53674520bb7cb9db00355b764bfc50e0e8234fb2583a2bd7ea9d745d5e8"
+    },
+    {
+      "key": "v13_12",
+      "source_native_part": "v13_12",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "din_913-m3x3-45h v1 (1)_4goliath",
+      "source_brep_sha256": "7c532f503ebc67373a210584f98209d90063b432d256e60848ed7da196d2ce3c"
+    },
+    {
+      "key": "v13_13",
+      "source_native_part": "v13_13",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "din_913-m2x4-45h v1_4goliath",
+      "source_brep_sha256": "995d8a5e209765b01602d535f8a8a6f7430b5861b023d435b5a730abc6c0b197"
+    },
+    {
+      "key": "v13_14",
+      "source_native_part": "v13_14",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "T-Volcano v4-1_4goliath",
+      "source_brep_sha256": "eb6d4e4984216fdb376f800ae1ee9fb3f6df64f28fa9a7fdccb47f4e85d3637b"
+    },
+    {
+      "key": "v13_14__native_microfacet_0",
+      "source_native_part": "v13_14",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "T-Volcano v4-1_4goliath",
+      "source_brep_sha256": "eb6d4e4984216fdb376f800ae1ee9fb3f6df64f28fa9a7fdccb47f4e85d3637b"
+    },
+    {
+      "key": "v13_14__native_microfacet_1",
+      "source_native_part": "v13_14",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "T-Volcano v4-1_4goliath",
+      "source_brep_sha256": "eb6d4e4984216fdb376f800ae1ee9fb3f6df64f28fa9a7fdccb47f4e85d3637b"
+    },
+    {
+      "key": "v13_14__native_microfacet_2",
+      "source_native_part": "v13_14",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "T-Volcano v4-1_4goliath",
+      "source_brep_sha256": "eb6d4e4984216fdb376f800ae1ee9fb3f6df64f28fa9a7fdccb47f4e85d3637b"
+    },
+    {
+      "key": "v13_14__native_microfacet_3",
+      "source_native_part": "v13_14",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "T-Volcano v4-1_4goliath",
+      "source_brep_sha256": "eb6d4e4984216fdb376f800ae1ee9fb3f6df64f28fa9a7fdccb47f4e85d3637b"
+    },
+    {
+      "key": "v13_14__native_microfacet_4",
+      "source_native_part": "v13_14",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "T-Volcano v4-1_4goliath",
+      "source_brep_sha256": "eb6d4e4984216fdb376f800ae1ee9fb3f6df64f28fa9a7fdccb47f4e85d3637b"
+    },
+    {
+      "key": "v13_14__native_microfacet_5",
+      "source_native_part": "v13_14",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "T-Volcano v4-1_4goliath",
+      "source_brep_sha256": "eb6d4e4984216fdb376f800ae1ee9fb3f6df64f28fa9a7fdccb47f4e85d3637b"
+    },
+    {
+      "key": "v13_14__native_microfacet_6",
+      "source_native_part": "v13_14",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "T-Volcano v4-1_4goliath",
+      "source_brep_sha256": "eb6d4e4984216fdb376f800ae1ee9fb3f6df64f28fa9a7fdccb47f4e85d3637b"
+    },
+    {
+      "key": "v13_14__native_microfacet_7",
+      "source_native_part": "v13_14",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "T-Volcano v4-1_4goliath",
+      "source_brep_sha256": "eb6d4e4984216fdb376f800ae1ee9fb3f6df64f28fa9a7fdccb47f4e85d3637b"
+    },
+    {
+      "key": "v13_14__native_microfacet_8",
+      "source_native_part": "v13_14",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "T-Volcano v4-1_4goliath",
+      "source_brep_sha256": "eb6d4e4984216fdb376f800ae1ee9fb3f6df64f28fa9a7fdccb47f4e85d3637b"
+    },
+    {
+      "key": "v13_14__native_microfacet_9",
+      "source_native_part": "v13_14",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "T-Volcano v4-1_4goliath",
+      "source_brep_sha256": "eb6d4e4984216fdb376f800ae1ee9fb3f6df64f28fa9a7fdccb47f4e85d3637b"
+    },
+    {
+      "key": "v13_14__native_microfacet_10",
+      "source_native_part": "v13_14",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "T-Volcano v4-1_4goliath",
+      "source_brep_sha256": "eb6d4e4984216fdb376f800ae1ee9fb3f6df64f28fa9a7fdccb47f4e85d3637b"
+    },
+    {
+      "key": "v13_14__native_microfacet_11",
+      "source_native_part": "v13_14",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "T-Volcano v4-1_4goliath",
+      "source_brep_sha256": "eb6d4e4984216fdb376f800ae1ee9fb3f6df64f28fa9a7fdccb47f4e85d3637b"
+    },
+    {
+      "key": "v13_14__native_microfacet_12",
+      "source_native_part": "v13_14",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "T-Volcano v4-1_4goliath",
+      "source_brep_sha256": "eb6d4e4984216fdb376f800ae1ee9fb3f6df64f28fa9a7fdccb47f4e85d3637b"
+    },
+    {
+      "key": "v13_14__native_microfacet_13",
+      "source_native_part": "v13_14",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "T-Volcano v4-1_4goliath",
+      "source_brep_sha256": "eb6d4e4984216fdb376f800ae1ee9fb3f6df64f28fa9a7fdccb47f4e85d3637b"
+    },
+    {
+      "key": "v13_15",
+      "source_native_part": "v13_15",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "V6\u589e\u6d41\u87ba\u4e1d_4goliath",
+      "source_brep_sha256": "c23b4a00d836af59262ec1c1bb86838884e19e1338fea03677ec9649bcd4cb6d"
+    },
+    {
+      "key": "v13_16",
+      "source_native_part": "v13_16",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "V6 Nozzle (1)_4goliath",
+      "source_brep_sha256": "6d5a66fe2e1be1c1e8ee96bee7dff88ed8177c10d7b5e92a5850f643fa218c32"
+    },
+    {
+      "key": "v13_17",
+      "source_native_part": "v13_17",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "dav hotend sock_Bad Dragon Ace Public v1goliath",
+      "source_brep_sha256": "69e55c02d5a5336d293c3ee1e2adf549bd595f0a4d37ed344380c3d65b5fa52d"
+    },
+    {
+      "key": "v13_18",
+      "source_native_part": "v13_18",
+      "component": "printed",
+      "appearance_role": "base",
+      "name": "Trinity body_mgn12 6mm voron orbiter",
+      "source_brep_sha256": "0ed9a295d68236c228e8c3e989d51936023d2feccf5e518454d2639747072e90"
+    },
+    {
+      "key": "v13_19",
+      "source_native_part": "v13_19",
+      "component": "fan",
+      "appearance_role": null,
+      "name": "delta-2510-ASB02505SHA-AY6B",
+      "source_brep_sha256": "2501a84a216234d0a6be868d502594c5b44ffe340838a73e9df5440f4f37c54a"
+    },
+    {
+      "key": "v13_20",
+      "source_native_part": "v13_20",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m3 hex socket_m3x25",
+      "source_brep_sha256": "a18085b388a76bc4f8f907a27c2ab85b72fb2002e7777a1248b743b6a98ee49d"
+    },
+    {
+      "key": "v13_21",
+      "source_native_part": "v13_21",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m3 button head_m3x6",
+      "source_brep_sha256": "6d4ffcfaf8d7bdb8fcd51d50d68d1b53c5b0659cf267cd718ea31996f22c17a3"
+    },
+    {
+      "key": "v13_22",
+      "source_native_part": "v13_22",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m3 hex socket_m3x35",
+      "source_brep_sha256": "5d057f84b94867a2fe4811509d2ecf0ff5b44b1777d171229ee10f739c17fdac"
+    },
+    {
+      "key": "v13_23",
+      "source_native_part": "v13_23",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m3 button head_m3x35",
+      "source_brep_sha256": "9cdfe9aee779c5b22c937f660f1989cdfd0b35360ee290347545cd7436cc463a"
+    },
+    {
+      "key": "v13_24",
+      "source_native_part": "v13_24",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m2.5 hex socket_m2.5x15",
+      "source_brep_sha256": "e80bf37d959d9af507417baa85bada964609cf4598f7a5959df9745990885c2d"
+    },
+    {
+      "key": "v13_25",
+      "source_native_part": "v13_25",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m2.5 button head_m3x10",
+      "source_brep_sha256": "8fa48d4392ee8ad0010a8cfc1f590cab0c8bd1d4669fada6a21c6dce6f3eabb1"
+    },
+    {
+      "key": "v13_26",
+      "source_native_part": "v13_26",
+      "component": "printed",
+      "appearance_role": "accent",
+      "name": "ducts v3",
+      "source_brep_sha256": "6f52d9cf729585a5efe7d43089d01921b180392924d2267ce018f61bd264ba49"
+    },
+    {
+      "key": "v13_27",
+      "source_native_part": "v13_27",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m3 button head_m3x20",
+      "source_brep_sha256": "bce012e468df503801872c92adbd893656b867a62aa233d3f5163822743f6818"
+    },
+    {
+      "key": "v13_28",
+      "source_native_part": "v13_28",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "trinity belt clip v3_voron mgn12 6mm",
+      "source_brep_sha256": "e992e537e8a59c24c6544a56229f5ad24efc3ed6ee2bf72ac6dccb01c35d7b6a"
+    },
+    {
+      "key": "v13_29",
+      "source_native_part": "v13_29",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Part1_Trinity toolhead_6mm",
+      "source_brep_sha256": "7fddc2c0ff68826acccd8031a464735ad8b6395c66b60c9385853b6bec9d13e5"
+    },
+    {
+      "key": "v13_30",
+      "source_native_part": "v13_30",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m3 square nut",
+      "source_brep_sha256": "fab959592b6b7c59794d8078f0e2f739dacff7921b1c0110d81c2097b5b31885"
+    },
+    {
+      "key": "v13_32",
+      "source_native_part": "v13_32",
+      "component": "printed",
+      "appearance_role": "accent",
+      "name": "logo cutout",
+      "source_brep_sha256": "a468fa55f3bdc2565faff63ed50c80b0063f2dafe2465993fb4986ad4f628b57"
+    },
+    {
+      "key": "v13_34",
+      "source_native_part": "v13_34",
+      "component": "board",
+      "appearance_role": null,
+      "name": "Beacon_RevD_Assm_Right com",
+      "source_brep_sha256": "6b139a7025e0b9c3078709c7441cc364ceb86f0cc22cf54881e6211ae99dec74"
+    },
+    {
+      "key": "v13_35",
+      "source_native_part": "v13_35",
+      "component": "cutter",
+      "appearance_role": null,
+      "name": "Crossbow - Blade caddy (1)",
+      "source_brep_sha256": "e9c6ea73b7d3ce4f4e43cde88a26e6ba9931fcc55888857c7d28c40f3c97efc3"
+    },
+    {
+      "key": "v13_36",
+      "source_native_part": "v13_36",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "M3x6 Ultra low profile socket head screw (1)",
+      "source_brep_sha256": "6126b9a1db2d20ed9e96013f0bdb2b8b59fcb875dc87b9869c3ceba898630ccb"
+    },
+    {
+      "key": "v13_37",
+      "source_native_part": "v13_37",
+      "component": "cutter",
+      "appearance_role": null,
+      "name": "Crossbow - Main Body (1)",
+      "source_brep_sha256": "183a7a0dcbd2fe6f95e9f460b1f9618b855a51e63e620b01e72e95cf586d6221"
+    },
+    {
+      "key": "v13_38",
+      "source_native_part": "v13_38",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Flat point hex socket set screw M3x0.5 x 3 (1)",
+      "source_brep_sha256": "84d8805cdf09b8036e4feab6199ae837ff70011b50dc4902f842ad91cdbc33d7"
+    },
+    {
+      "key": "v13_39",
+      "source_native_part": "v13_39",
+      "component": "cutter",
+      "appearance_role": null,
+      "name": "17A cut down blade (1)",
+      "source_brep_sha256": "5382ab331e361357cd6b8c1b606da3ff4646df471e0e0333aa9dc7c4a067a197"
+    },
+    {
+      "key": "v13_40",
+      "source_native_part": "v13_40",
+      "component": "cutter",
+      "appearance_role": null,
+      "name": "Crossbow - Lever (1)",
+      "source_brep_sha256": "6a481684471b96ffeee443b21ca207d13f1d49af4cc32de355c436778e2adfcf"
+    },
+    {
+      "key": "v13_41",
+      "source_native_part": "v13_41",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "M3x8 Ultra low profile socket head screw (1)",
+      "source_brep_sha256": "1752ce3745d225dc8c983dd1081b9cc1d6d4541f245e83fc367e875f52d3639b"
+    },
+    {
+      "key": "v13_42",
+      "source_native_part": "v13_42",
+      "component": "cutter",
+      "appearance_role": null,
+      "name": "Crossbow - Top Cap (1)",
+      "source_brep_sha256": "7332ed40a0e07aa9b56cdd8e0d2ae46ade9ba1c14690d76d7a9c67598a1b81f5"
+    },
+    {
+      "key": "v13_43",
+      "source_native_part": "v13_43",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Magnet 6x1.5 (1)",
+      "source_brep_sha256": "bf98c1eed47adda83f66b7d6d6a8502ab6ede0bd3b3072f3110c538e5a087d03"
+    },
+    {
+      "key": "v13_44",
+      "source_native_part": "v13_44",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Magnet 6x1.5 (1)",
+      "source_brep_sha256": "eb25663e193adeab4aad5990deea3e91ed8a07d36ee77d088fe1cf605721f146"
+    },
+    {
+      "key": "v13_45",
+      "source_native_part": "v13_45",
+      "component": "printed",
+      "appearance_role": "accent",
+      "name": "Trinity 1.5 orbiter cutter guide v1",
+      "source_brep_sha256": "1c6896f2ac0a22fa839825877733afe9a884006e44c0e9a50e1fcd2dbe204583"
+    },
+    {
+      "key": "v13_46",
+      "source_native_part": "v13_46",
+      "component": "fan",
+      "appearance_role": null,
+      "name": "FFB036XX-XXN_FRAME_1",
+      "source_brep_sha256": "289204524e4fe546bb395bb644f328325362859aa35fd51a055582a65d9bd410"
+    },
+    {
+      "key": "v13_47",
+      "source_native_part": "v13_47",
+      "component": "fan",
+      "appearance_role": null,
+      "name": "PRT0001_1",
+      "source_brep_sha256": "ed24c51ca3ff3f6758e18e0963a7943931537a0cc957e222c1c42862ab877260"
+    },
+    {
+      "key": "v13_48",
+      "source_native_part": "v13_48",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m3 hex socket_m3x25",
+      "source_brep_sha256": "2575f4751f392189c25b9a7e476f85cb548220dbb0c75aca2ffd91d377bde938"
+    },
+    {
+      "key": "v13_49",
+      "source_native_part": "v13_49",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m3 hex socket_m3x25",
+      "source_brep_sha256": "8f711403f6492b6d5ffaca752a20abca3a3a17b99a5e4acf93a9220306c41bcd"
+    },
+    {
+      "key": "v13_50",
+      "source_native_part": "v13_50",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m3 hex socket_m3x25",
+      "source_brep_sha256": "2d65e7bdc1f8100fcccfc51f6f71d71a96efb2e03ab1bfd0a2ea98ea6a56fbd8"
+    },
+    {
+      "key": "v13_51",
+      "source_native_part": "v13_51",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m3x5x4.5 insert",
+      "source_brep_sha256": "af22d16d08a00a950446d2c14f4bc020b300e2b9be8cef5121f797b1d958c74b"
+    },
+    {
+      "key": "v13_52",
+      "source_native_part": "v13_52",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m3x5x4.5 insert",
+      "source_brep_sha256": "3b3c3af1703031f33a26b506756edbda5426926182d3a30cb24d204dd2ff996b"
+    },
+    {
+      "key": "v13_53",
+      "source_native_part": "v13_53",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m3 button head_m3x6",
+      "source_brep_sha256": "fe678dcda36c04bbb4e39448a0ebbc58a0a993b425d713c72e87148c9a19d4ef"
+    },
+    {
+      "key": "v13_54",
+      "source_native_part": "v13_54",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m3x5x4.5 insert",
+      "source_brep_sha256": "7c2e5e809212c9faa8ebb56d1c32ec2422bf3c06c7345ca99fce191ba7832102"
+    },
+    {
+      "key": "v13_55",
+      "source_native_part": "v13_55",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m3x5x4.5 insert",
+      "source_brep_sha256": "2f77be9a4cef2efbf4206f346693f26154a0f7205fed45a55380c02267728711"
+    },
+    {
+      "key": "v13_56",
+      "source_native_part": "v13_56",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m3x5x4.5 insert",
+      "source_brep_sha256": "ca00b7f44d7a904e099d83ac6fc69ac6c60e844ec0cf522808884dad3043f432"
+    },
+    {
+      "key": "v13_57",
+      "source_native_part": "v13_57",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m3x5x4.5 insert",
+      "source_brep_sha256": "88ca2633734c374ec0cec66a16ab075d0efb458f603726f6198187d85f8696f7"
+    },
+    {
+      "key": "v13_58",
+      "source_native_part": "v13_58",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m3x5x4.5 insert",
+      "source_brep_sha256": "f01f953e26d7d4b202602f8a4d5d52b5b134177dbcdebc7ca958ea7a093db55d"
+    },
+    {
+      "key": "v13_59",
+      "source_native_part": "v13_59",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m3x5x4.5 insert",
+      "source_brep_sha256": "184c94108936efcb6a6c56ec6e03ba31bf8ae19acc89a37a8f50bea2f17767fd"
+    },
+    {
+      "key": "v13_60",
+      "source_native_part": "v13_60",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m3 hex socket_m3x35",
+      "source_brep_sha256": "c46f99ff2fbcc3f111ab80cdf2a231b976445a31470bd89bb74d4ec4190160e2"
+    },
+    {
+      "key": "v13_61",
+      "source_native_part": "v13_61",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m3 button head_m3x35",
+      "source_brep_sha256": "f9c217f82d39b0d1ed51312b4466ef48975256d66b95fb07c8815b2a47205c62"
+    },
+    {
+      "key": "v13_62",
+      "source_native_part": "v13_62",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m3 hex socket_m3x35",
+      "source_brep_sha256": "f18e14ce2241187987de261e3885bf183c07539da76336a60b1ced912b25bfe0"
+    },
+    {
+      "key": "v13_63",
+      "source_native_part": "v13_63",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m3 hex socket_m3x35",
+      "source_brep_sha256": "efa9cd0d018b2f61c004eed8b55e57154d146a34a3c6505ef92ee11916e73816"
+    },
+    {
+      "key": "v13_64",
+      "source_native_part": "v13_64",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m2.5 hex socket_m2.5x15",
+      "source_brep_sha256": "7ba8b8397d59875aab168a7f12912565c2e114a2629d7dc4ec91091c1bb7bdf0"
+    },
+    {
+      "key": "v13_65",
+      "source_native_part": "v13_65",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m2.5 button head_m3x10",
+      "source_brep_sha256": "c81b8637c7ae9cf865baaf1b8f7d53524d10ed7d30f5a3dac87d44a48b8d9b00"
+    },
+    {
+      "key": "v13_66",
+      "source_native_part": "v13_66",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m2.5 button head_m3x10",
+      "source_brep_sha256": "74685acac0db795f7a1d71d6a5608a7f60fe3094da348610f83f5ea57a048000"
+    },
+    {
+      "key": "v13_67",
+      "source_native_part": "v13_67",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m2.5 button head_m3x10",
+      "source_brep_sha256": "7a997d9180f5a9cabe16b023f38c739aab7809de2f7bd146633676780ab3288f"
+    },
+    {
+      "key": "v13_68",
+      "source_native_part": "v13_68",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m3 button head_m3x20",
+      "source_brep_sha256": "9062c3a9c4c181750f3bad8b322c895779345bff3d9650423fd082d70dd1594b"
+    },
+    {
+      "key": "v13_69",
+      "source_native_part": "v13_69",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "trinity belt clip v3_voron mgn12 6mm",
+      "source_brep_sha256": "bfb7fba184b78175fa0341b3f116ab890cf4396f73a8f26c7d6b42415662aa08"
+    },
+    {
+      "key": "v13_70",
+      "source_native_part": "v13_70",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "m3 square nut",
+      "source_brep_sha256": "115c102e710b571ed8af8df33cd4039bf7d4654cea26645e355e9e942644e55f"
+    },
+    {
+      "key": "v13_71",
+      "source_native_part": "v13_71",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Part1_Trinity toolhead_6mm",
+      "source_brep_sha256": "87fb4c31585a397fab7b19d9aeea8e39ff5afb10675246fa9b48d23b8ff04aac"
+    },
+    {
+      "key": "v13_72",
+      "source_native_part": "v13_72",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Part1_Trinity toolhead_6mm",
+      "source_brep_sha256": "81e2ca7f64a3ea50f5e9dd987a47c3408065c8ea7893e21c4787982b599d4d34"
+    },
+    {
+      "key": "v13_73",
+      "source_native_part": "v13_73",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Part1_Trinity toolhead_6mm",
+      "source_brep_sha256": "a20e1b50e1011e3c57f21990e0327f8317660f8925ff3363c729ea33f0db571a"
+    },
+    {
+      "key": "v13_sherpa_0",
+      "source_native_part": "v13_sherpa_0",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "shaft^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "97600f30e05770809999a57da26bb67cb60f5fadb8d923250f68cf7b60a8d234"
+    },
+    {
+      "key": "v13_sherpa_1",
+      "source_native_part": "v13_sherpa_1",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "0.3mm_shim^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "2df7c80ee54df8bd2240cedab1209cc123fcdb2561719a787f59162347b50bdc"
+    },
+    {
+      "key": "v13_sherpa_2",
+      "source_native_part": "v13_sherpa_2",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "sherpa_mini_gear_50t_sl_7mm^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "0bb4b286f814c272bb626c130e7f0881f03f2afd358f9880597d7d877ac02a4b"
+    },
+    {
+      "key": "v13_sherpa_3",
+      "source_native_part": "v13_sherpa_3",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "filament_gear^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "1e4dd24a2636292762624e839a4e402e93bdba187c2624aa0a8e10e5f75f01a9"
+    },
+    {
+      "key": "v13_sherpa_4",
+      "source_native_part": "v13_sherpa_4",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "MR85-2RS^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "1d58f7f451c5447ec19397c41d8797f65ab146b320cc211d8ab771a18664d276"
+    },
+    {
+      "key": "v13_sherpa_5",
+      "source_native_part": "v13_sherpa_5",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "MR85-2RS^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "bd5089d381fdf369f3257532e3ae65b0ec6b1a2552fbdaca606d0424ce360c1b"
+    },
+    {
+      "key": "v13_sherpa_6",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_0",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_1",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_2",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_3",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_4",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_5",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_6",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_7",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_8",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_9",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_10",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_11",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_12",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_13",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_14",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_15",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_16",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_17",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_18",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_19",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_20",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_21",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_22",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_23",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_24",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_25",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_26",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_27",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_28",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_29",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_30",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_31",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_32",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_6__native_microfacet_33",
+      "source_native_part": "v13_sherpa_6",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r17",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "key": "v13_sherpa_7",
+      "source_native_part": "v13_sherpa_7",
+      "component": "extruder",
+      "appearance_role": "base",
+      "name": "housing_core_std^housing_sherpa_mini_a3_r17_FDM",
+      "source_brep_sha256": "3766e60bed2ae0e4b529ef9f9845e6b32f42ebbeaff80eedcf01cc52a59475e0"
+    },
+    {
+      "key": "v13_sherpa_7__native_microfacet_0",
+      "source_native_part": "v13_sherpa_7",
+      "component": "extruder",
+      "appearance_role": "base",
+      "name": "housing_core_std^housing_sherpa_mini_a3_r17_FDM",
+      "source_brep_sha256": "3766e60bed2ae0e4b529ef9f9845e6b32f42ebbeaff80eedcf01cc52a59475e0"
+    },
+    {
+      "key": "v13_sherpa_7__native_microfacet_1",
+      "source_native_part": "v13_sherpa_7",
+      "component": "extruder",
+      "appearance_role": "base",
+      "name": "housing_core_std^housing_sherpa_mini_a3_r17_FDM",
+      "source_brep_sha256": "3766e60bed2ae0e4b529ef9f9845e6b32f42ebbeaff80eedcf01cc52a59475e0"
+    },
+    {
+      "key": "v13_sherpa_7__native_microfacet_2",
+      "source_native_part": "v13_sherpa_7",
+      "component": "extruder",
+      "appearance_role": "base",
+      "name": "housing_core_std^housing_sherpa_mini_a3_r17_FDM",
+      "source_brep_sha256": "3766e60bed2ae0e4b529ef9f9845e6b32f42ebbeaff80eedcf01cc52a59475e0"
+    },
+    {
+      "key": "v13_sherpa_7__native_microfacet_3",
+      "source_native_part": "v13_sherpa_7",
+      "component": "extruder",
+      "appearance_role": "base",
+      "name": "housing_core_std^housing_sherpa_mini_a3_r17_FDM",
+      "source_brep_sha256": "3766e60bed2ae0e4b529ef9f9845e6b32f42ebbeaff80eedcf01cc52a59475e0"
+    },
+    {
+      "key": "v13_sherpa_8",
+      "source_native_part": "v13_sherpa_8",
+      "component": "extruder",
+      "appearance_role": "base",
+      "name": "housing_front^housing_sherpa_mini_a3_r17_FDM",
+      "source_brep_sha256": "e6311c87c60e0acfc8b679781b519b883fbe7f6a77c5bfca874d4761f68c43c2"
+    },
+    {
+      "key": "v13_sherpa_10",
+      "source_native_part": "v13_sherpa_10",
+      "component": "extruder",
+      "appearance_role": "base",
+      "name": "housing_rear_nema14^housing_sherpa_mini_a3_r17_FDM",
+      "source_brep_sha256": "486d3b03e0d1d0e2210265d2a17d9b58b5e815c25daad1fd5239ef0afbdfc7e7"
+    },
+    {
+      "key": "v13_sherpa_11",
+      "source_native_part": "v13_sherpa_11",
+      "component": "extruder",
+      "appearance_role": "accent",
+      "name": "idler_arm_short^housing_sherpa_mini_a3_r17_FDM",
+      "source_brep_sha256": "71bd864cb9d52d764ba71248deeaf408879fe3baec7eb647d2a78bd2b2e946b5"
+    },
+    {
+      "key": "v13_sherpa_13",
+      "source_native_part": "v13_sherpa_13",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "idler_pin^sherpa_mini_a3_r17",
+      "source_brep_sha256": "26fb68d064cbcc9414a448d4e4f7474403a6a0ed7d7036f5767decb0d7da33e9"
+    },
+    {
+      "key": "v13_sherpa_14",
+      "source_native_part": "v13_sherpa_14",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "idler_gear^idler_gear_assy_sherpa_mini_a3_r17",
+      "source_brep_sha256": "8a58ae0b915d1e6731c91595e650136d85df3f27c465acf2fc44e74b3fe338cc"
+    },
+    {
+      "key": "v13_sherpa_15",
+      "source_native_part": "v13_sherpa_15",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "shaft^idler_gear_assy_sherpa_mini_a3_r17",
+      "source_brep_sha256": "f42d3ecc2e58725f87d04860beee59f4e55b705f1b969b0b4652962aeb9f12ce"
+    },
+    {
+      "key": "v13_sherpa_16",
+      "source_native_part": "v13_sherpa_16",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "needle_bearing^idler_gear_assy_sherpa_mini_a3_r17",
+      "source_brep_sha256": "d37f7318fd8601b549e1c11e0402e1c1d0d9055e96045e8ea4736cc95cb93699"
+    },
+    {
+      "key": "v13_sherpa_17",
+      "source_native_part": "v13_sherpa_17",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "needle_bearing^idler_gear_assy_sherpa_mini_a3_r17",
+      "source_brep_sha256": "ce9aea9095d2f84b50bc6d91bc0476043445937b8ad643eb7f68e61a82c87a7a"
+    },
+    {
+      "key": "v13_sherpa_18",
+      "source_native_part": "v13_sherpa_18",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 12 - 12N",
+      "source_brep_sha256": "7c839a13788bdcad1e77dc916f4738142c966b47c9988bbb677811c17165736f"
+    },
+    {
+      "key": "v13_sherpa_18__native_microfacet_0",
+      "source_native_part": "v13_sherpa_18",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 12 - 12N",
+      "source_brep_sha256": "7c839a13788bdcad1e77dc916f4738142c966b47c9988bbb677811c17165736f"
+    },
+    {
+      "key": "v13_sherpa_18__native_microfacet_1",
+      "source_native_part": "v13_sherpa_18",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 12 - 12N",
+      "source_brep_sha256": "7c839a13788bdcad1e77dc916f4738142c966b47c9988bbb677811c17165736f"
+    },
+    {
+      "key": "v13_sherpa_18__native_microfacet_2",
+      "source_native_part": "v13_sherpa_18",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 12 - 12N",
+      "source_brep_sha256": "7c839a13788bdcad1e77dc916f4738142c966b47c9988bbb677811c17165736f"
+    },
+    {
+      "key": "v13_sherpa_18__native_microfacet_3",
+      "source_native_part": "v13_sherpa_18",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 12 - 12N",
+      "source_brep_sha256": "7c839a13788bdcad1e77dc916f4738142c966b47c9988bbb677811c17165736f"
+    },
+    {
+      "key": "v13_sherpa_18__native_microfacet_4",
+      "source_native_part": "v13_sherpa_18",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 12 - 12N",
+      "source_brep_sha256": "7c839a13788bdcad1e77dc916f4738142c966b47c9988bbb677811c17165736f"
+    },
+    {
+      "key": "v13_sherpa_18__native_microfacet_5",
+      "source_native_part": "v13_sherpa_18",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 12 - 12N",
+      "source_brep_sha256": "7c839a13788bdcad1e77dc916f4738142c966b47c9988bbb677811c17165736f"
+    },
+    {
+      "key": "v13_sherpa_18__native_microfacet_6",
+      "source_native_part": "v13_sherpa_18",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 12 - 12N",
+      "source_brep_sha256": "7c839a13788bdcad1e77dc916f4738142c966b47c9988bbb677811c17165736f"
+    },
+    {
+      "key": "v13_sherpa_18__native_microfacet_7",
+      "source_native_part": "v13_sherpa_18",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 12 - 12N",
+      "source_brep_sha256": "7c839a13788bdcad1e77dc916f4738142c966b47c9988bbb677811c17165736f"
+    },
+    {
+      "key": "v13_sherpa_19",
+      "source_native_part": "v13_sherpa_19",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 12 - 12N",
+      "source_brep_sha256": "cb0d2ae763627fecc3252e20bf0bf0a50890f22c9f428b3b5856745a8760f257"
+    },
+    {
+      "key": "v13_sherpa_19__native_microfacet_0",
+      "source_native_part": "v13_sherpa_19",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 12 - 12N",
+      "source_brep_sha256": "cb0d2ae763627fecc3252e20bf0bf0a50890f22c9f428b3b5856745a8760f257"
+    },
+    {
+      "key": "v13_sherpa_19__native_microfacet_1",
+      "source_native_part": "v13_sherpa_19",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 12 - 12N",
+      "source_brep_sha256": "cb0d2ae763627fecc3252e20bf0bf0a50890f22c9f428b3b5856745a8760f257"
+    },
+    {
+      "key": "v13_sherpa_19__native_microfacet_2",
+      "source_native_part": "v13_sherpa_19",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 12 - 12N",
+      "source_brep_sha256": "cb0d2ae763627fecc3252e20bf0bf0a50890f22c9f428b3b5856745a8760f257"
+    },
+    {
+      "key": "v13_sherpa_19__native_microfacet_3",
+      "source_native_part": "v13_sherpa_19",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 12 - 12N",
+      "source_brep_sha256": "cb0d2ae763627fecc3252e20bf0bf0a50890f22c9f428b3b5856745a8760f257"
+    },
+    {
+      "key": "v13_sherpa_19__native_microfacet_4",
+      "source_native_part": "v13_sherpa_19",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 12 - 12N",
+      "source_brep_sha256": "cb0d2ae763627fecc3252e20bf0bf0a50890f22c9f428b3b5856745a8760f257"
+    },
+    {
+      "key": "v13_sherpa_19__native_microfacet_5",
+      "source_native_part": "v13_sherpa_19",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 12 - 12N",
+      "source_brep_sha256": "cb0d2ae763627fecc3252e20bf0bf0a50890f22c9f428b3b5856745a8760f257"
+    },
+    {
+      "key": "v13_sherpa_19__native_microfacet_6",
+      "source_native_part": "v13_sherpa_19",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 12 - 12N",
+      "source_brep_sha256": "cb0d2ae763627fecc3252e20bf0bf0a50890f22c9f428b3b5856745a8760f257"
+    },
+    {
+      "key": "v13_sherpa_19__native_microfacet_7",
+      "source_native_part": "v13_sherpa_19",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 12 - 12N",
+      "source_brep_sha256": "cb0d2ae763627fecc3252e20bf0bf0a50890f22c9f428b3b5856745a8760f257"
+    },
+    {
+      "key": "v13_sherpa_20",
+      "source_native_part": "v13_sherpa_20",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 16 - 16N",
+      "source_brep_sha256": "746271383353200bfc2660103ebf823afe1cf71c9940489b012ff76976c68c4b"
+    },
+    {
+      "key": "v13_sherpa_20__native_microfacet_0",
+      "source_native_part": "v13_sherpa_20",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 16 - 16N",
+      "source_brep_sha256": "746271383353200bfc2660103ebf823afe1cf71c9940489b012ff76976c68c4b"
+    },
+    {
+      "key": "v13_sherpa_20__native_microfacet_1",
+      "source_native_part": "v13_sherpa_20",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 16 - 16N",
+      "source_brep_sha256": "746271383353200bfc2660103ebf823afe1cf71c9940489b012ff76976c68c4b"
+    },
+    {
+      "key": "v13_sherpa_20__native_microfacet_2",
+      "source_native_part": "v13_sherpa_20",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 16 - 16N",
+      "source_brep_sha256": "746271383353200bfc2660103ebf823afe1cf71c9940489b012ff76976c68c4b"
+    },
+    {
+      "key": "v13_sherpa_20__native_microfacet_3",
+      "source_native_part": "v13_sherpa_20",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 16 - 16N",
+      "source_brep_sha256": "746271383353200bfc2660103ebf823afe1cf71c9940489b012ff76976c68c4b"
+    },
+    {
+      "key": "v13_sherpa_21",
+      "source_native_part": "v13_sherpa_21",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 16 - 16N",
+      "source_brep_sha256": "9c0ed25190d5ba878b6b537684d3d858b95878fa78fc7ec28f4b110198ad8902"
+    },
+    {
+      "key": "v13_sherpa_21__native_microfacet_0",
+      "source_native_part": "v13_sherpa_21",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 16 - 16N",
+      "source_brep_sha256": "9c0ed25190d5ba878b6b537684d3d858b95878fa78fc7ec28f4b110198ad8902"
+    },
+    {
+      "key": "v13_sherpa_21__native_microfacet_1",
+      "source_native_part": "v13_sherpa_21",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 16 - 16N",
+      "source_brep_sha256": "9c0ed25190d5ba878b6b537684d3d858b95878fa78fc7ec28f4b110198ad8902"
+    },
+    {
+      "key": "v13_sherpa_21__native_microfacet_2",
+      "source_native_part": "v13_sherpa_21",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 16 - 16N",
+      "source_brep_sha256": "9c0ed25190d5ba878b6b537684d3d858b95878fa78fc7ec28f4b110198ad8902"
+    },
+    {
+      "key": "v13_sherpa_21__native_microfacet_3",
+      "source_native_part": "v13_sherpa_21",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 16 - 16N",
+      "source_brep_sha256": "9c0ed25190d5ba878b6b537684d3d858b95878fa78fc7ec28f4b110198ad8902"
+    },
+    {
+      "key": "v13_sherpa_22",
+      "source_native_part": "v13_sherpa_22",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 8 - 8N",
+      "source_brep_sha256": "5e68e097b18c6cfa898a2512eeab9f500da5ada6593bd20cf0d2bed6c1a214a0"
+    },
+    {
+      "key": "v13_sherpa_22__native_microfacet_0",
+      "source_native_part": "v13_sherpa_22",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 8 - 8N",
+      "source_brep_sha256": "5e68e097b18c6cfa898a2512eeab9f500da5ada6593bd20cf0d2bed6c1a214a0"
+    },
+    {
+      "key": "v13_sherpa_22__native_microfacet_1",
+      "source_native_part": "v13_sherpa_22",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 8 - 8N",
+      "source_brep_sha256": "5e68e097b18c6cfa898a2512eeab9f500da5ada6593bd20cf0d2bed6c1a214a0"
+    },
+    {
+      "key": "v13_sherpa_22__native_microfacet_2",
+      "source_native_part": "v13_sherpa_22",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 8 - 8N",
+      "source_brep_sha256": "5e68e097b18c6cfa898a2512eeab9f500da5ada6593bd20cf0d2bed6c1a214a0"
+    },
+    {
+      "key": "v13_sherpa_22__native_microfacet_3",
+      "source_native_part": "v13_sherpa_22",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 8 - 8N",
+      "source_brep_sha256": "5e68e097b18c6cfa898a2512eeab9f500da5ada6593bd20cf0d2bed6c1a214a0"
+    },
+    {
+      "key": "v13_sherpa_23",
+      "source_native_part": "v13_sherpa_23",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 8 - 8N",
+      "source_brep_sha256": "9d61e80b7d9848917f0796bcf5732fe35ebc9c3ede63b61bd6fea2798e61dbf7"
+    },
+    {
+      "key": "v13_sherpa_23__native_microfacet_0",
+      "source_native_part": "v13_sherpa_23",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 8 - 8N",
+      "source_brep_sha256": "9d61e80b7d9848917f0796bcf5732fe35ebc9c3ede63b61bd6fea2798e61dbf7"
+    },
+    {
+      "key": "v13_sherpa_23__native_microfacet_1",
+      "source_native_part": "v13_sherpa_23",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 8 - 8N",
+      "source_brep_sha256": "9d61e80b7d9848917f0796bcf5732fe35ebc9c3ede63b61bd6fea2798e61dbf7"
+    },
+    {
+      "key": "v13_sherpa_23__native_microfacet_2",
+      "source_native_part": "v13_sherpa_23",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 8 - 8N",
+      "source_brep_sha256": "9d61e80b7d9848917f0796bcf5732fe35ebc9c3ede63b61bd6fea2798e61dbf7"
+    },
+    {
+      "key": "v13_sherpa_23__native_microfacet_3",
+      "source_native_part": "v13_sherpa_23",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 8 - 8N",
+      "source_brep_sha256": "9d61e80b7d9848917f0796bcf5732fe35ebc9c3ede63b61bd6fea2798e61dbf7"
+    },
+    {
+      "key": "v13_sherpa_24",
+      "source_native_part": "v13_sherpa_24",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "insert_m3x5x4",
+      "source_brep_sha256": "59a273528a68fa91aee270d89178a4604187dd9c812c7156e10f5ae80a06b687"
+    },
+    {
+      "key": "v13_sherpa_25",
+      "source_native_part": "v13_sherpa_25",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "insert_m3x5x4",
+      "source_brep_sha256": "97fef40a4c4142e1ded79af884b55d460e67e6219f868d380b72ef462064ee55"
+    },
+    {
+      "key": "v13_sherpa_26",
+      "source_native_part": "v13_sherpa_26",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "insert_m3x5x4",
+      "source_brep_sha256": "ec13cc400137335a39e8086e8b6d9ac88c4299c53dce186e75426900d17d6631"
+    },
+    {
+      "key": "v13_sherpa_27",
+      "source_native_part": "v13_sherpa_27",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "insert_m3x5x4",
+      "source_brep_sha256": "b999bd0b6eb46c00fd5fc6c08e27117694f813292e3c37fdb584959180192556"
+    },
+    {
+      "key": "v13_sherpa_28",
+      "source_native_part": "v13_sherpa_28",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "insert_m3x5x4",
+      "source_brep_sha256": "c8e7f12924dab6f05aa56ce7a8acc06ab817ef0031eb4f29f8eea4abf4eb4a4f"
+    },
+    {
+      "key": "v13_sherpa_29",
+      "source_native_part": "v13_sherpa_29",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "thumbscrew^thumbscrew",
+      "source_brep_sha256": "ead466a93e9a81dd3ff889e5959e6d80effe7ee8a4ad2f47e75917a69707b072"
+    },
+    {
+      "key": "v13_sherpa_30",
+      "source_native_part": "v13_sherpa_30",
+      "component": "extruder",
+      "appearance_role": null,
+      "name": "spring^thumbscrew",
+      "source_brep_sha256": "57cf778b2a4a6c0b35017fa9e898e7ff0167b19f09449ff094b490204a894317"
+    },
+    {
+      "key": "v13_sherpa_31",
+      "source_native_part": "v13_sherpa_31",
+      "component": "motor",
+      "appearance_role": null,
+      "name": "NEMA14_10t^sherpa_mini_a3_r17",
+      "source_brep_sha256": "0687916bf50c5f9ab19d96a3ef12720d3c99c1b51ed52fe004b497a8cca06ed6"
+    },
+    {
+      "key": "v13_mount_left",
+      "source_native_part": "v13_mount_left",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Sherpa Mini R2 mounting screw ISO 7380 M3x16 \u00b7 left",
+      "source_brep_sha256": "d3a57a6b39121894bea2f8b85ba0aab18b66ab593707a5119c31047da49573c4"
+    },
+    {
+      "key": "v13_mount_left__native_microfacet_0",
+      "source_native_part": "v13_mount_left",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Sherpa Mini R2 mounting screw ISO 7380 M3x16 \u00b7 left",
+      "source_brep_sha256": "d3a57a6b39121894bea2f8b85ba0aab18b66ab593707a5119c31047da49573c4"
+    },
+    {
+      "key": "v13_mount_left__native_microfacet_1",
+      "source_native_part": "v13_mount_left",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Sherpa Mini R2 mounting screw ISO 7380 M3x16 \u00b7 left",
+      "source_brep_sha256": "d3a57a6b39121894bea2f8b85ba0aab18b66ab593707a5119c31047da49573c4"
+    },
+    {
+      "key": "v13_mount_left__native_microfacet_2",
+      "source_native_part": "v13_mount_left",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Sherpa Mini R2 mounting screw ISO 7380 M3x16 \u00b7 left",
+      "source_brep_sha256": "d3a57a6b39121894bea2f8b85ba0aab18b66ab593707a5119c31047da49573c4"
+    },
+    {
+      "key": "v13_mount_left__native_microfacet_3",
+      "source_native_part": "v13_mount_left",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Sherpa Mini R2 mounting screw ISO 7380 M3x16 \u00b7 left",
+      "source_brep_sha256": "d3a57a6b39121894bea2f8b85ba0aab18b66ab593707a5119c31047da49573c4"
+    },
+    {
+      "key": "v13_mount_left__native_microfacet_4",
+      "source_native_part": "v13_mount_left",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Sherpa Mini R2 mounting screw ISO 7380 M3x16 \u00b7 left",
+      "source_brep_sha256": "d3a57a6b39121894bea2f8b85ba0aab18b66ab593707a5119c31047da49573c4"
+    },
+    {
+      "key": "v13_mount_left__native_microfacet_5",
+      "source_native_part": "v13_mount_left",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Sherpa Mini R2 mounting screw ISO 7380 M3x16 \u00b7 left",
+      "source_brep_sha256": "d3a57a6b39121894bea2f8b85ba0aab18b66ab593707a5119c31047da49573c4"
+    },
+    {
+      "key": "v13_mount_left__native_microfacet_6",
+      "source_native_part": "v13_mount_left",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Sherpa Mini R2 mounting screw ISO 7380 M3x16 \u00b7 left",
+      "source_brep_sha256": "d3a57a6b39121894bea2f8b85ba0aab18b66ab593707a5119c31047da49573c4"
+    },
+    {
+      "key": "v13_mount_left__native_microfacet_7",
+      "source_native_part": "v13_mount_left",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Sherpa Mini R2 mounting screw ISO 7380 M3x16 \u00b7 left",
+      "source_brep_sha256": "d3a57a6b39121894bea2f8b85ba0aab18b66ab593707a5119c31047da49573c4"
+    },
+    {
+      "key": "v13_mount_right",
+      "source_native_part": "v13_mount_right",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Sherpa Mini R2 mounting screw ISO 7380 M3x16 \u00b7 right",
+      "source_brep_sha256": "56c4dbd0411409f4248efa47afd708e88c792cf00b902cff25a991021d1bad22"
+    },
+    {
+      "key": "v13_mount_right__native_microfacet_0",
+      "source_native_part": "v13_mount_right",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Sherpa Mini R2 mounting screw ISO 7380 M3x16 \u00b7 right",
+      "source_brep_sha256": "56c4dbd0411409f4248efa47afd708e88c792cf00b902cff25a991021d1bad22"
+    },
+    {
+      "key": "v13_mount_right__native_microfacet_1",
+      "source_native_part": "v13_mount_right",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Sherpa Mini R2 mounting screw ISO 7380 M3x16 \u00b7 right",
+      "source_brep_sha256": "56c4dbd0411409f4248efa47afd708e88c792cf00b902cff25a991021d1bad22"
+    },
+    {
+      "key": "v13_mount_right__native_microfacet_2",
+      "source_native_part": "v13_mount_right",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Sherpa Mini R2 mounting screw ISO 7380 M3x16 \u00b7 right",
+      "source_brep_sha256": "56c4dbd0411409f4248efa47afd708e88c792cf00b902cff25a991021d1bad22"
+    },
+    {
+      "key": "v13_mount_right__native_microfacet_3",
+      "source_native_part": "v13_mount_right",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Sherpa Mini R2 mounting screw ISO 7380 M3x16 \u00b7 right",
+      "source_brep_sha256": "56c4dbd0411409f4248efa47afd708e88c792cf00b902cff25a991021d1bad22"
+    },
+    {
+      "key": "v13_mount_right__native_microfacet_4",
+      "source_native_part": "v13_mount_right",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Sherpa Mini R2 mounting screw ISO 7380 M3x16 \u00b7 right",
+      "source_brep_sha256": "56c4dbd0411409f4248efa47afd708e88c792cf00b902cff25a991021d1bad22"
+    },
+    {
+      "key": "v13_mount_right__native_microfacet_5",
+      "source_native_part": "v13_mount_right",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Sherpa Mini R2 mounting screw ISO 7380 M3x16 \u00b7 right",
+      "source_brep_sha256": "56c4dbd0411409f4248efa47afd708e88c792cf00b902cff25a991021d1bad22"
+    },
+    {
+      "key": "v13_mount_right__native_microfacet_6",
+      "source_native_part": "v13_mount_right",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Sherpa Mini R2 mounting screw ISO 7380 M3x16 \u00b7 right",
+      "source_brep_sha256": "56c4dbd0411409f4248efa47afd708e88c792cf00b902cff25a991021d1bad22"
+    },
+    {
+      "key": "v13_mount_right__native_microfacet_7",
+      "source_native_part": "v13_mount_right",
+      "component": "hardware",
+      "appearance_role": null,
+      "name": "Sherpa Mini R2 mounting screw ISO 7380 M3x16 \u00b7 right",
+      "source_brep_sha256": "56c4dbd0411409f4248efa47afd708e88c792cf00b902cff25a991021d1bad22"
+    },
+    {
+      "key": "actual_retained_Trident_block",
+      "source_native_part": "actual_retained_Trident_block",
+      "component": "actual_retained_rail_block",
+      "appearance_role": null,
+      "name": "Actual retained Trident block",
+      "source_brep_sha256": "3e2ff4d6c4bf1dfa9d92b0535a27733b837637c6df7834b50739bd1ba5feedd0"
+    }
+  ],
+  "source_native_part_count": 105,
+  "current_native_manifest_sha256": "2c8dba337bf4edcdff828d972b3164b5d5c69012c3edee121bc948d0ac16079f",
+  "decoded_model_sha256": "ff8557d93e9d3803b3e4ba2729d6fb947c4134c2e84098a653069ce337d2fcfb",
+  "native_single_sided": true,
+  "rigid_pose_corrections_sha256": "2abffbdc3b885726cc89fbcb4f4128a68aad504e38ac358e45061a963117006f",
+  "alpha_reference_scope": true,
+  "internal_functional_unresolved": 18,
+  "native_chord_qualified": false
+}

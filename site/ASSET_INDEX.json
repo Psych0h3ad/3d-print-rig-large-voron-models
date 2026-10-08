@@ -350,6 +350,164 @@
       "path": "requested-mods-v1/requested_mod_681594_head_source_preview_v5/model.glb.gz",
       "bytes": 35280182,
       "sha256": "580405adc65bf4ac24a3cb7f25059d59bb2ae6d9c775236f4457638c6494167a"
+    },
+    "trinity-lossless-v1/assembly.gltf.json": {
+      "path": "trinity-lossless-v1/assembly.gltf.json",
+      "bytes": 397919,
+      "sha256": "113042331ab75ccecc6d0f4604f238da59b6826df4f23ced10403638758e5dc1"
+    },
+    "trinity-lossless-v1/chunk-000.glb.gz": {
+      "path": "trinity-lossless-v1/chunk-000.glb.gz",
+      "bytes": 9657602,
+      "sha256": "fd9ff05a5c902bce610d151945cefccd88f4a8bc4856f9d0222aa85129653b81",
+      "encoding": "gzip",
+      "decoded_bytes": 33308504,
+      "decoded_sha256": "971dc31876f34a04b885d1719d8dcd44bd8bd13fbd3dafe6d8bd2ac08ee71b40"
+    },
+    "trinity-lossless-v1/chunk-001.glb.gz": {
+      "path": "trinity-lossless-v1/chunk-001.glb.gz",
+      "bytes": 9888377,
+      "sha256": "dcc32c8af8f2241ecf783f3361f1f0311bfc1f89c3f96cfa3fdb615857437147",
+      "encoding": "gzip",
+      "decoded_bytes": 33305776,
+      "decoded_sha256": "b7651b4b599a2ce8a9a44c06fe6e1b8032f1f05ee3ae133cca353098c70cc33d"
+    },
+    "trinity-lossless-v1/chunk-002.glb.gz": {
+      "path": "trinity-lossless-v1/chunk-002.glb.gz",
+      "bytes": 9673089,
+      "sha256": "8fd08862e85afb78d79cb397706f4d493c1a6440376e9535eb4b47aa6c781696",
+      "encoding": "gzip",
+      "decoded_bytes": 33310384,
+      "decoded_sha256": "05b7955bd76a5a1ac0c7c8ba73091d746a4e2be8a52eb3431e065d89d2f78673"
+    },
+    "trinity-lossless-v1/chunk-003.glb.gz": {
+      "path": "trinity-lossless-v1/chunk-003.glb.gz",
+      "bytes": 10036754,
+      "sha256": "e1fc737778db2b7637cbc98319acbf2d5bd1178003f3b4b82df7d0c955986cd8",
+      "encoding": "gzip",
+      "decoded_bytes": 33294076,
+      "decoded_sha256": "cb11e26646f218b254d23fb9ac6fce0f264ee863459cc474de8c444b5c5f9b04"
+    },
+    "trinity-lossless-v1/chunk-004.glb.gz": {
+      "path": "trinity-lossless-v1/chunk-004.glb.gz",
+      "bytes": 11042283,
+      "sha256": "d12932819cbd53fe815e0a76fbb164a8367bce56b44f1d633e0932cb518fca9b",
+      "encoding": "gzip",
+      "decoded_bytes": 33293044,
+      "decoded_sha256": "68e9027e31b358e94d83468203613f9168a7314c176a03e9cfd946508d53e8c8"
+    },
+    "trinity-lossless-v1/chunk-005.glb.gz": {
+      "path": "trinity-lossless-v1/chunk-005.glb.gz",
+      "bytes": 9658497,
+      "sha256": "c366b40c2ee4e85cd574546a80d3c6e909fd08c61e8085f00c38de4176e483f7",
+      "encoding": "gzip",
+      "decoded_bytes": 33307740,
+      "decoded_sha256": "592cd341669a51a01c396d5dd587655c4ae8f2257605914b20b86c587c119366"
+    },
+    "trinity-lossless-v1/chunk-006.glb.gz": {
+      "path": "trinity-lossless-v1/chunk-006.glb.gz",
+      "bytes": 9462123,
+      "sha256": "16e226277ed15426aee7a71eb28a5fa7c033faac83ac0cd1bc6d3f85f08ec165",
+      "encoding": "gzip",
+      "decoded_bytes": 33293024,
+      "decoded_sha256": "36769f025148ffcd2341447e25cfe28af46097414b3da765343ea822eae6ad3c"
+    },
+    "trinity-lossless-v1/chunk-007.glb.gz": {
+      "path": "trinity-lossless-v1/chunk-007.glb.gz",
+      "bytes": 8643901,
+      "sha256": "6be23422de982bc584374e461da6366799a6826ff4f9d433bdf007d3af25179f",
+      "encoding": "gzip",
+      "decoded_bytes": 33296588,
+      "decoded_sha256": "2dce0bd41896bd12b38b309c7ea1179e0729e88d2d2e91de2d12672ce1d2aad0"
+    },
+    "trinity-lossless-v1/chunk-008.glb.gz": {
+      "path": "trinity-lossless-v1/chunk-008.glb.gz",
+      "bytes": 9560496,
+      "sha256": "a3058e16c3d45fe3e0959e2a16665fa1ab830f0ca24e71b0da5228d8f82f50cf",
+      "encoding": "gzip",
+      "decoded_bytes": 33292968,
+      "decoded_sha256": "c626262d09cf28679781f7eaf85bda370daaa6726c0046a031a7d9876d4a1826"
+    },
+    "trinity-lossless-v1/chunk-009.glb.gz": {
+      "path": "trinity-lossless-v1/chunk-009.glb.gz",
+      "bytes": 9704399,
+      "sha256": "e4760db842e05dd013ba93acd330dbc061466e1688594fd97f4ba116d889ddb4",
+      "encoding": "gzip",
+      "decoded_bytes": 33314364,
+      "decoded_sha256": "398e7f74d6dfb4b832eca2c7532dfdc3c0e8e5e7bec9f202ddda0e7e9f825b60"
+    },
+    "trinity-lossless-v1/chunk-010.glb.gz": {
+      "path": "trinity-lossless-v1/chunk-010.glb.gz",
+      "bytes": 6929903,
+      "sha256": "0d0b5eaa4287835dc1daa4dd923b54e41ebfb8e594c4d3ac3a44ca013aa452c8",
+      "encoding": "gzip",
+      "decoded_bytes": 20921652,
+      "decoded_sha256": "5a09dee9c4cdf56c3c1c33806b79eae20a762691ee77693fae21f9fb59d835b7"
+    },
+    "trinity-lossless-v1/licenses/Annex-Engineering/LICENSE.md": {
+      "path": "trinity-lossless-v1/licenses/Annex-Engineering/LICENSE.md",
+      "bytes": 10984,
+      "sha256": "3a1f5e6d1dce247a8a0e748c13afdea997718298929f08975359eef7f699e7e7"
+    },
+    "trinity-lossless-v1/licenses/corresponding-source/README.txt": {
+      "path": "trinity-lossless-v1/licenses/corresponding-source/README.txt",
+      "bytes": 1154,
+      "sha256": "467a5c9e1a00cb9c309e6fcbec28439fba4729b9d7ac0df2817029a28be1cef0"
+    },
+    "trinity-lossless-v1/licenses/corresponding-source/repack.py": {
+      "path": "trinity-lossless-v1/licenses/corresponding-source/repack.py",
+      "bytes": 10709,
+      "sha256": "a9956261bbd6b0dd51a5e1d5870c93d406702e9f7ec51f6b5fb336812effe15a"
+    },
+    "trinity-lossless-v1/licenses/corresponding-source/requirements.txt": {
+      "path": "trinity-lossless-v1/licenses/corresponding-source/requirements.txt",
+      "bytes": 14,
+      "sha256": "26d58e42cca83c41d14253ddd5bc33ec22da6c2a3b40fcc93914eff5e0c5ed34"
+    },
+    "trinity-lossless-v1/licenses/DW-Tas/LICENSE": {
+      "path": "trinity-lossless-v1/licenses/DW-Tas/LICENSE",
+      "bytes": 20848,
+      "sha256": "9e502ba75fd0fd30cea5497b438a4bc12f07f02bc932a7a6041fd6a18b8f46a0"
+    },
+    "trinity-lossless-v1/licenses/Martin-Ivanc/LICENSE": {
+      "path": "trinity-lossless-v1/licenses/Martin-Ivanc/LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "trinity-lossless-v1/licenses/NOTICE.txt": {
+      "path": "trinity-lossless-v1/licenses/NOTICE.txt",
+      "bytes": 1521,
+      "sha256": "5b826da7251208c3b4cefdfad277bfbeecef91e276511a027ad6c4f35823fd05"
+    },
+    "trinity-lossless-v1/licenses/provenance.json": {
+      "path": "trinity-lossless-v1/licenses/provenance.json",
+      "bytes": 4150,
+      "sha256": "aa278001f06626bfcb18325d466c93ee163398c3e9536a7f6020dfea1d50796f"
+    },
+    "trinity-lossless-v1/licenses/WV-design/LICENSE": {
+      "path": "trinity-lossless-v1/licenses/WV-design/LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "trinity-lossless-v1/manifest.json": {
+      "path": "trinity-lossless-v1/manifest.json",
+      "bytes": 162346,
+      "sha256": "dbf5c775152ee435ed074529077fb5a570c27a458184ff454b903b56d7419cdb"
+    },
+    "trinity-lossless-v1/parts.json": {
+      "path": "trinity-lossless-v1/parts.json",
+      "bytes": 64472,
+      "sha256": "17f8f08a671a7fdcf2f5ab5bff1ab8b77c05c8a010d37a381fa1f4ba2bd72b80"
+    },
+    "trinity-lossless-v1/proof.json": {
+      "path": "trinity-lossless-v1/proof.json",
+      "bytes": 145568,
+      "sha256": "7978bc4173f2713d7923410a5d3919d95b599c5b234f513007d6e7393badad84"
+    },
+    "trinity-lossless-v1/reassembly-prefix.bin": {
+      "path": "trinity-lossless-v1/reassembly-prefix.bin",
+      "bytes": 213316,
+      "sha256": "38a185ce82aa02bfd445eccfd54423564d66c062c0461c47c9b5872ca016316e"
     }
   }
 }

@@ -1,0 +1,17 @@
+Trinity / Crossbow lossless storage derivative
+
+https://github.com/Martin-Ivanc/Trinity-Crossbow-Cutter @ 231a16281d6d34b1b3b0ee8b65ae0b4f00fde7e7
+GPL-3.0; see licenses/Martin-Ivanc/LICENSE.
+https://github.com/WV-design/Trinity-toolhead @ d17a5c9fad6f21fd4a3a9869d498656b4b03d1dc
+GPL-3.0; see licenses/WV-design/LICENSE.
+https://github.com/DW-Tas/Crossbow-Filament-Cutter @ 5395af65bed8c26566069b7009b9a7f8b7a05bb5
+CC BY-NC-SA 4.0; see licenses/DW-Tas/LICENSE.
+https://github.com/Annex-Engineering/Sherpa_Mini-Extruder @ e95e98dcb83f523c33f022acfd5be4893082ae3c
+ANNEX ENGINEERING HARDWARE AND SOFTWARE EULA; see licenses/Annex-Engineering/LICENSE.md.
+
+Embedded manufacturer geometry retains its original authors and terms. No CAD relicensing is implied.
+This derivative preserves original source bodies, source identities, native relationships, transforms, material values and triangles.
+It changes exact vertex/index storage and delivery boundaries only. No normal quantization, decimation, omitted bodies or replacement hardware is used.
+The original alpha reference scope remains unchanged: full internal function, complete machine clearance, homing, wiring, belt operation, manufacturing meshes and physical operation are not qualified.
+Editable corresponding native solids and prior printed derivative notices remain available at the URLs and hashes in provenance.json.
+The exact storage recipe is supplied under GPL-3.0-only in corresponding-source/repack.py. Separate CAD terms remain applicable.

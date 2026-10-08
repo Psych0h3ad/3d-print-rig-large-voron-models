@@ -1,0 +1,4808 @@
+{
+  "schema": "trinity-lossless-equality-v1",
+  "manifest_sha256": "dbf5c775152ee435ed074529077fb5a570c27a458184ff454b903b56d7419cdb",
+  "source_decoded_sha256": "ff8557d93e9d3803b3e4ba2729d6fb947c4134c2e84098a653069ce337d2fcfb",
+  "reassembled_decoded_sha256": "f2478be82bef8b1f767a09320e4310c3c426df9246b45ed97992c8e903f6fde2",
+  "reassembled_decoded_bytes": 354048088,
+  "delivery": {
+    "schema": "trinity98-lossless-accessor-chunks-v1",
+    "chunks": 11,
+    "accessor_packets": 492,
+    "accessors": 482,
+    "largest_decoded_chunk_bytes": 33314364,
+    "max_decoded_chunk_bytes": 33554432,
+    "compressed_total_bytes": 104257424,
+    "offset_contract": {
+      "source_binary_byte_offset": "Byte offset in the final repacked GLB BIN, not in the chunk BIN.",
+      "destination_equation": "assembly.bufferViews[assembly.accessors[destination_accessor].bufferView].byteOffset + assembly.accessors[destination_accessor].byteOffset(default 0) + first_element * elementBytes",
+      "source_range": "chunk_accessor selects the chunk-local accessor and its local bufferView.",
+      "preserved_offsets": "Every assembly accessor, bufferView and BIN offset matches the byte-reassembled repacked GLB. The original source accessor storage layout changes during exact repacking.",
+      "all_ranges_exactly_once_no_gaps_or_overlaps": true
+    }
+  },
+  "preserved": {
+    "node_identities": 205,
+    "source_native_identities": 105,
+    "serialized_gltf_mesh_records": 205,
+    "material_primitives": 206,
+    "expected_rendered_Mesh_objects": 206,
+    "materials": 106,
+    "triangles": 4976842,
+    "nodes_matrices_names_extras_scenes_materials_exact": true,
+    "all_position_normal_triangle_corner_bits_equal": true,
+    "max_position_difference_mm": 0.0,
+    "max_normal_component_difference": 0.0,
+    "triangle_order_winding_and_material_partition_exact": true,
+    "original_native_relationships_preserved": true,
+    "original_part_metadata_values_unchanged": true
+  },
+  "native_identities": [
+    {
+      "id": "actual_retained_Trident_block",
+      "source_brep_sha256": "3e2ff4d6c4bf1dfa9d92b0535a27733b837637c6df7834b50739bd1ba5feedd0"
+    },
+    {
+      "id": "v13_0",
+      "source_brep_sha256": "331eeb320e8497b874844c02bbcb14b73f461afb924289840d8d00df4eb5f0e8"
+    },
+    {
+      "id": "v13_1",
+      "source_brep_sha256": "86738f2c60d6a35e62224c43c981112e6cbd100daa1c470ef8cb0c49f4385075"
+    },
+    {
+      "id": "v13_10",
+      "source_brep_sha256": "66efc44e4ae3d2e07ddc9412786e0f5ec50571c3bc275d71a452c03da572dfba"
+    },
+    {
+      "id": "v13_11",
+      "source_brep_sha256": "1172b53674520bb7cb9db00355b764bfc50e0e8234fb2583a2bd7ea9d745d5e8"
+    },
+    {
+      "id": "v13_12",
+      "source_brep_sha256": "7c532f503ebc67373a210584f98209d90063b432d256e60848ed7da196d2ce3c"
+    },
+    {
+      "id": "v13_13",
+      "source_brep_sha256": "995d8a5e209765b01602d535f8a8a6f7430b5861b023d435b5a730abc6c0b197"
+    },
+    {
+      "id": "v13_14",
+      "source_brep_sha256": "eb6d4e4984216fdb376f800ae1ee9fb3f6df64f28fa9a7fdccb47f4e85d3637b"
+    },
+    {
+      "id": "v13_15",
+      "source_brep_sha256": "c23b4a00d836af59262ec1c1bb86838884e19e1338fea03677ec9649bcd4cb6d"
+    },
+    {
+      "id": "v13_16",
+      "source_brep_sha256": "6d5a66fe2e1be1c1e8ee96bee7dff88ed8177c10d7b5e92a5850f643fa218c32"
+    },
+    {
+      "id": "v13_17",
+      "source_brep_sha256": "69e55c02d5a5336d293c3ee1e2adf549bd595f0a4d37ed344380c3d65b5fa52d"
+    },
+    {
+      "id": "v13_18",
+      "source_brep_sha256": "0ed9a295d68236c228e8c3e989d51936023d2feccf5e518454d2639747072e90"
+    },
+    {
+      "id": "v13_19",
+      "source_brep_sha256": "2501a84a216234d0a6be868d502594c5b44ffe340838a73e9df5440f4f37c54a"
+    },
+    {
+      "id": "v13_2",
+      "source_brep_sha256": "8d1348dc7dfbdafe6b6fec256800f41011415d531ad07ad141275929f808258b"
+    },
+    {
+      "id": "v13_20",
+      "source_brep_sha256": "a18085b388a76bc4f8f907a27c2ab85b72fb2002e7777a1248b743b6a98ee49d"
+    },
+    {
+      "id": "v13_21",
+      "source_brep_sha256": "6d4ffcfaf8d7bdb8fcd51d50d68d1b53c5b0659cf267cd718ea31996f22c17a3"
+    },
+    {
+      "id": "v13_22",
+      "source_brep_sha256": "5d057f84b94867a2fe4811509d2ecf0ff5b44b1777d171229ee10f739c17fdac"
+    },
+    {
+      "id": "v13_23",
+      "source_brep_sha256": "9cdfe9aee779c5b22c937f660f1989cdfd0b35360ee290347545cd7436cc463a"
+    },
+    {
+      "id": "v13_24",
+      "source_brep_sha256": "e80bf37d959d9af507417baa85bada964609cf4598f7a5959df9745990885c2d"
+    },
+    {
+      "id": "v13_25",
+      "source_brep_sha256": "8fa48d4392ee8ad0010a8cfc1f590cab0c8bd1d4669fada6a21c6dce6f3eabb1"
+    },
+    {
+      "id": "v13_26",
+      "source_brep_sha256": "6f52d9cf729585a5efe7d43089d01921b180392924d2267ce018f61bd264ba49"
+    },
+    {
+      "id": "v13_27",
+      "source_brep_sha256": "bce012e468df503801872c92adbd893656b867a62aa233d3f5163822743f6818"
+    },
+    {
+      "id": "v13_28",
+      "source_brep_sha256": "e992e537e8a59c24c6544a56229f5ad24efc3ed6ee2bf72ac6dccb01c35d7b6a"
+    },
+    {
+      "id": "v13_29",
+      "source_brep_sha256": "7fddc2c0ff68826acccd8031a464735ad8b6395c66b60c9385853b6bec9d13e5"
+    },
+    {
+      "id": "v13_3",
+      "source_brep_sha256": "75b73799b4cb0fcb53308be82c17978065004cf2bde23f3f5c49c64ecb7dc595"
+    },
+    {
+      "id": "v13_30",
+      "source_brep_sha256": "fab959592b6b7c59794d8078f0e2f739dacff7921b1c0110d81c2097b5b31885"
+    },
+    {
+      "id": "v13_32",
+      "source_brep_sha256": "a468fa55f3bdc2565faff63ed50c80b0063f2dafe2465993fb4986ad4f628b57"
+    },
+    {
+      "id": "v13_34",
+      "source_brep_sha256": "6b139a7025e0b9c3078709c7441cc364ceb86f0cc22cf54881e6211ae99dec74"
+    },
+    {
+      "id": "v13_35",
+      "source_brep_sha256": "e9c6ea73b7d3ce4f4e43cde88a26e6ba9931fcc55888857c7d28c40f3c97efc3"
+    },
+    {
+      "id": "v13_36",
+      "source_brep_sha256": "6126b9a1db2d20ed9e96013f0bdb2b8b59fcb875dc87b9869c3ceba898630ccb"
+    },
+    {
+      "id": "v13_37",
+      "source_brep_sha256": "183a7a0dcbd2fe6f95e9f460b1f9618b855a51e63e620b01e72e95cf586d6221"
+    },
+    {
+      "id": "v13_38",
+      "source_brep_sha256": "84d8805cdf09b8036e4feab6199ae837ff70011b50dc4902f842ad91cdbc33d7"
+    },
+    {
+      "id": "v13_39",
+      "source_brep_sha256": "5382ab331e361357cd6b8c1b606da3ff4646df471e0e0333aa9dc7c4a067a197"
+    },
+    {
+      "id": "v13_4",
+      "source_brep_sha256": "7d1584fe5ae8d475aef96b1a7130f915edb353f66cd6a47ab73d9f35abb85b0b"
+    },
+    {
+      "id": "v13_40",
+      "source_brep_sha256": "6a481684471b96ffeee443b21ca207d13f1d49af4cc32de355c436778e2adfcf"
+    },
+    {
+      "id": "v13_41",
+      "source_brep_sha256": "1752ce3745d225dc8c983dd1081b9cc1d6d4541f245e83fc367e875f52d3639b"
+    },
+    {
+      "id": "v13_42",
+      "source_brep_sha256": "7332ed40a0e07aa9b56cdd8e0d2ae46ade9ba1c14690d76d7a9c67598a1b81f5"
+    },
+    {
+      "id": "v13_43",
+      "source_brep_sha256": "bf98c1eed47adda83f66b7d6d6a8502ab6ede0bd3b3072f3110c538e5a087d03"
+    },
+    {
+      "id": "v13_44",
+      "source_brep_sha256": "eb25663e193adeab4aad5990deea3e91ed8a07d36ee77d088fe1cf605721f146"
+    },
+    {
+      "id": "v13_45",
+      "source_brep_sha256": "1c6896f2ac0a22fa839825877733afe9a884006e44c0e9a50e1fcd2dbe204583"
+    },
+    {
+      "id": "v13_46",
+      "source_brep_sha256": "289204524e4fe546bb395bb644f328325362859aa35fd51a055582a65d9bd410"
+    },
+    {
+      "id": "v13_47",
+      "source_brep_sha256": "ed24c51ca3ff3f6758e18e0963a7943931537a0cc957e222c1c42862ab877260"
+    },
+    {
+      "id": "v13_48",
+      "source_brep_sha256": "2575f4751f392189c25b9a7e476f85cb548220dbb0c75aca2ffd91d377bde938"
+    },
+    {
+      "id": "v13_49",
+      "source_brep_sha256": "8f711403f6492b6d5ffaca752a20abca3a3a17b99a5e4acf93a9220306c41bcd"
+    },
+    {
+      "id": "v13_5",
+      "source_brep_sha256": "b119682f2e7eea788c4a6487b86069ac86991bb916c6364778b0ea2780286043"
+    },
+    {
+      "id": "v13_50",
+      "source_brep_sha256": "2d65e7bdc1f8100fcccfc51f6f71d71a96efb2e03ab1bfd0a2ea98ea6a56fbd8"
+    },
+    {
+      "id": "v13_51",
+      "source_brep_sha256": "af22d16d08a00a950446d2c14f4bc020b300e2b9be8cef5121f797b1d958c74b"
+    },
+    {
+      "id": "v13_52",
+      "source_brep_sha256": "3b3c3af1703031f33a26b506756edbda5426926182d3a30cb24d204dd2ff996b"
+    },
+    {
+      "id": "v13_53",
+      "source_brep_sha256": "fe678dcda36c04bbb4e39448a0ebbc58a0a993b425d713c72e87148c9a19d4ef"
+    },
+    {
+      "id": "v13_54",
+      "source_brep_sha256": "7c2e5e809212c9faa8ebb56d1c32ec2422bf3c06c7345ca99fce191ba7832102"
+    },
+    {
+      "id": "v13_55",
+      "source_brep_sha256": "2f77be9a4cef2efbf4206f346693f26154a0f7205fed45a55380c02267728711"
+    },
+    {
+      "id": "v13_56",
+      "source_brep_sha256": "ca00b7f44d7a904e099d83ac6fc69ac6c60e844ec0cf522808884dad3043f432"
+    },
+    {
+      "id": "v13_57",
+      "source_brep_sha256": "88ca2633734c374ec0cec66a16ab075d0efb458f603726f6198187d85f8696f7"
+    },
+    {
+      "id": "v13_58",
+      "source_brep_sha256": "f01f953e26d7d4b202602f8a4d5d52b5b134177dbcdebc7ca958ea7a093db55d"
+    },
+    {
+      "id": "v13_59",
+      "source_brep_sha256": "184c94108936efcb6a6c56ec6e03ba31bf8ae19acc89a37a8f50bea2f17767fd"
+    },
+    {
+      "id": "v13_6",
+      "source_brep_sha256": "47e585c5c41a5c0fa04259a9684c4d157c66ec4981413cc6e787592fff60e315"
+    },
+    {
+      "id": "v13_60",
+      "source_brep_sha256": "c46f99ff2fbcc3f111ab80cdf2a231b976445a31470bd89bb74d4ec4190160e2"
+    },
+    {
+      "id": "v13_61",
+      "source_brep_sha256": "f9c217f82d39b0d1ed51312b4466ef48975256d66b95fb07c8815b2a47205c62"
+    },
+    {
+      "id": "v13_62",
+      "source_brep_sha256": "f18e14ce2241187987de261e3885bf183c07539da76336a60b1ced912b25bfe0"
+    },
+    {
+      "id": "v13_63",
+      "source_brep_sha256": "efa9cd0d018b2f61c004eed8b55e57154d146a34a3c6505ef92ee11916e73816"
+    },
+    {
+      "id": "v13_64",
+      "source_brep_sha256": "7ba8b8397d59875aab168a7f12912565c2e114a2629d7dc4ec91091c1bb7bdf0"
+    },
+    {
+      "id": "v13_65",
+      "source_brep_sha256": "c81b8637c7ae9cf865baaf1b8f7d53524d10ed7d30f5a3dac87d44a48b8d9b00"
+    },
+    {
+      "id": "v13_66",
+      "source_brep_sha256": "74685acac0db795f7a1d71d6a5608a7f60fe3094da348610f83f5ea57a048000"
+    },
+    {
+      "id": "v13_67",
+      "source_brep_sha256": "7a997d9180f5a9cabe16b023f38c739aab7809de2f7bd146633676780ab3288f"
+    },
+    {
+      "id": "v13_68",
+      "source_brep_sha256": "9062c3a9c4c181750f3bad8b322c895779345bff3d9650423fd082d70dd1594b"
+    },
+    {
+      "id": "v13_69",
+      "source_brep_sha256": "bfb7fba184b78175fa0341b3f116ab890cf4396f73a8f26c7d6b42415662aa08"
+    },
+    {
+      "id": "v13_7",
+      "source_brep_sha256": "a603d662741c0b4a9822d753ab06ab3fb50522e23d2b65a70cb60393b040aa32"
+    },
+    {
+      "id": "v13_70",
+      "source_brep_sha256": "115c102e710b571ed8af8df33cd4039bf7d4654cea26645e355e9e942644e55f"
+    },
+    {
+      "id": "v13_71",
+      "source_brep_sha256": "87fb4c31585a397fab7b19d9aeea8e39ff5afb10675246fa9b48d23b8ff04aac"
+    },
+    {
+      "id": "v13_72",
+      "source_brep_sha256": "81e2ca7f64a3ea50f5e9dd987a47c3408065c8ea7893e21c4787982b599d4d34"
+    },
+    {
+      "id": "v13_73",
+      "source_brep_sha256": "a20e1b50e1011e3c57f21990e0327f8317660f8925ff3363c729ea33f0db571a"
+    },
+    {
+      "id": "v13_8",
+      "source_brep_sha256": "5e1acb2633f3529c7737462f88f7ee9e9de60c7cc004abd0ea87f1d727a823a1"
+    },
+    {
+      "id": "v13_9",
+      "source_brep_sha256": "e9a33f8f7ccfa7e69556cfb5338f173b2e50d53b4ba60bb8f27f369cbb79e211"
+    },
+    {
+      "id": "v13_mount_left",
+      "source_brep_sha256": "d3a57a6b39121894bea2f8b85ba0aab18b66ab593707a5119c31047da49573c4"
+    },
+    {
+      "id": "v13_mount_right",
+      "source_brep_sha256": "56c4dbd0411409f4248efa47afd708e88c792cf00b902cff25a991021d1bad22"
+    },
+    {
+      "id": "v13_sherpa_0",
+      "source_brep_sha256": "97600f30e05770809999a57da26bb67cb60f5fadb8d923250f68cf7b60a8d234"
+    },
+    {
+      "id": "v13_sherpa_1",
+      "source_brep_sha256": "2df7c80ee54df8bd2240cedab1209cc123fcdb2561719a787f59162347b50bdc"
+    },
+    {
+      "id": "v13_sherpa_10",
+      "source_brep_sha256": "486d3b03e0d1d0e2210265d2a17d9b58b5e815c25daad1fd5239ef0afbdfc7e7"
+    },
+    {
+      "id": "v13_sherpa_11",
+      "source_brep_sha256": "71bd864cb9d52d764ba71248deeaf408879fe3baec7eb647d2a78bd2b2e946b5"
+    },
+    {
+      "id": "v13_sherpa_13",
+      "source_brep_sha256": "26fb68d064cbcc9414a448d4e4f7474403a6a0ed7d7036f5767decb0d7da33e9"
+    },
+    {
+      "id": "v13_sherpa_14",
+      "source_brep_sha256": "8a58ae0b915d1e6731c91595e650136d85df3f27c465acf2fc44e74b3fe338cc"
+    },
+    {
+      "id": "v13_sherpa_15",
+      "source_brep_sha256": "f42d3ecc2e58725f87d04860beee59f4e55b705f1b969b0b4652962aeb9f12ce"
+    },
+    {
+      "id": "v13_sherpa_16",
+      "source_brep_sha256": "d37f7318fd8601b549e1c11e0402e1c1d0d9055e96045e8ea4736cc95cb93699"
+    },
+    {
+      "id": "v13_sherpa_17",
+      "source_brep_sha256": "ce9aea9095d2f84b50bc6d91bc0476043445937b8ad643eb7f68e61a82c87a7a"
+    },
+    {
+      "id": "v13_sherpa_18",
+      "source_brep_sha256": "7c839a13788bdcad1e77dc916f4738142c966b47c9988bbb677811c17165736f"
+    },
+    {
+      "id": "v13_sherpa_19",
+      "source_brep_sha256": "cb0d2ae763627fecc3252e20bf0bf0a50890f22c9f428b3b5856745a8760f257"
+    },
+    {
+      "id": "v13_sherpa_2",
+      "source_brep_sha256": "0bb4b286f814c272bb626c130e7f0881f03f2afd358f9880597d7d877ac02a4b"
+    },
+    {
+      "id": "v13_sherpa_20",
+      "source_brep_sha256": "746271383353200bfc2660103ebf823afe1cf71c9940489b012ff76976c68c4b"
+    },
+    {
+      "id": "v13_sherpa_21",
+      "source_brep_sha256": "9c0ed25190d5ba878b6b537684d3d858b95878fa78fc7ec28f4b110198ad8902"
+    },
+    {
+      "id": "v13_sherpa_22",
+      "source_brep_sha256": "5e68e097b18c6cfa898a2512eeab9f500da5ada6593bd20cf0d2bed6c1a214a0"
+    },
+    {
+      "id": "v13_sherpa_23",
+      "source_brep_sha256": "9d61e80b7d9848917f0796bcf5732fe35ebc9c3ede63b61bd6fea2798e61dbf7"
+    },
+    {
+      "id": "v13_sherpa_24",
+      "source_brep_sha256": "59a273528a68fa91aee270d89178a4604187dd9c812c7156e10f5ae80a06b687"
+    },
+    {
+      "id": "v13_sherpa_25",
+      "source_brep_sha256": "97fef40a4c4142e1ded79af884b55d460e67e6219f868d380b72ef462064ee55"
+    },
+    {
+      "id": "v13_sherpa_26",
+      "source_brep_sha256": "ec13cc400137335a39e8086e8b6d9ac88c4299c53dce186e75426900d17d6631"
+    },
+    {
+      "id": "v13_sherpa_27",
+      "source_brep_sha256": "b999bd0b6eb46c00fd5fc6c08e27117694f813292e3c37fdb584959180192556"
+    },
+    {
+      "id": "v13_sherpa_28",
+      "source_brep_sha256": "c8e7f12924dab6f05aa56ce7a8acc06ab817ef0031eb4f29f8eea4abf4eb4a4f"
+    },
+    {
+      "id": "v13_sherpa_29",
+      "source_brep_sha256": "ead466a93e9a81dd3ff889e5959e6d80effe7ee8a4ad2f47e75917a69707b072"
+    },
+    {
+      "id": "v13_sherpa_3",
+      "source_brep_sha256": "1e4dd24a2636292762624e839a4e402e93bdba187c2624aa0a8e10e5f75f01a9"
+    },
+    {
+      "id": "v13_sherpa_30",
+      "source_brep_sha256": "57cf778b2a4a6c0b35017fa9e898e7ff0167b19f09449ff094b490204a894317"
+    },
+    {
+      "id": "v13_sherpa_31",
+      "source_brep_sha256": "0687916bf50c5f9ab19d96a3ef12720d3c99c1b51ed52fe004b497a8cca06ed6"
+    },
+    {
+      "id": "v13_sherpa_4",
+      "source_brep_sha256": "1d58f7f451c5447ec19397c41d8797f65ab146b320cc211d8ab771a18664d276"
+    },
+    {
+      "id": "v13_sherpa_5",
+      "source_brep_sha256": "bd5089d381fdf369f3257532e3ae65b0ec6b1a2552fbdaca606d0424ce360c1b"
+    },
+    {
+      "id": "v13_sherpa_6",
+      "source_brep_sha256": "98268d2a44b99fb35d6591786643da4708e905ad31a0e9dd1ef03c6f2fcd87e6"
+    },
+    {
+      "id": "v13_sherpa_7",
+      "source_brep_sha256": "3766e60bed2ae0e4b529ef9f9845e6b32f42ebbeaff80eedcf01cc52a59475e0"
+    },
+    {
+      "id": "v13_sherpa_8",
+      "source_brep_sha256": "e6311c87c60e0acfc8b679781b519b883fbe7f6a77c5bfca874d4761f68c43c2"
+    }
+  ],
+  "primitive_equality": [
+    {
+      "mesh": 0,
+      "primitive": 0,
+      "name": "v13_0",
+      "material": 0,
+      "triangles": 9580,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "eddf3d4fd2779d0855d9d51268128da256158c928fffc44d1178543eb2e080b3",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "c68caa9a20f3244f750391bc684d059332b71908f96356c4a49afa9b6be67591",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 1,
+      "primitive": 0,
+      "name": "v13_1",
+      "material": 1,
+      "triangles": 856,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "0c3ee945efe8e09670fe79b2cdda66bbd463d4aa3af1138289844d757654c54e",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "7f342e4602b44dc51d16b0215a30a4ed46a50496696b97f64eda9c11c4e3dd36",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 2,
+      "primitive": 0,
+      "name": "v13_2",
+      "material": 2,
+      "triangles": 21936,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "e787f146cbd4291097876dff00f257b900363a3b580eed1d60261cedc30070c1",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "e9e0101cfb30e89269566481fa5f7c61b4ea94787037dc6eab44e367867d851c",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 3,
+      "primitive": 0,
+      "name": "v13_3",
+      "material": 3,
+      "triangles": 12712,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "8011ed78ef3d200f4c6a46d31fcad443a418b7ff3e75c01051a5df187d8dc205",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "7f01737405dbfc73b36f688a7e16d4aa8e459fada650d18503f4c48d8a7abe72",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 4,
+      "primitive": 0,
+      "name": "v13_4",
+      "material": 4,
+      "triangles": 73166,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "d50a4c52b221cd0236d9c1639951bd01541b057d43bf5921ffc9084930bc6741",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "8fd6d509443fb2d4bb60a6acbb45c02930d6255480121cb01bafa850c15c33e9",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 5,
+      "primitive": 0,
+      "name": "v13_5",
+      "material": 5,
+      "triangles": 1004,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "3160c048865593f4a68dcf0c35a4daa53a961b4f761ce8d95fae75bb9aecba22",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "f541ebb3d4ee9dc1fd99329690bce11ce806d6868f1c65bb8b49c86a91edbd3a",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 6,
+      "primitive": 0,
+      "name": "v13_6",
+      "material": 6,
+      "triangles": 20154,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "31756a8025050715e8f82eae84cdce6a0c61ebe504ba726e7ddc436cd1c3d517",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "b6e66162d61ce9c099f9df3185d38c7e0d0b5223c18a2a62ac4ecca5f32073a6",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 7,
+      "primitive": 0,
+      "name": "v13_7",
+      "material": 7,
+      "triangles": 40700,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "a7dd08cb7e0e981ceacc5970e440f589899e1d72b82abbab7c6734c3bb40f6ac",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "f0740737824fae48ca21a3dd7b8ddd911d03cb4c825c3b9bb98834ea00f6aa70",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 8,
+      "primitive": 0,
+      "name": "v13_8",
+      "material": 8,
+      "triangles": 1004,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "258c0480e26c26aa0239346d29cb48d0c8b27e3a5e94c24f1937cd7e7b5223a0",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "021a0973d19d7868a6ca7b8cc45851c81b05ef8701b0c746db25f68f7108ad7b",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 9,
+      "primitive": 0,
+      "name": "v13_9",
+      "material": 9,
+      "triangles": 1004,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "c2bddc51c621f68dd5a95719d851b40ae65353f0d60bbbabfbb45acba2211bad",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "516b92da48225ca510da1f1f12e0a77ad08b3f6a60b7c3a2c1cf641c3afc0938",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 10,
+      "primitive": 0,
+      "name": "v13_10",
+      "material": 10,
+      "triangles": 1004,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "3160c048865593f4a68dcf0c35a4daa53a961b4f761ce8d95fae75bb9aecba22",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "f541ebb3d4ee9dc1fd99329690bce11ce806d6868f1c65bb8b49c86a91edbd3a",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 11,
+      "primitive": 0,
+      "name": "v13_11",
+      "material": 11,
+      "triangles": 2446,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "3365cdcd9edf922efabc8f1ad4e4da8f0f574324f6b75cf965e70c4b7901a695",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "dc8166428e6d022e57eb488608b9abe867502f054889cc3aa3c67ee84321c845",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 12,
+      "primitive": 0,
+      "name": "v13_12",
+      "material": 12,
+      "triangles": 2446,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "497125ca5b67b8c42feb2bbca05158f57593cd124e4abff352155c3c54449d9f",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "66036ca98e479f08a055b4bd487e8f263d1eff6becd7857e3d40587470cc950b",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 13,
+      "primitive": 0,
+      "name": "v13_13",
+      "material": 13,
+      "triangles": 2448,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "90def84ad2588b21b51301882d822a365b1fb3c20984d50d0c044d7979bdf436",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "c4800f1f6b7601671ec779d90f03d71e31f05fb8e75afb31b47ccca858f6f515",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 14,
+      "primitive": 0,
+      "name": "v13_14",
+      "material": 14,
+      "triangles": 189536,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "d32dfd9dd2012da722888a1f8b4bc30a956fa8e2b45700ffbe206b8505346f27",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "adc54c5b5749902404d0349971abd28ee719b52843531e503e0e0ecf8601025c",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 15,
+      "primitive": 0,
+      "name": "v13_14__native_microfacet_0",
+      "material": 14,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "c37a0991811dc941bbe9283ebe1acc0a745298ff61ae44f0c8e1350170bc2724",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "93ffbfc491203a5042ce8729e8bde71460b23b81ce1c3b71292976bcdb6a42bd",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 16,
+      "primitive": 0,
+      "name": "v13_14__native_microfacet_1",
+      "material": 14,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "c0d9d16c2459e6822d8af31ff4d3c477a98de2b484a0c359d7f856450e82e889",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "971561bcd2df0996c569a47588b61f35c223ef9f673875c24cf07fa9e9d54c1b",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 17,
+      "primitive": 0,
+      "name": "v13_14__native_microfacet_2",
+      "material": 14,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "65ada946e1e41c369192b05ccccf80c0ec752e8df24cc3abda653a739fa8b54a",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "93ffbfc491203a5042ce8729e8bde71460b23b81ce1c3b71292976bcdb6a42bd",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 18,
+      "primitive": 0,
+      "name": "v13_14__native_microfacet_3",
+      "material": 14,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "21e22b964c386f7c4477eee42357f3659d84b60a1cce6acda66e559b35a0b7b9",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "942a853685d363b3deebe1e491a1a6c7ccc3e849c367782b684c584ee858dd93",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 19,
+      "primitive": 0,
+      "name": "v13_14__native_microfacet_4",
+      "material": 14,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "e3061d02eab29f21ea388087a3d4d2c73eb7f133c6605ed2f9fbcdd5146d8ff2",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "58d56133fd82af9105461be3054aabb28c5e5527ea5a00a58fee90d2b80a217d",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 20,
+      "primitive": 0,
+      "name": "v13_14__native_microfacet_5",
+      "material": 14,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "eff27b1c72cea6fcce48a8dc054dc480f1bd0c71b921beaef54d4cfdc0f82e56",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "fb0aedc42be84eee197006476223a0a5700b99829f74e4f7b3102900a289e156",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 21,
+      "primitive": 0,
+      "name": "v13_14__native_microfacet_6",
+      "material": 14,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "492d1463cb81063619840f42ab93df31a905212cdad7932b2bf2f39eca850385",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "03cee76bab628af04e5ec5536f5d944d7f8b8fa17de6c0c6ac25720ba86bdcb3",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 22,
+      "primitive": 0,
+      "name": "v13_14__native_microfacet_7",
+      "material": 14,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "cb0271f49e3f67692b1cf10fe054bace94a15100ba882ea86ced9bb576c99427",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "46e7272db0bd1421974c7280db983bcb60a695d2e7e84fd47963891e3d530fb4",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 23,
+      "primitive": 0,
+      "name": "v13_14__native_microfacet_8",
+      "material": 14,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "e3cd399c3269d9a424f3d6a76970e21e68f165e5944514b8bae5556620984290",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "222cfec944f040d6487e4ccf10c4666e87491dab0840412642973a3569954e11",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 24,
+      "primitive": 0,
+      "name": "v13_14__native_microfacet_9",
+      "material": 14,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "5e54822b1b940aa8c391e6ccc1763bcfccb6620f6eefc46777c96a1583a2d869",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "395b2318d0e306dc4e4c0f4dc658964dcd007c785b4e437d4687876068001521",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 25,
+      "primitive": 0,
+      "name": "v13_14__native_microfacet_10",
+      "material": 14,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "bd45342786be72cd658a8e450e44b970c7348c0267429508f199161efe6a5b95",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "b937ba1f9c077277c64afce5804a5296616a0fa60ab2190b328976e920b807b6",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 26,
+      "primitive": 0,
+      "name": "v13_14__native_microfacet_11",
+      "material": 14,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "5a238c56ceeb98db37750d6c4e036a16be4f42ccb3c2e114ae026748a48060b0",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "201ed5e80dbdaee83f4a5eabca59a1e1f2c5cc14fd8c225558869f04013c8f91",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 27,
+      "primitive": 0,
+      "name": "v13_14__native_microfacet_12",
+      "material": 14,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "2982e8b07777fb354955647817c8ccdd2ef14a5d8bfa35d14b8cf2770c5f4c54",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "8eec28beec780306f192672515796f68998ce075f37ad61c48f6d453b5e7be5d",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 28,
+      "primitive": 0,
+      "name": "v13_14__native_microfacet_13",
+      "material": 14,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "374cf83b3a596d770de1d7faecbecb19f945f00e6a98d8b407a05dbcb38f5e9d",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "3d5186b0a4dab5f8cf9fb1d9246aa825b9d15fdd939168ae0eca0159df5383aa",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 29,
+      "primitive": 0,
+      "name": "v13_15",
+      "material": 15,
+      "triangles": 20112,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "22a4fb96b3e1ada273a308d39e7ecf84956363d311ccf7981e51616fc6050c40",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "9d97b21e63a79b48feec99f73ab285a0184c42d75b9d969b9af2eb6c607e770b",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 30,
+      "primitive": 0,
+      "name": "v13_16",
+      "material": 16,
+      "triangles": 5316,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "2f11a659e566528a0f32f1c943287e7d92431eec34b29bc905d1cefd1871f312",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "e69080528bf1acef694e4a07ce188a48b594dd9c3b653cbba486dc567177633d",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 31,
+      "primitive": 0,
+      "name": "v13_17",
+      "material": 17,
+      "triangles": 20006,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "27154309b566be24687b94b7d796c3dab5afc5b3b80771295db283cdb115f506",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "3fba362270ae50bc31048a6b0a380fd2f0e46bb897802be0da55f28beef70bda",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 32,
+      "primitive": 0,
+      "name": "v13_18",
+      "material": 18,
+      "triangles": 48766,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "428c02e10383e0d153538774faeb3406abb4f8e1a95eb94b932a58bf57c5fd42",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "fb609e2f59e19bba70a9d4fd4bd93abad83cee00fba7d10a03d08e092bbc569f",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 33,
+      "primitive": 0,
+      "name": "v13_19",
+      "material": 19,
+      "triangles": 25904,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "ad7990e3875abdc44a76b90628f226ed5c5902c84a92fc508ebbb6216df4acaa",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "0437ff6c7805b51de08101be5bb108fd21a44ee90c6a92cfbbf62dce68d27492",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 34,
+      "primitive": 0,
+      "name": "v13_20",
+      "material": 20,
+      "triangles": 1028,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "89d20caec563ad8a43277969b47744a2c9f4c709f1401d5d5319792e281b0a41",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "12f518341be6b2756fcc3554224a5d228b2af162b673c98fe0d776c2263284b8",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 35,
+      "primitive": 0,
+      "name": "v13_21",
+      "material": 21,
+      "triangles": 2734,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "5099c809fb010a2ed463b8c1f5c28ad52dee4004d54169b25b8acf63ca81641c",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "8c8e1c7a1de6e5ecd2b890c3b0ab46394ff7b5eb84a5c0088204f5a98733015f",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 36,
+      "primitive": 0,
+      "name": "v13_22",
+      "material": 22,
+      "triangles": 1028,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "70ca212f81e9f6efc4cbd218fddbfffbc911c95ee64e9d251e3ff9d220f65d34",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "64462137f6ec071d33602704ffad9e465b6c8984dce241918db0b65e3622f6c3",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 37,
+      "primitive": 0,
+      "name": "v13_23",
+      "material": 23,
+      "triangles": 2734,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "dcb69b3660442421a36d5e317d32e46320fa507d50e5ec45c5f3558dd10ff60d",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "c499fc7fff1d73c1f5a565b6e39779bc51c150af57c99932633e59225d592581",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 38,
+      "primitive": 0,
+      "name": "v13_24",
+      "material": 24,
+      "triangles": 1028,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "7c6e4f891be8e78f176aa3b5735b8100eb34a6d46b30e53ea51948deab4a147e",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "16877b35c487c8e39fef996034f4c7d48e1d7f118475788afac020d1a0394f82",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 39,
+      "primitive": 0,
+      "name": "v13_25",
+      "material": 25,
+      "triangles": 2736,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "eff0825283bdfc465fd47c0ecf9810573aeca1e2ff11be4f55698cbdb4ae1557",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "f2ea0d27cd354af7013ea6ea63d2cbd96bd9d519a51245333f19d02598c7be45",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 40,
+      "primitive": 0,
+      "name": "v13_26",
+      "material": 26,
+      "triangles": 366138,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "8d9969c1ba25e5e7b5a65748e64f0cdf1e009f4a4654ecb91acd450d2a19e9b8",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "dfc636622161f6ec6af7e3a45928bc9f261d95a0a9446dca321d8b6bcebd6f8a",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 41,
+      "primitive": 0,
+      "name": "v13_27",
+      "material": 27,
+      "triangles": 2734,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "08896863d8b93457fcb53a0767d9171879e8ae32b62188ee66c4dc06dc0b8e80",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "3b2e8fd5a48d69edd07d053681e3db0e507eb7bd7adf60e1cb89abe1accfb2d8",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 42,
+      "primitive": 0,
+      "name": "v13_28",
+      "material": 28,
+      "triangles": 5124,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "2f008fad8a8cfc9c14bfc801e674485a80ce1d2b41aea6e1fee358f04afce815",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "0ebf4a8c12c58d073a13830066411e95d508c455bd9fe5abc24bb9575a88f678",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 43,
+      "primitive": 0,
+      "name": "v13_29",
+      "material": 29,
+      "triangles": 508,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "e7efb42b0e2788c8c160a91e7510cd0b1699d21680329e79aa6afdef5fcf8049",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "c774540fd9c17206c505080175b539be2d5a1ac6e82cfcc882141c6f1abdc3c2",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 44,
+      "primitive": 0,
+      "name": "v13_30",
+      "material": 30,
+      "triangles": 520,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "8b8c82c9543d9c63b3269e657dc82cb29d994e65b68ea3b198e27daa8ddc2a5c",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "548488dd07f8c981f3610fda8f4b7d1a3869a467a53048fcf5559de29473fbca",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 45,
+      "primitive": 0,
+      "name": "v13_32",
+      "material": 31,
+      "triangles": 80,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "c9c8a67ff07db423fa299af8a067e5d318043a91736daf5c97343a77e3832464",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "4a4c840e262c95943ce1a6c92394115fad9a5de3c4d71f79a3c0dce06260a61f",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 46,
+      "primitive": 0,
+      "name": "v13_34",
+      "material": 32,
+      "triangles": 12442,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "a878610ae9d7e26efd6f378b17fc308b004825884f1f8c057441bf8227991c21",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "8abc1e8e09b2c4547e539a0b3f6e30c8f954ca68fbb6775fd97f9a98f3e2275f",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 47,
+      "primitive": 0,
+      "name": "v13_35",
+      "material": 33,
+      "triangles": 5774,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "e0abe32cdf1bbadaf2e7f805cfc65aae45d620a5847ff51246b8e22401f05857",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "919d4ee528879989043c449807d41c16c9bb9c68403f5dbde953b37c7f6b8e27",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 48,
+      "primitive": 0,
+      "name": "v13_36",
+      "material": 34,
+      "triangles": 2750,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "474fd8d600002bcdeb6e53b33ab904db823d0c1a0e7768f5b8bc4133dbbf870b",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "4294b07533b9dbb9a1743731c228a662a881065071d4d56066674653fe04d78f",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 49,
+      "primitive": 0,
+      "name": "v13_37",
+      "material": 35,
+      "triangles": 23734,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "4afa69fe4e0de670dedb3ae41455b799a1175a62e07e6e77340391e7c9462eaf",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "8a1391605099f82d2d1efb14de6961e3831cccc809c63ce3b093a6b133e3c60f",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 50,
+      "primitive": 0,
+      "name": "v13_38",
+      "material": 36,
+      "triangles": 1658,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "0f122c9f1e056d61140a894fa4589022e80f7c06ac45d7d2688b3ed01a695631",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "31c7580c77d552751d06eb2d618794cfbb7a5c2460706caea29ec9071518dfa6",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 51,
+      "primitive": 0,
+      "name": "v13_39",
+      "material": 37,
+      "triangles": 20,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "2bf551d31857c7b80a1b68153842cd17fd1d3ecfd2b55a438ad5b2d8de2c627e",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "3d66af2a93022701192ffd18980e30042babe743afc5b746f1caf0d8b0909b4c",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 52,
+      "primitive": 0,
+      "name": "v13_40",
+      "material": 38,
+      "triangles": 6444,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "7816995806a5bc04261319d3680daef92aed8c37bb6c53b458d9732dbca45001",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "aaaf0abb70aaa45e2b5b5efd6b0199122d6b234ea8aeef690368f4fcf6aab0fc",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 53,
+      "primitive": 0,
+      "name": "v13_41",
+      "material": 39,
+      "triangles": 2750,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "0a9beec925cbf91949d72ef194d6d8a7151440dadf0cb666ebb3c1431ef5215f",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "06e185dd56471d19ce442d18c9d2cb3293bffef34a2deba0f12f9fd16ddf31fd",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 54,
+      "primitive": 0,
+      "name": "v13_42",
+      "material": 40,
+      "triangles": 2068,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "a0c29199247a88dc3dc4b5d31bc56a353ee068360e470efde3925c8e7545339a",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "ac96e52cadb77679b42299a6f014e746d485dec3cb1e859d101429a22c508c98",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 55,
+      "primitive": 0,
+      "name": "v13_43",
+      "material": 41,
+      "triangles": 1008,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "9aa2d56cd4722cf83d0c3563d9d70a33bda6015428d169358c3eff64ee4cabf8",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "fb1015a89198a671bb023181780574d751a4b3e70833d6345919dbd8dce8d6ce",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 56,
+      "primitive": 0,
+      "name": "v13_44",
+      "material": 42,
+      "triangles": 1008,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "30a7ada2ddb58615f04e03291cab2360c67017a47800f2df9ac0f9dc5192a75b",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "a1b3c2d96f17a83cdb63134d2861a646aff6a03f7ee4b4014385ddc352dd7aba",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 57,
+      "primitive": 0,
+      "name": "v13_45",
+      "material": 43,
+      "triangles": 11500,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "4b92e2a101dce3b2a5f67d657a328c349e6ee3b89115a71795eb75694029445d",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "5881efc0381882624c7d0796080aceb0668db7e73653f7eb1a2ea5477193bae0",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 58,
+      "primitive": 0,
+      "name": "v13_46",
+      "material": 44,
+      "triangles": 9580,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "5a4c0b7fc90a0696b8d88ba59ff5855eccc42b9e085ed9d9664a5cfbadb5dcc6",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "c85d3f60aca0ef7dd9d9963e370979c377348a59048fab4f808b42b8d35b8b3e",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 59,
+      "primitive": 0,
+      "name": "v13_47",
+      "material": 45,
+      "triangles": 856,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "a166a84bdc3fca5f5b1d45d4ae919e2f8a012310a041d7612fb95b52ac3e6f1d",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "a1d34b2407d9b8597b3eeecc1480568fa4c5f8eca25f816afed9177639f3415a",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 60,
+      "primitive": 0,
+      "name": "v13_48",
+      "material": 46,
+      "triangles": 1028,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "91d0cca98c781aba626548306d0cb8f0e40eddfb7967b75b4f913c3c89cacf74",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "96f9c96642fcd3a5fbde2a1191a9bd41cd0fedf258a4b77883fd6c1686498e46",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 61,
+      "primitive": 0,
+      "name": "v13_49",
+      "material": 47,
+      "triangles": 1028,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "563dc4c5cf2082dc23b1bf33baa0ab58c78b29923221ea1133b41917b97dbd79",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "da9ca9b9a38ef15a7f1dba7d0f653aafc4302f7e5482dd1bb60ede2fc91a4615",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 62,
+      "primitive": 0,
+      "name": "v13_50",
+      "material": 48,
+      "triangles": 1028,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "ac47bb2c24439eadbda2ea4dc534f4b364da3730804d7d526bf00d3be278dde6",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "f9527ae8f944551729f115b15f6cfd59cb9bc29217beaef5a7da8985ca299732",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 63,
+      "primitive": 0,
+      "name": "v13_51",
+      "material": 49,
+      "triangles": 6786,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "159f3377c8287568eff0883cdc640be5bbbf5ba14026b4c2072da5780a8585d2",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "a2536a494b34a07ff15b9c9a63bcee41fc23a26dd6c4fb6d6b91738df156179c",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 64,
+      "primitive": 0,
+      "name": "v13_52",
+      "material": 50,
+      "triangles": 6786,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "3bae7efca040a82d77af3f134eb04657f94a89020ed2bb24847cf40ca2317a88",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "23431aa3180bb6767308d2988d5e8d887b5300eda55a65b13eed7880da8814d3",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 65,
+      "primitive": 0,
+      "name": "v13_53",
+      "material": 51,
+      "triangles": 2734,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "3bea8a30ad6f3cc871c12d26a0b3acaec7a255786319f7342a24219b4f04a74c",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "b701d8baac4ddb2c48674c811d504cd560dcc29ba95a5f706d3057cad94aac3a",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 66,
+      "primitive": 0,
+      "name": "v13_54",
+      "material": 52,
+      "triangles": 1008,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "a24dce3c5034779086e2b788e906be2d5f7d12c90f13c8e5de277d76b27f4523",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "6bee889145de4d2b63aafb9a499ce84d67cbb62f36cec8af6f78c4b185cdde85",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 67,
+      "primitive": 0,
+      "name": "v13_55",
+      "material": 53,
+      "triangles": 1008,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "991a9b8ee9e26120eb8409d2c8068a714754a511e0b3cb69c2ac48e574d1214d",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "ab036258e88852b9e1e80983aaf127c0f71ca03acbc89308dab084ab6308b85d",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 68,
+      "primitive": 0,
+      "name": "v13_56",
+      "material": 54,
+      "triangles": 1008,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "df6ce1098f39942b04ee9a6df0086a21d258642f7283dc27ed638864ce1d482f",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "f2b5ae48acb434fcf27522d39374e68440ec3c651e53390e573a603df2f70e1d",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 69,
+      "primitive": 0,
+      "name": "v13_57",
+      "material": 55,
+      "triangles": 1008,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "4a46f624a57fbac220f8e69bf5aac22eebf5d030b9cccc21d8593bcfa7acb54f",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "a5c495ed69ef05595043f01ad6d435cfb4f68f8eb0956a7a4cbb9996c6938ffb",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 70,
+      "primitive": 0,
+      "name": "v13_58",
+      "material": 56,
+      "triangles": 1008,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "6762c064fd8a605eede8e38c7e08271e8b7e208f2f4b6f0f2a719a2d4823daef",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "ae822b99ca7ef165c7e1d07f7b53105c48eceb5dd5cac67ca66588c28755578c",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 71,
+      "primitive": 0,
+      "name": "v13_59",
+      "material": 57,
+      "triangles": 1008,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "93527a467a05f015e6616534ef0383f47e26af3ecab1152be29af93ee49c14b2",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "3c1ce446f0e38d72f9dd34bb38ad8ae07d1d831a6de20df99402379ff348e7f5",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 72,
+      "primitive": 0,
+      "name": "v13_60",
+      "material": 58,
+      "triangles": 1028,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "8c6861df9f1791a63ebd8382ff8249af604788152267147c025ca8cf4b28c472",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "b102cdceddfbe14e531076a530515643f8680933c9612c62a31dc1a635bd88cf",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 73,
+      "primitive": 0,
+      "name": "v13_61",
+      "material": 59,
+      "triangles": 2734,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "da5e15e7837e4ac90fa7994579134034cd2c2601cec7945506d4c3e6a83779db",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "94e2d0b75f87c050da94f1b1bae12f4bed2cf1baeed70d059cb0bf5b7ede8185",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 74,
+      "primitive": 0,
+      "name": "v13_62",
+      "material": 60,
+      "triangles": 1028,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "641840ade1aee3b303cc7d956685b6c59edda85c3248e02a9ada05740a9b26c2",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "7a91e1d3cb488dc33901f8751d45915f06d51e214dbdcf7269d5f259820c61e3",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 75,
+      "primitive": 0,
+      "name": "v13_63",
+      "material": 61,
+      "triangles": 1028,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "ef47e935d2b9f05d4ff4303f4387857acb524ff11beeb5f80dcf900fedc6d384",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "dd70328425c08e37143e9b9c6184b80454de73ab8eae7c91f0ef027b7d2ce0cb",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 76,
+      "primitive": 0,
+      "name": "v13_64",
+      "material": 62,
+      "triangles": 1028,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "e3f30daaee41188f0de1b36fdf7ff1faa5218e3d53e7e79ea7d40e64422e9d90",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "f6b68e84dfad76f7bb857f1799ee2e90c13884799b70e645d618bb09a3d3f82f",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 77,
+      "primitive": 0,
+      "name": "v13_65",
+      "material": 63,
+      "triangles": 2736,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "f8f7c32a8a227d130506b13e7869961e2180a69ff1934ed14c2a8fd92c5663b2",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "9af64db6ec633e29201ca135905d7123e57311120b50250f160f00f02713db98",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 78,
+      "primitive": 0,
+      "name": "v13_66",
+      "material": 64,
+      "triangles": 2736,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "5e415b85d3cf967781ecc5dcef69c87611306f3ead0b785547669cbfabd12d25",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "f13b63b106a46fd27c6a40e7c831071f494f3659f1d5f8f43b199150b1d7d688",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 79,
+      "primitive": 0,
+      "name": "v13_67",
+      "material": 65,
+      "triangles": 2736,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "6cb2b027dbece05bb185aa120d2c40f6e097ac13884bf3c8574fd7f1fce6185c",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "15a934077e1b3faa4adce29317adb75a3da0a446df412852d73c8ab03ed30d92",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 80,
+      "primitive": 0,
+      "name": "v13_68",
+      "material": 66,
+      "triangles": 2734,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "0a7d7cd447d5ff67bafc054ee351dcd7cca380bdd36ba15681ca7f250b40d2a8",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "bc192e426edba7cafbf8d5ada8b7630ce777a7689f972569d2aa808aa7b7cc06",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 81,
+      "primitive": 0,
+      "name": "v13_69",
+      "material": 67,
+      "triangles": 5124,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "4abedfe6fc36ae7a8c81275e75465901aafd174efdc402478f28b74ee4c6b95b",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "35daf94f4012cc48973d7700a60e10444125d60239edbb0bf3b4729958699075",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 82,
+      "primitive": 0,
+      "name": "v13_70",
+      "material": 68,
+      "triangles": 520,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "e3e56d40be78c5eb4cd397274b671055e24c5760eb238773930a9e7e0ff78638",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "822793b9df16f99298b5e7cb2ec3c21665f541d7794f15b8a4e1279276a365dd",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 83,
+      "primitive": 0,
+      "name": "v13_71",
+      "material": 69,
+      "triangles": 508,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "bfb85a6f90b4dbfb05b00f3d3c4d04861f20912258e3167edbb60c5de192e7ec",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "0a68fc8476d6ba03b9396e5883b3ab8f3accedf5a2d200d4684686f8cd21dcb6",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 84,
+      "primitive": 0,
+      "name": "v13_72",
+      "material": 70,
+      "triangles": 508,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "131135bbf5a0433ff4a08651183a04cccce3df23f34ba39813f2f8a69b833c23",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "cef9d8f39e78832e89b875ce67905caabb2dbf8fe194eb63b4c31a9630397774",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 85,
+      "primitive": 0,
+      "name": "v13_73",
+      "material": 71,
+      "triangles": 508,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "6c8a35378669038385b4430bb9b00317749806caea14adfeeabc354d511e7937",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "3b2771a897df7a4987196aa7a87fc645f1bb976684c2a961255e806fd9f66b0b",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 86,
+      "primitive": 0,
+      "name": "v13_sherpa_0",
+      "material": 72,
+      "triangles": 7446,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "87f66cd86d24b599b115923768ffea18b20a4bca1d2db8017c26977c82358e14",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "335829246d562f2bf191fa618beba5916fe89158af06505b6ec1c5e85afddca6",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 87,
+      "primitive": 0,
+      "name": "v13_sherpa_1",
+      "material": 73,
+      "triangles": 2016,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "5a450a14a220902119888dda558f6f724c93bad16d1f63919730daaa76befefc",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "59b7aa9ec01dbb7b8f554c7824a9df2836ce04442077068433bf6a097118a951",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 88,
+      "primitive": 0,
+      "name": "v13_sherpa_2",
+      "material": 74,
+      "triangles": 20762,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "cae01c482b28762a8985810314d7d7fbc0eb89baafab0962ee1d3ee18c331203",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "14ae844776c66f6ca6897408183de8b4a0fd7957b4a04e7a047aa834f5b7383c",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 89,
+      "primitive": 0,
+      "name": "v13_sherpa_3",
+      "material": 75,
+      "triangles": 516948,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "befacee09e53f827a2dc92c4bc2ffe091759dc7da43df2fa10929d765782f77b",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "78d0d627eceaac43f62fbbfdf50f9bf7fe8cfed474b5044d706acdd1499e6055",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 90,
+      "primitive": 0,
+      "name": "v13_sherpa_4",
+      "material": 76,
+      "triangles": 4788,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "310fd4fc1bb75827845238aec12dda3e6f0e1e0dbe1fbbcbcc1759546ac5e96a",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "e755f998b4f8955e26fd90ec123d1272ce0a667565c9f267cadf02fe3513f88f",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 91,
+      "primitive": 0,
+      "name": "v13_sherpa_5",
+      "material": 77,
+      "triangles": 4788,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "b584607befd48bfc2c1fc5732af3516cf9dc121c42a25d1d171ab91cc03417e9",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "be034c982c1a06c01289e1699d9719770ad5a8c3561212a0899828d8c146a946",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 92,
+      "primitive": 0,
+      "name": "v13_sherpa_6",
+      "material": 78,
+      "triangles": 931504,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "f190fa911a55bc561c79d642c02de83666eff9c688b1c9664f1a72340387e172",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "dfaa5949853e69fdfb9b2fcd43d6f3fe24cab98f05fad9640fd4bc653e20b23a",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 93,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_0",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "f23e9026b369fccd59dfa64ff4dac44e0fc1f25c61723dcb49ce96810efcd8f2",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "323e1cc7e3e7b370ede069fb9e32e05a92004a201416aeae00ee2878862873f1",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 94,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_1",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "0d55948e683e50294e5327c6ec55a75368835f1c30f89593e3c2197bc8a7e0d5",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "d79889c80fe58187ce31e6db63b2b2c4e952eb69439999222e6e0d0898ae6f94",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 95,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_2",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "f21150b18bfed5ba74ba29020d4a00d6d48c3ec65615f9516f124e05ad56aa52",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "10ef7118a35c1a1eed0a116c353be1e7e129d46fe83e725e956b74fb631a0d34",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 96,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_3",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "b57e6a0e6af68fe5b29d09510307eb7244b6de4e9c9089aff357baf9b341c164",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "085e37dacee45d8e59e1eb8f9f31f370a215b4dfbd051b267561cc2f4df10bd1",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 97,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_4",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "1f8ef0c3376dcaefe8e60132a8f6ab371cae5ab18dabeacbde20dcdb7cd478e4",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "f10698c9816d2f51136df78dcd75f8b479f4eb8ad04edcfa50039761c4ef5020",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 98,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_5",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "6491062f0c37da3aab013495fc3ba651b2a688d3b2a2cd2c272cf97913274080",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "063dcf0cf84ebdcc4f459d29e56a69bfcd24cc58c7e055a319f6ffdd3582a829",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 99,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_6",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "c34c0e9c4ca53e1902fb4497b77cf445ec27ad9bde9e1919f16269d93dfe388d",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "5c62c154e159e6feeedf70183abc80f2727e2823af19ece5b4203e647affd0b6",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 100,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_7",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "ef5d304a9b5233e0e7a7061990b418a0866c41f3dc75f97d4409b04bf943097d",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "c75248a7d3e0f34e7250cdb1fdd4822d2be9fc7fbaabe92773950ec4b99ae5c0",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 101,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_8",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "714de9a2886aedbb20e4b9dda9f7f8856dc896454a08c31ca44ca75f5b3a337d",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "7e2932499686ae0dfa8a5a06ba6efc2ab6fb3662b4a6b629711cb8c19d1ac2ac",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 102,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_9",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "d9ddcc9ec300135d38808db67ef1f206f8fd32665b7c756551bc70191d0a2fe3",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "3d6219a86f30bffe7c5dfb520cf1ae54f1bfb82b9ca190b25e7073856cbb6068",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 103,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_10",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "0cd366ec6775222388cdda70e77cf51873843a648c3614ddb80d5713c93fd8f9",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "b9250a64860691baa43280a5a3fb86ead7bb5273e8672cd312585680f49a2d59",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 104,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_11",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "0d553d3d6e697bcef99fde6bb22696d1394d6c1bf2af633df87329c18a330259",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "042f19e078711887e1901e6d700d256ed2c1549e67a8747ca4d4ce9f233b8d0e",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 105,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_12",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "18bf50c5102b16cd3ff3ba8f760a20fb16695103b85a548f9dee69df9d9ed095",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "bc27411c105fc89c973c34c9611f018c6d3c89490e33ef11da8f0efc79c75ccc",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 106,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_13",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "bfbb4083d967a7ab86c43c259bffcc0bd4952b8ea744ef5e2e5ad27cd49a3509",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "64a28008c6c73e71f57b7ccea56a247c524ce5b71a63a9b8156f34968cadc7dd",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 107,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_14",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "a3019e75944d2bdb0dc761344da17cb29490d59402a4c680e2bc2bd0d1bbdc0f",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "29dbc5113a313b3eafb0e985b2cc0c676e55366be35d0fda5c3e2402106723dd",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 108,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_15",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "798a5185fd2af7f1eab2ac8cec5c73c0ff0765148c90592cd51aa4b40f86438f",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "d33af7aeab70bb37ca35acfeb13bf2c940c13a03f833619ad1d107526459add4",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 109,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_16",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "9f4545658bec5093e254a26e1db96532daa8a0dd11299251b9fea97f55a70973",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "201ed5e80dbdaee83f4a5eabca59a1e1f2c5cc14fd8c225558869f04013c8f91",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 110,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_17",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "7ad5f5a02032532deb9338f828cab86665d669ce15dfc6b49de84393c840ad50",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "b2a380f21ca1f39da734f2c6ebfcaece1a533a8e645982e6b29020a519d8351a",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 111,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_18",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "61270547056daac411319db8157b3d2335fc0af85c5e2cf2015532056b306b30",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "00e6055fb6cd018b07566a9d7fbc93b1a79797b2aed2cd34af86358e9cc01c43",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 112,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_19",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "124999f188cd2cefdf0da3c7eacae43d834627a6481389827141490f1de1c004",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "60e3f0016d5b97a2a8066b9ac465303965b1ebf043a878f3da4589d612062167",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 113,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_20",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "f273da68c7eb9bd8a2a65541246148b4bc6367ef8e1e32ab8a651a1bc406cebb",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "13f6fe4d66a245eb8745218d289e4b43aaba127197f43734c7b6943c335d8502",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 114,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_21",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "35a9a6c58ee775a9c36171df2f1b410f62f216b7a3086217b7c00f054eb195be",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "7e2932499686ae0dfa8a5a06ba6efc2ab6fb3662b4a6b629711cb8c19d1ac2ac",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 115,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_22",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "7cde55337f6f2936f6b92c6ee31c24e3062bf57596a53976201a26eb2b1335c9",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "44a62ba27eb1b6da8e5dc36995347a7603a8dce30e6f5ee8ad2027ed78c78912",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 116,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_23",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "ebcc64fed911ca6b7b6390b966b562fe01ddac85a424172f8ef64bc7e75d893a",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "f413362156e07e779fdc3c72ee545ea032cafb826a8b03ab9bda3113e27bbcc3",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 117,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_24",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "0b95728834f3c6f1ec93288743fcf9383a532d9d276d935ae840a27e191903ed",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "16cdc54f730b0b2625a3d58b9e713bc2003deb9191220a68da207944c4c9dfac",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 118,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_25",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "798ddca66c5ef4db42a947ef0f555036e024f461ef885cfc75a46d8a6e1f0a95",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "201ed5e80dbdaee83f4a5eabca59a1e1f2c5cc14fd8c225558869f04013c8f91",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 119,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_26",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "f953857514a5af0875eb4f8f647b114993d8f5bc3b81fcca7c111fbed95553f3",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "e0a28cbd290d90404f25cd9163019acbf4143b4c89151cc1c04e7bbe7bdcc24f",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 120,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_27",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "612a5062ff14cc6f4be493db1ecd3ba16b87d90007c9b7b079fd6e132bc78d96",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "3f1d346f48dc588e0e63072381beca5eb0f9b2ef8e531e401e645f6b42f63159",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 121,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_28",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "ae238a65e8bf1d65237a11dcc3f8f15d14196dc8be0bdc522b5f61c52d374c5e",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "64a28008c6c73e71f57b7ccea56a247c524ce5b71a63a9b8156f34968cadc7dd",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 122,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_29",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "3d96d993dda17074d8a9280101096e998cab10fab6c279dc3252cf23f0e07df0",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "8eec28beec780306f192672515796f68998ce075f37ad61c48f6d453b5e7be5d",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 123,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_30",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "9342b065141c1d02337331eba0a4aa1da1e53b2329144b77e97f9049f04a2349",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "d79889c80fe58187ce31e6db63b2b2c4e952eb69439999222e6e0d0898ae6f94",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 124,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_31",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "b62db95f23db76669e10bdb171a03e2637077a3af52dcad4900fabb62e896d80",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "7604446620d3b2d3ae9574681ed362d2b073035970e1e0ac3814a534ef8d9212",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 125,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_32",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "25ecc0ded6a35652cfba4e58eb34b7900dae8536eca9365661f20fcbc14c2020",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "3a56f300f53062949a8728d9dfe967e612b93ce2da3ed11f46e23237130299ef",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 126,
+      "primitive": 0,
+      "name": "v13_sherpa_6__native_microfacet_33",
+      "material": 78,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "342c4f3276ce9069e5a024c87b1e9aae7f75dd311b70a0689c6fe7fb13fca4cf",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "93ffbfc491203a5042ce8729e8bde71460b23b81ce1c3b71292976bcdb6a42bd",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 127,
+      "primitive": 0,
+      "name": "v13_sherpa_7",
+      "material": 79,
+      "triangles": 852706,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "48c426e13036892491476207db830793eda9d5500362eedc60c234815329f681",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "384e326b8b2f510b13f6ac56c3f9d3042ab7028f7bdd92f20e70eb70f1da2a7b",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 128,
+      "primitive": 0,
+      "name": "v13_sherpa_7__native_microfacet_0",
+      "material": 79,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "84eebba25d9d03602c94625d16bbd0cd09eb4ae6d36312b017cd2853ccb58307",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "43186926f0d5a85bc51380dcf7508ddeb68f7af066c79b581e2d35ef3c3c8dee",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 129,
+      "primitive": 0,
+      "name": "v13_sherpa_7__native_microfacet_1",
+      "material": 79,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "2354eeea236afe966135af9465a9dab99fd4fab9e72dcb0879d842aff9e26b55",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "7ac7b11178c85f229aa686fbcbce334128dd9d9fde27eade934a63ab302f47e5",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 130,
+      "primitive": 0,
+      "name": "v13_sherpa_7__native_microfacet_2",
+      "material": 79,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "f2be50b6da5fa3b422689fced838b930f580b3fd0fcded9a91aacd31faf747cd",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "96e47510e679cfc8ac487efc4f439f7cb1c118c8f5150c2506972afa4242802a",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 131,
+      "primitive": 0,
+      "name": "v13_sherpa_7__native_microfacet_3",
+      "material": 79,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "6b8fb2b04ab5b17713d621595047fd1ca3185182aa24b4cb42833d871ff2d775",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "e882f0de27ba62deb17861df7b2808e39cf49d7776a56a9fb1c7811c40d65dd5",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 132,
+      "primitive": 0,
+      "name": "v13_sherpa_8",
+      "material": 80,
+      "triangles": 39730,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "b6114bc8b8be54d28fe75863a02a3b275d60c72bc85ee0a4cbcbef806a503eb7",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "5e1d0c1e5bd12da363ca4a7ee1f373d2eddbbc1b6e3ebf0833bda4f62f486ce7",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 133,
+      "primitive": 0,
+      "name": "v13_sherpa_10",
+      "material": 81,
+      "triangles": 163385,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "7f17401cde5419f0a3f453e2421c549d8447004e5eb927d4d2c609bca99a3c26",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "78b6f447050f128ffecd211b9dd385c24c7788b705420124887df9ec49909b83",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 134,
+      "primitive": 0,
+      "name": "v13_sherpa_11",
+      "material": 82,
+      "triangles": 167988,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "691129bc62bf26b5a7aed1b145ee60bbdd922a6addee24af7f164e207c9e8542",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "f69f3c20ac641430a0f92079d8b7d02373f030609c7f103f27b8c4194ed40121",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 135,
+      "primitive": 0,
+      "name": "v13_sherpa_13",
+      "material": 83,
+      "triangles": 1252,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "1c2986454a214ef7c95df4cee7ce58e64c012f01527a5b37e04fcac1a7b41876",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "0d33f8b66a8cb3a0582e60b286a3d65f3715fa77c7079e797a90ba66adca8d9d",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 136,
+      "primitive": 0,
+      "name": "v13_sherpa_14",
+      "material": 84,
+      "triangles": 517466,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "01ea3b7528d8bd811eaeec9ac9f70de40794ac497a5d533886be73de391ff250",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "1abfcedc88ceeb6967e673bb277e84328db674323e7b8fc183b09a0f758d6565",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 137,
+      "primitive": 0,
+      "name": "v13_sherpa_15",
+      "material": 85,
+      "triangles": 1252,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "8184e985941c171f9853f5aa43df1c77e1f796bf423316fd4ab7621994f0771b",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "aa3d1bb4dfd551350b40d3cfa79417efb4cc5c73956c8994d047beb3e3b26187",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 138,
+      "primitive": 0,
+      "name": "v13_sherpa_16",
+      "material": 86,
+      "triangles": 17494,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "2dcf1ac30f90d87ed027082473dc616f9ccfb90d76b9e2c150074de4b0586892",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "e6d75efd6e3c0536cdf0cd406f4a0daac0280532bc81d2c79ed962fecdcef9ab",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 139,
+      "primitive": 0,
+      "name": "v13_sherpa_17",
+      "material": 87,
+      "triangles": 17493,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "9f9dc38f79a6e0bbbc1e466db1ea3123f31fcfdb414f22292a8ebd541750ce93",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "6ede224793f6f622d55603ac5b6637dac3804cc66a214ed7e58fdd61b6f3cebd",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 140,
+      "primitive": 0,
+      "name": "v13_sherpa_18",
+      "material": 88,
+      "triangles": 11916,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "44b31f48d818324f1a17839a6410d6ea388810ba1029274a648e8f2da587915a",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "9674e23808e3e4c52218fb7341bc40a711af8eb1ddd42200062ae4b1cddb57f2",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 141,
+      "primitive": 0,
+      "name": "v13_sherpa_18__native_microfacet_0",
+      "material": 88,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "ad75a8b1e28156ad733a56bcea0a9a4c32051c34c930a9270b4b4397593cafd5",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "3149524fdf6f54f1a3f7352726e1c3d17f68dffe3c69a1c18da30ad9fb8c551d",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 142,
+      "primitive": 0,
+      "name": "v13_sherpa_18__native_microfacet_1",
+      "material": 88,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "eda1f68d89e930818a931ee17325cc5aefc5853a78614b730ae0f8c8c7bae6c3",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "58d56133fd82af9105461be3054aabb28c5e5527ea5a00a58fee90d2b80a217d",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 143,
+      "primitive": 0,
+      "name": "v13_sherpa_18__native_microfacet_2",
+      "material": 88,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "449ecb8041b7a62b79c062e1d610b865461e24e0a5b7d5ab1b90ac98e2aea719",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "9a77f218456243cb57042e2101ab688859eefcbb6a8ec277f930db58659e2220",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 144,
+      "primitive": 0,
+      "name": "v13_sherpa_18__native_microfacet_3",
+      "material": 88,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "3e03c2e0a25bd18630fb7b3fb429e645ce6f3f5ed454551a81ae1bdca1b00908",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "b22b2e1870b1d99660e480b6bca5bd7b4670f60312f3abd295203dbde59ac3ce",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 145,
+      "primitive": 0,
+      "name": "v13_sherpa_18__native_microfacet_4",
+      "material": 88,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "bfc8d95b25a7f80221a4f65d02a535701d81961f97ed92c9970f9cbb8deb4fad",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "cb766a5465886d5ee1a252d2992ee058ede6d93d27d12eaa7190a5709922b569",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 146,
+      "primitive": 0,
+      "name": "v13_sherpa_18__native_microfacet_5",
+      "material": 88,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "0bfcc4ee8164a4e9e7b81a8e31be489309b107c584a8107995066338b070b7fc",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "96e47510e679cfc8ac487efc4f439f7cb1c118c8f5150c2506972afa4242802a",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 147,
+      "primitive": 0,
+      "name": "v13_sherpa_18__native_microfacet_6",
+      "material": 88,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "3840a1abcef1696fdbe16fca8a60f8d5ff52da4901d1e0d0374fdf1315aae04e",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "32a7a9f13771f77685b56e05d5823ecc8d62ef8a346bce60b0d4dc0237652c01",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 148,
+      "primitive": 0,
+      "name": "v13_sherpa_18__native_microfacet_7",
+      "material": 88,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "5d40808757e5f54fd7f37b4b152b7940713c8ed2ece2702084e2d7f5704464c8",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "e0f1d070d268eff0b78d1d5a303e5c64e290fd129b458e4e5ab236487f684b9d",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 149,
+      "primitive": 0,
+      "name": "v13_sherpa_19",
+      "material": 89,
+      "triangles": 11916,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "83ee6ec03089a276763afcdba282f84eba3565374b791907d83ffb9115cb1178",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "a67f7ab182b46373fb8b85f9e295821b9c0c26a44353c94dc8c8f08a4c35231c",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 150,
+      "primitive": 0,
+      "name": "v13_sherpa_19__native_microfacet_0",
+      "material": 89,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "9c41cbc5a50119b1febc6366a4145b7792e70206ac2d9f223667dd0f5a355907",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "2ccb41fd9b113f0ffef3dadfd54a0713167d735ab39b39e9434cfb033f6341b3",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 151,
+      "primitive": 0,
+      "name": "v13_sherpa_19__native_microfacet_1",
+      "material": 89,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "4b0bfab5c6f2a05044875872108f04a96bdf50a427eec8a7c9064666e63f0809",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "b22b2e1870b1d99660e480b6bca5bd7b4670f60312f3abd295203dbde59ac3ce",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 152,
+      "primitive": 0,
+      "name": "v13_sherpa_19__native_microfacet_2",
+      "material": 89,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "ae71f4f17722ad0403dba2056b40ffe519ce1e953004094dd2d889ed084f281a",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "b950964a098887247f29376d4c8b06b5e2f73ac880a5a5d63b857e0b400e3ca6",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 153,
+      "primitive": 0,
+      "name": "v13_sherpa_19__native_microfacet_3",
+      "material": 89,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "b211db474130bd0b89cc519fb77eafb66ab576a086a01ae3529edb36abbc2133",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "54e0c1ff24e2c7ab1fce93fdec734fe188fab00c50485c8e485ee64760aebbb2",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 154,
+      "primitive": 0,
+      "name": "v13_sherpa_19__native_microfacet_4",
+      "material": 89,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "ddf738ffe66084c41f8068454fec15541ea01f03e062aabd13a331be60f81f81",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "91c1573d93d38802836c8708003884750aabdd23bc64ce3286472d1d6cfd76c5",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 155,
+      "primitive": 0,
+      "name": "v13_sherpa_19__native_microfacet_5",
+      "material": 89,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "eca6bdb058728db6ec5e3f1b3927c4d93576fcfd1ee0a39610a3d60dd841a41c",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "b342d09dfcc5a28a3fa2060a289a5c7d52e326f86e2fbea6db0bcbaeb287ce84",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 156,
+      "primitive": 0,
+      "name": "v13_sherpa_19__native_microfacet_6",
+      "material": 89,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "2cc91cfcb4f021a803c6312aa4d720377f7df0fa0c14f3e39ceaed20a7da0000",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "fd6bc9d9e07a96963c046eb3daa1ce63af0b6f147dc5998af1adce3ebe4dd7c2",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 157,
+      "primitive": 0,
+      "name": "v13_sherpa_19__native_microfacet_7",
+      "material": 89,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "fa2ec0b20b3a83912cf49087fce9fd379fb59424ca80a0f000d10fb4a78ef939",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "c83ddce7189c2ff08fc489e24c29345571b33d7ba095065f2d55d518faeaf815",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 158,
+      "primitive": 0,
+      "name": "v13_sherpa_20",
+      "material": 90,
+      "triangles": 11920,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "c6da2fe063bc371341dfe9ef8bd8d81cf53c5a9883755d40f1275ef89c252d89",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "38037c404e2e2de305da929b0e7d9bf264fd83d649ff8a98bd8cf4a2235d5f30",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 159,
+      "primitive": 0,
+      "name": "v13_sherpa_20__native_microfacet_0",
+      "material": 90,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "a0fb4af3ad21c4f35d267b3b37be53aa4314a3642a9e825faa9ef85453d5dc71",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "201ed5e80dbdaee83f4a5eabca59a1e1f2c5cc14fd8c225558869f04013c8f91",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 160,
+      "primitive": 0,
+      "name": "v13_sherpa_20__native_microfacet_1",
+      "material": 90,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "c509725b377aab670792b230f9275b1b05b93ec044ef03a1b8cb2abbbfa344f4",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "7e2932499686ae0dfa8a5a06ba6efc2ab6fb3662b4a6b629711cb8c19d1ac2ac",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 161,
+      "primitive": 0,
+      "name": "v13_sherpa_20__native_microfacet_2",
+      "material": 90,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "545e06e553a2b19164c5d8cfaded1ce813587296142a4258075b6c0393ef7ebe",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "58d56133fd82af9105461be3054aabb28c5e5527ea5a00a58fee90d2b80a217d",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 162,
+      "primitive": 0,
+      "name": "v13_sherpa_20__native_microfacet_3",
+      "material": 90,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "ad13993e2c5a3056b1bf552afe700e7916208bc9adf38cb7b91f84c755a0a277",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "93ffbfc491203a5042ce8729e8bde71460b23b81ce1c3b71292976bcdb6a42bd",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 163,
+      "primitive": 0,
+      "name": "v13_sherpa_21",
+      "material": 91,
+      "triangles": 11920,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "28d423e9507c13d2bfdfda74db2e81033c474ae13679f76bd75c382ff02e2465",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "1051c0b349a6904bda3f5623a552da6c4fc36db4a7264867b8a18d289700b112",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 164,
+      "primitive": 0,
+      "name": "v13_sherpa_21__native_microfacet_0",
+      "material": 91,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "e22fa7b99cf73aab4c7dcf7725f27b419672a0ed11e6681dd6d238d08c9b71e3",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "29dbc5113a313b3eafb0e985b2cc0c676e55366be35d0fda5c3e2402106723dd",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 165,
+      "primitive": 0,
+      "name": "v13_sherpa_21__native_microfacet_1",
+      "material": 91,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "e80b1ae1fa490dac31572187493246fba177fe5e322615f9325ce8748763cdb5",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "13c110565b307758f134b1a33c3797194cac5b36d5f2f218446d7c9116b6eac4",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 166,
+      "primitive": 0,
+      "name": "v13_sherpa_21__native_microfacet_2",
+      "material": 91,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "fbe19ff38e02c717e774c5fd77dbc5eebaa64b4b5ef33144c29bc7793da99d0a",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "03cee76bab628af04e5ec5536f5d944d7f8b8fa17de6c0c6ac25720ba86bdcb3",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 167,
+      "primitive": 0,
+      "name": "v13_sherpa_21__native_microfacet_3",
+      "material": 91,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "fe5b5214fe559e07f2c383d3fbf8bb48a60f03d496fb9a36777814d0470c4890",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "2aecbbafb8575bdc80964bf0264d2e98847078e6dd9d9332cae276f0ca4a0a0f",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 168,
+      "primitive": 0,
+      "name": "v13_sherpa_22",
+      "material": 92,
+      "triangles": 11920,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "46196281ce06553ce0c1e5bd02286584a0b75af35a74302b805319758c84ffed",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "c4fd6caab48863bb6664acb2dd9e0cf3c02d2aa40f0c8aafea703f7f9704f596",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 169,
+      "primitive": 0,
+      "name": "v13_sherpa_22__native_microfacet_0",
+      "material": 92,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "ef027b05cdb487ca7e6c671c70783bad69df91be5b3cc33f83f7632fbe06c330",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "b5712c03b5d1dc549afb1d978d4d24795cc6c00a4cb2389672260f14a341e413",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 170,
+      "primitive": 0,
+      "name": "v13_sherpa_22__native_microfacet_1",
+      "material": 92,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "229d4f5024ef96e877cc70bc21727f426ef9694184d64ce7aeb2e46f998eb225",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "c83ddce7189c2ff08fc489e24c29345571b33d7ba095065f2d55d518faeaf815",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 171,
+      "primitive": 0,
+      "name": "v13_sherpa_22__native_microfacet_2",
+      "material": 92,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "03110569484016fa22474eea26e300e729fb9c52060ad79f1f2cd09eeb2154f7",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "201ed5e80dbdaee83f4a5eabca59a1e1f2c5cc14fd8c225558869f04013c8f91",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 172,
+      "primitive": 0,
+      "name": "v13_sherpa_22__native_microfacet_3",
+      "material": 92,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "8ee54844a182055848c0941e4cca30d3ae7fc881df4e1b79dda2a8431427ef79",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "58d56133fd82af9105461be3054aabb28c5e5527ea5a00a58fee90d2b80a217d",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 173,
+      "primitive": 0,
+      "name": "v13_sherpa_23",
+      "material": 93,
+      "triangles": 11920,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "a6f8b3fbef2e079970f1459a03c035b2052d43443da47a01850f9b96085e04db",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "a4ab21a7db1f2cd113ff5881aab394a22950d126b3e3d291d4e7539542c93913",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 174,
+      "primitive": 0,
+      "name": "v13_sherpa_23__native_microfacet_0",
+      "material": 93,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "298ad0d5670c9979976b3ebde0037f4bdf7b6761e2d29182560657a1c9e39afb",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "b029ab645a3618b071af30f4a86b8a848c50ee26991bd3bbb6d1729584ee8c95",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 175,
+      "primitive": 0,
+      "name": "v13_sherpa_23__native_microfacet_1",
+      "material": 93,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "2f999bf93f904f20ac14ded16006ba23d08169e6ab30476accbec42b25661a7c",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "fd6bc9d9e07a96963c046eb3daa1ce63af0b6f147dc5998af1adce3ebe4dd7c2",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 176,
+      "primitive": 0,
+      "name": "v13_sherpa_23__native_microfacet_2",
+      "material": 93,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "16fbdc24221340cc1f1901196eef5c3c66e03e36aec7e6ef79fc8914006783a2",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "008c0b413dd0ea3af01dbd493e23dd6d63da0b8ebf9c6f901420455342b7d2fe",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 177,
+      "primitive": 0,
+      "name": "v13_sherpa_23__native_microfacet_3",
+      "material": 93,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "2bc1f1ed0202cd19c8024b9f65d3091071c261b55c1d3dd1e06bde8329e9230e",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "e7275df3b99cb3382d1bb68d55b3ec3861a7102db369ff43be4bf86104bd74f8",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 178,
+      "primitive": 0,
+      "name": "v13_sherpa_24",
+      "material": 94,
+      "triangles": 14762,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "82ef47781be153ded14dd26c8c2491cedbbf6f5a9a95c058fb3759ea992039bd",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "042d2778e8f1c59a1d7f83a64d15f9a0e109a33ba1cd4c8ed9c57dee88369f10",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 179,
+      "primitive": 0,
+      "name": "v13_sherpa_25",
+      "material": 95,
+      "triangles": 14762,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "2ad32eca6c5602bf7f9c9e7080d65afe896f86f8b3835288a4c387b568429846",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "f023d7e6d5e1352fdee0573e59b64da0064c2aa348484dafde12ead325e1b112",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 180,
+      "primitive": 0,
+      "name": "v13_sherpa_26",
+      "material": 96,
+      "triangles": 14762,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "aebf4803e89df067754707ae21f8d1d4549b28d80857ae884af33312992b34f6",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "1f10963a9024da16e1f4677d002e2954f2e4d67d8b76736910f6641e4c7aec19",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 181,
+      "primitive": 0,
+      "name": "v13_sherpa_27",
+      "material": 97,
+      "triangles": 14762,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "ff1889a7e3cd4217ba3789b9e063528842be8f3bd30987f09256957de028bc63",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "dcb7ebdeb0a45622428f1700fb241c8cd89f4cc333c74d80c65b38758bcf9dc9",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 182,
+      "primitive": 0,
+      "name": "v13_sherpa_28",
+      "material": 98,
+      "triangles": 14762,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "a4d9e0f6719d37813dc1f7928891da56a92556f96644d3a50823d1cfa2ed19a8",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "db1b2aede6069b5266e0f3848c68624e0b7734cee25dac00b8d9530707a582ec",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 183,
+      "primitive": 0,
+      "name": "v13_sherpa_29",
+      "material": 99,
+      "triangles": 184346,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "83e76684a37eedf8e57c1263a0623204d2030b6882e4058a4c37023fa7cfe656",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "4f18021f83a0ec87b583093f200895471dda5105dbd56c6e3cf53a849a3e163d",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 184,
+      "primitive": 0,
+      "name": "v13_sherpa_30",
+      "material": 100,
+      "triangles": 300982,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "20a369e6b8fe90f4af192f5e265fa7823d5f24e1772a9bc5b76aef0f6b6b0fc9",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "c15aef28aef775a3f6926e3c8b10663f42a2071a048223cd501dbfeb3ffe01d5",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 185,
+      "primitive": 0,
+      "name": "v13_sherpa_31",
+      "material": 101,
+      "triangles": 16448,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "8db6f849db567a59bbe88353284818db9f4dbcc2649841ecfe0ba8ee044c7615",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "e73661179098dc7fe29f865d4a7cb93ea82d9e44c88bd5d3586332b0e7a9913d",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 185,
+      "primitive": 1,
+      "name": "v13_sherpa_31",
+      "material": 102,
+      "triangles": 8092,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "406394a679af89a3260b4eb199be75e69b218c51ed5f16a64ef986988966f1c6",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "2f0f8a5ddeb6380244b6d43538ca11bbe1e51546088a57e4da92660b5d3014bc",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 186,
+      "primitive": 0,
+      "name": "v13_mount_left",
+      "material": 103,
+      "triangles": 11916,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "9547adb807e57afca141934961ae02d6174ea1e10710f83f65b2ffd4202b0833",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "c8165fb8b83d3868abc8df517d7f9aef3cea534b0808120472e894931f7d9108",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 187,
+      "primitive": 0,
+      "name": "v13_mount_left__native_microfacet_0",
+      "material": 103,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "aa5539a7438c14810b031d281b4d6aa9657e90ea1acd28dac8bcad75909fefcc",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "93ffbfc491203a5042ce8729e8bde71460b23b81ce1c3b71292976bcdb6a42bd",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 188,
+      "primitive": 0,
+      "name": "v13_mount_left__native_microfacet_1",
+      "material": 103,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "c4831a1153aaaa6da13c9e735ea4125679739490dd77c8ea90b6a27dcb31a0b6",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "008c0b413dd0ea3af01dbd493e23dd6d63da0b8ebf9c6f901420455342b7d2fe",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 189,
+      "primitive": 0,
+      "name": "v13_mount_left__native_microfacet_2",
+      "material": 103,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "29db6a2ed8870d203a87ac0ecbccbf2f1b5366db733767eedfab4cdd78572131",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "93ffbfc491203a5042ce8729e8bde71460b23b81ce1c3b71292976bcdb6a42bd",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 190,
+      "primitive": 0,
+      "name": "v13_mount_left__native_microfacet_3",
+      "material": 103,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "1771981b923617cf44f2e14e9b5ec2d3ae3026c4c29476eba9ad404ce3c6b7c2",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "201ed5e80dbdaee83f4a5eabca59a1e1f2c5cc14fd8c225558869f04013c8f91",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 191,
+      "primitive": 0,
+      "name": "v13_mount_left__native_microfacet_4",
+      "material": 103,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "8768386e8041a60da47d2f453bb6e26825c0ded566cc6331636d45f70dc11992",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "93ffbfc491203a5042ce8729e8bde71460b23b81ce1c3b71292976bcdb6a42bd",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 192,
+      "primitive": 0,
+      "name": "v13_mount_left__native_microfacet_5",
+      "material": 103,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "2b5c4fce58dee7075e593bb9f401f04c101645c15c94c5e1ca6d40077dab09a8",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "b5712c03b5d1dc549afb1d978d4d24795cc6c00a4cb2389672260f14a341e413",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 193,
+      "primitive": 0,
+      "name": "v13_mount_left__native_microfacet_6",
+      "material": 103,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "215342d6260fbb7f8e63ce53407de7c6aec6201a583ed789b9553696e47af4d9",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "201ed5e80dbdaee83f4a5eabca59a1e1f2c5cc14fd8c225558869f04013c8f91",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 194,
+      "primitive": 0,
+      "name": "v13_mount_left__native_microfacet_7",
+      "material": 103,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "12b2099fb8dd24b4d822cb3342276c6eab5030dbf876dc4d2189c49c9f44cf07",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "201ed5e80dbdaee83f4a5eabca59a1e1f2c5cc14fd8c225558869f04013c8f91",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 195,
+      "primitive": 0,
+      "name": "v13_mount_right",
+      "material": 104,
+      "triangles": 11916,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "c4394744f932b7e5190ec0123e3c54c89e1b5f273a65eefcc6f28300c9ebc88b",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "b6a8ec12abfc9ef3da67110aa5e5a942aa38530dea948f93d68b0f9d66a4a602",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 196,
+      "primitive": 0,
+      "name": "v13_mount_right__native_microfacet_0",
+      "material": 104,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "d5b1edfe4669bc6c8450c5c9e53e67e7aaf6df06a155c0e5fb114783a86cc174",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "008c0b413dd0ea3af01dbd493e23dd6d63da0b8ebf9c6f901420455342b7d2fe",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 197,
+      "primitive": 0,
+      "name": "v13_mount_right__native_microfacet_1",
+      "material": 104,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "bd48a3fa9eb0a2a2900714bf86b8ff6322890ee4ec0faecedbd1995cf9af434a",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "5c62c154e159e6feeedf70183abc80f2727e2823af19ece5b4203e647affd0b6",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 198,
+      "primitive": 0,
+      "name": "v13_mount_right__native_microfacet_2",
+      "material": 104,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "06cd752d839a6169168378a4123234825c3e82b339aaa7d1f22208874bce264a",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "03cee76bab628af04e5ec5536f5d944d7f8b8fa17de6c0c6ac25720ba86bdcb3",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 199,
+      "primitive": 0,
+      "name": "v13_mount_right__native_microfacet_3",
+      "material": 104,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "ff3f387f09d8d1901759d7c1179f0de92bffe12a4ba4da332a7a18a15ea82d79",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "201ed5e80dbdaee83f4a5eabca59a1e1f2c5cc14fd8c225558869f04013c8f91",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 200,
+      "primitive": 0,
+      "name": "v13_mount_right__native_microfacet_4",
+      "material": 104,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "403ce86e14307621db9e5920b7b44cb49a48944cab832d683a0c09779ee8ece3",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "b950964a098887247f29376d4c8b06b5e2f73ac880a5a5d63b857e0b400e3ca6",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 201,
+      "primitive": 0,
+      "name": "v13_mount_right__native_microfacet_5",
+      "material": 104,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "5a813734bcb8e37e52acbff03340f86f0bb909c4c5438045e1e97618732ca532",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "1b1d962651c48b1658884f7a63728673e73d5dc31ef606e93b99da3c89d249c8",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 202,
+      "primitive": 0,
+      "name": "v13_mount_right__native_microfacet_6",
+      "material": 104,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "eac404037da7667f38c00962fed461e49d0229c407c030cddca77ac43843a16b",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "201ed5e80dbdaee83f4a5eabca59a1e1f2c5cc14fd8c225558869f04013c8f91",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 203,
+      "primitive": 0,
+      "name": "v13_mount_right__native_microfacet_7",
+      "material": 104,
+      "triangles": 1,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "e51b1201c290d9983e4c6ee3d01760fbfa38b965f33d722a0c16f4886e7191b3",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "a88ae77e1489834e31da5b3066cafb1f1aa25b225fb8632118cf54501bc68386",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    },
+    {
+      "mesh": 204,
+      "primitive": 0,
+      "name": "actual_retained_Trident_block",
+      "material": 105,
+      "triangles": 12224,
+      "attributes": [
+        {
+          "attribute": "POSITION",
+          "expanded_stream_sha256": "5058fa8862a91ee21713e5440bb13068e6b164d041df061016c4302a208b2526",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        },
+        {
+          "attribute": "NORMAL",
+          "expanded_stream_sha256": "2fe9d7d6b817e615d7be4e2fc3c3365870aad2ea219ef3cf3ab166d66bdb86be",
+          "bit_identical": true,
+          "maxdiff": 0.0
+        }
+      ]
+    }
+  ],
+  "original_scope": {
+    "alpha_reference_scope": true,
+    "native_chord_qualified": false,
+    "internal_functional_unresolved": 18,
+    "current_native_manifest_sha256": "2c8dba337bf4edcdff828d972b3164b5d5c69012c3edee121bc948d0ac16079f",
+    "rigid_pose_corrections_sha256": "2abffbdc3b885726cc89fbcb4f4128a68aad504e38ac358e45061a963117006f"
+  },
+  "provenance": "licenses/provenance.json",
+  "corresponding_source": "licenses/corresponding-source/repack.py",
+  "limitations": [
+    "Equality concerns the exported mesh and source identities; it does not extend native mounting, mate, clearance, movement or functional approval.",
+    "Chunking bounds individual delivery allocations. Device rendering and GPU memory have not been measured by this evidence."
+  ],
+  "exact_recipe_regeneration_verified": {
+    "repacked_sha256": "f2478be82bef8b1f767a09320e4310c3c426df9246b45ed97992c8e903f6fde2",
+    "all11_decoded_and_gzip_hashes_match_immutable_manifest": true,
+    "assembly_and_reassembly_prefix_hashes_match": true,
+    "recipe_sha256": "a9956261bbd6b0dd51a5e1d5870c93d406702e9f7ec51f6b5fb336812effe15a"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "schema": "trinity-lossless-provenance-v1",
+  "component_id": "trinity_v13_current105_alpha_92",
+  "upstream_sources": [
+    {
+      "source_url": "https://github.com/Martin-Ivanc/Trinity-Crossbow-Cutter",
+      "commit": "231a16281d6d34b1b3b0ee8b65ae0b4f00fde7e7",
+      "license": "GPL-3.0",
+      "license_file": "licenses/Martin-Ivanc/LICENSE"
+    },
+    {
+      "source_url": "https://github.com/WV-design/Trinity-toolhead",
+      "commit": "d17a5c9fad6f21fd4a3a9869d498656b4b03d1dc",
+      "license": "GPL-3.0",
+      "license_file": "licenses/WV-design/LICENSE"
+    },
+    {
+      "source_url": "https://github.com/DW-Tas/Crossbow-Filament-Cutter",
+      "commit": "5395af65bed8c26566069b7009b9a7f8b7a05bb5",
+      "license": "CC BY-NC-SA 4.0",
+      "license_file": "licenses/DW-Tas/LICENSE"
+    },
+    {
+      "source_url": "https://github.com/Annex-Engineering/Sherpa_Mini-Extruder",
+      "commit": "e95e98dcb83f523c33f022acfd5be4893082ae3c",
+      "license": "ANNEX ENGINEERING HARDWARE AND SOFTWARE EULA",
+      "license_file": "licenses/Annex-Engineering/LICENSE.md"
+    }
+  ],
+  "original_model": {
+    "url": "https://psych0h3ad.github.io/3d-print-rig-toolhead-models/native-alpha-92/ff8557d93e9d3803b3e4/model.glb.gz",
+    "compressed_bytes": 122404589,
+    "compressed_sha256": "53d8e674d5b2a01d90623ed4cb57c11fc364b1331dde7ccfa4067727edb5bff1",
+    "decoded_bytes": 415997552,
+    "decoded_sha256": "ff8557d93e9d3803b3e4ba2729d6fb947c4134c2e84098a653069ce337d2fcfb"
+  },
+  "original_part_metadata": {
+    "url": "https://psych0h3ad.github.io/3d-print-rig-toolhead-models/native-alpha-92/ff8557d93e9d3803b3e4/parts.json",
+    "sha256": "55e36141272f22785577419ba450d305f56d7a93665788315a8e95f06eb116f9"
+  },
+  "original_notice_url": "https://psych0h3ad.github.io/3d-print-rig-toolhead-models/NOTICE.txt",
+  "corresponding_native_source": [
+    {
+      "url": "https://psych0h3ad.github.io/3d-print-rig-toolhead-models/trinity-alpha3-native-source.zip",
+      "bytes": 21005931,
+      "sha256": "b7c1847f9e87bcfbb580e70386852bab1847e807e66334d33c651a307bbf2578"
+    },
+    {
+      "url": "https://psych0h3ad.github.io/3d-print-rig-toolhead-models/trinity-native-source.zip",
+      "bytes": 58207543,
+      "sha256": "ba539c25997af08e4ec1e047f5fbbbef4bf2e3c4bc000be3c5c11fdf9dbe53ad"
+    }
+  ],
+  "exact_repack_recipe": "licenses/corresponding-source/repack.py",
+  "recipe_license": "GPL-3.0-only",
+  "terms_scope": "Printed designs retain GPL-3.0. Crossbow CNC retains CC BY-NC-SA 4.0. Annex geometry retains its EULA. Embedded manufacturer bodies retain their own terms. This storage repack does not relicense CAD.",
+  "original_native_scope": {
+    "alpha_reference_scope": true,
+    "native_chord_qualified": false,
+    "internal_functional_unresolved": 18,
+    "current_native_manifest_sha256": "2c8dba337bf4edcdff828d972b3164b5d5c69012c3edee121bc948d0ac16079f",
+    "rigid_pose_corrections_sha256": "2abffbdc3b885726cc89fbcb4f4128a68aad504e38ac358e45061a963117006f"
+  },
+  "installation_evidence": [
+    {
+      "url": "https://psych0h3ad.github.io/3d-print-rig-toolhead-models/native-alpha-92/ff8557d93e9d3803b3e4/installation-source-proof.json",
+      "sha256": "d3d5133cba7bd72a40b4d8ea9d034a9000521b7936412a2d1d8b9b582fa75fb6"
+    },
+    {
+      "url": "https://psych0h3ad.github.io/3d-print-rig-toolhead-models/native-alpha-92/ff8557d93e9d3803b3e4/729c930d63b7998f-V24_NATIVE_DATUM_AND_SUPPORT_RULES.json",
+      "sha256": "729c930d63b7998ff245b41719086f2f0b5f0c2e0e5b7533f0ae383b66ffa33b"
+    },
+    {
+      "url": "https://psych0h3ad.github.io/3d-print-rig-toolhead-models/native-alpha-92/ff8557d93e9d3803b3e4/315e7009fa88f4e4-PRIMARY_NATIVE_DATUM_AND_FINITE_GUARDS.json",
+      "sha256": "315e7009fa88f4e4a77876e7b3de0930b6ff1181a99dc576b5d99e12a9d1707b"
+    },
+    {
+      "url": "https://psych0h3ad.github.io/3d-print-rig-toolhead-models/native-alpha-92/ff8557d93e9d3803b3e4/42d43dcb691e84c2-SIBOOR_R2_FINITE_NATIVE_SUPPORT_RULES.json",
+      "sha256": "42d43dcb691e84c2bd74155fdc38e329ff503948d295f0a4bb518d164c49f40f"
+    }
+  ]
+}
