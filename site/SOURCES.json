@@ -83,14 +83,14 @@
         "Native source constraints remain unqualified: the upper fixed-end/link contact is 0.400133 mm3 and the printed insert568/link contact is 14.576066 mm3. Original350 CAD measures 0.400133 mm3 and 18.915325 mm3 for those pairs. These positive contacts are retained explicitly; intended snap engagement, whole-machine fit and continuous clearance are not certified."
       ],
       "geometry_revision": "source-guided-native-trident-chain-reference-v7-95",
-      "native_source_url": "https://github.com/Psych0h3ad/3d-print-rig-large-voron-models/releases/tag/voron1000-v1",
+      "native_source_url": "https://github.com/Psych0h3ad/3d-print-rig/releases/tag/trident-front-v100",
       "full_physical_fit_certified": false
     }
   ],
   "source_archive": {
-    "url": "https://github.com/Psych0h3ad/3d-print-rig-large-voron-models/releases/download/voron1000-v1/VORON_1000_Custom_Native_Source.zip",
-    "bytes": 209576717,
-    "sha256": "f67b117397fe8681752d080c825ae54f449d7467df8b8b621a86b6e6c74489d1"
+    "url": "https://github.com/Psych0h3ad/3d-print-rig/releases/download/trident-front-v100/VORON_1000_Custom_Native_Source.zip",
+    "bytes": 212990301,
+    "sha256": "b5a108341746e5a18baac297c84bf7f6f1ed40086b3235278d12924e66b180cb"
   },
   "internal_spool_source": {
     "id": "trident_internal_spool",
