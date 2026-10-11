@@ -1,0 +1,50 @@
+[
+  {
+    "path": "STLs/AnnexSupernova/Annex_Supernova_Bracket_Skr_Holes_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/AnnexSupernova/Annex_Supernova_Bracket_Skr_Holes_x1.stl",
+    "bytes": 241084,
+    "git_blob_sha1": "11c1370c58b8dc26a6bbf0dfe7f47deff2be49a9",
+    "sha256": "3388c407e4e49d32abca612b067fc34f5154a9d5952fbd2304911fe4da176d22",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/FrontXBeam/A_Upper_Idler_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/FrontXBeam/A_Upper_Idler_x1.stl",
+    "bytes": 233184,
+    "git_blob_sha1": "73b969eb1c27decc40f6bc992c6c8bf77dc483bd",
+    "sha256": "0bce1d4e911e04d60237eb7cd789ea857dd825d2e953b2f7f7cc625bf0889043",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/FrontXBeam/B_Upper_Idler_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/FrontXBeam/B_Upper_Idler_x1.stl",
+    "bytes": 240584,
+    "git_blob_sha1": "99ea4cea1c9fe1af89edef18f5040ebf67418779",
+    "sha256": "100ef7b2ad0f3779a5a7ca78c228a876083831e425f042a89b0f1a049e8c1198",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/Meanwell UHP-500/[a]_Meanwell_UHP-500_Mount_Lower_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/Meanwell%20UHP-500/%5Ba%5D_Meanwell_UHP-500_Mount_Lower_x1.stl",
+    "bytes": 100184,
+    "git_blob_sha1": "424a60510a5457df525dcedeea423a6bd0e454f6",
+    "sha256": "552eec4e3162d7ca03433ecdd90d423e78f9f164369b6b8e1288e7fc98decfad",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/Meanwell UHP-500/[a]_Meanwell_UHP-500_Mount_Upper_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/Meanwell%20UHP-500/%5Ba%5D_Meanwell_UHP-500_Mount_Upper_x1.stl",
+    "bytes": 75684,
+    "git_blob_sha1": "4eaeae64835f0f62c031264ac7ef2ad1947e90e9",
+    "sha256": "c8357d92c91b1f2ed8f12323e22629fc36366656232325aaf43c1c6c66681a43",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/PanelAttachments/Extended_Spool_Holder_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/PanelAttachments/Extended_Spool_Holder_x1.stl",
+    "bytes": 175384,
+    "git_blob_sha1": "556dd07924c0435e0aaa45e1c4f2865f14585129",
+    "sha256": "93f7d43945518488eb34bc8c5d92092464f811a168f6c8e7e5c88ea3c7d3ff6c",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  }
+]

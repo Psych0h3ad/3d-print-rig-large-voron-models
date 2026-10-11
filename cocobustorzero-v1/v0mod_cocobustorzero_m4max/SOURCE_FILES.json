@@ -1,0 +1,66 @@
+[
+  {
+    "path": "STLs/M4max/Bottom_Plate_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/M4max/Bottom_Plate_x1.stl",
+    "bytes": 252584,
+    "git_blob_sha1": "6302083d77b8793776ccfb8340f72ea91d0926d8",
+    "sha256": "06f76e90ef0050320db985b9a7e537f665831febecc1c5bf248a025a22465a98",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/M4max/End_Plate_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/M4max/End_Plate_x1.stl",
+    "bytes": 208584,
+    "git_blob_sha1": "4fdcb8363c2391fa2b2e4715f0b1a77eae764079",
+    "sha256": "790124ca7aa3bcbbb9dfef00ba03a66d46d04674e5c97bc997014e6fbb956135",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/M4max/M4_Max_Motor_Support_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/M4max/M4_Max_Motor_Support_x1.stl",
+    "bytes": 82584,
+    "git_blob_sha1": "7ba04041da19b1a4e2472bd743f18670f7180990",
+    "sha256": "e0e1d3b8b9ec5d6fe2e60560bcc0e69ca9c50723271c7988616c2e4856cc79c4",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/M4max/Main_Body_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/M4max/Main_Body_x1.stl",
+    "bytes": 244684,
+    "git_blob_sha1": "e78f9b449dee419c9de1a522c007e4d9613fc129",
+    "sha256": "ec2c87ca6e53fc08bef69b63329901ef56f4855ef2de12352be074e2088434b7",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/M4max/Middle_Plate_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/M4max/Middle_Plate_x1.stl",
+    "bytes": 294384,
+    "git_blob_sha1": "9265478147665e874ded35e28aee2287685d6e59",
+    "sha256": "355779fa519b2d4f9552415f3d967348e96fde5a1e90067f25333e19d971baf0",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/M4max/[a]_Guider_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/M4max/%5Ba%5D_Guider_x1.stl",
+    "bytes": 353584,
+    "git_blob_sha1": "13e49ae142565dcfa68ff3e3bb92676c538ee114",
+    "sha256": "51eaf8f9a1594287c01ec96e77956fb423232d0b5ac64e295e0d32fe4e682e92",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/M4max/[a]_Latch_Shuttle.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/M4max/%5Ba%5D_Latch_Shuttle.stl",
+    "bytes": 71484,
+    "git_blob_sha1": "00e30caa5066f9c0557cf341db265c619b1a8740",
+    "sha256": "2a656c3c8ca40774e683596a430284fad2d019a63e6588a92fa955924251e09b",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/M4max/[a]_Latch_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/M4max/%5Ba%5D_Latch_x1.stl",
+    "bytes": 95984,
+    "git_blob_sha1": "46cf9c13d69a6a1289af206c48e94a4c1d5b8d0e",
+    "sha256": "c032d15c07425ea85e2c3753fb6e13c58de7706dc45d15dc1488a05e773306ed",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  }
+]

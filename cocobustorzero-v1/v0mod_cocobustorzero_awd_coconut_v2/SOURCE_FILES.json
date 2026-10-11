@@ -1,0 +1,42 @@
+[
+  {
+    "path": "STLs/V0 4WD/CoconutAWD/v2AWD (Latest)/BottomMotorPlate_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/V0%204WD/CoconutAWD/v2AWD%20%28Latest%29/BottomMotorPlate_x1.stl",
+    "bytes": 924884,
+    "git_blob_sha1": "905459e16e51e148f9c1813a1497f769065fe57e",
+    "sha256": "04ad396dd3a5ef66abb1615a12fb016c7b5b692de313c1f62d0f1391bc5d5c0f",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/V0 4WD/CoconutAWD/v2AWD (Latest)/TopMotorPlate_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/V0%204WD/CoconutAWD/v2AWD%20%28Latest%29/TopMotorPlate_x1.stl",
+    "bytes": 1217284,
+    "git_blob_sha1": "c07fed02f56e94b3fdbd4faf5f5c0e18b9f15563",
+    "sha256": "1325207220f57b745a72d8f21cf28fc0dd6323854a47793201c6fac6fdcb5d01",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/V0 4WD/CoconutAWD/v2AWD (Latest)/[a]_AB1_Spacer_x2.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/V0%204WD/CoconutAWD/v2AWD%20%28Latest%29/%5Ba%5D_AB1_Spacer_x2.stl",
+    "bytes": 509084,
+    "git_blob_sha1": "107fe843d594c3864f21722e1547c9efe2f55484",
+    "sha256": "e7be749fb0eaf90ebae99239d121d10a48d50c697d7931799dd134caa2d4261a",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/V0 4WD/CoconutAWD/v2AWD (Latest)/[a]_AMotorSpacer_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/V0%204WD/CoconutAWD/v2AWD%20%28Latest%29/%5Ba%5D_AMotorSpacer_x1.stl",
+    "bytes": 295384,
+    "git_blob_sha1": "d0cb60700c5673a41c6e08280e44ec03bae7d333",
+    "sha256": "0fc2422609af06389118c5069b7e15e43027042ce9681b79c8a7596273daee03",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/V0 4WD/CoconutAWD/v2AWD (Latest)/[a]_BMotorSpacer_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/V0%204WD/CoconutAWD/v2AWD%20%28Latest%29/%5Ba%5D_BMotorSpacer_x1.stl",
+    "bytes": 296584,
+    "git_blob_sha1": "aee097788783a76764daa1169755a25df75a3fae",
+    "sha256": "1f2caf83f07ff75ef60715f64696caf30107ffa03b152f559a8b8ba7a1245986",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  }
+]

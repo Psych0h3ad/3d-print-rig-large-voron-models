@@ -1,0 +1,20 @@
+CocobustorZero source parts
+Copyright and source: CoconutDevelopment and the respective contributors.
+License: GPL-3.0; see LICENSE.
+Exact revision: 052e6c321a7e3fffad5057ce1e9f87de38f0e867
+Upstream: https://github.com/CoconutDevelopment/CocobustorZero
+
+This is an independent source-part library, not an assembled printer or an
+installation configuration. Original nonzero-area STL triangles and winding
+are preserved. Unit face normals are recomputed. The right air duct and belted-Z
+bed mount are withheld because of unresolved original mesh topology defects.
+Built-in supports have not been identified or removed. No hardware is added.
+
+The author's README credits VoronDesign, Coconut, LittleTimTim,
+MathematicalPotato and Kl3pt, and cites 247printing as inspiration.
+Current Coconut V2 is kept separate from TimTim AWD and archived Coconut V1.
+The unfinished Superwide Stance exports are excluded.
+
+Corresponding source files and their exact URLs/hashes: SOURCE_FILES.json.
+Reproducible conversion: scripts/convert_cocobustor_sources.py in
+https://github.com/Psych0h3ad/3d-print-rig

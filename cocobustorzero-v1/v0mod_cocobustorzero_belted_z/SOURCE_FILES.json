@@ -1,0 +1,74 @@
+[
+  {
+    "path": "STLs/Thick Belted z/Belted_Z_Back_Plate_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/Thick%20Belted%20z/Belted_Z_Back_Plate_x1.stl",
+    "bytes": 225784,
+    "git_blob_sha1": "7ee75fa00c79c25c44494dde0d477b32fe5fe667",
+    "sha256": "322c350f8c0a749a8bcb8e804d7d3756103a21a8fc5eb7089281a61ca35ff518",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/Thick Belted z/Belted_Z_Baseplate_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/Thick%20Belted%20z/Belted_Z_Baseplate_x1.stl",
+    "bytes": 240184,
+    "git_blob_sha1": "128a86c47784c503843c2c204ef8030ff5151931",
+    "sha256": "09736ddcf4dcd045aa5758392506cdba7749d14fb33ff11cd3af5ea704ad2ac7",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/Thick Belted z/Belted_Z_BottomClip_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/Thick%20Belted%20z/Belted_Z_BottomClip_x1.stl",
+    "bytes": 272484,
+    "git_blob_sha1": "7b909853d775443dd8f47a0dbbf33fc7943d908c",
+    "sha256": "97fe63c4c690a866f4f211a08810aca01af858169ffcd91578e3e6c7f4f67415",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/Thick Belted z/Belted_Z_Midplate_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/Thick%20Belted%20z/Belted_Z_Midplate_x1.stl",
+    "bytes": 246884,
+    "git_blob_sha1": "735186a08bfcbc72da960b4cf57887da1a9cdd31",
+    "sha256": "d209d1d9df1f8345bf2052b4e789e9181fe191d7da020b46a79e0ab734431083",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/Thick Belted z/Belted_Z_Spacer_Left_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/Thick%20Belted%20z/Belted_Z_Spacer_Left_x1.stl",
+    "bytes": 32484,
+    "git_blob_sha1": "cda6c22138bc17dc7b7afd26183bd43877f37fd9",
+    "sha256": "7b8c5eaf42feeb39f94c0a4994aeda4bb641cd7a2efc2495d5e595a1c4bfa622",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/Thick Belted z/Belted_Z_Spacer_Right_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/Thick%20Belted%20z/Belted_Z_Spacer_Right_x1.stl",
+    "bytes": 35684,
+    "git_blob_sha1": "b2630a3fbc53431f189d5950369166689333b252",
+    "sha256": "69651c40a761cb8628f3eefeb97d5e91e4d3e8e868c1ac0c7f1e772cd8513696",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/Thick Belted z/Belted_Z_TopClip_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/Thick%20Belted%20z/Belted_Z_TopClip_x1.stl",
+    "bytes": 323884,
+    "git_blob_sha1": "c05a0825ee859080e3ef2462b24923f951d7c22a",
+    "sha256": "f54884d549728cf9ea5f1c654e3ae6a46c1f4124f55eb8b8e28db3741ff53183",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/Thick Belted z/Belted_Z_Top_Idler_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/Thick%20Belted%20z/Belted_Z_Top_Idler_x1.stl",
+    "bytes": 74284,
+    "git_blob_sha1": "75d93100af384aae9100a145ebd19bc0069c00f4",
+    "sha256": "ce9956c0c998717b099ff004f69fdaebb4bb27520c914af3bcd85f0f1b60eaab",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/Thick Belted z/[a]_80t_m4_BeltedZ_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/Thick%20Belted%20z/%5Ba%5D_80t_m4_BeltedZ_x1.stl",
+    "bytes": 1214584,
+    "git_blob_sha1": "76ab7961fc91f8b17312007f7e9bb3905a53d0bb",
+    "sha256": "b11b39220455057dfaa855836e115896533ae256dee1d55cc03cefd077ae33e5",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  }
+]

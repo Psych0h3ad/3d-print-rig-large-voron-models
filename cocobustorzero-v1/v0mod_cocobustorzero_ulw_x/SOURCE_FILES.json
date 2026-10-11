@@ -1,0 +1,50 @@
+[
+  {
+    "path": "STLs/ULW X Gantry/Toolhead/Ultralightweight_Carriage_Left_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/ULW%20X%20Gantry/Toolhead/Ultralightweight_Carriage_Left_x1.stl",
+    "bytes": 323684,
+    "git_blob_sha1": "1be025d524b629aa3919d6dbe065eb40920090b4",
+    "sha256": "7595a3e1567d5f0bca74d207e0f88027e7a8e85f72aed4bc6f37c467ba4b25e7",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/ULW X Gantry/Toolhead/Ultralightweight_Carriage_Right_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/ULW%20X%20Gantry/Toolhead/Ultralightweight_Carriage_Right_x1.stl",
+    "bytes": 278184,
+    "git_blob_sha1": "f02512c9a67c644278ecbba2e78327ddb1715cce",
+    "sha256": "831f657e299bf426ff80996ff92618b9c24ea34e6c2f95a2a16067f424ad0e2b",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/ULW X Gantry/XY Joints/XY_Joint_Left_Lower_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/ULW%20X%20Gantry/XY%20Joints/XY_Joint_Left_Lower_x1.stl",
+    "bytes": 322384,
+    "git_blob_sha1": "38d8e5e13d2f5739e01f19fd5f68f2188f0c0012",
+    "sha256": "681bf9f80499036783116f7617d4f5af09555067c59a85baad37b0e57a1164bd",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/ULW X Gantry/XY Joints/XY_Joint_Left_Upper_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/ULW%20X%20Gantry/XY%20Joints/XY_Joint_Left_Upper_x1.stl",
+    "bytes": 157784,
+    "git_blob_sha1": "a7d3dd0ad1b08a5df4bf5e6457441b36b2eee610",
+    "sha256": "d78c963d7dfb02bc48dfbf49ddef0cdb7a850ba39774711fd88320e0df6ce10b",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/ULW X Gantry/XY Joints/XY_Joint_Right_Lower_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/ULW%20X%20Gantry/XY%20Joints/XY_Joint_Right_Lower_x1.stl",
+    "bytes": 322384,
+    "git_blob_sha1": "884304e9e495c4931e0f47394e253d785f6cbbe2",
+    "sha256": "1f58c231b9b372703e078cb16fcf269b545bb32a2776afabcb31b1d4b75bf6c1",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  },
+  {
+    "path": "STLs/ULW X Gantry/XY Joints/XY_Joint_Right_Upper_x1.stl",
+    "url": "https://raw.githubusercontent.com/CoconutDevelopment/CocobustorZero/052e6c321a7e3fffad5057ce1e9f87de38f0e867/STLs/ULW%20X%20Gantry/XY%20Joints/XY_Joint_Right_Upper_x1.stl",
+    "bytes": 157784,
+    "git_blob_sha1": "f7b5331b51a3b2f050472a378dbd3a32ff27b012",
+    "sha256": "a12232be5c18f7676c53d6fa604aaa2a34dbff0fc0b4d2be152c418bccbf3011",
+    "revision": "052e6c321a7e3fffad5057ce1e9f87de38f0e867"
+  }
+]
