@@ -1,0 +1,4487 @@
+{
+  "id": "dragon_burner_v8_sherpa_mini_dragon_native",
+  "parts": [
+    {
+      "key": "hotend_mount",
+      "name": "Dragon_Mount",
+      "source_id": "0:1:1:28:6@Dragon_Burner_v0.2_v8 v409/Hotend_Mounts:1/Dragon_Mount:1",
+      "source_family": "dragon-v8",
+      "source_index": 24,
+      "source_brep_sha256": "1cb812d62623e91f843c483300386f1344ad771a3506c4a859aa086d71898972",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.032728799414
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/hotend_mount.brep",
+      "native_brep_sha256": "0c42d741dea3ceca40a6a3a917a3016b093586bc109917bf6f9ee125252ab1a7",
+      "bounds_mm": [
+        [
+          120.21711324539274,
+          -140.42976412151248,
+          94.1005389309161
+        ],
+        [
+          175.21711339984773,
+          -119.42976392151047,
+          110.76432601814246
+        ]
+      ],
+      "volume_mm3": 11013.047578305419,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "base",
+      "group": "printed",
+      "color": [
+        0.12,
+        0.14,
+        0.17,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "24"
+    },
+    {
+      "key": "extruder_plate",
+      "name": "Sherpa_Mini_Mount",
+      "source_id": "0:1:1:1:9@Dragon_Burner_v0.2_v8 v409/Sherpa_Mini_Mount:1",
+      "source_family": "dragon-v8",
+      "source_index": 73,
+      "source_brep_sha256": "96f38a4c903d0118ada2488a0fd8038fc07f284a51356b33f8f3e07ec3657bac",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/extruder_plate.brep",
+      "native_brep_sha256": "35f516d7be938a75987d5d42abd0c9a55ae83e9cd27744e7ae5062c305376b50",
+      "bounds_mm": [
+        [
+          121.44487824214508,
+          -140.4194929209241,
+          110.76432581813819
+        ],
+        [
+          173.944878442145,
+          -116.33077712464853,
+          117.66432601814174
+        ]
+      ],
+      "volume_mm3": 6032.686586746157,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "base",
+      "group": "printed",
+      "color": [
+        0.12,
+        0.14,
+        0.17,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "73"
+    },
+    {
+      "key": "duct_left",
+      "name": "Standard (1)",
+      "source_id": "0:1:1:4:1@Dragon_Burner_v0.2_v8 v409/Cowl:1/Ducts:1/Duct_Left:1/Standard (1):1",
+      "source_family": "dragon-v8",
+      "source_index": 0,
+      "source_brep_sha256": "28a6142bc96aa446d864c7916fb9739819fdda08b956d591aec80e43a425f3a4",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/duct_left.brep",
+      "native_brep_sha256": "ba66745bf40f8bb20b179c8e884ee10874e5f889fae17719b969535f314689f0",
+      "bounds_mm": [
+        [
+          120.21711324538917,
+          -154.42976412151148,
+          50.252651024273696
+        ],
+        [
+          135.11062494796246,
+          -114.4297639215114,
+          64.75000009999981
+        ]
+      ],
+      "volume_mm3": 2410.7073564926354,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "accent",
+      "group": "printed",
+      "color": [
+        0.78,
+        0.12,
+        0.16,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "0"
+    },
+    {
+      "key": "duct_right",
+      "name": "Standard",
+      "source_id": "0:1:1:10:4@Dragon_Burner_v0.2_v8 v409/Cowl:1/Ducts:1/Duct_Right:1/Standard:1",
+      "source_family": "dragon-v8",
+      "source_index": 9,
+      "source_brep_sha256": "5435aba2edb8d9b1e24361d9a0f251f15bda24ace3eb5aa403f3a3496fa072a7",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/duct_right.brep",
+      "native_brep_sha256": "a5411e89f85028723f402bb7e60d060f0f472a46402ffd68bb23b4d6e175537e",
+      "bounds_mm": [
+        [
+          160.32360174281771,
+          -154.42976412151128,
+          50.252651024273696
+        ],
+        [
+          175.217113445391,
+          -114.42976392151112,
+          64.75000009999981
+        ]
+      ],
+      "volume_mm3": 2410.7070120985,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "accent",
+      "group": "printed",
+      "color": [
+        0.78,
+        0.12,
+        0.16,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "9"
+    },
+    {
+      "key": "cowl",
+      "name": "MainBody",
+      "source_id": "0:1:1:2:3@Dragon_Burner_v0.2_v8 v409/Cowl:1/MainBody:1",
+      "source_family": "dragon-v8",
+      "source_index": 11,
+      "source_brep_sha256": "83028e1e9e863777fdea2edfb96e6f2de292fef4ef211be46481d33756b5ca20",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/cowl.brep",
+      "native_brep_sha256": "18283a5ddc5280e3da3ae1413885074e9ecfabc86f8b875f5727c926636b69c6",
+      "bounds_mm": [
+        [
+          120.21711324538991,
+          -154.429764268912,
+          58.2499999999999
+        ],
+        [
+          175.217113399846,
+          -119.42976407464884,
+          117.66432641294202
+        ]
+      ],
+      "volume_mm3": 11999.031194384324,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "base",
+      "group": "printed",
+      "color": [
+        0.12,
+        0.14,
+        0.17,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "11"
+    },
+    {
+      "key": "logo_diffuser",
+      "name": "[c]_Voron_Diffuser",
+      "source_id": "0:1:1:99:1@Dragon_Burner_v0.2_v8 v409/LED_Holder v41:1/[c]_Voron_Diffuser:1",
+      "source_family": "dragon-v8",
+      "source_index": 84,
+      "source_brep_sha256": "82b87896822e3b02e204c09347b3260363b601aaecec1f5494078412b99cb054",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/logo_diffuser.brep",
+      "native_brep_sha256": "0480b00234589712e27f6bc56a1a0ad4c929b07ab622749cdc9bc7e63b7219f6",
+      "bounds_mm": [
+        [
+          141.623162242898,
+          -154.42976402151203,
+          100.691001615769
+        ],
+        [
+          153.683402185932,
+          -151.429764021512,
+          111.440546111204
+        ]
+      ],
+      "volume_mm3": 273.8769244512521,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "diffuser",
+      "group": "led",
+      "color": [
+        0.9,
+        0.94,
+        1,
+        0.8
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "84"
+    },
+    {
+      "key": "logo_carrier",
+      "name": "[o]_Carrier_Neopixel",
+      "source_id": "0:1:1:99:5@Dragon_Burner_v0.2_v8 v409/LED_Holder v41:1/[o]_Carrier_Neopixel:1",
+      "source_family": "dragon-v8",
+      "source_index": 88,
+      "source_brep_sha256": "8c5b027fa7686a4210c2ceb44bde55a0ee46aff6fc2490001284b58dc18b51dd",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/logo_carrier.brep",
+      "native_brep_sha256": "68f7d5941a1535cde0cad036521764f262daaba341540accd0abf2096904c4eb",
+      "bounds_mm": [
+        [
+          139.27878654163888,
+          -153.4297640215123,
+          99.79100161576847
+        ],
+        [
+          154.58340218593267,
+          -140.42976402151172,
+          112.34054611120453
+        ]
+      ],
+      "volume_mm3": 1054.2051754746399,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "accent",
+      "group": "printed",
+      "color": [
+        0.78,
+        0.12,
+        0.16,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "88"
+    },
+    {
+      "key": "logo_led",
+      "name": "WS2812B LED v1",
+      "source_id": "0:1:1:99:6@Dragon_Burner_v0.2_v8 v409/LED_Holder v41:1/WS2812B LED v1:1",
+      "source_family": "dragon-v8",
+      "source_index": 89,
+      "source_brep_sha256": "08514ac9ef626fc3199e3156ca9192832424a8c630ad9d729a6fa9ea10df2c78",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/logo_led.brep",
+      "native_brep_sha256": "8829748ede3b89073b04a0925f1510df6da3639cc1c43a8916a92f3253c9123d",
+      "bounds_mm": [
+        [
+          142.84896112400673,
+          -151.22235320137034,
+          101.41571675067141
+        ],
+        [
+          152.4489613240993,
+          -147.90872544985916,
+          110.73661873671406
+        ]
+      ],
+      "volume_mm3": 161.86367995272312,
+      "valid": true,
+      "solids": 19,
+      "appearance_role": "led",
+      "group": "led",
+      "color": [
+        0.85,
+        0.9,
+        0.95,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "89"
+    },
+    {
+      "key": "rear_brace",
+      "name": "Brace_Loop",
+      "source_id": "0:1:1:1:13@Dragon_Burner_v0.2_v8 v409/Brace_Loop:1",
+      "source_family": "dragon-v8",
+      "source_index": 106,
+      "source_brep_sha256": "f0a9a65be01e2a2bde6428a7502cf97faaf0c4567846d9950f963c4bce8f4b9f",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/rear_brace.brep",
+      "native_brep_sha256": "ecbd8c315a1d88403ddb165c4e175a3dee5239aac346b275f2b20694bd41aed9",
+      "bounds_mm": [
+        [
+          130.1106248479619,
+          -117.42976402151125,
+          57.77765112427574
+        ],
+        [
+          165.3236018428169,
+          -112.42976386836956,
+          76.79710395657324
+        ]
+      ],
+      "volume_mm3": 717.4037497390439,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "base",
+      "group": "printed",
+      "color": [
+        0.12,
+        0.14,
+        0.17,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "106"
+    },
+    {
+      "key": "drive_186",
+      "name": "thumbscrew^thumbscrew (2)",
+      "source_id": "0:1:1:177:1@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/thumbscrew (2):1/thumbscrew^thumbscrew (2):1",
+      "source_family": "archetype",
+      "source_index": 186,
+      "source_brep_sha256": "00db12f146dcefd06c1e5ef9d75b225900bfc35f060074ebe2d5483dca90253a",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_186.brep",
+      "native_brep_sha256": "9bd59ba2ffa800e1130e5e1486a28b39a783702a9bbb335019e4b2ed5ae94e69",
+      "bounds_mm": [
+        [
+          153.19487824214872,
+          -141.05942572128208,
+          134.91432581811014
+        ],
+        [
+          176.1948783421487,
+          -129.0594255212187,
+          146.91432601817348
+        ]
+      ],
+      "volume_mm3": 440.3036694999134,
+      "valid": true,
+      "solids": 2,
+      "appearance_role": "metal",
+      "group": "drive",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "186"
+    },
+    {
+      "key": "drive_187",
+      "name": "spring^thumbscrew (2)",
+      "source_id": "0:1:1:177:2@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/thumbscrew (2):1/spring^thumbscrew (2):1",
+      "source_family": "archetype",
+      "source_index": 187,
+      "source_brep_sha256": "0d4a2214de196b6ebedc3a5991306896cac66f449fb4b784a3677ccfa26e9e19",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_187.brep",
+      "native_brep_sha256": "379d1a21b6f3f3fa297c94d52eaf7e6a798624a436e3492e07bcdb1b02759edf",
+      "bounds_mm": [
+        [
+          160.1948782420837,
+          -138.0595066312289,
+          137.91517474630086
+        ],
+        [
+          173.69384805865494,
+          -132.05942552125006,
+          143.91409361268862
+        ]
+      ],
+      "volume_mm3": 80.64833770000037,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "drive",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "187"
+    },
+    {
+      "key": "drive_188",
+      "name": "insert_m3x5x4 (2)",
+      "source_id": "0:1:1:176:2@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/insert_m3x5x4 (2):3",
+      "source_family": "archetype",
+      "source_index": 188,
+      "source_brep_sha256": "9c3f3cba40e304d7a8a6d2107c5a0200e1a463525133f6e43e2363b7b64aedfd",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_188.brep",
+      "native_brep_sha256": "6f94a2d7f4821fd950f3161b244c8e8f366f1fe651dc15dd53aa944f5bc3b098",
+      "bounds_mm": [
+        [
+          140.8948782421489,
+          -142.30942572126102,
+          119.66432581814175
+        ],
+        [
+          145.8948784421489,
+          -138.30942552125035,
+          124.66432601814175
+        ]
+      ],
+      "volume_mm3": 46.366458519171495,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "brass",
+      "group": "drive",
+      "color": [
+        0.68,
+        0.45,
+        0.16,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "188"
+    },
+    {
+      "key": "drive_189",
+      "name": "idler_pin^sherpa_mini_a3_r9c",
+      "source_id": "0:1:1:176:3@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/idler_pin^sherpa_mini_a3_r9c:1",
+      "source_family": "archetype",
+      "source_index": 189,
+      "source_brep_sha256": "e56a06e18aeeb5269a9c0f3efca4740c18fca26f1baf555dffc1b51fd262eba0",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_189.brep",
+      "native_brep_sha256": "19cddcb05c4a760ef51c120ea9f574cd59cc5fc114f7f7a8a725ad356bc4c739",
+      "bounds_mm": [
+        [
+          154.99487834214887,
+          -145.05942562125034,
+          119.86432591814177
+        ],
+        [
+          157.9948783421489,
+          -125.05942562125036,
+          122.86432591814184
+        ]
+      ],
+      "volume_mm3": 141.01143345392933,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "drive",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "189"
+    },
+    {
+      "key": "drive_190",
+      "name": "idler_gear^idler_gear_assy_sherpa_mini_a3_r9c",
+      "source_id": "0:1:1:182:1@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/idler_gear_assy^sherpa_mini_a3_r9c:1/idler_gear^idler_gear_assy_sherpa_mini_a3_r9c:1",
+      "source_family": "archetype",
+      "source_index": 190,
+      "source_brep_sha256": "bb7d2772f750beada19b4b2e4f040621f4fde53c1376b1fc09537f8456451da2",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_190.brep",
+      "native_brep_sha256": "179f72ed7662dbea358d03d906ec8be5ca29100c342faf8ff1ea938a27c90cc5",
+      "bounds_mm": [
+        [
+          147.25598467432772,
+          -141.80942572125045,
+          126.41432581814179
+        ],
+        [
+          156.73377200996916,
+          -127.80942562125044,
+          135.85379484178358
+        ]
+      ],
+      "volume_mm3": 434.176029691748,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "drive",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "190"
+    },
+    {
+      "key": "drive_191",
+      "name": "shaft^idler_gear_assy_sherpa_mini_a3_r9c",
+      "source_id": "0:1:1:182:2@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/idler_gear_assy^sherpa_mini_a3_r9c:1/shaft^idler_gear_assy_sherpa_mini_a3_r9c:1",
+      "source_family": "archetype",
+      "source_index": 191,
+      "source_brep_sha256": "ef176306b3e0c24417fee8ecc1085d5fecc886beb796ad1101e2f61eac93ae50",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_191.brep",
+      "native_brep_sha256": "c92bb9a6b36ed6f8c29303c35c58587ba4d5a1fb786ef405ffc9d4697495d992",
+      "bounds_mm": [
+        [
+          150.4948783421489,
+          -145.40942562125042,
+          129.66432591814174
+        ],
+        [
+          153.4948783421489,
+          -125.40942562125042,
+          132.6643259181418
+        ]
+      ],
+      "volume_mm3": 141.16668049089395,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "drive",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "191"
+    },
+    {
+      "key": "drive_192",
+      "name": "needle_bearing^idler_gear_assy_sherpa_mini_a3_r9c",
+      "source_id": "0:1:1:182:3@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/idler_gear_assy^sherpa_mini_a3_r9c:1/needle_bearing^idler_gear_assy_sherpa_mini_a3_r9c:1",
+      "source_family": "archetype",
+      "source_index": 192,
+      "source_brep_sha256": "5c6eda1d700f32fac1a1b39c02f4dff3dc5274c090fad03df4488cb08105f650",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_192.brep",
+      "native_brep_sha256": "3a5a75f8c2fb9b89e6b000c7d02ab30ac290f3ef4dce4f814f4e1a584ed0bcc4",
+      "bounds_mm": [
+        [
+          149.5948783421489,
+          -134.30942562125043,
+          128.73361774083773
+        ],
+        [
+          154.49331039439747,
+          -127.80942562125041,
+          133.63027211750963
+        ]
+      ],
+      "volume_mm3": 62.041203328979556,
+      "valid": true,
+      "solids": 8,
+      "appearance_role": "metal",
+      "group": "drive",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "192"
+    },
+    {
+      "key": "drive_193",
+      "name": "needle_bearing^idler_gear_assy_sherpa_mini_a3_r9c",
+      "source_id": "0:1:1:182:4@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/idler_gear_assy^sherpa_mini_a3_r9c:1/needle_bearing^idler_gear_assy_sherpa_mini_a3_r9c:2",
+      "source_family": "archetype",
+      "source_index": 193,
+      "source_brep_sha256": "2e3db719f7bd5bf6925cd8ff5ac3a01f7c9055efa2604643ba7eead81efd8cae",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_193.brep",
+      "native_brep_sha256": "05a23f33e0006df515559f39dc12afda9e76b200f884698aa7dec77ffe0688e4",
+      "bounds_mm": [
+        [
+          149.5948783421489,
+          -141.80942562125045,
+          128.7336177408377
+        ],
+        [
+          154.49331039439747,
+          -135.30942562125045,
+          133.6302721175096
+        ]
+      ],
+      "volume_mm3": 62.041203328979535,
+      "valid": true,
+      "solids": 8,
+      "appearance_role": "metal",
+      "group": "drive",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "193"
+    },
+    {
+      "key": "drive_194",
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 12 - 12N (2)",
+      "source_id": "0:1:1:176:5@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/socket button head screw_iso_ISO 7380 - M3 x 12 - 12N (2):2",
+      "source_family": "archetype",
+      "source_index": 194,
+      "source_brep_sha256": "98866019fca2a5ea340dc5ea50d629a6955c0714c64b975ca25776a7646140a5",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_194.brep",
+      "native_brep_sha256": "bb0024e97fb0c969ec13e29fdc4280a99287a2ead408d71db91cc5b3d513187d",
+      "bounds_mm": [
+        [
+          122.92456812536588,
+          -129.4594256212505,
+          142.4236313581697
+        ],
+        [
+          128.62456812536587,
+          -115.80942562125048,
+          148.1236313581697
+        ]
+      ],
+      "volume_mm3": 111.31314400790257,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "drive",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "194"
+    },
+    {
+      "key": "drive_195",
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 8 - 8N (2)",
+      "source_id": "0:1:1:176:6@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/socket button head screw_iso_ISO 7380 - M3 x 8 - 8N (2):1",
+      "source_family": "archetype",
+      "source_index": 195,
+      "source_brep_sha256": "85f7ba2b13111c9b4a74171ab59f2232f8ea1d7e6d75a31d829e6285c811d192",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_195.brep",
+      "native_brep_sha256": "fe79c13c1feaa38d6bbd68dff9a16582fafdf2426d1a97f41bd4f0a7b0bddcfa",
+      "bounds_mm": [
+        [
+          140.5448783421489,
+          -146.70942562125043,
+          137.31432591814178
+        ],
+        [
+          146.2448783421489,
+          -137.05942562125043,
+          143.01432591814176
+        ]
+      ],
+      "volume_mm3": 83.03873580326761,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "drive",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "195"
+    },
+    {
+      "key": "drive_196",
+      "name": "shaft^drive_core_sherpa_mini_a3_r9c",
+      "source_id": "0:1:1:188:1@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/drive_core^sherpa_mini_a3_r9c:1/shaft^drive_core_sherpa_mini_a3_r9c:1",
+      "source_family": "archetype",
+      "source_index": 196,
+      "source_brep_sha256": "1128a6ece3e20d319f8bb045594a43d16b20faab3ef1d37041947941e13c5bf5",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_196.brep",
+      "native_brep_sha256": "34b905a3b6507439907d218ba4d4b61d9f3f06d95eb5208e78ff6f75522a4529",
+      "bounds_mm": [
+        [
+          140.89487824214868,
+          -144.80942562125043,
+          128.6643258181417
+        ],
+        [
+          145.89487844214872,
+          -118.2094256212504,
+          133.6643260181418
+        ]
+      ],
+      "volume_mm3": 514.1038692163875,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "drive",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "196"
+    },
+    {
+      "key": "drive_197",
+      "name": "0.5mm_shim^drive_core_sherpa_mini_a3_r9c",
+      "source_id": "0:1:1:188:2@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/drive_core^sherpa_mini_a3_r9c:1/0.5mm_shim^drive_core_sherpa_mini_a3_r9c:1",
+      "source_family": "archetype",
+      "source_index": 197,
+      "source_brep_sha256": "6ae20aa7cc5936be763fabe799c89638be397962d61e298eab5a7792a688a736",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_197.brep",
+      "native_brep_sha256": "4235051f8becd15cecca0e6c3e43b4a76054dec0e29f081881bad56c874842e6",
+      "bounds_mm": [
+        [
+          139.89487834214867,
+          -142.30942562125043,
+          127.66432591814169
+        ],
+        [
+          146.89487834214867,
+          -141.80942562125043,
+          134.66432591814169
+        ]
+      ],
+      "volume_mm3": 9.047786842338624,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "drive",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "197"
+    },
+    {
+      "key": "drive_198",
+      "name": "sherpa_mini_gear_50t_sl_7mm^drive_core_sherpa_mini_a3_r9c",
+      "source_id": "0:1:1:188:3@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/drive_core^sherpa_mini_a3_r9c:1/sherpa_mini_gear_50t_sl_7mm^drive_core_sherpa_mini_a3_r9c:1",
+      "source_family": "archetype",
+      "source_index": 198,
+      "source_brep_sha256": "26386c867491fe1072b5be05f24e1b158a794baa905527c09c03f6f22cc1a123",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_198.brep",
+      "native_brep_sha256": "aa49fb8d355151eab12a448b716319cba07230ac114dbbf07a51ff3b6fb42fe3",
+      "bounds_mm": [
+        [
+          130.3948782421487,
+          -127.80942572125542,
+          118.17924891971316
+        ],
+        [
+          156.3948784421487,
+          -120.80942552117708,
+          144.14940291657044
+        ]
+      ],
+      "volume_mm3": 1011.1031760363655,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "drive",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "198"
+    },
+    {
+      "key": "drive_199",
+      "name": "filament_gear^drive_core_sherpa_mini_a3_r9c",
+      "source_id": "0:1:1:188:4@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/drive_core^sherpa_mini_a3_r9c:1/filament_gear^drive_core_sherpa_mini_a3_r9c:1",
+      "source_family": "archetype",
+      "source_index": 199,
+      "source_brep_sha256": "8fe6bdc4d682aa43a9b743bba19c6e7b7c69d9a18cde525d9fb05e2fe093488e",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_199.brep",
+      "native_brep_sha256": "2f6c40f284e250e729e425f857eb3d92156c3a2393277c5a5a47cca938afc913",
+      "bounds_mm": [
+        [
+          138.65598467432847,
+          -141.8094257212504,
+          126.47485699449994
+        ],
+        [
+          148.13377200996987,
+          -127.80942562125038,
+          135.9143260181417
+        ]
+      ],
+      "volume_mm3": 423.3763619999573,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "drive",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "199"
+    },
+    {
+      "key": "drive_200",
+      "name": "MR85-2RS^drive_core_sherpa_mini_a3_r9c",
+      "source_id": "0:1:1:188:5@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/drive_core^sherpa_mini_a3_r9c:1/MR85-2RS^drive_core_sherpa_mini_a3_r9c:1",
+      "source_family": "archetype",
+      "source_index": 200,
+      "source_brep_sha256": "3db41face587bda35eb9bfc5506c641872ecf946e535b40de1ab6ad310f37849",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_200.brep",
+      "native_brep_sha256": "52f5b31e12a31be543b85dbdeaecb1b75eac01fb8988d9a6542e1f26c9cfae96",
+      "bounds_mm": [
+        [
+          139.39487834214867,
+          -144.80942562125045,
+          127.16432591814169
+        ],
+        [
+          147.39487834214867,
+          -142.3094256212504,
+          135.16432591814169
+        ]
+      ],
+      "volume_mm3": 72.47400633674717,
+      "valid": true,
+      "solids": 3,
+      "appearance_role": "metal",
+      "group": "drive",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "200"
+    },
+    {
+      "key": "drive_201",
+      "name": "m3_set_screw^drive_core_sherpa_mini_a3_r9c",
+      "source_id": "0:1:1:188:6@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/drive_core^sherpa_mini_a3_r9c:1/m3_set_screw^drive_core_sherpa_mini_a3_r9c:1",
+      "source_family": "archetype",
+      "source_index": 201,
+      "source_brep_sha256": "cebddea9cf3db17b8ccc0598e3da9411dbb07333c232c629f1c2f968b84e6ecf",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_201.brep",
+      "native_brep_sha256": "467aee38bcd040f842035c8fb1965d457615c0d848370528fafbcb769d623e6d",
+      "bounds_mm": [
+        [
+          141.8948547949288,
+          -136.3094426168098,
+          133.1643052322974
+        ],
+        [
+          144.894890431194,
+          -133.3094089483596,
+          135.16432601820634
+        ]
+      ],
+      "volume_mm3": 8.994157821452344,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "drive",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "201"
+    },
+    {
+      "key": "drive_202",
+      "name": "MR85-2RS^drive_core_sherpa_mini_a3_r9c",
+      "source_id": "0:1:1:188:7@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/drive_core^sherpa_mini_a3_r9c:1/MR85-2RS^drive_core_sherpa_mini_a3_r9c:2",
+      "source_family": "archetype",
+      "source_index": 202,
+      "source_brep_sha256": "08ad20c2a81628ad787bdc98d9994209b24951473d9406b22c7443f02b0f11e6",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_202.brep",
+      "native_brep_sha256": "8897f37a27970f644311c591a076794aadb3714076b6482f63383b7f349f3063",
+      "bounds_mm": [
+        [
+          139.3948783421487,
+          -120.70942562125043,
+          127.1643259181418
+        ],
+        [
+          147.3948783421487,
+          -118.2094256212504,
+          135.1643259181418
+        ]
+      ],
+      "volume_mm3": 72.47400633674715,
+      "valid": true,
+      "solids": 3,
+      "appearance_role": "metal",
+      "group": "drive",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "202"
+    },
+    {
+      "key": "drive_203",
+      "name": "NEMA14_10t^sherpa_mini_a3_r9c",
+      "source_id": "0:1:1:176:8@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/NEMA14_10t^sherpa_mini_a3_r9c:1",
+      "source_family": "archetype",
+      "source_index": 203,
+      "source_brep_sha256": "dd5c05df8c5ddc5a7dcc932cfdf4a2d2c6f14c204d48104eae5d7e0a86de98d2",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_203.brep",
+      "native_brep_sha256": "dd6934d5d91a7cf4a77893320487c63a908314a415a295a41e130b14b423c25e",
+      "bounds_mm": [
+        [
+          122.24487834158377,
+          -123.8094257212505,
+          127.0236312581697
+        ],
+        [
+          173.14487834164336,
+          -100.30942562123774,
+          163.52363145816972
+        ]
+      ],
+      "volume_mm3": 18113.642575175836,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "motor",
+      "group": "drive",
+      "topology_repair": {
+        "method": "OCCT ShapeFix; native surfaces preserved",
+        "volume_delta_mm3": 0.0,
+        "minimum_distance_mm": 0.0
+      },
+      "color": [
+        0.22,
+        0.23,
+        0.25,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "203"
+    },
+    {
+      "key": "drive_204",
+      "name": "housing_core^housing_sherpa_mini_a3_r9c",
+      "source_id": "0:1:1:196:1@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/housing^sherpa_mini_a3_r9c:1/housing_core^housing_sherpa_mini_a3_r9c:1",
+      "source_family": "archetype",
+      "source_index": 204,
+      "source_brep_sha256": "4a9ca5760af747038951383ad34608ba4332628ff5d9ba634f4a02dc4f3665b7",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_204.brep",
+      "native_brep_sha256": "7594446416a5a6335f145c9d2a478f7f19a7bf924b33b2591529d1a376c2c849",
+      "bounds_mm": [
+        [
+          122.07456802536558,
+          -142.30942572125048,
+          117.66432580052775
+        ],
+        [
+          173.31518865893156,
+          -124.80942547394115,
+          150.22363145816948
+        ]
+      ],
+      "volume_mm3": 5851.932379091004,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "accent",
+      "group": "drive",
+      "color": [
+        0.78,
+        0.12,
+        0.16,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "204"
+    },
+    {
+      "key": "drive_205",
+      "name": "housing_front^housing_sherpa_mini_a3_r9c",
+      "source_id": "0:1:1:196:2@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/housing^sherpa_mini_a3_r9c:1/housing_front^housing_sherpa_mini_a3_r9c:1",
+      "source_family": "archetype",
+      "source_index": 205,
+      "source_brep_sha256": "84a09575a73a9f9a30fe09bdeedc81c3cd49eb2939519604b05f82faf50a4892",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_205.brep",
+      "native_brep_sha256": "6b88542a45184d2f84d83e16d2dd2d76c27270b434c0f052cd084112412dc315",
+      "bounds_mm": [
+        [
+          135.39487834214876,
+          -146.20942562125043,
+          117.66432591814169
+        ],
+        [
+          160.19487834214874,
+          -142.30942552125038,
+          144.1643259181417
+        ]
+      ],
+      "volume_mm3": 821.2477837610583,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "accent",
+      "group": "drive",
+      "color": [
+        0.78,
+        0.12,
+        0.16,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "205"
+    },
+    {
+      "key": "drive_207",
+      "name": "housing_rear_nema14^housing_sherpa_mini_a3_r9c",
+      "source_id": "0:1:1:196:4@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/housing^sherpa_mini_a3_r9c:1/housing_rear_nema14^housing_sherpa_mini_a3_r9c:1",
+      "source_family": "archetype",
+      "source_index": 207,
+      "source_brep_sha256": "512e819fe9e38e538eb8a0fc22f70fcebc4651c538d5c1da44d63c85aa12626e",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_207.brep",
+      "native_brep_sha256": "b76588bc92e55561c98602d667eb959adce7b58bc907382ddc09e42bc1df45bc",
+      "bounds_mm": [
+        [
+          122.07456812536583,
+          -124.80942572125049,
+          117.66432574835557
+        ],
+        [
+          173.3151885589317,
+          -117.80942550593926,
+          156.09863145816968
+        ]
+      ],
+      "volume_mm3": 2528.078506405321,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "accent",
+      "group": "drive",
+      "color": [
+        0.78,
+        0.12,
+        0.16,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "207"
+    },
+    {
+      "key": "drive_208",
+      "name": "idler_arm_short^housing_sherpa_mini_a3_r9c",
+      "source_id": "0:1:1:196:5@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/housing^sherpa_mini_a3_r9c:1/idler_arm_short^housing_sherpa_mini_a3_r9c:1",
+      "source_family": "archetype",
+      "source_index": 208,
+      "source_brep_sha256": "bbbbef721d6626308423f7d20116a58ca8e93b2fb0d0d82ca417a5e6255a3984",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_208.brep",
+      "native_brep_sha256": "bb4f4c0938ca9b408d49d360c5e75cc8975e77818898e0723b18cf1b1ccb4a20",
+      "bounds_mm": [
+        [
+          150.89487615660192,
+          -146.2094257214286,
+          117.6643258181417
+        ],
+        [
+          160.19488053107273,
+          -124.60942552125042,
+          144.92165814730635
+        ]
+      ],
+      "volume_mm3": 1409.0776503098632,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "accent",
+      "group": "drive",
+      "color": [
+        0.78,
+        0.12,
+        0.16,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "208"
+    },
+    {
+      "key": "drive_210",
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 16 - 16N",
+      "source_id": "0:1:1:176:10@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/socket button head screw_iso_ISO 7380 - M3 x 16 - 16N:1",
+      "source_family": "archetype",
+      "source_index": 210,
+      "source_brep_sha256": "70856947102f637700e85b023aa516c18b272b380473f9ff4651bf9bd3a228be",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_210.brep",
+      "native_brep_sha256": "0eab08f6a98e94bfe8229a24b4a91fe1863aa85de9748a652024298c7c2c4504",
+      "bounds_mm": [
+        [
+          163.19487834214897,
+          -136.45942562125032,
+          118.51432591814181
+        ],
+        [
+          168.89487834214896,
+          -118.80942562125031,
+          124.2143259181418
+        ]
+      ],
+      "volume_mm3": 139.58755221253801,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "drive",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "210"
+    },
+    {
+      "key": "drive_211",
+      "name": "insert_m3x5x4 (2)",
+      "source_id": "0:1:1:176:11@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/insert_m3x5x4 (2):1",
+      "source_family": "archetype",
+      "source_index": 211,
+      "source_brep_sha256": "13146d1c79878afd9e378ded6ac1251b52a2b36b16ac23667e3003d07b0358d7",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_211.brep",
+      "native_brep_sha256": "226e79cb5d67b77d4f2d226d6aa69cd543e0eda2ed5c769464f7ddef3d52813e",
+      "bounds_mm": [
+        [
+          150.59487824214892,
+          -137.55942572125045,
+          138.41432581814183
+        ],
+        [
+          154.59487844215957,
+          -132.55942552125046,
+          143.41432601814182
+        ]
+      ],
+      "volume_mm3": 46.36645851917145,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "brass",
+      "group": "drive",
+      "color": [
+        0.68,
+        0.45,
+        0.16,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "211"
+    },
+    {
+      "key": "drive_212",
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 8 - 8N (2)",
+      "source_id": "0:1:1:176:12@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/socket button head screw_iso_ISO 7380 - M3 x 8 - 8N (2):2",
+      "source_family": "archetype",
+      "source_index": 212,
+      "source_brep_sha256": "8ce90020e0045024fc3c6935da4667bf4efd2512b3830db4443871bf793a594f",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_212.brep",
+      "native_brep_sha256": "d6203267b474f6891e0f4cdc517d6f8d66410f7ed3ac50435a169570bfdaa01a",
+      "bounds_mm": [
+        [
+          140.5448783421489,
+          -146.70942562125038,
+          119.31432591814176
+        ],
+        [
+          146.2448783421489,
+          -137.05942562125037,
+          125.01432591814175
+        ]
+      ],
+      "volume_mm3": 83.03873580326761,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "drive",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "212"
+    },
+    {
+      "key": "drive_213",
+      "name": "insert_m3x5x4 (2)",
+      "source_id": "0:1:1:176:13@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/insert_m3x5x4 (2):4",
+      "source_family": "archetype",
+      "source_index": 213,
+      "source_brep_sha256": "4b913ccdbe1ab6df44cc8c1758e348c8ba1264f14e1a5378ee65f2af9b81d1a8",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_213.brep",
+      "native_brep_sha256": "e568d9e1adaa181742cabe189eb6abeafc42acbfce052c1f2243708d2eaccc88",
+      "bounds_mm": [
+        [
+          163.54487824214885,
+          -121.80942572125035,
+          118.86432581814182
+        ],
+        [
+          168.54487863650786,
+          -117.80942552123969,
+          123.86432601814187
+        ]
+      ],
+      "volume_mm3": 46.36645851917147,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "brass",
+      "group": "drive",
+      "color": [
+        0.68,
+        0.45,
+        0.16,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "213"
+    },
+    {
+      "key": "drive_214",
+      "name": "insert_m3x5x4 (2)",
+      "source_id": "0:1:1:176:14@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/insert_m3x5x4 (2):2",
+      "source_family": "archetype",
+      "source_index": 214,
+      "source_brep_sha256": "7562ad2df7a12fd8fe8b92c0296751693f0093ee2038e6bd46f63db0fe1a8fdf",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_214.brep",
+      "native_brep_sha256": "5350d83f948b23430a82f61cfb59c89c34310c34a0bb17126cddbabe6c5adc20",
+      "bounds_mm": [
+        [
+          140.8948782421489,
+          -142.3094257212611,
+          137.6643258181418
+        ],
+        [
+          145.8948784421489,
+          -138.30942552125043,
+          142.6643260181418
+        ]
+      ],
+      "volume_mm3": 46.366458519171594,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "brass",
+      "group": "drive",
+      "color": [
+        0.68,
+        0.45,
+        0.16,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "214"
+    },
+    {
+      "key": "drive_215",
+      "name": "insert_m3x5x4 (2)",
+      "source_id": "0:1:1:176:15@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/insert_m3x5x4 (2):5",
+      "source_family": "archetype",
+      "source_index": 215,
+      "source_brep_sha256": "c1f9ed8a5ec07e059ad2b64b136c12bdde893b130cd75268b6036d3cdaf25192",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_215.brep",
+      "native_brep_sha256": "5a58884f05b39eb404e3b50409a461a0004b9952cc09f5e8b01853ea9d4176d6",
+      "bounds_mm": [
+        [
+          126.84487824214887,
+          -121.80942572125039,
+          118.86432581814181
+        ],
+        [
+          131.84487863650787,
+          -117.80942552123973,
+          123.86432601814187
+        ]
+      ],
+      "volume_mm3": 46.36645851917147,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "brass",
+      "group": "drive",
+      "color": [
+        0.68,
+        0.45,
+        0.16,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "215"
+    },
+    {
+      "key": "drive_216",
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 12 - 12N (2)",
+      "source_id": "0:1:1:176:16@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/socket button head screw_iso_ISO 7380 - M3 x 12 - 12N (2):1",
+      "source_family": "archetype",
+      "source_index": 216,
+      "source_brep_sha256": "e97ca6dab44452c90a86591760c74dae455a065a4d0d95c220d0a27ae91986f3",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_216.brep",
+      "native_brep_sha256": "bccf64574d647cfd0cdb11fb7f68b92d91c2cf80a27f22221525db12aea99034",
+      "bounds_mm": [
+        [
+          166.7651885589317,
+          -129.4594256212505,
+          142.42363135816964
+        ],
+        [
+          172.4651885589317,
+          -115.80942562125048,
+          148.12363135816963
+        ]
+      ],
+      "volume_mm3": 111.3131440079025,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "drive",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "216"
+    },
+    {
+      "key": "drive_217",
+      "name": "socket button head screw_iso_ISO 7380 - M3 x 16 - 16N",
+      "source_id": "0:1:1:176:17@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini v1:1/SherpaMini:1/socket button head screw_iso_ISO 7380 - M3 x 16 - 16N:2",
+      "source_family": "archetype",
+      "source_index": 217,
+      "source_brep_sha256": "1e569cb1a21df3287eabb299a41ecae393b07879a6924eb7731fc4561290b237",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.65035801171575
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -114.8652685330893
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          92.90673783951898
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_217.brep",
+      "native_brep_sha256": "aabd6608f83035fe3c0518c8a241b0841c12d22c3424c7300f3b13ed57496dec",
+      "bounds_mm": [
+        [
+          126.49487834214898,
+          -136.45942562125035,
+          118.51432591814178
+        ],
+        [
+          132.19487834214897,
+          -118.80942562125034,
+          124.21432591814177
+        ]
+      ],
+      "volume_mm3": 139.58755221253804,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "drive",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "217"
+    },
+    {
+      "key": "dragon_0",
+      "name": "V6 Nozzle",
+      "source_id": "0:1:1:3:1@Dragon_Burner_v2 v114/Hotends:1/Dragon_Hotend:1/V6 Nozzle:1",
+      "source_family": "dragon-native-v2",
+      "source_index": 0,
+      "source_brep_sha256": "480e49961f6cdfa495487be19830c693c4dfade3c624184e74ffb6a35c1394b6",
+      "rigid_transform_mm": [
+        [
+          -0.999999930282361,
+          0.00037341032898791326,
+          0.0,
+          132.19594608698796
+        ],
+        [
+          -0.0003734103289879133,
+          -0.9999999302823608,
+          0.0,
+          -154.4703484316122
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          50.75
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/dragon_0.brep",
+      "native_brep_sha256": "c0ac49f9e2e3407fb19c582e2bdfc16ac36f8f6369dbf9d90e672bd2b6e45f88",
+      "bounds_mm": [
+        [
+          144.16217616460165,
+          -134.79114093790864,
+          48.590539030917384
+        ],
+        [
+          151.16368499646106,
+          -126.70823753277185,
+          61.090539130917385
+        ]
+      ],
+      "volume_mm3": 211.2209186199366,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "hotend",
+      "group": "hotend",
+      "color": [
+        0.62,
+        0.65,
+        0.68,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "0"
+    },
+    {
+      "key": "dragon_1",
+      "name": "heatsink",
+      "source_id": "0:1:1:3:2@Dragon_Burner_v2 v114/Hotends:1/Dragon_Hotend:1/heatsink:1",
+      "source_family": "dragon-native-v2",
+      "source_index": 1,
+      "source_brep_sha256": "65bcd6b27d163c251849f6d542ce5b1cd9273e0bd32c0e1b4a619d60ec2a3ba9",
+      "rigid_transform_mm": [
+        [
+          -0.999999930282361,
+          0.00037341032898791326,
+          0.0,
+          132.19594608698796
+        ],
+        [
+          -0.0003734103289879133,
+          -0.9999999302823608,
+          0.0,
+          -154.4703484316122
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          50.75
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/dragon_1.brep",
+      "native_brep_sha256": "ff4679946d2685aa3b28b71696f2c033988dafe409662f7f98ed7fd445cc5c9a",
+      "bounds_mm": [
+        [
+          136.54853285097795,
+          -141.89967604104638,
+          61.0996776384554
+        ],
+        [
+          158.84853305097795,
+          -119.59967584104638,
+          94.100539130938
+        ]
+      ],
+      "volume_mm3": 3345.258287630039,
+      "valid": true,
+      "solids": 2,
+      "appearance_role": "hotend",
+      "group": "hotend",
+      "color": [
+        0.62,
+        0.65,
+        0.68,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "1"
+    },
+    {
+      "key": "dragon_2",
+      "name": "block standoffs",
+      "source_id": "0:1:1:3:3@Dragon_Burner_v2 v114/Hotends:1/Dragon_Hotend:1/block standoffs:1",
+      "source_family": "dragon-native-v2",
+      "source_index": 2,
+      "source_brep_sha256": "fe1b97c511d5ee7be6c941a996d471ebff638166d80ce501578347cbdc51c59a",
+      "rigid_transform_mm": [
+        [
+          -0.999999930282361,
+          0.00037341032898791326,
+          0.0,
+          132.19594608698796
+        ],
+        [
+          -0.0003734103289879133,
+          -0.9999999302823608,
+          0.0,
+          -154.4703484316122
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          50.75
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/dragon_2.brep",
+      "native_brep_sha256": "c692ff1beaf080233cf655f6b943ea8dc66ccc97beaa57c04ce490d6fa8c501c",
+      "bounds_mm": [
+        [
+          140.3985332692836,
+          -137.9019159847145,
+          57.200539030917376
+        ],
+        [
+          154.99853263267192,
+          -123.59743589737842,
+          70.60053913092084
+        ]
+      ],
+      "volume_mm3": 70.96996924070035,
+      "valid": true,
+      "solids": 6,
+      "appearance_role": "hotend",
+      "group": "hotend",
+      "color": [
+        0.62,
+        0.65,
+        0.68,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "2"
+    },
+    {
+      "key": "dragon_3",
+      "name": "block",
+      "source_id": "0:1:1:3:4@Dragon_Burner_v2 v114/Hotends:1/Dragon_Hotend:1/block:1",
+      "source_family": "dragon-native-v2",
+      "source_index": 3,
+      "source_brep_sha256": "17e07f81a1d3d154347d1b1b4d9bd2904f3d6fd5cf66b0b761487c7b5891c53f",
+      "rigid_transform_mm": [
+        [
+          -0.999999930282361,
+          0.00037341032898791326,
+          0.0,
+          132.19594608698796
+        ],
+        [
+          -0.0003734103289879133,
+          -0.9999999302823608,
+          0.0,
+          -154.4703484316122
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          50.75
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/dragon_3.brep",
+      "native_brep_sha256": "bd7346a2c5a2c4e5738523ea0431524034f6b8e246ac3ba74081b35fec4cf019",
+      "bounds_mm": [
+        [
+          138.06391971969342,
+          -140.32768625513933,
+          51.10053903091739
+        ],
+        [
+          157.24092760033054,
+          -114.21187307715199,
+          67.1005391309174
+        ]
+      ],
+      "volume_mm3": 4929.595304294016,
+      "valid": true,
+      "solids": 4,
+      "appearance_role": "hotend",
+      "group": "hotend",
+      "color": [
+        0.62,
+        0.65,
+        0.68,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "3"
+    },
+    {
+      "key": "fan_3010",
+      "name": "3010_Fan v1",
+      "source_id": "0:1:1:1:2@Dragon_Burner_v2 v114/3010_Fan v1:1",
+      "source_family": "dragon-native-v2",
+      "source_index": 4,
+      "source_brep_sha256": "4a5b0644fd67f77a33a338f01b400967044c6764e435ab53f68c97898b1210c0",
+      "rigid_transform_mm": [
+        [
+          -1.0,
+          0.0,
+          0.0,
+          132.21711334539
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0,
+          -153.429764074649
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          52.05
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/fan_3010.brep",
+      "native_brep_sha256": "b008955e69aa43afae07466e9f78547afff5608830f3e862ff561eadb0f04c6f",
+      "bounds_mm": [
+        [
+          132.6669467324028,
+          -153.42976417465027,
+          68.34999974668023
+        ],
+        [
+          162.66694673240292,
+          -143.42976397465,
+          98.34999974668023
+        ]
+      ],
+      "volume_mm3": 4773.226928412588,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "fan",
+      "group": "fan",
+      "color": [
+        0.07,
+        0.08,
+        0.09,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "4"
+    },
+    {
+      "key": "fan_4010_left",
+      "name": "4010 - Blower Assembly",
+      "source_id": "0:1:1:1:6@Dragon_Burner_v2 v114/4010 - Blower Assembly:1",
+      "source_family": "dragon-native-v2",
+      "source_index": 14,
+      "source_brep_sha256": "1dcd65c0861d6c4f7a9ffb579c70c00e5b2c1190b98a069fc4e7ee99bf22b1fa",
+      "rigid_transform_mm": [
+        [
+          -1.0,
+          0.0,
+          0.0,
+          132.21711334539
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0,
+          -154.429764074649
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          50.75
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/fan_4010_left.brep",
+      "native_brep_sha256": "41324846122b9df19afb10f17b11d39aacb8f672f2410d84f51fbef4a809b10b",
+      "bounds_mm": [
+        [
+          121.36711334539001,
+          -154.4297640746514,
+          62.75000000000286
+        ],
+        [
+          131.11711334539007,
+          -114.42976407462292,
+          102.75000000003185
+        ]
+      ],
+      "volume_mm3": 5701.182850531814,
+      "valid": true,
+      "solids": 2,
+      "appearance_role": "fan",
+      "group": "fan",
+      "color": [
+        0.07,
+        0.08,
+        0.09,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "14"
+    },
+    {
+      "key": "fan_4010_right",
+      "name": "4010 - Blower Assembly (1)",
+      "source_id": "0:1:1:1:7@Dragon_Burner_v2 v114/4010 - Blower Assembly (1):1",
+      "source_family": "dragon-native-v2",
+      "source_index": 15,
+      "source_brep_sha256": "088c094e4a2875ca160e57185830b3f3ba40065717c5e67fb29a5bee7b0166f3",
+      "rigid_transform_mm": [
+        [
+          -1.0,
+          0.0,
+          0.0,
+          132.21711334539
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0,
+          -154.429764074649
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          50.75
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/fan_4010_right.brep",
+      "native_brep_sha256": "9b9c73fa0d8a4fa09090f2acc2a1c0bfd5ad48b13cbba8ff856ed47f1971500d",
+      "bounds_mm": [
+        [
+          164.2171133453898,
+          -154.4297640746596,
+          62.74999999999169
+        ],
+        [
+          173.96711334539,
+          -114.42976407462207,
+          102.75000000003055
+        ]
+      ],
+      "volume_mm3": 5701.182850531805,
+      "valid": true,
+      "solids": 2,
+      "appearance_role": "fan",
+      "group": "fan",
+      "color": [
+        0.07,
+        0.08,
+        0.09,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "15"
+    },
+    {
+      "key": "drive_heatset_0",
+      "name": "M3 Threaded Insert (1)",
+      "source_id": "0:1:1:51:1@Lineux Stealth Dragonburner v35/Dragonburner:1/Backplate (3):1/M3 Threaded Insert (1):1",
+      "source_family": "dragoncombo",
+      "source_index": 42,
+      "source_brep_sha256": "747933d9ba69596e68e18fb25a676c6328c4297a019b25492c9dda7d0cda50fe",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          -2.32772029912269e-14,
+          2.32772029912269e-14,
+          -13.514865249132157
+        ],
+        [
+          -2.32772029912269e-14,
+          0.0,
+          1.0,
+          -201.91488227778663
+        ],
+        [
+          -2.32772029912269e-14,
+          -1.0,
+          0.0,
+          220.61404520048714
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_heatset_0.brep",
+      "native_brep_sha256": "4431ddd869f2340ae4e6242fab080bb2a6006cb7794afb051e42eebb316da097",
+      "bounds_mm": [
+        [
+          123.44487730549936,
+          -133.309580032025,
+          103.2643259181417
+        ],
+        [
+          128.44490307769726,
+          -128.30932631970197,
+          107.26432601814395
+        ]
+      ],
+      "volume_mm3": 39.28820002772993,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "brass",
+      "group": "heatset",
+      "color": [
+        0.68,
+        0.45,
+        0.16,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "42"
+    },
+    {
+      "key": "drive_mount_screw_0",
+      "name": "M3x20 SHCS",
+      "source_id": "0:1:1:8:3@Archetype Public CAD v22/Core:1/Core Hardware:1/Hardware:1/Lowers:1/M3x20 SHCS:1",
+      "source_family": "archetype",
+      "source_index": 6,
+      "source_brep_sha256": "5cf4d114f3313286bf5c980a7f4f9eb59d0cad030069edf3fd7bcbc9d7a366ac",
+      "rigid_transform_mm": [
+        [
+          0.9599224818912503,
+          -0.19647737905616694,
+          0.19986362420150797,
+          110.10854280175715
+        ],
+        [
+          -0.19647737905616694,
+          0.036782657647834505,
+          0.9798181849790202,
+          -108.139481453453
+        ],
+        [
+          -0.19986362420150797,
+          -0.9798181849790202,
+          -0.0032948604609150944,
+          115.92001131377138
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_mount_screw_0.brep",
+      "native_brep_sha256": "efe47552c001ccb54238c636cacad60f90566d9cf97f7a4098225e43b476811c",
+      "bounds_mm": [
+        [
+          123.19487824214872,
+          -133.55942572125036,
+          105.06432591814172
+        ],
+        [
+          128.6948784421487,
+          -128.05942552125038,
+          128.0643260181417
+        ]
+      ],
+      "volume_mm3": 200.37475275996397,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "fastener",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "6"
+    },
+    {
+      "key": "drive_heatset_1",
+      "name": "M3 Threaded Insert (1)",
+      "source_id": "0:1:1:51:1@Lineux Stealth Dragonburner v35/Dragonburner:1/Backplate (3):1/M3 Threaded Insert (1):1",
+      "source_family": "dragoncombo",
+      "source_index": 42,
+      "source_brep_sha256": "747933d9ba69596e68e18fb25a676c6328c4297a019b25492c9dda7d0cda50fe",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          -2.32772029912269e-14,
+          2.32772029912269e-14,
+          29.985134750867843
+        ],
+        [
+          -2.32772029912269e-14,
+          0.0,
+          1.0,
+          -201.91488227778672
+        ],
+        [
+          -2.32772029912269e-14,
+          -1.0,
+          0.0,
+          220.61404520048714
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_heatset_1.brep",
+      "native_brep_sha256": "59ee323e6dc0b3c5906274b4cd6a49e21e332feb6fe34ca1f0fa2cbcab60c15e",
+      "bounds_mm": [
+        [
+          166.94487730549938,
+          -133.30958003202508,
+          103.2643259181417
+        ],
+        [
+          171.94490307769726,
+          -128.30932631970205,
+          107.26432601814395
+        ]
+      ],
+      "volume_mm3": 39.28820002772995,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "brass",
+      "group": "heatset",
+      "color": [
+        0.68,
+        0.45,
+        0.16,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "42"
+    },
+    {
+      "key": "drive_mount_screw_1",
+      "name": "M3x20 SHCS",
+      "source_id": "0:1:1:8:3@Archetype Public CAD v22/Core:1/Core Hardware:1/Hardware:1/Lowers:1/M3x20 SHCS:1",
+      "source_family": "archetype",
+      "source_index": 6,
+      "source_brep_sha256": "5cf4d114f3313286bf5c980a7f4f9eb59d0cad030069edf3fd7bcbc9d7a366ac",
+      "rigid_transform_mm": [
+        [
+          0.9599224818912503,
+          -0.19647737905616694,
+          0.19986362420150797,
+          153.60854280175715
+        ],
+        [
+          -0.19647737905616694,
+          0.036782657647834505,
+          0.9798181849790202,
+          -108.13948145345309
+        ],
+        [
+          -0.19986362420150797,
+          -0.9798181849790202,
+          -0.0032948604609150944,
+          115.92001131377138
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/drive_mount_screw_1.brep",
+      "native_brep_sha256": "8b736a1493a1ea9f1f69bc55bdb822f414231ca732feec8c8174f34546d5da81",
+      "bounds_mm": [
+        [
+          166.69487824214872,
+          -133.55942572125045,
+          105.06432591814172
+        ],
+        [
+          172.1948783421487,
+          -128.05942552125046,
+          128.0643260181417
+        ]
+      ],
+      "volume_mm3": 200.37475275996403,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "fastener",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "6"
+    },
+    {
+      "key": "cowl_heatset_0",
+      "name": "M3 Threaded Insert (1)",
+      "source_id": "0:1:1:51:1@Lineux Stealth Dragonburner v35/Dragonburner:1/Backplate (3):1/M3 Threaded Insert (1):1",
+      "source_family": "dragoncombo",
+      "source_index": 42,
+      "source_brep_sha256": "747933d9ba69596e68e18fb25a676c6328c4297a019b25492c9dda7d0cda50fe",
+      "rigid_transform_mm": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          274.6365800785489
+        ],
+        [
+          -0.0,
+          -1.0,
+          8.39348003155156e-28,
+          -27.58004473917029
+        ],
+        [
+          -0.0,
+          8.39348003155156e-28,
+          1.0,
+          43.10886926160249
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/cowl_heatset_0.brep",
+      "native_brep_sha256": "a8edcd617ea872aae66dfdf7513d3dc7ebe0420cbb9e9757b2a28b715f54efa5",
+      "bounds_mm": [
+        [
+          132.67681175171842,
+          -144.92976402151254,
+          111.71417150736737
+        ],
+        [
+          137.67683752391633,
+          -140.92976392151027,
+          116.7144252196904
+        ]
+      ],
+      "volume_mm3": 39.28820002773,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "brass",
+      "group": "heatset",
+      "color": [
+        0.68,
+        0.45,
+        0.16,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "42"
+    },
+    {
+      "key": "cowl_screw_0",
+      "name": "M3x20 SHCS",
+      "source_id": "0:1:1:8:3@Archetype Public CAD v22/Core:1/Core Hardware:1/Hardware:1/Lowers:1/M3x20 SHCS:1",
+      "source_family": "archetype",
+      "source_index": 6,
+      "source_brep_sha256": "5cf4d114f3313286bf5c980a7f4f9eb59d0cad030069edf3fd7bcbc9d7a366ac",
+      "rigid_transform_mm": [
+        [
+          -0.9792802697595164,
+          0.19986362420150797,
+          -0.03262951088751115,
+          154.59238547956278
+        ],
+        [
+          -0.19986362420150797,
+          -0.9798181849790157,
+          -0.003294860460915371,
+          -132.56379991055732
+        ],
+        [
+          -0.03262951088751115,
+          0.003294860460915371,
+          0.9994620847805008,
+          133.90575423725278
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/cowl_screw_0.brep",
+      "native_brep_sha256": "7449d67b9a6156839ba220d49a635c32294609f5906c68a2d87f74d04465821d",
+      "bounds_mm": [
+        [
+          132.42683638726723,
+          -143.41948530618743,
+          111.46432581814229
+        ],
+        [
+          137.92683658726722,
+          -120.4194852061875,
+          116.96432601814224
+        ]
+      ],
+      "volume_mm3": 200.37475275996226,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "fastener",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "6"
+    },
+    {
+      "key": "cowl_heatset_1",
+      "name": "M3 Threaded Insert (1)",
+      "source_id": "0:1:1:51:1@Lineux Stealth Dragonburner v35/Dragonburner:1/Backplate (3):1/M3 Threaded Insert (1):1",
+      "source_family": "dragoncombo",
+      "source_index": 42,
+      "source_brep_sha256": "747933d9ba69596e68e18fb25a676c6328c4297a019b25492c9dda7d0cda50fe",
+      "rigid_transform_mm": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          299.6365800785479
+        ],
+        [
+          -0.0,
+          -1.0,
+          8.39348003155156e-28,
+          -27.58004473917029
+        ],
+        [
+          -0.0,
+          8.39348003155156e-28,
+          1.0,
+          43.1089935662645
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/cowl_heatset_1.brep",
+      "native_brep_sha256": "2e11b50e1a83bf7fbb2d3dfd1325b02a71e2ec0a4eba72299c8cec0a91a0e7d2",
+      "bounds_mm": [
+        [
+          157.67681175171745,
+          -144.92976402151254,
+          111.71429581202938
+        ],
+        [
+          162.67683752391537,
+          -140.92976392151027,
+          116.7145495243524
+        ]
+      ],
+      "volume_mm3": 39.288200027729985,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "brass",
+      "group": "heatset",
+      "color": [
+        0.68,
+        0.45,
+        0.16,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "42"
+    },
+    {
+      "key": "cowl_screw_1",
+      "name": "M3x20 SHCS",
+      "source_id": "0:1:1:8:3@Archetype Public CAD v22/Core:1/Core Hardware:1/Hardware:1/Lowers:1/M3x20 SHCS:1",
+      "source_family": "archetype",
+      "source_index": 6,
+      "source_brep_sha256": "5cf4d114f3313286bf5c980a7f4f9eb59d0cad030069edf3fd7bcbc9d7a366ac",
+      "rigid_transform_mm": [
+        [
+          -0.9792802697595164,
+          0.19986362420150797,
+          -0.03262951088751115,
+          179.59238547956176
+        ],
+        [
+          -0.19986362420150797,
+          -0.9798181849790157,
+          -0.003294860460915371,
+          -132.56379991055732
+        ],
+        [
+          -0.03262951088751115,
+          0.003294860460915371,
+          0.9994620847805008,
+          133.9058785419148
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/cowl_screw_1.brep",
+      "native_brep_sha256": "1fb0a382891ca87720c0d734a4cb7bc9c33aeed1b567dc0552bf5d4ef2100dc1",
+      "bounds_mm": [
+        [
+          157.4268363872662,
+          -143.41948530618743,
+          111.46445012280428
+        ],
+        [
+          162.9268365872662,
+          -120.4194852061875,
+          116.96445032280424
+        ]
+      ],
+      "volume_mm3": 200.37475275996238,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "fastener",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "6"
+    },
+    {
+      "key": "hotend_screw_0",
+      "name": "M2.5x8 SHCS",
+      "source_id": "0:1:1:179:2@Xol Toolhead Assembly Guide v0/Toolhead Assembly <1>:1/Hotend Mounts Assembly <1>:1/Hotend Mount Assembly - Dragon UHF <1>:1/M2.5x8 SHCS:21",
+      "source_family": "xol-dragon",
+      "source_index": 257,
+      "source_brep_sha256": "36d7cc576c55ac5491a2fbf25a05c4ad6e20b2efc3bd483d4d0d7b3115e656d6",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.79641662337895
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -94.68356153003387
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          88.63845696559684
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/hotend_screw_0.brep",
+      "native_brep_sha256": "7b01507edeb510c8dd779246b047ad7f4012f9a7f4a8d264a2da7e713646c79f",
+      "bounds_mm": [
+        [
+          151.10327447828152,
+          -127.34070975813032,
+          90.26432591814265
+        ],
+        [
+          155.60327447828152,
+          -122.84070975812986,
+          100.7643259181432
+        ]
+      ],
+      "volume_mm3": 74.49810533211813,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "fastener",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "257"
+    },
+    {
+      "key": "hotend_screw_1",
+      "name": "M2.5x8 SHCS",
+      "source_id": "0:1:1:179:2@Xol Toolhead Assembly Guide v0/Toolhead Assembly <1>:1/Hotend Mounts Assembly <1>:1/Hotend Mount Assembly - Dragon UHF <1>:1/M2.5x8 SHCS:21",
+      "source_family": "xol-dragon",
+      "source_index": 257,
+      "source_brep_sha256": "36d7cc576c55ac5491a2fbf25a05c4ad6e20b2efc3bd483d4d0d7b3115e656d6",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.80064127899158
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -105.99726924025353
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          88.63845696559684
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/hotend_screw_1.brep",
+      "native_brep_sha256": "1c087b1fceb90ca11583e35430d6d3bd3de7c49afa5ff5807d5f754f5493d3c2",
+      "bounds_mm": [
+        [
+          151.10749913389415,
+          -138.65441746834998,
+          90.26432591814265
+        ],
+        [
+          155.60749913389415,
+          -134.15441746834952,
+          100.7643259181432
+        ]
+      ],
+      "volume_mm3": 74.49810533211812,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "fastener",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "257"
+    },
+    {
+      "key": "hotend_screw_2",
+      "name": "M2.5x8 SHCS",
+      "source_id": "0:1:1:179:2@Xol Toolhead Assembly Guide v0/Toolhead Assembly <1>:1/Hotend Mounts Assembly <1>:1/Hotend Mount Assembly - Dragon UHF <1>:1/M2.5x8 SHCS:21",
+      "source_family": "xol-dragon",
+      "source_index": 257,
+      "source_brep_sha256": "36d7cc576c55ac5491a2fbf25a05c4ad6e20b2efc3bd483d4d0d7b3115e656d6",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          136.4827089131592
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -94.68778618564642
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          88.63845696559684
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/hotend_screw_2.brep",
+      "native_brep_sha256": "0372ffbd931d1705eb0a75be2708d518c600c1191543d5598ca92b62b0f6373d",
+      "bounds_mm": [
+        [
+          139.78956676806177,
+          -127.34493441374283,
+          90.26432591814265
+        ],
+        [
+          144.28956676806177,
+          -122.84493441374238,
+          100.7643259181432
+        ]
+      ],
+      "volume_mm3": 74.4981053321181,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "fastener",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "257"
+    },
+    {
+      "key": "hotend_screw_3",
+      "name": "M2.5x8 SHCS",
+      "source_id": "0:1:1:179:2@Xol Toolhead Assembly Guide v0/Toolhead Assembly <1>:1/Hotend Mounts Assembly <1>:1/Hotend Mount Assembly - Dragon UHF <1>:1/M2.5x8 SHCS:21",
+      "source_family": "xol-dragon",
+      "source_index": 257,
+      "source_brep_sha256": "36d7cc576c55ac5491a2fbf25a05c4ad6e20b2efc3bd483d4d0d7b3115e656d6",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          136.48693356877183
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -106.00149389586616
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          88.63845696559684
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/hotend_screw_3.brep",
+      "native_brep_sha256": "dcca0e8394bacd16f2730184bc55197ed3b8a0685566182a7789cab0ff461402",
+      "bounds_mm": [
+        [
+          139.7937914236744,
+          -138.6586421239626,
+          90.26432591814265
+        ],
+        [
+          144.2937914236744,
+          -134.15864212396215,
+          100.7643259181432
+        ]
+      ],
+      "volume_mm3": 74.49810533211813,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "fastener",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "257"
+    },
+    {
+      "key": "brace_screw_0",
+      "name": "M3x6 BHCS v1(Mirror)",
+      "source_id": "0:1:1:112:1@Archetype Public CAD v22/Core:1/Extruder Block:1/Breakneck Blocks:1/Breakneck Sherpa Micro v29:2/bar test v27 (1) (1):1/M3x6 BHCS v1:1/M3x6 BHCS v1(Mirror):1",
+      "source_family": "archetype",
+      "source_index": 115,
+      "source_brep_sha256": "48375a38b4fb11d4483183cf2f2586e2cf070c82b4882676d9dfd860691d029a",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          138.11062484795164
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -127.40066239708668
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          40.527649631233345
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/brace_screw_0.brep",
+      "native_brep_sha256": "2a64f30068a12d096609cd2f01540546892071e9ef2e9c1d3b11973b0e86d68b",
+      "bounds_mm": [
+        [
+          129.7606248479619,
+          -118.42976402151183,
+          57.42765112427576
+        ],
+        [
+          135.4606248479619,
+          -110.77976392151022,
+          63.127651124275936
+        ]
+      ],
+      "volume_mm3": 68.58063810189516,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "fastener",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "115"
+    },
+    {
+      "key": "brace_screw_1",
+      "name": "M3x6 BHCS v1(Mirror)",
+      "source_id": "0:1:1:112:1@Archetype Public CAD v22/Core:1/Extruder Block:1/Breakneck Blocks:1/Breakneck Sherpa Micro v29:2/bar test v27 (1) (1):1/M3x6 BHCS v1:1/M3x6 BHCS v1(Mirror):1",
+      "source_family": "archetype",
+      "source_index": 115,
+      "source_brep_sha256": "48375a38b4fb11d4483183cf2f2586e2cf070c82b4882676d9dfd860691d029a",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          168.32360184280665
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -127.40066239708668
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          40.527649631233345
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/brace_screw_1.brep",
+      "native_brep_sha256": "a6647dbb2ce858fa88a3296af7deb71b85f2102ee281279b21e9304b3047dde6",
+      "bounds_mm": [
+        [
+          159.97360184281692,
+          -118.42976402151183,
+          57.42765112427576
+        ],
+        [
+          165.6736018428169,
+          -110.77976392151022,
+          63.127651124275936
+        ]
+      ],
+      "volume_mm3": 68.58063810189516,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "fastener",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "115"
+    },
+    {
+      "key": "v0r1_source_carriage",
+      "name": "X Carriage Body",
+      "source_id": "0:1:1:223:1@(Unsaved)/Gantry:1/Mini Stealthburner:1/Printed Parts (12):1/X Carriage:1/X Carriage Body:1",
+      "source_family": "v0r1",
+      "source_index": 353,
+      "source_brep_sha256": "08789f5ee981a2a8b5c98d8a42d5b24ce8740ebb442c1e9d7c01386f98f052d0",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.67500000000513
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -105.70898718580177
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -174.14999999999992
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/v0r1_source_carriage.brep",
+      "native_brep_sha256": "c22cdab2e8b9a943fe459619cadf76ed4c699dd730ff22045ccadec3b63f2203",
+      "bounds_mm": [
+        [
+          130.67683638727374,
+          -119.41949292093018,
+          81.15000366215793
+        ],
+        [
+          164.67683658727375,
+          -93.41949282092342,
+          117.3985723778905
+        ]
+      ],
+      "volume_mm3": 9197.938615622425,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "base",
+      "group": "carriage",
+      "color": [
+        0.12,
+        0.14,
+        0.17,
+        1
+      ],
+      "motion": "xy",
+      "component": "carriage",
+      "source_key": "353"
+    },
+    {
+      "key": "mgn7h_block",
+      "name": "MGN7H Carriage",
+      "source_id": "0:1:1:206:1@(Unsaved)/Gantry:1/X Axis:1/Linear Rail:1/MGN7 Rail 150mm:1/MGN7 Rail (4):1/MGN7H Carriage:1",
+      "source_family": "v0r1",
+      "source_index": 326,
+      "source_brep_sha256": "aaba94ae62f891002e19018fc38ae474617db01b1917d98ce8f8f153a0738a02",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.67500000000513
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -105.70898718580177
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -174.14999999999992
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/mgn7h_block.brep",
+      "native_brep_sha256": "9578c647a3f09f4e7dd8f9f84c7616a5e73eb254425c1fa52b6345bceb067aaa",
+      "bounds_mm": [
+        [
+          131.87070084165575,
+          -111.41949282092375,
+          98.65000366215712
+        ],
+        [
+          163.48297213360937,
+          -94.41949282092367,
+          105.05000366215735
+        ]
+      ],
+      "volume_mm3": 2475.3669419688144,
+      "valid": true,
+      "solids": 9,
+      "appearance_role": "metal",
+      "group": "carriage",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "carriage",
+      "source_key": "326"
+    },
+    {
+      "key": "block_screw_0",
+      "name": "M2x6 SHCS (5)",
+      "source_id": "0:1:1:249:2@(Unsaved)/Gantry:1/Mini Stealthburner:1/Hardware (12):1/Screws (15):1/M2x6 SHCS (5):1",
+      "source_family": "v0r1",
+      "source_index": 374,
+      "source_brep_sha256": "4c862328a0e2814e0f2f196ed4e41888cce3717d088f77ceef1c0bffe756054e",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.67500000000513
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -105.70898718580177
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -174.14999999999992
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/block_screw_0.brep",
+      "native_brep_sha256": "2da077069340013ddbd907041041bdb02a62207b70813d1d00ef71ec128f2409",
+      "bounds_mm": [
+        [
+          152.27683648727375,
+          -110.8194928209236,
+          103.05000366215778
+        ],
+        [
+          156.07683648727377,
+          -107.01949282092356,
+          111.0500037621578
+        ]
+      ],
+      "volume_mm3": 39.011725574587295,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "carriage",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "carriage",
+      "source_key": "374"
+    },
+    {
+      "key": "block_screw_1",
+      "name": "M2x6 SHCS (5)",
+      "source_id": "0:1:1:249:11@(Unsaved)/Gantry:1/Mini Stealthburner:1/Hardware (12):1/Screws (15):1/M2x6 SHCS (5):2",
+      "source_family": "v0r1",
+      "source_index": 383,
+      "source_brep_sha256": "3c368c1f539b9bd2cac1a6bfaaa6730d8bf3eb795d64a5426f43842267424a39",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.67500000000513
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -105.70898718580177
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -174.14999999999992
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/block_screw_1.brep",
+      "native_brep_sha256": "5b00494bd320751f89a74a21476fd735a50fea9fff3f484f123aa0c1b5a1752f",
+      "bounds_mm": [
+        [
+          152.27683648727378,
+          -98.81949282092359,
+          103.0500036621578
+        ],
+        [
+          156.0768364872738,
+          -95.01949282092355,
+          111.05000376215783
+        ]
+      ],
+      "volume_mm3": 39.01172557458725,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "carriage",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "carriage",
+      "source_key": "383"
+    },
+    {
+      "key": "block_screw_2",
+      "name": "M2x6 SHCS (5)",
+      "source_id": "0:1:1:249:12@(Unsaved)/Gantry:1/Mini Stealthburner:1/Hardware (12):1/Screws (15):1/M2x6 SHCS (5):3",
+      "source_family": "v0r1",
+      "source_index": 384,
+      "source_brep_sha256": "19aa60824824459b97399c772bfd6ba85d22bfc303da456daadea3991be460d1",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.67500000000513
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -105.70898718580177
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -174.14999999999992
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/block_screw_2.brep",
+      "native_brep_sha256": "6b8218ba3ecd5bdff25e4ee36a830dbd15e15f9d3c1b22b163e7d05416c9fb9c",
+      "bounds_mm": [
+        [
+          139.27683648727375,
+          -98.81949282092359,
+          103.0500036621578
+        ],
+        [
+          143.07683648727377,
+          -95.01949282092355,
+          111.05000376215783
+        ]
+      ],
+      "volume_mm3": 39.01172557458729,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "carriage",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "carriage",
+      "source_key": "384"
+    },
+    {
+      "key": "block_screw_3",
+      "name": "M2x6 SHCS (5)",
+      "source_id": "0:1:1:249:13@(Unsaved)/Gantry:1/Mini Stealthburner:1/Hardware (12):1/Screws (15):1/M2x6 SHCS (5):4",
+      "source_family": "v0r1",
+      "source_index": 385,
+      "source_brep_sha256": "172c5f5d379435b7c037f4e8648c414284c6d69206e99cc2ed8536e0e7e4f881",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.67500000000513
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -105.70898718580177
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -174.14999999999992
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/block_screw_3.brep",
+      "native_brep_sha256": "b6a6835e2eae9ef8ab257343d78ccc3dd60b7cfb3c13878024a0d9ed707a4f3f",
+      "bounds_mm": [
+        [
+          139.27683648727375,
+          -110.8194928209236,
+          103.05000366215788
+        ],
+        [
+          143.07683648727377,
+          -107.01949282092356,
+          111.0500037621579
+        ]
+      ],
+      "volume_mm3": 39.011725574587324,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "carriage",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "carriage",
+      "source_key": "385"
+    },
+    {
+      "key": "carriage_front_nut_0",
+      "name": "M3 Hexnut (11)",
+      "source_id": "0:1:1:260:1@(Unsaved)/Gantry:1/Mini Stealthburner:1/Hardware (12):1/Nuts (17):1/M3 Hexnut (11):1",
+      "source_family": "v0r1",
+      "source_index": 398,
+      "source_brep_sha256": "e7578df4c5bb9e6bcdb50b2655c7cd091efe50d02759ddf829662f005b40f2e3",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.67500000000513
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -105.70898718580177
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -174.14999999999992
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/carriage_front_nut_0.brep",
+      "native_brep_sha256": "32ec914de7df646e03e89c80f12d1fe29180d03ecee89e752c25b450818b4013",
+      "bounds_mm": [
+        [
+          132.42683638725487,
+          -116.6194929209237,
+          100.62435717203005
+        ],
+        [
+          137.92683658729254,
+          -114.21949272092363,
+          106.97521033313771
+        ]
+      ],
+      "volume_mm3": 43.9056278829285,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "carriage",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "carriage",
+      "source_key": "398"
+    },
+    {
+      "key": "carriage_front_nut_1",
+      "name": "M3 Hexnut (11)",
+      "source_id": "0:1:1:260:1@(Unsaved)/Gantry:1/Mini Stealthburner:1/Hardware (12):1/Nuts (17):1/M3 Hexnut (11):1",
+      "source_family": "v0r1",
+      "source_index": 398,
+      "source_brep_sha256": "e7578df4c5bb9e6bcdb50b2655c7cd091efe50d02759ddf829662f005b40f2e3",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          172.67500000000513
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -105.70898718580177
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -174.14999999999992
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/carriage_front_nut_1.brep",
+      "native_brep_sha256": "1916d0b98fc1ed74065042192e47edd28b68e1432bd7b7715897fcdac9a18919",
+      "bounds_mm": [
+        [
+          157.42683638725487,
+          -116.6194929209237,
+          100.62435717203005
+        ],
+        [
+          162.92683658729254,
+          -114.21949272092363,
+          106.97521033313771
+        ]
+      ],
+      "volume_mm3": 43.9056278829285,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "carriage",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "carriage",
+      "source_key": "398"
+    },
+    {
+      "key": "carriage_front_screw_0",
+      "name": "M3x35 BHCS (4)",
+      "source_id": "0:1:1:249:9@(Unsaved)/Gantry:1/Mini Stealthburner:1/Hardware (12):1/Screws (15):1/M3x35 BHCS (4):2",
+      "source_family": "v0r1",
+      "source_index": 381,
+      "source_brep_sha256": "84281c8d6f612045631a8ea1f7a3dce5918d2031b528bba1fa4fd617c7b6ef23",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          172.674999997255
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -106.12939060245708
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -174.1500000000002
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/carriage_front_screw_0.brep",
+      "native_brep_sha256": "99639943f237b6211f87facd0cc1aec8d5f2bcd8423cfb051c416c85a59550c1",
+      "bounds_mm": [
+        [
+          157.32683648727374,
+          -150.079764121719,
+          100.94978375258415
+        ],
+        [
+          163.0268364873181,
+          -113.42976402131029,
+          106.64978375258416
+        ]
+      ],
+      "volume_mm3": 273.3574103334696,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "fastener",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "381"
+    },
+    {
+      "key": "carriage_front_screw_1",
+      "name": "M3x35 BHCS (4)",
+      "source_id": "0:1:1:249:9@(Unsaved)/Gantry:1/Mini Stealthburner:1/Hardware (12):1/Screws (15):1/M3x35 BHCS (4):2",
+      "source_family": "v0r1",
+      "source_index": 381,
+      "source_brep_sha256": "84281c8d6f612045631a8ea1f7a3dce5918d2031b528bba1fa4fd617c7b6ef23",
+      "rigid_transform_mm": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          147.674999997255
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -106.12939060245708
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -174.1500000000002
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/carriage_front_screw_1.brep",
+      "native_brep_sha256": "4a39d42f76adcdfeeb064af266c1dd5b0d6a8c30896c919050989f9a03d9ce27",
+      "bounds_mm": [
+        [
+          132.32683648727374,
+          -150.079764121719,
+          100.94978375258415
+        ],
+        [
+          138.0268364873181,
+          -113.42976402131029,
+          106.64978375258416
+        ]
+      ],
+      "volume_mm3": 273.35741033346955,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "fastener",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "381"
+    },
+    {
+      "key": "carriage_rear_screw",
+      "name": "M3x20 SHCS",
+      "source_id": "0:1:1:8:3@Archetype Public CAD v22/Core:1/Core Hardware:1/Hardware:1/Lowers:1/M3x20 SHCS:1",
+      "source_family": "archetype",
+      "source_index": 6,
+      "source_brep_sha256": "5cf4d114f3313286bf5c980a7f4f9eb59d0cad030069edf3fd7bcbc9d7a366ac",
+      "rigid_transform_mm": [
+        [
+          -0.9792802697595164,
+          0.19986362420150797,
+          -0.03262951088751115,
+          167.1104273344365
+        ],
+        [
+          -0.19986362420150797,
+          -0.9798181849790157,
+          -0.003294860460915371,
+          -112.06380742529376
+        ],
+        [
+          -0.03262951088751115,
+          0.003294860460915371,
+          0.9994620847805008,
+          133.60604143247946
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/carriage_rear_screw.brep",
+      "native_brep_sha256": "b7c1e95316e6447d618f78a8239a36b3e181fa349c07815e94635496fe555024",
+      "bounds_mm": [
+        [
+          144.9448782421412,
+          -122.91949282092332,
+          111.16461301336828
+        ],
+        [
+          150.44487844214117,
+          -99.91949272092339,
+          116.66461321336824
+        ]
+      ],
+      "volume_mm3": 200.37475275996238,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "fastener",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "6"
+    },
+    {
+      "key": "carriage_square_nut",
+      "name": "M3 Square Nut v1",
+      "source_id": "0:1:1:171:2@Archetype Public CAD v22/Core:1/Extruder Block:1/Flat Sherpa Mini v19:2/Sherpa Mini Hardware:1/M3 Square Nut v1:1",
+      "source_family": "archetype",
+      "source_index": 183,
+      "source_brep_sha256": "78494e93f958151775e92c694472d8c3e296e6bb3df7435cd041bd7812697c69",
+      "rigid_transform_mm": [
+        [
+          -1.0,
+          -0.0,
+          0.0,
+          143.4393959706822
+        ],
+        [
+          -0.0,
+          -1.0,
+          -3.749821839383559e-15,
+          -123.20338824018089
+        ],
+        [
+          0.0,
+          -3.749821839383559e-15,
+          1.0,
+          93.15705187379751
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "file": "native/carriage_square_nut.brep",
+      "native_brep_sha256": "1a8aa1302b1daf213992888a3a1fdeaaf292b5adb9c8fd0e370ae9731e460f42",
+      "bounds_mm": [
+        [
+          144.94487554024644,
+          -122.35923125201998,
+          111.16464184558265
+        ],
+        [
+          150.44487574024643,
+          -120.55919766931325,
+          116.66464204558264
+        ]
+      ],
+      "volume_mm3": 42.63318599193918,
+      "valid": true,
+      "solids": 1,
+      "appearance_role": "metal",
+      "group": "fastener",
+      "color": [
+        0.62,
+        0.65,
+        0.69,
+        1
+      ],
+      "motion": "xy",
+      "component": "toolhead",
+      "source_key": "183"
+    }
+  ],
+  "glb": "model.glb",
+  "valid": true,
+  "geometry_revision": "b129-dragon-v8-dragon-sherpa-mini-native-1",
+  "complete_detail": true,
+  "coordinate_frame": "renderer_metre_XZ_minusY_from_original_native_CAD_mm",
+  "absolute_mesh_deflection_mm": 0.15,
+  "mesh_angular_tolerance_rad": 0.25,
+  "source_version": "Chirpy Dragon Burner v8 / native Dragon Burner v2 hardware / Sherpa Mini A3 r9c / official Voron V0.2r1 carriage",
+  "native_review": "native-proof.json",
+  "notices": [
+    "Native hardware reused without rescaling or synthetic replacement. Source carriage manufacturing support is excluded. Review native-proof.json for the exact inspection scope."
+  ],
+  "companion_manifest": "companion-manifest.json"
+}

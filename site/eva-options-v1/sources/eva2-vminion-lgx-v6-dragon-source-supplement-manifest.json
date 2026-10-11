@@ -1,0 +1,255 @@
+{
+  "schema": "eva2-source-supplement-manifest-v1",
+  "assets": [
+    "eva2_vminion_lgx_v6_129",
+    "eva2_vminion_lgx_dragon_129"
+  ],
+  "source_only": true,
+  "cad_blobs_included": false,
+  "independent_rebuild_performed": false,
+  "new_native_jobs_performed": false,
+  "full_physical_fit_certified": false,
+  "scope": "Retained derivation source, exact native identity/datum/operation recipes, original public input references and license notices only. Checks at packaging cover archive paths/privacy and byte integrity.",
+  "files": [
+    {
+      "path": "evidence/dragon-COMPOSITION_RECEIPT.json",
+      "bytes": 10428,
+      "sha256": "99908e113b84dd50922be667e8ba63c96e5cbca0f805deccb0ce929828fb3ca3"
+    },
+    {
+      "path": "evidence/v6-COMPOSITION_RECEIPT.json",
+      "bytes": 9510,
+      "sha256": "b0a67d50e30dff31e1ebf124b0575ccd7901436bd00e3c09e5866c08f40b542b"
+    },
+    {
+      "path": "LICENSE_NOTICES.md",
+      "bytes": 2117,
+      "sha256": "574f303335d289c4a9f676637bded26767a63405937c43f4ea845d7d8f8927f5"
+    },
+    {
+      "path": "licenses/eva2-live-step-notice.txt",
+      "bytes": 20274,
+      "sha256": "1a8eeaefc256079abc5267869d41356ecd8b9f0e2738522b0bd432451b0e8319"
+    },
+    {
+      "path": "licenses/eva2-tag-license.txt",
+      "bytes": 20849,
+      "sha256": "1349a4b6148492b44f629e64eed676612e234fe9a839e4f3b277c1482c8849f1"
+    },
+    {
+      "path": "licenses/eva2-tag-step-notice.txt",
+      "bytes": 1070,
+      "sha256": "a7bd340fda8f9c6d05869a32de27c24bb76fbec70b5da8b76429b75dc9cb4e05"
+    },
+    {
+      "path": "licenses/SOURCE_LICENSE_EVIDENCE.json",
+      "bytes": 1800,
+      "sha256": "2b161b4bc7898afa8bf8240cd67c25188b7df80c890e4f30b2eccc35243550d1"
+    },
+    {
+      "path": "PUBLIC_INPUTS.json",
+      "bytes": 4184,
+      "sha256": "986de11f38c5c23b1b231e4b272562ca1fb73aad6f66a94dacd692be732380b4"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5733,
+      "sha256": "98066313dab63173a4604ec507d065fd78c15c429059a7209c904a40d1c319ab"
+    },
+    {
+      "path": "RELEASED_ASSET_PINS.json",
+      "bytes": 2491,
+      "sha256": "bb3d15afd5220a0104a2d7e927e72a92f1c9cbb94e3e00e38a1ddd0472afd681"
+    },
+    {
+      "path": "RETAINED_GENERATOR_PROVENANCE.json",
+      "bytes": 19572,
+      "sha256": "7dcf082f43ec55486ea27da81b98f42fd97c6f53212e8494fc63350050fb4173"
+    },
+    {
+      "path": "work/annotate_base_printed.py",
+      "bytes": 3274,
+      "sha256": "18adfafbf1c31f5bf02347098176cbde22b28ad008673ef0b586f98232baf131"
+    },
+    {
+      "path": "work/check_authored_dragon_screws.py",
+      "bytes": 3656,
+      "sha256": "3a2799f5e226b0497a7922bc393cfe104f89722acbd28639cf7445dcaabb9f85"
+    },
+    {
+      "path": "work/check_dragon_source_membranes.py",
+      "bytes": 3348,
+      "sha256": "fa40d53fd4b1f17474b676d52faf3f5753ca085ee8fe46c731e56dc0b049599d"
+    },
+    {
+      "path": "work/compose_eva_options.py",
+      "bytes": 15579,
+      "sha256": "e74c7bb522372d086d61cf837a075625e0cd81c95aee32f8878577ea658158be"
+    },
+    {
+      "path": "work/dragon-counterbore-closure-receipt-r5.json",
+      "bytes": 10129,
+      "sha256": "8175fee1e32a463dfbfe8fd24e0bb64338aba105faa6d56c86a3a64a74870544"
+    },
+    {
+      "path": "work/dragon-export-recipe.json",
+      "bytes": 9334,
+      "sha256": "4e55de84f9801222444f269e01994a308e517ce04eb01ceff8725c2467a2bccd"
+    },
+    {
+      "path": "work/dragon-frame-selection.json",
+      "bytes": 2393,
+      "sha256": "4f796c47b250086ccd5a3b701a6f990632aa6fd3233cd9196e753a89a99d9b89"
+    },
+    {
+      "path": "work/dragon-prepared-face-export-recipe-r5.json",
+      "bytes": 4438,
+      "sha256": "5f5866ce6037d2d250aa1a4d4d218f42b01d15c696ac431384474060f74e319c"
+    },
+    {
+      "path": "work/DRAGON_FACE_SCREW_SOURCE_RESOLUTION_R6.json",
+      "bytes": 8393,
+      "sha256": "ca7c285683e767b8f5377108a56f7fb523244f0accbb15c32534ab375b864186"
+    },
+    {
+      "path": "work/DRAGON_NATIVE_FRAME.json",
+      "bytes": 5758,
+      "sha256": "4dbbf91236e889ace243acf0184ef3cc9fc42ad6784f74f650060172221c0cfa"
+    },
+    {
+      "path": "work/DRAGON_SOURCE_MEMBRANE_REVIEW.json",
+      "bytes": 21741,
+      "sha256": "5f150596908582c67849292477663c4b71f5d00729ffa88044294d7178c395d8"
+    },
+    {
+      "path": "work/export_authored_face_fasteners_r4.py",
+      "bytes": 1401,
+      "sha256": "aa0f08fffeada2d39ac2e1020f266b28852cfa364c83ab32fac300e568fd5ee9"
+    },
+    {
+      "path": "work/export_prepared_native_modules_r4.py",
+      "bytes": 929,
+      "sha256": "374d11af796cb2f3647ec19799e648102ed4cbf5cb2f2882f275a7238dad1434"
+    },
+    {
+      "path": "work/fit_native_module.py",
+      "bytes": 5170,
+      "sha256": "041eea9e1de530132dcdc326ba0afa4a470e49c41cab2c858c0dda01b5c2c343"
+    },
+    {
+      "path": "work/lgx-dragon-composition-recipe-r6.json",
+      "bytes": 15774,
+      "sha256": "58c8cc23b82aded63d7e109d75d534e7a013fcf9c33a930a58310be64ac18ad6"
+    },
+    {
+      "path": "work/lgx-dragon-tube-export-recipe-r4.json",
+      "bytes": 1965,
+      "sha256": "1059699077be2bedbc6af073aa4bedcd053c4182509ca206f5d012f203aaf1af"
+    },
+    {
+      "path": "work/lgx-v6-composition-recipe-r4.json",
+      "bytes": 13881,
+      "sha256": "3af50e552d0acef3e79269868d4c8e718748f77644064cd3393cc3db54c75a1f"
+    },
+    {
+      "path": "work/lgx-v6-tube-export-recipe-r4.json",
+      "bytes": 1949,
+      "sha256": "3da40a0e8db0d00900ca5529f4e2ea0819e68c257083e2b3e338beb49e3ee782"
+    },
+    {
+      "path": "work/native-dragon/INVENTORY.json",
+      "bytes": 592504,
+      "sha256": "cf8a5b8be679cd996df0715f42f2a0852fee350fbfdfa506116d4192cdd2a980"
+    },
+    {
+      "path": "work/native-prepared-r4/lgx-dragon-tube-receipt.json",
+      "bytes": 3399,
+      "sha256": "b28488c8903223de73ed025997518c1cfd49a380e552069ba827d2d9be4cf1f3"
+    },
+    {
+      "path": "work/native-prepared-r4/lgx-v6-tube-receipt.json",
+      "bytes": 3395,
+      "sha256": "b1ebda06715b59f4f8be987d605194adb6ccbf64e2d9247fd44db83663b2480c"
+    },
+    {
+      "path": "work/native-prepared-r4/SOURCE_FRAME.json",
+      "bytes": 844,
+      "sha256": "9f0f2ed02af118c2bfcc070f8293d8c2e57560458044dcb1e6472c69551ab9e7"
+    },
+    {
+      "path": "work/native-prepared-r4/universal-face-installed-receipt.json",
+      "bytes": 4197,
+      "sha256": "6f2edc51420ca64228ab43057cd4e8595c1882c392f969e9f4cf33e80567fb2d"
+    },
+    {
+      "path": "work/native-reference/NATIVE_REFERENCE.json",
+      "bytes": 2070841,
+      "sha256": "827cfa9b7990ada51495b78cd3005f1b7a79cc6035096210e182d2749424175a"
+    },
+    {
+      "path": "work/native-v6/INVENTORY.json",
+      "bytes": 395451,
+      "sha256": "40f2d0d739f27163b69423f06732705c16be9db8e75cbbfe09f1c9c5b5967372"
+    },
+    {
+      "path": "work/native_geometry_helpers.py",
+      "bytes": 707,
+      "sha256": "98bb280ccb555b0ed1461c63233a80517116fcedc27222ecf117c51e349b8f43"
+    },
+    {
+      "path": "work/native_module_preparer.py",
+      "bytes": 20269,
+      "sha256": "de12e29e919972cc37718072a1f1ab84d4faa82c0583585b96944330e411a1b4"
+    },
+    {
+      "path": "work/prepare_composition_base.py",
+      "bytes": 5793,
+      "sha256": "ffb9c6e84e35b0f272e9f37f5aacd75d40792ca32ce16dc7e3f56cebec171b59"
+    },
+    {
+      "path": "work/prepare_dragon_counterbore_closures_r5.py",
+      "bytes": 2983,
+      "sha256": "6114edf47babd9617f8f4850876f3d5049435a19b389ee7ba24b4ebca09688c4"
+    },
+    {
+      "path": "work/prepare_native_bridges_and_tubes_r4.py",
+      "bytes": 7578,
+      "sha256": "e2b9a39575cdd74e7b5f9201a4708edac91ef5d3c2449ef71231122c1cb4d32e"
+    },
+    {
+      "path": "work/purchased-materials.json",
+      "bytes": 683,
+      "sha256": "49f0ec9ef4d77c047965c3a8d431efcc740e88b90757e503a41c0d380205594b"
+    },
+    {
+      "path": "work/requirements.txt",
+      "bytes": 120,
+      "sha256": "6237718aa6a0a06aa2ec4bfd306f18380d25b9aaca9ef2a069f32cf6ed06255c"
+    },
+    {
+      "path": "work/stock-prepared-export-recipe-r4.json",
+      "bytes": 1969,
+      "sha256": "cf347f3495e2caceaf63e760f93df2f5f8d759102b6a941b15073be2d7374c28"
+    },
+    {
+      "path": "work/v6-export-recipe.json",
+      "bytes": 3599,
+      "sha256": "c5b50eb0829997356fd84590939ddbc7d342f77dedd3385847a49ed1cdc0e481"
+    },
+    {
+      "path": "work/v6-face-fasteners-export-recipe-r4.json",
+      "bytes": 4179,
+      "sha256": "17f765dd9fe20eeab7c1c0308d7902a0525eae06db46869a1270b4c334d4d1be"
+    },
+    {
+      "path": "work/v6-frame-selection.json",
+      "bytes": 2463,
+      "sha256": "401513663bac18d194d59821debfe15988de52b1e4ecd6b2b7e15fc1b5136449"
+    },
+    {
+      "path": "work/V6_NATIVE_FRAME.json",
+      "bytes": 5848,
+      "sha256": "6928c1e591fa4fe53bf8b9260fe160e590487fa31914c26ae111402b6403216d"
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "schema": "3d-print-rig-eva-composition-receipt-v1",
+  "recipe_sha256": "502d571c14e3a942642de0bcf16ca6df966b3d747737cb8b470f5c0909386559",
+  "id": "eva2_vminion_lgx_dragon_129",
+  "inputs": [
+    {
+      "model_sha256": "4ee202295140575eb8eca12e23c1ccaf169c511568ef8a765af69e069359ac2f",
+      "metadata_sha256": "cd45ddc81aa7ca87b7c565beadf7d191bce1b7bc56cb90ccd26a096ac66be2d2",
+      "native_source_sha256": "46650c0be0527b0f799a6ebd5cde210254caafdc4c436f558857fa30c17e9b94",
+      "source_revision": "6811558082d6a1797dac160ca027692cd7904a4b",
+      "keys": [
+        "eva2_vminion_lgx_bmo_315",
+        "eva2_vminion_lgx_bmo_316",
+        "eva2_vminion_lgx_bmo_321",
+        "eva2_vminion_lgx_bmo_322",
+        "eva2_vminion_lgx_bmo_323",
+        "eva2_vminion_lgx_bmo_324",
+        "eva2_vminion_lgx_bmo_325",
+        "eva2_vminion_lgx_bmo_327",
+        "eva2_vminion_lgx_bmo_330",
+        "eva2_vminion_lgx_bmo_331",
+        "eva2_vminion_lgx_bmo_332",
+        "eva2_vminion_lgx_bmo_333",
+        "eva2_vminion_lgx_bmo_334",
+        "eva2_vminion_lgx_bmo_335",
+        "eva2_vminion_lgx_bmo_336",
+        "eva2_vminion_lgx_bmo_337",
+        "eva2_vminion_lgx_bmo_338",
+        "eva2_vminion_lgx_bmo_339",
+        "eva2_vminion_lgx_bmo_340",
+        "eva2_vminion_lgx_bmo_341",
+        "eva2_vminion_lgx_bmo_342",
+        "eva2_vminion_lgx_bmo_343",
+        "eva2_vminion_lgx_bmo_344",
+        "eva2_vminion_lgx_bmo_345",
+        "eva2_vminion_lgx_bmo_346",
+        "eva2_vminion_lgx_bmo_347",
+        "eva2_vminion_lgx_bmo_348",
+        "eva2_vminion_lgx_bmo_349",
+        "eva2_vminion_lgx_bmo_350",
+        "eva2_vminion_lgx_bmo_351",
+        "eva2_vminion_lgx_bmo_352",
+        "eva2_vminion_lgx_bmo_353",
+        "eva2_vminion_lgx_bmo_354",
+        "eva2_vminion_lgx_bmo_355",
+        "eva2_vminion_lgx_bmo_356",
+        "eva2_vminion_lgx_bmo_357",
+        "eva2_vminion_lgx_bmo_358",
+        "eva2_vminion_lgx_bmo_359",
+        "eva2_vminion_lgx_bmo_360",
+        "eva2_vminion_lgx_bmo_361",
+        "eva2_vminion_lgx_bmo_362",
+        "eva2_vminion_lgx_bmo_363",
+        "eva2_vminion_lgx_bmo_364",
+        "eva2_vminion_lgx_bmo_365",
+        "eva2_vminion_lgx_bmo_366",
+        "eva2_vminion_lgx_bmo_367",
+        "eva2_vminion_lgx_bmo_368",
+        "eva2_vminion_lgx_bmo_370",
+        "eva2_vminion_lgx_bmo_371",
+        "eva2_vminion_lgx_bmo_372",
+        "eva2_vminion_lgx_bmo_373",
+        "eva2_vminion_lgx_bmo_374",
+        "eva2_vminion_lgx_bmo_375",
+        "eva2_vminion_lgx_bmo_376",
+        "eva2_vminion_lgx_bmo_377",
+        "eva2_vminion_lgx_bmo_378",
+        "eva2_vminion_lgx_bmo_379",
+        "eva2_vminion_lgx_bmo_380",
+        "eva2_vminion_lgx_bmo_381",
+        "eva2_vminion_lgx_bmo_382",
+        "eva2_vminion_lgx_bmo_385",
+        "eva2_vminion_lgx_bmo_386",
+        "eva2_vminion_lgx_bmo_387",
+        "eva2_vminion_lgx_bmo_388",
+        "eva2_vminion_lgx_bmo_389",
+        "eva2_vminion_lgx_bmo_390",
+        "eva2_vminion_lgx_bmo_391",
+        "eva2_vminion_lgx_bmo_392",
+        "eva2_vminion_lgx_bmo_393",
+        "eva2_vminion_lgx_bmo_394",
+        "eva2_vminion_lgx_bmo_395",
+        "eva2_vminion_lgx_bmo_396",
+        "eva2_vminion_lgx_bmo_397",
+        "eva2_vminion_lgx_bmo_398",
+        "eva2_vminion_lgx_bmo_403",
+        "eva2_vminion_lgx_bmo_404"
+      ]
+    },
+    {
+      "model_sha256": "e8cd49a9c59567fffcedf4e57d027eefabadaebf38c8ab927d5986d94423e9d2",
+      "metadata_sha256": "cfc94f33a291c8528dbf305245829d2a16343ef87a6f581d8a27fe20fa9d2be8",
+      "native_source_sha256": "a59daa9c9fa850131778038c01971908094bb42dd79cc5b96dc920760b9f6fa4",
+      "source_revision": "onshape:ac05df23f70420475c2c3645:m:b037d54624a2f9a08bf610f3:e:2bd2d91ccf1f6bdbaedea2bf",
+      "keys": [
+        "eva2_author_dragon_005",
+        "eva2_author_dragon_009",
+        "eva2_author_dragon_011",
+        "eva2_author_dragon_019",
+        "eva2_author_dragon_020",
+        "eva2_author_dragon_021",
+        "eva2_author_dragon_022",
+        "eva2_author_dragon_023",
+        "eva2_author_dragon_024",
+        "eva2_author_dragon_025",
+        "eva2_author_dragon_026",
+        "eva2_author_dragon_027",
+        "eva2_author_dragon_028",
+        "eva2_author_dragon_029",
+        "eva2_author_dragon_030",
+        "eva2_author_dragon_031",
+        "eva2_author_dragon_032"
+      ]
+    },
+    {
+      "model_sha256": "37ee886fd58131de182b3e45e8cf52ecebbd9866c73ef308e0b6c981760ceeb5",
+      "metadata_sha256": "ef7238863e714ea198de197096291ff69eb44a8b768e2fff206afbdb2a29781a",
+      "native_source_sha256": "46650c0be0527b0f799a6ebd5cde210254caafdc4c436f558857fa30c17e9b94",
+      "source_revision": "6811558082d6a1797dac160ca027692cd7904a4b",
+      "keys": [
+        "eva2_vminion_lgx_bmo_326"
+      ]
+    },
+    {
+      "model_sha256": "36ea5e111527d6cb0ba14cfce75644d95db3a80d3a1707801eca859009d81392",
+      "metadata_sha256": "ccc98f27bc3fac6dd69030add21fd7e43c204f02e678de868f52290c88cbe401",
+      "native_source_sha256": "46650c0be0527b0f799a6ebd5cde210254caafdc4c436f558857fa30c17e9b94",
+      "source_revision": "6811558082d6a1797dac160ca027692cd7904a4b",
+      "keys": [
+        "eva2_lgx_dragon_prepared_ptfe"
+      ]
+    },
+    {
+      "model_sha256": "152a13bffba2166a4d7622c957dd2111cbc11049683e7fedbad5dc18c7584607",
+      "metadata_sha256": "f630f2cde7e6fb81dcc404d56b03cb441ea1affdf05d612ac8fa8086688ca541",
+      "native_source_sha256": "a59daa9c9fa850131778038c01971908094bb42dd79cc5b96dc920760b9f6fa4",
+      "source_revision": "onshape:ac05df23f70420475c2c3645:m:b037d54624a2f9a08bf610f3:e:2bd2d91ccf1f6bdbaedea2bf",
+      "keys": [
+        "eva2_author_dragon_006"
+      ]
+    },
+    {
+      "model_sha256": "acd9ebddb6207ce6fa7c42c755f8e647afda1f0c054df2fd80cd35517d06985c",
+      "metadata_sha256": "db39c6f49de2f8ab270e863ab26e017c93047cce0663fb078a65619674be39e2",
+      "native_source_sha256": "28300083086439ab2c64de2c72e032a740284e30902bb5c1c7ea8bd6a0a48f73",
+      "source_revision": "onshape:50b92c5c5279844e2ddad769:m:be06f4fa639340a45ffa88b7:e:9472e6dc4bde87bd27cfade0",
+      "keys": [
+        "eva2_author_v6_facebolt_010",
+        "eva2_author_v6_facebolt_020"
+      ]
+    }
+  ],
+  "parts": 98,
+  "decoded_model_sha256": "c9c3eafb375ffd3fcee2763632c4984e2714035bbd8ed1b9a977db5c1eb79ee2",
+  "geometry_operation": "Copy explicitly selected source geometry and native occurrence transforms unchanged",
+  "geometry_scaled": false,
+  "mount_inferred": false,
+  "physical_fit_certified": false,
+  "public_payload_preparation": {
+    "operation": "Remove local file locator fields from native-preparation descriptors and corresponding GLB extras only",
+    "metadata_local_locator_fields_removed": 6,
+    "glb_extras_local_locator_fields_removed": 6,
+    "before_model": {
+      "path": "eva2_vminion_lgx_dragon_129/model.glb.gz",
+      "bytes": 5793356,
+      "sha256": "f7d3aa9838f99386dff5756e6f385f0f42931b82830349c1b52f0ec41b57859c",
+      "encoding": "gzip",
+      "decoded_bytes": 19158208,
+      "decoded_sha256": "1e948d3d12e6cfaa387e3fad3ef6f7787df1364dfe1d4e2832944f6b4f357059"
+    },
+    "before_metadata": {
+      "path": "eva2_vminion_lgx_dragon_129/parts.json",
+      "bytes": 520975,
+      "sha256": "3f2ec701f880c2054e414d8569ac86bc4b5cd8cb1cce5e2f4de6163eeea85880"
+    },
+    "after_model": {
+      "path": "eva2_vminion_lgx_dragon_129/model.glb.gz",
+      "bytes": 5793271,
+      "sha256": "e09a1300d666a4cb03c6df000037f1a57892d2a6b639642193c09fa5ee30002a",
+      "encoding": "gzip",
+      "decoded_bytes": 19157540,
+      "decoded_sha256": "62d2682610386cc710174a7e31334e15fbdd30ff84564846986203d65b283704"
+    },
+    "after_metadata": {
+      "path": "eva2_vminion_lgx_dragon_129/parts.json",
+      "bytes": 503883,
+      "sha256": "0c2963853d08a92405acc638bae562c102d9f72b886956969ec84c06bd26e4e4"
+    },
+    "binary_chunk_tail_sha256": "97d3f588ff11d0d88039dc32add559d34fde53a6a87a4f06b2692a92d32f839b",
+    "all_non_json_chunks_byte_identical": true,
+    "geometry_accessors_materials_transforms_unchanged": true,
+    "source_urls_native_labels_and_hashes_unchanged": true
+  },
+  "source_companion_membership": {
+    "eva2_vminion_lgx_bmo_330": [
+      "endstop_mount"
+    ],
+    "eva2_vminion_lgx_bmo_323": [
+      "endstop"
+    ]
+  },
+  "source_companion_role_review": {
+    "printed_endstop_carrier": {
+      "key": "eva2_vminion_lgx_bmo_330",
+      "printed": true,
+      "appearance_role": "base",
+      "source_path": [
+        "Rat Rig - V-Minion 1.0 v7",
+        "Full Assembly v6:1",
+        "EVA Assembly v5:1",
+        "top_endstop_angled v2:1"
+      ],
+      "source_label_path": null,
+      "definition_label": null,
+      "source_sha256": "46650c0be0527b0f799a6ebd5cde210254caafdc4c436f558857fa30c17e9b94"
+    },
+    "purchased_switch": {
+      "key": "eva2_vminion_lgx_bmo_323",
+      "printed": false,
+      "appearance_role": "native",
+      "source_path": [
+        "Rat Rig - V-Minion 1.0 v7",
+        "Full Assembly v6:1",
+        "EVA Assembly v5:1",
+        "Endstop Module - Horizontal Limit Switch v1:1"
+      ]
+    },
+    "original_fastener_keys_unchanged": [
+      "eva2_vminion_lgx_bmo_351",
+      "eva2_vminion_lgx_bmo_370",
+      "eva2_vminion_lgx_bmo_371",
+      "eva2_vminion_lgx_bmo_372",
+      "eva2_vminion_lgx_bmo_373"
+    ],
+    "all_non_json_chunks_byte_identical": true,
+    "binary_chunk_tail_sha256": "97d3f588ff11d0d88039dc32add559d34fde53a6a87a4f06b2692a92d32f839b",
+    "geometry_materials_transforms_and_printed_palette_role_unchanged": true
+  },
+  "source_carriage_occurrence_proof": {
+    "source_path": [
+      "Rat Rig - V-Minion 1.0 v7",
+      "Full Assembly v6:1",
+      "EVA Assembly v5:1",
+      "_MGN12C Carriage v1:1"
+    ],
+    "source_brep_sha256": "580189672f447b8bc601a1b3d912c0dde89f98d72b90b8f5a0300f38ed85f8d6",
+    "method": "Exact hash of pinned public native occurrence BRep; unchanged geometry."
+  },
+  "installation_preview_bound_proof": {
+    "axes": {
+      "y": [
+        1.5,
+        180
+      ]
+    },
+    "native_source_keys": [
+      "231",
+      "289"
+    ],
+    "source_step_sha256": "46650c0be0527b0f799a6ebd5cde210254caafdc4c436f558857fa30c17e9b94",
+    "proof": {
+      "path": "SOURCE_CONTACT_FEATURE_CLASSIFICATION.json",
+      "bytes": 243858,
+      "sha256": "e0b787cb991dba0ded16697dbddcddd799184a0df3b3c7f49822c285ef362889"
+    },
+    "scope": "Measured original host body interference, not a new source translation or guessed physical fit."
+  }
+}

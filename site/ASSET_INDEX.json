@@ -996,6 +996,161 @@
       "path": "eva-front-surfaces-v1/NOTICE.txt",
       "bytes": 531,
       "sha256": "6bf8cdba43288ec244a9d44f95498c051c3c93c1f87a6ed11eace85397e934bd"
+    },
+    "eva-options-v1/eva129__3__vcore_lgx_full_rapido/COMPOSITION_RECEIPT.json": {
+      "path": "eva-options-v1/eva129__3__vcore_lgx_full_rapido/COMPOSITION_RECEIPT.json",
+      "bytes": 8138,
+      "sha256": "06033eca5c488ce6f584d63b8a747eca01ca2ad9eec3b67e0fc14e8f25f9fba5"
+    },
+    "eva-options-v1/eva129__3__vcore_lgx_full_rapido/model.glb.gz": {
+      "path": "eva-options-v1/eva129__3__vcore_lgx_full_rapido/model.glb.gz",
+      "bytes": 15335067,
+      "sha256": "450688423ff43e96f1d6b8dbd192a7d6bf5b3a7d0ab50d0683b357a4a874c362"
+    },
+    "eva-options-v1/eva129__3__vcore_lgx_full_rapido/parts.json": {
+      "path": "eva-options-v1/eva129__3__vcore_lgx_full_rapido/parts.json",
+      "bytes": 2262579,
+      "sha256": "227c02f624081882e1db6b6d78e4791fee8637b3f312887fa2535209f925ff06"
+    },
+    "eva-options-v1/eva129__3__vcore_orbiter20_rapido/COMPOSITION_RECEIPT.json": {
+      "path": "eva-options-v1/eva129__3__vcore_orbiter20_rapido/COMPOSITION_RECEIPT.json",
+      "bytes": 9128,
+      "sha256": "1e651a42b8f6dad98e3de5bce362ca6232cff599bb0a168062cf818698f97a51"
+    },
+    "eva-options-v1/eva129__3__vcore_orbiter20_rapido/model.glb.gz": {
+      "path": "eva-options-v1/eva129__3__vcore_orbiter20_rapido/model.glb.gz",
+      "bytes": 26113552,
+      "sha256": "a39ec4696d2f9d7f6f01acefccde5bbcc1c55fd4b48ee16889f7472c1b707e2f"
+    },
+    "eva-options-v1/eva129__3__vcore_orbiter20_rapido/parts.json": {
+      "path": "eva-options-v1/eva129__3__vcore_orbiter20_rapido/parts.json",
+      "bytes": 2799626,
+      "sha256": "4bd07b2c1ef21318f1e20fb79064855ad36a1b199f8643c038241bfc3760adec"
+    },
+    "eva-options-v1/eva2_vminion_lgx_dragon_129/COMPOSITION_RECEIPT.json": {
+      "path": "eva-options-v1/eva2_vminion_lgx_dragon_129/COMPOSITION_RECEIPT.json",
+      "bytes": 10428,
+      "sha256": "99908e113b84dd50922be667e8ba63c96e5cbca0f805deccb0ce929828fb3ca3"
+    },
+    "eva-options-v1/eva2_vminion_lgx_dragon_129/model.glb.gz": {
+      "path": "eva-options-v1/eva2_vminion_lgx_dragon_129/model.glb.gz",
+      "bytes": 5793311,
+      "sha256": "e13258f2de1e0d54c2a4a81f46d7dc2117bfe092f5911eff0c2207916660f43e"
+    },
+    "eva-options-v1/eva2_vminion_lgx_dragon_129/parts.json": {
+      "path": "eva-options-v1/eva2_vminion_lgx_dragon_129/parts.json",
+      "bytes": 504410,
+      "sha256": "c5330a4e04b3f02bd9d8cb02d03a183af4c6d92ca6484482d81e2cb5d5f62904"
+    },
+    "eva-options-v1/eva2_vminion_lgx_v6_129/COMPOSITION_RECEIPT.json": {
+      "path": "eva-options-v1/eva2_vminion_lgx_v6_129/COMPOSITION_RECEIPT.json",
+      "bytes": 9510,
+      "sha256": "b0a67d50e30dff31e1ebf124b0575ccd7901436bd00e3c09e5866c08f40b542b"
+    },
+    "eva-options-v1/eva2_vminion_lgx_v6_129/model.glb.gz": {
+      "path": "eva-options-v1/eva2_vminion_lgx_v6_129/model.glb.gz",
+      "bytes": 6931489,
+      "sha256": "d147cab40d0901119920928e2acdf44b1063a32edb5770513950a52cf812cf81"
+    },
+    "eva-options-v1/eva2_vminion_lgx_v6_129/parts.json": {
+      "path": "eva-options-v1/eva2_vminion_lgx_v6_129/parts.json",
+      "bytes": 372700,
+      "sha256": "936a85e4b88fb78eeebad5d6f44c845e2456178ada098f26ef27c34d14405761"
+    },
+    "eva-options-v1/reviews/eva129__3__vcore_lgx_full_rapido.json": {
+      "path": "eva-options-v1/reviews/eva129__3__vcore_lgx_full_rapido.json",
+      "bytes": 24884,
+      "sha256": "2f7888373f0a653b904211398fa27c8f3a6dca620e2700494f520534fadbc6a5"
+    },
+    "eva-options-v1/reviews/eva129__3__vcore_lgx_full_rapido.lgx-host-native.json": {
+      "path": "eva-options-v1/reviews/eva129__3__vcore_lgx_full_rapido.lgx-host-native.json",
+      "bytes": 1457501,
+      "sha256": "b0fcdd21a4f41ce3393c9aac13ff766632583d8e4fef2dabfd148be882922643"
+    },
+    "eva-options-v1/reviews/eva129__3__vcore_lgx_full_rapido.lgx-native-gaps.json": {
+      "path": "eva-options-v1/reviews/eva129__3__vcore_lgx_full_rapido.lgx-native-gaps.json",
+      "bytes": 156118,
+      "sha256": "7e96440421b498e1751fccea84203bdd42fd894ef0b0bc7bb360b98828e65741"
+    },
+    "eva-options-v1/reviews/eva129__3__vcore_orbiter20_rapido.json": {
+      "path": "eva-options-v1/reviews/eva129__3__vcore_orbiter20_rapido.json",
+      "bytes": 22368,
+      "sha256": "245640cbe4bf76a33e0e845b80c981d00df355de5fcc56202a5e2b7c6d968640"
+    },
+    "eva-options-v1/reviews/eva129__3__vcore_orbiter20_rapido.orbiter-host-native.json": {
+      "path": "eva-options-v1/reviews/eva129__3__vcore_orbiter20_rapido.orbiter-host-native.json",
+      "bytes": 1569014,
+      "sha256": "db63b23e89cda61d90a4f3d984e34be129df38a40cc8dda12d5ee455343d8588"
+    },
+    "eva-options-v1/reviews/eva129__3__vcore_orbiter20_rapido.orbiter-native-gaps.json": {
+      "path": "eva-options-v1/reviews/eva129__3__vcore_orbiter20_rapido.orbiter-native-gaps.json",
+      "bytes": 165651,
+      "sha256": "936a6ee70b95a415f6bdf758895833e706450cc6f715ebae6da5354a25c3a73c"
+    },
+    "eva-options-v1/reviews/eva2_vminion_lgx_dragon_129.json": {
+      "path": "eva-options-v1/reviews/eva2_vminion_lgx_dragon_129.json",
+      "bytes": 438979,
+      "sha256": "f5aff1b7c653fdf6e9e03f04ce2c33c4456a4cd00a6c3d0c4571176f48c18fa5"
+    },
+    "eva-options-v1/reviews/eva2_vminion_lgx_v6_129.json": {
+      "path": "eva-options-v1/reviews/eva2_vminion_lgx_v6_129.json",
+      "bytes": 357509,
+      "sha256": "0df7e4b8142246dd609fd6666c125ea05682c2a3f47b007d52e0b54036e4cefc"
+    },
+    "eva-options-v1/reviews/eva3-carriage-identity.json": {
+      "path": "eva-options-v1/reviews/eva3-carriage-identity.json",
+      "bytes": 52813,
+      "sha256": "88915dabdce34b48c36f7a47d583a3e9997371247dc4e08a9d307325f8fb9041"
+    },
+    "eva-options-v1/reviews/eva3-orbiter-render-hierarchy.json": {
+      "path": "eva-options-v1/reviews/eva3-orbiter-render-hierarchy.json",
+      "bytes": 5224,
+      "sha256": "410aad7b9cd45090085a19da7eabe9d734b2fa0efc2ef2cf47e615fbd75e93e4"
+    },
+    "eva-options-v1/sources/eva2-vminion-lgx-v6-dragon-source-supplement-manifest.json": {
+      "path": "eva-options-v1/sources/eva2-vminion-lgx-v6-dragon-source-supplement-manifest.json",
+      "bytes": 8719,
+      "sha256": "79fe31054cb2beb5ed6d5d7a54e4534223c80bdd6e105c98fa6fa63bb619dabb"
+    },
+    "eva-options-v1/sources/eva2-vminion-lgx-v6-dragon-source-supplement.zip": {
+      "path": "eva-options-v1/sources/eva2-vminion-lgx-v6-dragon-source-supplement.zip",
+      "bytes": 404511,
+      "sha256": "cf00bbc05594900b6f3bce70e70cd8c9eb0a9c7e6d355c25a3b586e46c8f4bab"
+    },
+    "head-coverage/dragon-v8-dragon-sherpa-mini/companion-manifest.json": {
+      "path": "head-coverage/dragon-v8-dragon-sherpa-mini/companion-manifest.json",
+      "bytes": 66344,
+      "sha256": "7cfe5fa766ac9fd61a1ec6e3d8417b2066a3896dc7c88cf8446bd28d801920ea"
+    },
+    "head-coverage/dragon-v8-dragon-sherpa-mini/installed/INSTALLATION_PROOF.json": {
+      "path": "head-coverage/dragon-v8-dragon-sherpa-mini/installed/INSTALLATION_PROOF.json",
+      "bytes": 295866,
+      "sha256": "f22d3aa8a4214ef6b81c4ae23306f288e2d2ffbce1254727dff017b4699abb87"
+    },
+    "head-coverage/dragon-v8-dragon-sherpa-mini/model.glb.gz": {
+      "path": "head-coverage/dragon-v8-dragon-sherpa-mini/model.glb.gz",
+      "bytes": 14785920,
+      "sha256": "693e3456b3748400ca2a1509c4b9366b42db50944563d7df44f794185e7760ee"
+    },
+    "head-coverage/dragon-v8-dragon-sherpa-mini/native-proof.json": {
+      "path": "head-coverage/dragon-v8-dragon-sherpa-mini/native-proof.json",
+      "bytes": 18864,
+      "sha256": "6172f764a8386af7206e40d8272108f57a00db030e01e3ea6d4d2bdac56711bf"
+    },
+    "head-coverage/dragon-v8-dragon-sherpa-mini/parts.json": {
+      "path": "head-coverage/dragon-v8-dragon-sherpa-mini/parts.json",
+      "bytes": 112509,
+      "sha256": "c81724bc121b931c206ba0184f2d51a6b28b85cd331756f6bf971cf90500ef03"
+    },
+    "head-coverage/dragon-v8-dragon-sherpa-mini/source-provenance.json": {
+      "path": "head-coverage/dragon-v8-dragon-sherpa-mini/source-provenance.json",
+      "bytes": 5455,
+      "sha256": "d3de29b261f4e85dbbfee9a6c69d33a0a71726446c42cd578f7904af4c6723f2"
+    },
+    "head-coverage/dragon-v8-dragon-sherpa-mini/source/dragon-v8-dragon-sherpa-mini-source-supplement.zip": {
+      "path": "head-coverage/dragon-v8-dragon-sherpa-mini/source/dragon-v8-dragon-sherpa-mini-source-supplement.zip",
+      "bytes": 125726,
+      "sha256": "b69601de218b8020c81367a4599ab8b4c97d8a576f84387d60e38de1953b50fc"
     }
   }
 }

@@ -1,0 +1,533 @@
+{
+  "schema": "head-coverage-native-proof-v2",
+  "candidate_id": "dragon_burner_v8_sherpa_mini_dragon_native",
+  "status": "PASS_SELECTED_NATIVE_INTERFACES_WITH_DECLARED_AUTHORED_CONTACTS",
+  "assembly_sha256": "d68c0fb6a9aea178a501ed7b73fe6ab8e6af6d6572f17934bb1316cb83c6420b",
+  "counts": {
+    "head_parts": 64,
+    "installed_fixture_parts": 72,
+    "source_carriage_parts": 8,
+    "fans": 3,
+    "full_drive_leaves": 30,
+    "Dragon_native_leaves": 4,
+    "heatsets": 4,
+    "added_fasteners": 14,
+    "logo_LED": 1,
+    "logo_carrier": 1,
+    "native_valid_leaves": 72
+  },
+  "independent_jobs": {
+    "worker_limit": 2,
+    "components_pairs": 90,
+    "carriage_pairs": 19,
+    "unexpected_body_interferences": 0
+  },
+  "hardware_assembled": true,
+  "source_carriage_geometry_unchanged": true,
+  "maximum_Dragon_mount_radial_error_mm": 0.054151925504120464,
+  "minimum_remaining_M2_5_radial_clearance_mm": 0.19584807449587954,
+  "nozzle_lowest_native_z_mm": 48.590539030917384,
+  "duct_lowest_native_z_mm": 50.252651024273696,
+  "nozzle_below_duct_mm": 1.6621119933563122,
+  "accepted_contacts": [
+    {
+      "parts": [
+        "hotend_mount",
+        "drive_heatset_0"
+      ],
+      "intersection_mm3": 3.1241057387515765,
+      "distance_mm": 0,
+      "native_geometry_sha256": [
+        "0c42d741dea3ceca40a6a3a917a3016b093586bc109917bf6f9ee125252ab1a7",
+        "4431ddd869f2340ae4e6242fab080bb2a6006cb7794afb051e42eebb316da097"
+      ],
+      "reused_identical_native_geometry": true,
+      "needs_classification": true,
+      "classification": "intended_heatset_or_thread_engagement",
+      "reason": "Exact native 5 mm OD, 4 mm long M3 brass insert in author 4.7 mm press pocket; screw reaches the insert, not a blind body."
+    },
+    {
+      "parts": [
+        "hotend_mount",
+        "drive_heatset_1"
+      ],
+      "intersection_mm3": 3.1241055822993764,
+      "distance_mm": 0,
+      "native_geometry_sha256": [
+        "0c42d741dea3ceca40a6a3a917a3016b093586bc109917bf6f9ee125252ab1a7",
+        "59ee323e6dc0b3c5906274b4cd6a49e21e332feb6fe34ca1f0fa2cbcab60c15e"
+      ],
+      "reused_identical_native_geometry": true,
+      "needs_classification": true,
+      "classification": "intended_heatset_or_thread_engagement",
+      "reason": "Exact native 5 mm OD, 4 mm long M3 brass insert in author 4.7 mm press pocket; screw reaches the insert, not a blind body."
+    },
+    {
+      "parts": [
+        "duct_left",
+        "brace_screw_0"
+      ],
+      "intersection_mm3": 0.16218472074086893,
+      "distance_mm": 0,
+      "native_geometry_sha256": [
+        "ba66745bf40f8bb20b179c8e884ee10874e5f889fae17719b969535f314689f0",
+        "2a64f30068a12d096609cd2f01540546892071e9ef2e9c1d3b11973b0e86d68b"
+      ],
+      "reused_identical_native_geometry": true,
+      "needs_classification": true,
+      "classification": "intended_screw_in_printed_pilot",
+      "reason": "Author explicitly specifies native M3x6 screws lightly tightened into the plastic; 2.5 mm pilot against M3 thread."
+    },
+    {
+      "parts": [
+        "duct_right",
+        "brace_screw_1"
+      ],
+      "intersection_mm3": 0.16218472074793072,
+      "distance_mm": 0,
+      "native_geometry_sha256": [
+        "a5411e89f85028723f402bb7e60d060f0f472a46402ffd68bb23b4d6e175537e",
+        "a6647dbb2ce858fa88a3296af7deb71b85f2102ee281279b21e9304b3047dde6"
+      ],
+      "reused_identical_native_geometry": true,
+      "needs_classification": true,
+      "classification": "intended_screw_in_printed_pilot",
+      "reason": "Author explicitly specifies native M3x6 screws lightly tightened into the plastic; 2.5 mm pilot against M3 thread."
+    },
+    {
+      "parts": [
+        "cowl",
+        "fan_3010"
+      ],
+      "intersection_mm3": 1.103149638025927,
+      "distance_mm": 0,
+      "native_geometry_sha256": [
+        "18283a5ddc5280e3da3ae1413885074e9ecfabc86f8b875f5727c926636b69c6",
+        "b008955e69aa43afae07466e9f78547afff5608830f3e862ff561eadb0f04c6f"
+      ],
+      "reused_identical_native_geometry": true,
+      "needs_classification": true,
+      "classification": "author_friction_fit_frame_lips",
+      "reason": "Primary author specifies a friction fit. All common solids lie outside the native 14 mm rotor aperture; the rigid fan rotor is clear."
+    },
+    {
+      "parts": [
+        "cowl",
+        "cowl_heatset_0"
+      ],
+      "intersection_mm3": 3.096442878619785,
+      "distance_mm": 0,
+      "native_geometry_sha256": [
+        "18283a5ddc5280e3da3ae1413885074e9ecfabc86f8b875f5727c926636b69c6",
+        "a8edcd617ea872aae66dfdf7513d3dc7ebe0420cbb9e9757b2a28b715f54efa5"
+      ],
+      "reused_identical_native_geometry": true,
+      "needs_classification": true,
+      "classification": "intended_heatset_or_thread_engagement",
+      "reason": "Exact native 5 mm OD, 4 mm long M3 brass insert in author 4.7 mm press pocket; screw reaches the insert, not a blind body."
+    },
+    {
+      "parts": [
+        "cowl",
+        "cowl_heatset_1"
+      ],
+      "intersection_mm3": 3.0964431278058155,
+      "distance_mm": 0,
+      "native_geometry_sha256": [
+        "18283a5ddc5280e3da3ae1413885074e9ecfabc86f8b875f5727c926636b69c6",
+        "2e11b50e1a83bf7fbb2d3dfd1325b02a71e2ec0a4eba72299c8cec0a91a0e7d2"
+      ],
+      "reused_identical_native_geometry": true,
+      "needs_classification": true,
+      "classification": "intended_heatset_or_thread_engagement",
+      "reason": "Exact native 5 mm OD, 4 mm long M3 brass insert in author 4.7 mm press pocket; screw reaches the insert, not a blind body."
+    },
+    {
+      "parts": [
+        "logo_carrier",
+        "logo_led"
+      ],
+      "intersection_mm3": 0.04125827887555229,
+      "distance_mm": 0,
+      "native_geometry_sha256": [
+        "68f7d5941a1535cde0cad036521764f262daaba341540accd0abf2096904c4eb",
+        "8829748ede3b89073b04a0925f1510df6da3639cc1c43a8916a92f3253c9123d"
+      ],
+      "reused_identical_native_geometry": true,
+      "needs_classification": true,
+      "classification": "unchanged_authored_LED_carrier_contact",
+      "reason": "Both occurrences and their relative pose are unchanged in Chirpy v8. Small authored carrier/LED contact is retained and not claimed to establish electronic package stress."
+    },
+    {
+      "parts": [
+        "dragon_1",
+        "hotend_screw_2"
+      ],
+      "intersection_mm3": 4.578046491199678,
+      "distance_mm": 0,
+      "native_geometry_sha256": [
+        "ff4679946d2685aa3b28b71696f2c033988dafe409662f7f98ed7fd445cc5c9a",
+        "0372ffbd931d1705eb0a75be2708d518c600c1191543d5598ca92b62b0f6373d"
+      ],
+      "reused_identical_native_geometry": true,
+      "needs_classification": true,
+      "classification": "intended_native_M2_5_thread_engagement",
+      "reason": "Native top thread circles are measured on all four axes; female modeled minor radius 1 mm and 6 mm depth. Unthreaded male CAD shank is 1.25 mm radius and enters less than 4 mm."
+    },
+    {
+      "parts": [
+        "dragon_1",
+        "hotend_screw_3"
+      ],
+      "intersection_mm3": 4.578239124976976,
+      "distance_mm": 0,
+      "native_geometry_sha256": [
+        "ff4679946d2685aa3b28b71696f2c033988dafe409662f7f98ed7fd445cc5c9a",
+        "dcca0e8394bacd16f2730184bc55197ed3b8a0685566182a7789cab0ff461402"
+      ],
+      "reused_identical_native_geometry": true,
+      "needs_classification": true,
+      "classification": "intended_native_M2_5_thread_engagement",
+      "reason": "Native top thread circles are measured on all four axes; female modeled minor radius 1 mm and 6 mm depth. Unthreaded male CAD shank is 1.25 mm radius and enters less than 4 mm."
+    },
+    {
+      "parts": [
+        "dragon_2",
+        "dragon_3"
+      ],
+      "intersection_mm3": 0.5431393029444531,
+      "distance_mm": 0,
+      "native_geometry_sha256": [
+        "c692ff1beaf080233cf655f6b943ea8dc66ccc97beaa57c04ce490d6fa8c501c",
+        "bd7346a2c5a2c4e5738523ea0431524034f6b8e246ac3ba74081b35fec4cf019"
+      ],
+      "reused_identical_native_geometry": true,
+      "needs_classification": true,
+      "classification": "unchanged_authored_hotend_internal_engagement",
+      "reason": "Heater-block, heatbreak and standoff bodies retain the exact original Dragon v2 relative transforms. Thermal/threaded engagement belongs to the native hotend."
+    },
+    {
+      "parts": [
+        "drive_heatset_0",
+        "drive_mount_screw_0"
+      ],
+      "intersection_mm3": 0.7414158662324954,
+      "distance_mm": 0,
+      "native_geometry_sha256": [
+        "4431ddd869f2340ae4e6242fab080bb2a6006cb7794afb051e42eebb316da097",
+        "efe47552c001ccb54238c636cacad60f90566d9cf97f7a4098225e43b476811c"
+      ],
+      "reused_identical_native_geometry": true,
+      "needs_classification": true,
+      "classification": "intended_heatset_or_thread_engagement",
+      "reason": "Exact native 5 mm OD, 4 mm long M3 brass insert in author 4.7 mm press pocket; screw reaches the insert, not a blind body."
+    },
+    {
+      "parts": [
+        "drive_heatset_1",
+        "drive_mount_screw_1"
+      ],
+      "intersection_mm3": 0.7414158661926029,
+      "distance_mm": 0,
+      "native_geometry_sha256": [
+        "59ee323e6dc0b3c5906274b4cd6a49e21e332feb6fe34ca1f0fa2cbcab60c15e",
+        "8b736a1493a1ea9f1f69bc55bdb822f414231ca732feec8c8174f34546d5da81"
+      ],
+      "reused_identical_native_geometry": true,
+      "needs_classification": true,
+      "classification": "intended_heatset_or_thread_engagement",
+      "reason": "Exact native 5 mm OD, 4 mm long M3 brass insert in author 4.7 mm press pocket; screw reaches the insert, not a blind body."
+    },
+    {
+      "parts": [
+        "cowl_heatset_0",
+        "cowl_screw_0"
+      ],
+      "intersection_mm3": 0.8756683394862765,
+      "distance_mm": 0,
+      "native_geometry_sha256": [
+        "a8edcd617ea872aae66dfdf7513d3dc7ebe0420cbb9e9757b2a28b715f54efa5",
+        "7449d67b9a6156839ba220d49a635c32294609f5906c68a2d87f74d04465821d"
+      ],
+      "reused_identical_native_geometry": false,
+      "needs_classification": true,
+      "classification": "intended_heatset_or_thread_engagement",
+      "reason": "Exact native 5 mm OD, 4 mm long M3 brass insert in author 4.7 mm press pocket; screw reaches the insert, not a blind body."
+    },
+    {
+      "parts": [
+        "cowl_heatset_1",
+        "cowl_screw_1"
+      ],
+      "intersection_mm3": 0.8756683395132683,
+      "distance_mm": 0,
+      "native_geometry_sha256": [
+        "2e11b50e1a83bf7fbb2d3dfd1325b02a71e2ec0a4eba72299c8cec0a91a0e7d2",
+        "1fb0a382891ca87720c0d734a4cb7bc9c33aeed1b567dc0552bf5d4ef2100dc1"
+      ],
+      "reused_identical_native_geometry": false,
+      "needs_classification": true,
+      "classification": "intended_heatset_or_thread_engagement",
+      "reason": "Exact native 5 mm OD, 4 mm long M3 brass insert in author 4.7 mm press pocket; screw reaches the insert, not a blind body."
+    }
+  ],
+  "fan_frame_contacts": [
+    {
+      "volume_mm3": 0.03507582345518198,
+      "bounds_mm": [
+        132.66694673240283,
+        -143.49993063322435,
+        80.50005034114432,
+        132.7371132909773,
+        -143.42976407464997,
+        95.0959279136335
+      ],
+      "minimum_axis_radius_mm": 14.929833449882693
+    },
+    {
+      "volume_mm3": 0.3714467173337672,
+      "bounds_mm": [
+        162.21711324538978,
+        -153.42976417465016,
+        70.50708971398339,
+        162.66694683240297,
+        -153.32287646694965,
+        96.19290977937662
+      ],
+      "minimum_axis_radius_mm": 14.550166504529784
+    },
+    {
+      "volume_mm3": 0.6966213671218366,
+      "bounds_mm": [
+        132.6669466324028,
+        -153.42976417465007,
+        70.32548745806488,
+        133.21711344539003,
+        -153.26481888179833,
+        96.37451203529555
+      ],
+      "minimum_axis_radius_mm": 14.449833295469972
+    }
+  ],
+  "fastener_seats_and_lengths": [
+    {
+      "interface": "drive_mount_screw_0",
+      "source_seat_face_id": "0:1:1:8:3@Archetype Public CAD v22/Core:1/Core Hardware:1/Hardware:1/Lowers:1/M3x20 SHCS:1#face[13]",
+      "target_seat_mm": [
+        125.94487834214871,
+        -130.80942562125037,
+        125.0643259181417
+      ],
+      "target_direction": [
+        0,
+        0,
+        -1
+      ],
+      "native_underhead_to_tip_mm": 19.7
+    },
+    {
+      "interface": "drive_mount_screw_1",
+      "source_seat_face_id": "0:1:1:8:3@Archetype Public CAD v22/Core:1/Core Hardware:1/Hardware:1/Lowers:1/M3x20 SHCS:1#face[13]",
+      "target_seat_mm": [
+        169.4448783421487,
+        -130.80942562125045,
+        125.0643259181417
+      ],
+      "target_direction": [
+        0,
+        0,
+        -1
+      ],
+      "native_underhead_to_tip_mm": 19.7
+    },
+    {
+      "interface": "cowl_screw_0",
+      "source_seat_face_id": "0:1:1:8:3@Archetype Public CAD v22/Core:1/Core Hardware:1/Hardware:1/Lowers:1/M3x20 SHCS:1#face[13]",
+      "target_seat_mm": [
+        135.176836487267,
+        -123.41948530618706,
+        114.214325918142
+      ],
+      "target_direction": [
+        0,
+        -1,
+        0
+      ],
+      "native_underhead_to_tip_mm": 19.7
+    },
+    {
+      "interface": "cowl_screw_1",
+      "source_seat_face_id": "0:1:1:8:3@Archetype Public CAD v22/Core:1/Core Hardware:1/Hardware:1/Lowers:1/M3x20 SHCS:1#face[13]",
+      "target_seat_mm": [
+        160.176836487266,
+        -123.41948530618706,
+        114.214450222804
+      ],
+      "target_direction": [
+        0,
+        -1,
+        0
+      ],
+      "native_underhead_to_tip_mm": 19.7
+    },
+    {
+      "interface": "hotend_screw_0",
+      "source_seat_face_id": "0:1:1:179:2@Xol Toolhead Assembly Guide v0/Toolhead Assembly <1>:1/Hotend Mounts Assembly <1>:1/Hotend Mount Assembly - Dragon UHF <1>:1/M2.5x8 SHCS:21#face[18]",
+      "target_seat_mm": [
+        153.35327447828152,
+        -125.09070975813032,
+        98.26432591814279
+      ],
+      "target_direction": [
+        0,
+        0,
+        -1
+      ],
+      "native_underhead_to_tip_mm": 7.711324865405201
+    },
+    {
+      "interface": "hotend_screw_1",
+      "source_seat_face_id": "0:1:1:179:2@Xol Toolhead Assembly Guide v0/Toolhead Assembly <1>:1/Hotend Mounts Assembly <1>:1/Hotend Mount Assembly - Dragon UHF <1>:1/M2.5x8 SHCS:21#face[18]",
+      "target_seat_mm": [
+        153.35749913389415,
+        -136.40441746834998,
+        98.26432591814279
+      ],
+      "target_direction": [
+        0,
+        0,
+        -1
+      ],
+      "native_underhead_to_tip_mm": 7.711324865405201
+    },
+    {
+      "interface": "hotend_screw_2",
+      "source_seat_face_id": "0:1:1:179:2@Xol Toolhead Assembly Guide v0/Toolhead Assembly <1>:1/Hotend Mounts Assembly <1>:1/Hotend Mount Assembly - Dragon UHF <1>:1/M2.5x8 SHCS:21#face[18]",
+      "target_seat_mm": [
+        142.03956676806177,
+        -125.09493441374285,
+        98.26432591814279
+      ],
+      "target_direction": [
+        0,
+        0,
+        -1
+      ],
+      "native_underhead_to_tip_mm": 7.711324865405201
+    },
+    {
+      "interface": "hotend_screw_3",
+      "source_seat_face_id": "0:1:1:179:2@Xol Toolhead Assembly Guide v0/Toolhead Assembly <1>:1/Hotend Mounts Assembly <1>:1/Hotend Mount Assembly - Dragon UHF <1>:1/M2.5x8 SHCS:21#face[18]",
+      "target_seat_mm": [
+        142.0437914236744,
+        -136.4086421239626,
+        98.26432591814279
+      ],
+      "target_direction": [
+        0,
+        0,
+        -1
+      ],
+      "native_underhead_to_tip_mm": 7.711324865405201
+    },
+    {
+      "interface": "brace_screw_0",
+      "source_seat_face_id": "0:1:1:112:1@Archetype Public CAD v22/Core:1/Extruder Block:1/Breakneck Blocks:1/Breakneck Sherpa Micro v29:2/bar test v27 (1) (1):1/M3x6 BHCS v1:1/M3x6 BHCS v1(Mirror):1#face[7]",
+      "target_seat_mm": [
+        132.6106248479619,
+        -112.429764021511,
+        60.27765112427577
+      ],
+      "target_direction": [
+        0,
+        -1,
+        0
+      ],
+      "native_underhead_to_tip_mm": 5.700000000000001
+    },
+    {
+      "interface": "brace_screw_1",
+      "source_seat_face_id": "0:1:1:112:1@Archetype Public CAD v22/Core:1/Extruder Block:1/Breakneck Blocks:1/Breakneck Sherpa Micro v29:2/bar test v27 (1) (1):1/M3x6 BHCS v1:1/M3x6 BHCS v1(Mirror):1#face[7]",
+      "target_seat_mm": [
+        162.8236018428169,
+        -112.429764021511,
+        60.27765112427577
+      ],
+      "target_direction": [
+        0,
+        -1,
+        0
+      ],
+      "native_underhead_to_tip_mm": 5.700000000000001
+    },
+    {
+      "interface": "carriage_front_screw_0",
+      "source_seat_face_id": "0:1:1:249:9@(Unsaved)/Gantry:1/Mini Stealthburner:1/Hardware (12):1/Screws (15):1/M3x35 BHCS (4):2#face[7]",
+      "target_seat_mm": [
+        160.17683648727373,
+        -148.429764021512,
+        103.79978375258419
+      ],
+      "target_direction": [
+        0,
+        1,
+        0
+      ],
+      "native_underhead_to_tip_mm": 34.62499999999999
+    },
+    {
+      "interface": "carriage_front_screw_1",
+      "source_seat_face_id": "0:1:1:249:9@(Unsaved)/Gantry:1/Mini Stealthburner:1/Hardware (12):1/Screws (15):1/M3x35 BHCS (4):2#face[7]",
+      "target_seat_mm": [
+        135.17683648727373,
+        -148.429764021512,
+        103.79978375258419
+      ],
+      "target_direction": [
+        0,
+        1,
+        0
+      ],
+      "native_underhead_to_tip_mm": 34.62499999999999
+    },
+    {
+      "interface": "carriage_rear_screw",
+      "source_seat_face_id": "0:1:1:8:3@Archetype Public CAD v22/Core:1/Core Hardware:1/Hardware:1/Lowers:1/M3x20 SHCS:1#face[13]",
+      "target_seat_mm": [
+        147.69487834214073,
+        -102.9194928209235,
+        113.91461311336866
+      ],
+      "target_direction": [
+        0,
+        -1,
+        0
+      ],
+      "native_underhead_to_tip_mm": 19.7,
+      "target_seat_face_id": "0:1:1:223:1@(Unsaved)/Gantry:1/Mini Stealthburner:1/Printed Parts (12):1/X Carriage:1/X Carriage Body:1#face[238]"
+    }
+  ],
+  "excluded_alternatives": [
+    "All non-Dragon hotend mounts",
+    "All other extruder mounts and Sherpa long idler/front_k",
+    "Other cowl/duct/probe variants",
+    "2510 fan spacer",
+    "Nozzle sequin LEDs and alternative logo PCBs",
+    "ADXL PCB and optional bracket",
+    "Official carriage manufacturing support occurrence 354"
+  ],
+  "unverified": [
+    "Whole-printer frame/bed/probe/parked-tool clearance and all gantry modes",
+    "Full XYZ travel, PTFE/CAN/wire routes, folding and disassembly",
+    "Production catalog A-B-A, save/load and installed machine controller",
+    "LED package stress at retained authored carrier contact",
+    "Different Sherpa revisions or HF/SF Dragon heatbreak identities not declared by native CAD"
+  ],
+  "publication_ready": false,
+  "native_nozzle_point_mm": [
+    147.6629305805314,
+    -130.74968923534004,
+    48.590539030917384
+  ],
+  "native_nozzle_source_face_id": "0:1:1:3:1@Dragon_Burner_v2 v114/Hotends:1/Dragon_Hotend:1/V6 Nozzle:1#face[20]"
+}

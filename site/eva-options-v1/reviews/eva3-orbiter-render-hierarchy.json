@@ -1,0 +1,178 @@
+{
+  "schema": "3d-print-rig-eva-compound-render-hierarchy-v1",
+  "part_key": "eva129_orbiter20_hex_013",
+  "native_source_sha256": "7806a7b99c185358d1805f1cf43aadc98ba83ffcd56f2ffe1c8e8c97c3dce0f7",
+  "native_geometry_changed": false,
+  "native_placement_changed": false,
+  "native_materials_changed": false,
+  "source_face_331_local_render_gauge_preserved": true,
+  "changes": [
+    {
+      "label": "module",
+      "old_gzip_sha256": "5b690cb850b4b11a7c5699a8e22e51f434cbfb4a0d77681eb54b916cfbba4b8b",
+      "old_decoded_sha256": "110d46e3233201b0c6f9f9b498e5ed0ad18e33d96946c7965ec0d429ab2b57e1",
+      "new_gzip_sha256": "2deef2d3a0a60f3ddf8b41dc37c2b97f1533dada95128c595b305b6b0cfe2c46",
+      "new_decoded_sha256": "188f1352b27649c0d041549cd9c148c8704e7755ae1b65626d1a9eb43ca922d0",
+      "binary_chunk_sha256": "cc572976cb854cc0bad76493d1e2c6052ab6e993c6176134036419c0457f8988",
+      "binary_chunk_byte_exact": true,
+      "all_parts_primitive_buffers_materials_world_matrices_exact": true,
+      "part_count": 73,
+      "logical_owner": "eva129_orbiter20_hex_013",
+      "logical_owner_node": 13,
+      "old_mesh_with_children_removed": true,
+      "sibling_primitive_nodes": [
+        {
+          "new_child_node": 73,
+          "source_mesh": 14,
+          "source_primitive": 0,
+          "new_mesh": 14,
+          "source_node": 14,
+          "local_matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ]
+        },
+        {
+          "new_child_node": 74,
+          "source_mesh": 13,
+          "source_primitive": 0,
+          "new_mesh": 13,
+          "source_node": 13,
+          "local_matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0047321836430923876
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.015292863923522873
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.010380026749711214
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "label": "complete",
+      "old_gzip_sha256": "c3f5f81e046842740bace152311c12affc6006a4f1cb1c84354b9a3a07085cbf",
+      "old_decoded_sha256": "cdbf7cb5e9c1f30e69b53a8438fa8a69ad9c6bd85cf0830db9520fc55eeb4522",
+      "new_gzip_sha256": "a39ec4696d2f9d7f6f01acefccde5bbcc1c55fd4b48ee16889f7472c1b707e2f",
+      "new_decoded_sha256": "cbcb46cdfdcd148044de21ac23689fad967d75d59ee51b5a56264ddbf3334b5e",
+      "binary_chunk_sha256": "5d9bbcd2b7cc4d76fbb92079467d1cac5e2f7ac7a372c8615d41aa32b147d4e2",
+      "binary_chunk_byte_exact": true,
+      "all_parts_primitive_buffers_materials_world_matrices_exact": true,
+      "part_count": 177,
+      "logical_owner": "eva129_orbiter20_hex_013",
+      "logical_owner_node": 113,
+      "old_mesh_with_children_removed": true,
+      "sibling_primitive_nodes": [
+        {
+          "new_child_node": 177,
+          "source_mesh": 114,
+          "source_primitive": 0,
+          "new_mesh": 114,
+          "source_node": 114,
+          "local_matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ]
+        },
+        {
+          "new_child_node": 178,
+          "source_mesh": 113,
+          "source_primitive": 0,
+          "new_mesh": 113,
+          "source_node": 113,
+          "local_matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0047321836430923876
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.015292863923522873
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.010380026749711214
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "reason": "One legitimate authored housing leaf has an adaptive native surface gauge for face331. A node that combined an owner mesh and a child mesh made GLTFLoader parents differ. Each original primitive is now a direct sibling under one source-identity owner.",
+  "full_physical_fit_certified": false,
+  "repair_script_sha256": "9d5790c41c2f9520e790087f6cc3563734d1874b323b689ae2e1a76d1c39f3c3"
+}

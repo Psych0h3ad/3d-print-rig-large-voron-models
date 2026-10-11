@@ -1,0 +1,95 @@
+{
+  "sources": [
+    {
+      "repository": "chirpy2605/voron",
+      "commit": "cc2e749d09d7f24418f9f8c73c90bcefb1e29584",
+      "path": "V0/Dragon_Burner/CAD/Dragon_Burner_v0.2_v8.step",
+      "url": "https://raw.githubusercontent.com/chirpy2605/voron/cc2e749d09d7f24418f9f8c73c90bcefb1e29584/V0/Dragon_Burner/CAD/Dragon_Burner_v0.2_v8.step",
+      "sha256": "f3770792ab782a168d6372a7d4837ded980ca6e3e90ef29c43ec395c85defd6e",
+      "bytes": 25308897,
+      "source_family_key": "dragon-v8",
+      "native_STEP_sha256": "f3770792ab782a168d6372a7d4837ded980ca6e3e90ef29c43ec395c85defd6e",
+      "native_STEP": "source-evidence/primary\\dragon-v8\\source.step",
+      "license": "GPL-3.0; original embedded purchased CAD retains its author terms"
+    },
+    {
+      "repository": "chirpy2605/voron",
+      "commit": "cc2e749d09d7f24418f9f8c73c90bcefb1e29584",
+      "path": "V0/Dragon_Burner/Old_Versions/v2/CAD/Dragon_Burner_v2.step",
+      "url": "https://raw.githubusercontent.com/chirpy2605/voron/cc2e749d09d7f24418f9f8c73c90bcefb1e29584/V0/Dragon_Burner/Old_Versions/v2/CAD/Dragon_Burner_v2.step",
+      "sha256": "287d4a97b33af64b10035b66727145cb3a959dd9997b43990fe33b13ef96fd04",
+      "bytes": 22684300,
+      "source_family_key": "dragon-native-v2",
+      "native_STEP_sha256": "287d4a97b33af64b10035b66727145cb3a959dd9997b43990fe33b13ef96fd04",
+      "native_STEP": "source-evidence/primary\\dragon-native-v2\\source.step",
+      "license": "GPL-3.0; original embedded purchased CAD retains its author terms"
+    },
+    {
+      "repository": "3dfiyMyLife/Lineux-Toolchanger",
+      "commit": "033836a9984ec543c6bb61394352f6f029d251c0",
+      "path": "CAD/Archive/Lineux Stealth/Toolhead/Lineux Stealth Dragonburner v36.zip",
+      "url": "https://raw.githubusercontent.com/3dfiyMyLife/Lineux-Toolchanger/033836a9984ec543c6bb61394352f6f029d251c0/CAD/Archive/Lineux%20Stealth/Toolhead/Lineux%20Stealth%20Dragonburner%20v36.zip",
+      "sha256": "f1a595bd708616413f6ea67959f80af30efd4858e46910ab610f38e839397331",
+      "bytes": 21721609,
+      "source_family_key": "dragoncombo",
+      "native_STEP_sha256": "7cc6b40df5082a6df2fb6fe447af6e7c459daac7d3028f30e4e5bad93b7bc39e",
+      "native_STEP": "source-evidence/primary\\DragonCombo\\Lineux Stealth Dragonburner v36.step",
+      "license": "GPL-3.0; original embedded purchased CAD retains its author terms"
+    },
+    {
+      "repository": "VoronDesign/Voron-0",
+      "commit": "a53fc87562fd630c846af38d7de850c894dc3d85",
+      "path": "CAD/V0.2R1_Master_Assembly_STEP.zip",
+      "url": "https://raw.githubusercontent.com/VoronDesign/Voron-0/a53fc87562fd630c846af38d7de850c894dc3d85/CAD/V0.2R1_Master_Assembly_STEP.zip",
+      "sha256": "a1cf81917dbeb55c13b23a490763297f85e4aeef5c0f2c45274a4969b5103b25",
+      "bytes": 32088462,
+      "source_family_key": "v0r1",
+      "native_STEP_sha256": "d5a9d40db82c55eee20203608a5a4e784b54b87ae339861af577c5aeb182d61f",
+      "native_STEP": "source-evidence/primary/V0R1/V0.2R1 Master Assembly v63.step",
+      "license": "GPL-3.0; original embedded purchased CAD retains its author terms"
+    },
+    {
+      "family": "Archetype",
+      "path": "CAD/Archetype Public CAD.zip",
+      "url": "https://raw.githubusercontent.com/Armchair-Heavy-Industries/Archetype/152709791048d67aab45ea7b774cc16c2a25efd0/CAD/Archetype%20Public%20CAD.zip",
+      "commit": "152709791048d67aab45ea7b774cc16c2a25efd0",
+      "git_blob": "21e74bd7bb5c13122d928ae997283c4582c34139",
+      "sha256": "e0d81c5c0564e281b495e67bb8f7677b96afa2f5ba3961648a60dc89819400d8",
+      "bytes": 43677501,
+      "members": [
+        {
+          "path": "Archetype Public CAD STEP.step",
+          "bytes": 233763556
+        }
+      ],
+      "repository": "Armchair-Heavy-Industries/Archetype",
+      "source_family_key": "archetype",
+      "native_STEP_sha256": "4a372cef8e3662e3fb26ca5e9c2db34661718163b64e9a58ef3512816b15eb47",
+      "native_STEP": "source-evidence/primary\\Archetype\\extracted\\Archetype Public CAD STEP.step",
+      "license": "CC-BY-NC-SA-4.0 repository; Annex/vendor exceptions apply to native embedded hardware"
+    },
+    {
+      "family": "Xol",
+      "path": "CAD/assemblies/Xol Toolhead Assembly Guide 20240615.zip",
+      "url": "https://raw.githubusercontent.com/Armchair-Heavy-Industries/Xol-Toolhead/c00b13ef851d38fef6e295e18296650e1ca50d7e/CAD/assemblies/Xol%20Toolhead%20Assembly%20Guide%2020240615.zip",
+      "commit": "c00b13ef851d38fef6e295e18296650e1ca50d7e",
+      "git_blob": "337990b414962310b4d563bc798207ddbb2b86c4",
+      "sha256": "60e7b7df4be4abecb31fa78f686e9ed2f485624fb5d27df7a094c67bcecdd014",
+      "bytes": 25220722,
+      "members": [
+        {
+          "path": "Xol Toolhead Assembly Guide 20240615.step",
+          "bytes": 116942175
+        }
+      ],
+      "repository": "Armchair-Heavy-Industries/Xol-Toolhead",
+      "source_family_key": "xol-dragon",
+      "native_STEP_sha256": "57989a3ec4767c578965b28043b29208ae3ee3b2d53f46294add784f2405fca1",
+      "native_STEP": "source-evidence/primary/Xol/extracted/Xol Toolhead Assembly Guide 20240615.step",
+      "license": "CC-BY-NC-SA-4.0 repository; Annex/vendor exceptions apply to native embedded hardware"
+    }
+  ],
+  "cad_runtime": "CadQuery 2.6.1 / OCP 7.8.1.1",
+  "source_geometry_changes": "Rigid transforms only; source motor uses OCCT ShapeFix with zero measured volume change. No hardware is synthesized or scaled.",
+  "companion_manifest": "companion-manifest.json"
+}

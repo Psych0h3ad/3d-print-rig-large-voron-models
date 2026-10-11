@@ -1,0 +1,5378 @@
+{
+  "schema": "3d-print-rig-eva3-host-native-gaps-v1",
+  "configuration": "eva129__3__vcore_orbiter20_rapido",
+  "machine_id": "ratrig_vcore31_300",
+  "model": {
+    "bytes": 26113552,
+    "sha256": "a39ec4696d2f9d7f6f01acefccde5bbcc1c55fd4b48ee16889f7472c1b707e2f",
+    "encoding": "gzip",
+    "decoded_bytes": 53975376,
+    "decoded_sha256": "cbcb46cdfdcd148044de21ac23689fad967d75d59ee51b5a56264ddbf3334b5e",
+    "url": "https://psych0h3ad.github.io/3d-print-rig-large-voron-models/eva-options-v1/eva129__3__vcore_orbiter20_rapido/model.glb.gz"
+  },
+  "metadata": {
+    "bytes": 2799626,
+    "sha256": "4bd07b2c1ef21318f1e20fb79064855ad36a1b199f8643c038241bfc3760adec",
+    "url": "https://psych0h3ad.github.io/3d-print-rig-large-voron-models/eva-options-v1/eva129__3__vcore_orbiter20_rapido/parts.json"
+  },
+  "host_step_sha256": "9bfde01c4d811eaef253831f2fe7354e14c36b607d36b5b37bfc4fe9f48906d6",
+  "host_profile": {
+    "file": "vcore31-profile.json",
+    "bytes": 36233,
+    "sha256": "6ca2464c60b71f1911de34b57747f2cb4ead800b053beb2c2a04ee252564ec33"
+  },
+  "completed": true,
+  "closest_body_witnesses": [
+    {
+      "name": "combined-1",
+      "axes": {
+        "x": 149.99999938309264,
+        "y": 151.3,
+        "z": 8.49987206023684
+      },
+      "categories": {
+        "frame": {
+          "axes": {
+            "x": 149.99999938309264,
+            "y": 151.3,
+            "z": 8.49987206023684
+          },
+          "head_key": "eva3_native_010",
+          "head_name": "40mm_fan_inlet v2:1",
+          "host_key": "13",
+          "host_name": "T-Slot 3030 - Black - 440mm v1:6",
+          "relative_translation_mm": [
+            -149.99999938309264,
+            -151.3,
+            0.0
+          ],
+          "distance_mm": 6.175105487470835,
+          "head_source_face": 14,
+          "host_source_face": 0,
+          "head_source_point_mm": [
+            2.044084538283678e-07,
+            19.156326870626433,
+            481.7837429598611
+          ],
+          "host_in_head_source_point_mm": [
+            2.044084510544053e-07,
+            24.526057100876223,
+            478.73449304623745
+          ],
+          "head_rest_host_mm": [
+            2.044084538283678e-07,
+            19.156326870626433,
+            481.7837429598611
+          ],
+          "host_relative_host_mm": [
+            2.044084510544053e-07,
+            24.526057100876223,
+            478.73449304623745
+          ],
+          "head_native_brep_sha256": "29355a67c5c51cd533114883df1cc13cbb8f4fb3fd673a43c545e8fc6d2b4e2c",
+          "host_native_brep_sha256": "fe2ca10ace856eed11e07422f7849e0286c5b2c2402e8de3aba58785583a2c1d",
+          "native_fuzzy_value_mm": 0,
+          "native_face_operations": 254,
+          "native_face_box_pairs": 23530,
+          "bounds_only_pruning": true,
+          "broadphase_pair_count": 3009,
+          "native_distance_operations": 1
+        },
+        "xy_idler_body": {
+          "axes": {
+            "x": 149.99999938309264,
+            "y": 151.3,
+            "z": 8.49987206023684
+          },
+          "head_key": "eva3_native_094",
+          "head_name": "ratrig_eva3_shroud v3:1",
+          "host_key": "427",
+          "host_name": "idler_plate_v1.0 v2:2",
+          "relative_translation_mm": [
+            -149.99999938309264,
+            -151.3,
+            0.0
+          ],
+          "distance_mm": 278.40830593568427,
+          "head_source_face": 199,
+          "host_source_face": 19,
+          "head_source_point_mm": [
+            22.196945874962577,
+            -89.65001520905642,
+            487.9123468609344
+          ],
+          "host_in_head_source_point_mm": [
+            70.3617153841768,
+            -363.7462292640012,
+            479.99999999999994
+          ],
+          "head_rest_host_mm": [
+            22.196945874962577,
+            -89.65001520905642,
+            487.9123468609344
+          ],
+          "host_relative_host_mm": [
+            70.3617153841768,
+            -363.7462292640012,
+            479.99999999999994
+          ],
+          "head_native_brep_sha256": "43b44d27673156c4b1e7ff5f14a9e9ff1895154da9fb65016b6c8b8fb5b0aba0",
+          "host_native_brep_sha256": "50893c118c4d9ad3ef95793989feeaa06f986a30074cde0f1026a63b37de52a4",
+          "native_fuzzy_value_mm": 0,
+          "native_face_operations": 367,
+          "native_face_box_pairs": 5544,
+          "bounds_only_pruning": true,
+          "broadphase_pair_count": 708,
+          "native_distance_operations": 4
+        },
+        "xy_motor_mount_body": {
+          "axes": {
+            "x": 149.99999938309264,
+            "y": 151.3,
+            "z": 8.49987206023684
+          },
+          "head_key": "eva3_native_010",
+          "head_name": "40mm_fan_inlet v2:1",
+          "host_key": "532",
+          "host_name": "xy_motor_cage_top_right_3.1 v2:1",
+          "relative_translation_mm": [
+            -149.99999938309264,
+            -151.3,
+            0.0
+          ],
+          "distance_mm": 20.305407188364295,
+          "head_source_face": 76,
+          "host_source_face": 105,
+          "head_source_point_mm": [
+            11.248493191563309,
+            45.476588529062965,
+            529.3538374404328
+          ],
+          "host_in_head_source_point_mm": [
+            15.500000616907357,
+            59.69999999999999,
+            515.5
+          ],
+          "head_rest_host_mm": [
+            11.248493191563309,
+            45.476588529062965,
+            529.3538374404328
+          ],
+          "host_relative_host_mm": [
+            15.500000616907357,
+            59.69999999999999,
+            515.5
+          ],
+          "head_native_brep_sha256": "29355a67c5c51cd533114883df1cc13cbb8f4fb3fd673a43c545e8fc6d2b4e2c",
+          "host_native_brep_sha256": "676a754630df9fbcdb37807cddfe860b191af0f275f82012ed5f098988b34a47",
+          "native_fuzzy_value_mm": 0,
+          "native_face_operations": 149,
+          "native_face_box_pairs": 28598,
+          "bounds_only_pruning": true,
+          "broadphase_pair_count": 1062,
+          "native_distance_operations": 3
+        },
+        "xy_motor_body": {
+          "axes": {
+            "x": 149.99999938309264,
+            "y": 151.3,
+            "z": 8.49987206023684
+          },
+          "head_key": "eva3_native_010",
+          "head_name": "40mm_fan_inlet v2:1",
+          "host_key": "502",
+          "host_name": "Nema 17 Stepper Motor - 48mm - 1.8degree/step, 76oz-in v1:2",
+          "relative_translation_mm": [
+            -149.99999938309264,
+            -151.3,
+            0.0
+          ],
+          "distance_mm": 38.182779492524936,
+          "head_source_face": 14,
+          "host_source_face": 93,
+          "head_source_point_mm": [
+            13.973739734168102,
+            24.979423848304428,
+            493.34901977823665
+          ],
+          "host_in_head_source_point_mm": [
+            18.430073037101856,
+            58.69999999999999,
+            476.0
+          ],
+          "head_rest_host_mm": [
+            13.973739734168102,
+            24.979423848304428,
+            493.34901977823665
+          ],
+          "host_relative_host_mm": [
+            18.430073037101856,
+            58.69999999999999,
+            476.0
+          ],
+          "head_native_brep_sha256": "29355a67c5c51cd533114883df1cc13cbb8f4fb3fd673a43c545e8fc6d2b4e2c",
+          "host_native_brep_sha256": "faffe6f8d1cc9587a37bb175706991199e30e3fa56b26a65c25201dba3cdf52e",
+          "native_fuzzy_value_mm": 0,
+          "native_face_operations": 86,
+          "native_face_box_pairs": 40001,
+          "bounds_only_pruning": true,
+          "broadphase_pair_count": 354,
+          "native_distance_operations": 5
+        },
+        "bed_body": {
+          "axes": {
+            "x": 149.99999938309264,
+            "y": 151.3,
+            "z": 8.49987206023684
+          },
+          "head_key": "eva3_native_003",
+          "head_name": "Phaetus Rapido HF v1:1",
+          "host_key": "766",
+          "host_name": "FlexPlate Set - Powder coated PEI 310x310mm v1:1",
+          "relative_translation_mm": [
+            -149.99999938309264,
+            -151.3,
+            8.49987206023684
+          ],
+          "distance_mm": 4.342925524316547e-14,
+          "head_source_face": 1585,
+          "host_source_face": 32,
+          "head_source_point_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034197501
+          ],
+          "host_in_head_source_point_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034242821
+          ],
+          "head_rest_host_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034197501
+          ],
+          "host_relative_host_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034242821
+          ],
+          "head_native_brep_sha256": "dbae15f49f7d86b3a1ce635a0c7b8e3385966552b3732c07ed950856102585c9",
+          "host_native_brep_sha256": "3fe8f8d917958faefc71aff8360a5b54c009fdcac1904c256c2bf2b14e86caab",
+          "native_fuzzy_value_mm": 0,
+          "native_face_operations": 1,
+          "native_face_box_pairs": 82984,
+          "bounds_only_pruning": true,
+          "broadphase_pair_count": 13098,
+          "native_distance_operations": 1
+        },
+        "bed_except_hotend": {
+          "axes": {
+            "x": 149.99999938309264,
+            "y": 151.3,
+            "z": 8.49987206023684
+          },
+          "head_key": "eva3_native_002",
+          "head_name": "Rat Rig SuperPinda Probe by P&F v1:1",
+          "host_key": "766",
+          "host_name": "FlexPlate Set - Powder coated PEI 310x310mm v1:1",
+          "relative_translation_mm": [
+            -149.99999938309264,
+            -151.3,
+            8.49987206023684
+          ],
+          "distance_mm": 0.9999995365794234,
+          "head_source_face": 40,
+          "host_source_face": 32,
+          "head_source_point_mm": [
+            -28.09999939799386,
+            -79.2500000000001,
+            454.60000300556555
+          ],
+          "host_in_head_source_point_mm": [
+            -28.09999939799386,
+            -79.25000000000014,
+            453.60000342428276
+          ],
+          "head_rest_host_mm": [
+            -28.09999939799386,
+            -79.2500000000001,
+            454.60000300556555
+          ],
+          "host_relative_host_mm": [
+            -28.09999939799386,
+            -79.25000000000014,
+            453.60000342428276
+          ],
+          "head_native_brep_sha256": "66e8976c33c6faca9d17d477092257e0ff77993279a91b6dd21cc74091eade15",
+          "host_native_brep_sha256": "3fe8f8d917958faefc71aff8360a5b54c009fdcac1904c256c2bf2b14e86caab",
+          "native_fuzzy_value_mm": 0,
+          "native_face_operations": 2,
+          "native_face_box_pairs": 1892,
+          "bounds_only_pruning": true,
+          "broadphase_pair_count": 13024,
+          "native_distance_operations": 1
+        },
+        "xy_drive_pulleys_bearings": {
+          "distance_mm": 43.09930436474904,
+          "head_source_face": 20,
+          "host_source_face": 8,
+          "head_source_point_mm": [
+            19.021327231927593,
+            45.65483261701116,
+            530.5309627330755
+          ],
+          "host_in_head_source_point_mm": [
+            31.707259288554177,
+            72.68427804537872,
+            499.45
+          ],
+          "head_rest_host_mm": [
+            19.021327231927593,
+            45.65483261701116,
+            530.5309627330755
+          ],
+          "host_relative_host_mm": [
+            31.707259288554177,
+            72.68427804537872,
+            499.45
+          ],
+          "head_native_brep_sha256": "29355a67c5c51cd533114883df1cc13cbb8f4fb3fd673a43c545e8fc6d2b4e2c",
+          "host_native_brep_sha256": "acc6185c46ae25ec26245ac4f4d4599e9e51bc0828d2536c71d64a7034165cb3",
+          "native_fuzzy_value_mm": 0,
+          "native_face_operations": 416,
+          "native_face_box_pairs": 28417,
+          "bounds_only_pruning": true,
+          "head_key": "eva3_native_010",
+          "head_name": "40mm_fan_inlet v2:1",
+          "host_key": "501",
+          "host_name": "Timing Pulley - 2GT (2mm) - 20 Tooth - For 9mm Belt - 5mm Bo v1:2",
+          "relative_translation_mm": [
+            -149.99999938309264,
+            -151.3,
+            0.0
+          ],
+          "axes": {
+            "x": 149.99999938309264,
+            "y": 151.3,
+            "z": 8.49987206023684
+          },
+          "broadphase_pair_count": 4602,
+          "native_distance_operations": 6
+        }
+      }
+    }
+  ],
+  "full_physical_fit_certified": false,
+  "sampled_not_continuous_certificate": true,
+  "body_common_pose_count": 23,
+  "minimum_body_distance_scope": "Right/rear maximum production corner; all 23 poses have complete head/host native common operations in separate report. All 23 nozzle/probe tip faces also measured.",
+  "nozzle_probe_bed": {
+    "nozzle_source_key": "eva3_native_003",
+    "probe_source_key": "eva3_native_002",
+    "bed_source_key": "766",
+    "nozzle_native_brep_sha256": "dbae15f49f7d86b3a1ce635a0c7b8e3385966552b3732c07ed950856102585c9",
+    "probe_native_brep_sha256": "66e8976c33c6faca9d17d477092257e0ff77993279a91b6dd21cc74091eade15",
+    "bed_native_brep_sha256": "3fe8f8d917958faefc71aff8360a5b54c009fdcac1904c256c2bf2b14e86caab",
+    "nozzle_native_tip_plane": {
+      "face": 1585,
+      "point_mm": [
+        1.3879472710427396,
+        -60.234118165426494,
+        453.6000034449701
+      ],
+      "normal": [
+        1.4901161080508103e-08,
+        2.1270492217316638e-16,
+        -1.0
+      ],
+      "area_mm2": 0.6597344572538583,
+      "center_mm": [
+        6.169073646640315e-07,
+        -61.3000000000003,
+        453.6000034242881
+      ],
+      "vertex_points_mm": [
+        [
+          -0.3045370501137234,
+          -60.90344381310448,
+          453.6000034197501
+        ],
+        [
+          -0.12181444990107054,
+          -61.14137752524198,
+          453.6000034224729
+        ]
+      ]
+    },
+    "probe_native_tip_plane": {
+      "face": 41,
+      "point_mm": [
+        -28.099999397992967,
+        -76.2500000000001,
+        454.60000300556555
+      ],
+      "normal": [
+        1.4901160800341285e-08,
+        2.127049225952078e-16,
+        -1.0
+      ],
+      "area_mm2": 28.27433388230814,
+      "center_mm": [
+        -28.099999397992967,
+        -76.2500000000001,
+        454.60000300556555
+      ],
+      "vertex_points_mm": [
+        [
+          -28.09999939799386,
+          -79.2500000000001,
+          454.60000300556555
+        ]
+      ]
+    },
+    "nozzle_native_tip_mm": [
+      6.169073646640315e-07,
+      -61.3000000000003,
+      453.6000034242881
+    ],
+    "probe_native_tip_mm": [
+      -28.099999397992967,
+      -76.2500000000001,
+      454.60000300556555
+    ],
+    "probe_tip_minus_nozzle_z_mm": 0.99999958127745,
+    "bed_print_face": {
+      "face": 32,
+      "z_mm": 445.10013136405115,
+      "area_mm2": 96999.78539816343,
+      "center_mm": [
+        2.700579745998598e-06,
+        -61.48282012515563,
+        445.10013136405104
+      ],
+      "vertices_mm": [
+        [
+          -154.49999501183603,
+          -215.00000237971443,
+          445.1001313640569
+        ],
+        [
+          -154.99999501928662,
+          -214.500002387165,
+          445.10013136405684
+        ],
+        [
+          -50.207101793022545,
+          -215.00000082562923,
+          445.1001313640569
+        ],
+        [
+          -49.85354840024712,
+          -215.14644742976787,
+          445.1001313640569
+        ],
+        [
+          -40.146441474413365,
+          -224.85355406630669,
+          445.10013136405723
+        ],
+        [
+          -39.79288808163793,
+          -225.00000067044533,
+          445.10013136405723
+        ],
+        [
+          39.79289835598906,
+          -224.99999948452472,
+          445.10013136405723
+        ],
+        [
+          40.14645174440014,
+          -224.85355286984935,
+          445.10013136405723
+        ],
+        [
+          49.853558380939475,
+          -215.14644594401625,
+          445.1001313640569
+        ],
+        [
+          50.20711176935056,
+          -214.99999932934088,
+          445.1001313640569
+        ],
+        [
+          154.50000498816397,
+          -214.99999777525568,
+          445.1001313640569
+        ],
+        [
+          155.00000498071338,
+          -214.4999977678051,
+          445.10013136405684
+        ],
+        [
+          155.00000037625463,
+          94.50000223219492,
+          445.1001313640451
+        ],
+        [
+          154.50000036880405,
+          95.00000222474434,
+          445.10013136404507
+        ],
+        [
+          -154.49999963119595,
+          94.99999762028558,
+          445.10013136404507
+        ],
+        [
+          -154.99999962374537,
+          94.499997612835,
+          445.1001313640451
+        ]
+      ]
+    },
+    "bed_normal": [
+      -1.824865905354714e-24,
+      3.80075852561484e-14,
+      1.0
+    ],
+    "poses": [
+      {
+        "name": "native-or-clamped-zero",
+        "axes": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "nozzle_world_mm": [
+          6.169073646640315e-07,
+          -61.3000000000003,
+          453.6000034242881
+        ],
+        "nozzle_to_source_bed": {
+          "signed_vertical_gap_mm": 8.499872060237067,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            6.169073646640315e-07,
+            -61.3000000000003,
+            445.10013136405104
+          ]
+        },
+        "probe_world_mm": [
+          -28.099999397992967,
+          -76.2500000000001,
+          454.60000300556555
+        ],
+        "probe_to_source_bed": {
+          "signed_vertical_gap_mm": 9.499871641513948,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            -28.099999397992967,
+            -76.2500000000001,
+            445.1001313640516
+          ]
+        },
+        "nozzle_tipface_native_distance": {
+          "distance_mm": 8.499872052786486,
+          "head_tip_face": 1585,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034197501
+          ],
+          "bed_in_head_relative_mm": [
+            -0.3045370501137234,
+            -60.9034438131048,
+            445.100131364051
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        },
+        "probe_tipface_native_distance": {
+          "distance_mm": 9.499871596810465,
+          "head_tip_face": 41,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -28.09999939799386,
+            -79.2500000000001,
+            454.60000300556555
+          ],
+          "bed_in_head_relative_mm": [
+            -28.09999939799386,
+            -79.25000000000045,
+            445.1001313640517
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        }
+      },
+      {
+        "name": "x-minimum",
+        "axes": {
+          "x": -150.00000061690736,
+          "y": 0,
+          "z": 0
+        },
+        "nozzle_world_mm": [
+          -150.0,
+          -61.3000000000003,
+          453.6000034242881
+        ],
+        "nozzle_to_source_bed": {
+          "signed_vertical_gap_mm": 8.499872060237067,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            -150.0,
+            -61.3000000000003,
+            445.10013136405104
+          ]
+        },
+        "probe_world_mm": [
+          -178.10000001490033,
+          -76.2500000000001,
+          454.60000300556555
+        ],
+        "probe_to_source_bed": {
+          "signed_vertical_gap_mm": 9.499871641513948,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_OUT",
+          "bed_plane_projection_rest_mm": [
+            -178.10000001490033,
+            -76.2500000000001,
+            445.1001313640516
+          ]
+        },
+        "nozzle_tipface_native_distance": {
+          "distance_mm": 8.499872052786486,
+          "head_tip_face": 1585,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034197501
+          ],
+          "bed_in_head_relative_mm": [
+            -0.3045370501137234,
+            -60.9034438131048,
+            445.100131364051
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        },
+        "probe_tipface_native_distance": {
+          "distance_mm": 22.231906802225396,
+          "head_tip_face": 41,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -25.099999397992967,
+            -76.24999995529662,
+            454.60000305026904
+          ],
+          "bed_in_head_relative_mm": [
+            -4.99999646246482,
+            -76.2499996557833,
+            445.1001313640516
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        }
+      },
+      {
+        "name": "x-maximum",
+        "axes": {
+          "x": 149.99999938309264,
+          "y": 0,
+          "z": 0
+        },
+        "nozzle_world_mm": [
+          150.0,
+          -61.3000000000003,
+          453.6000034242881
+        ],
+        "nozzle_to_source_bed": {
+          "signed_vertical_gap_mm": 8.499872060237067,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            150.0,
+            -61.3000000000003,
+            445.10013136405104
+          ]
+        },
+        "probe_world_mm": [
+          121.89999998509967,
+          -76.2500000000001,
+          454.60000300556555
+        ],
+        "probe_to_source_bed": {
+          "signed_vertical_gap_mm": 9.499871641513948,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            121.89999998509967,
+            -76.2500000000001,
+            445.1001313640516
+          ]
+        },
+        "nozzle_tipface_native_distance": {
+          "distance_mm": 8.499872052786486,
+          "head_tip_face": 1585,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034197501
+          ],
+          "bed_in_head_relative_mm": [
+            -0.3045370501137234,
+            -60.9034438131048,
+            445.100131364051
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        },
+        "probe_tipface_native_distance": {
+          "distance_mm": 9.499871596810465,
+          "head_tip_face": 41,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -28.09999939799386,
+            -79.2500000000001,
+            454.60000300556555
+          ],
+          "bed_in_head_relative_mm": [
+            -28.09999939799386,
+            -79.25000000000045,
+            445.1001313640517
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        }
+      },
+      {
+        "name": "x-intermediate",
+        "axes": {
+          "x": -6.169073571982153e-07,
+          "y": 0,
+          "z": 0
+        },
+        "nozzle_world_mm": [
+          7.465816159735184e-15,
+          -61.3000000000003,
+          453.6000034242881
+        ],
+        "nozzle_to_source_bed": {
+          "signed_vertical_gap_mm": 8.499872060237067,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            7.465816159735184e-15,
+            -61.3000000000003,
+            445.10013136405104
+          ]
+        },
+        "probe_world_mm": [
+          -28.100000014900324,
+          -76.2500000000001,
+          454.60000300556555
+        ],
+        "probe_to_source_bed": {
+          "signed_vertical_gap_mm": 9.499871641513948,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            -28.100000014900324,
+            -76.2500000000001,
+            445.1001313640516
+          ]
+        },
+        "nozzle_tipface_native_distance": {
+          "distance_mm": 8.499872052786486,
+          "head_tip_face": 1585,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034197501
+          ],
+          "bed_in_head_relative_mm": [
+            -0.3045370501137234,
+            -60.9034438131048,
+            445.100131364051
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        },
+        "probe_tipface_native_distance": {
+          "distance_mm": 9.499871596810465,
+          "head_tip_face": 41,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -28.09999939799386,
+            -79.2500000000001,
+            454.60000300556555
+          ],
+          "bed_in_head_relative_mm": [
+            -28.09999939799386,
+            -79.25000000000045,
+            445.1001313640517
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        }
+      },
+      {
+        "name": "x-reversed-quarter",
+        "axes": {
+          "x": -75.00000061690736,
+          "y": 0,
+          "z": 0
+        },
+        "nozzle_world_mm": [
+          -74.99999999999999,
+          -61.3000000000003,
+          453.6000034242881
+        ],
+        "nozzle_to_source_bed": {
+          "signed_vertical_gap_mm": 8.499872060237067,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            -74.99999999999999,
+            -61.3000000000003,
+            445.10013136405104
+          ]
+        },
+        "probe_world_mm": [
+          -103.10000001490033,
+          -76.2500000000001,
+          454.60000300556555
+        ],
+        "probe_to_source_bed": {
+          "signed_vertical_gap_mm": 9.499871641513948,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            -103.10000001490033,
+            -76.2500000000001,
+            445.1001313640516
+          ]
+        },
+        "nozzle_tipface_native_distance": {
+          "distance_mm": 8.499872052786486,
+          "head_tip_face": 1585,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034197501
+          ],
+          "bed_in_head_relative_mm": [
+            -0.3045370501137234,
+            -60.9034438131048,
+            445.100131364051
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        },
+        "probe_tipface_native_distance": {
+          "distance_mm": 9.499871596810465,
+          "head_tip_face": 41,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -28.09999939799386,
+            -79.2500000000001,
+            454.60000300556555
+          ],
+          "bed_in_head_relative_mm": [
+            -28.09999939799386,
+            -79.25000000000045,
+            445.1001313640517
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        }
+      },
+      {
+        "name": "x-reversed-maximum",
+        "axes": {
+          "x": 149.99999938309264,
+          "y": 0,
+          "z": 0
+        },
+        "nozzle_world_mm": [
+          150.0,
+          -61.3000000000003,
+          453.6000034242881
+        ],
+        "nozzle_to_source_bed": {
+          "signed_vertical_gap_mm": 8.499872060237067,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            150.0,
+            -61.3000000000003,
+            445.10013136405104
+          ]
+        },
+        "probe_world_mm": [
+          121.89999998509967,
+          -76.2500000000001,
+          454.60000300556555
+        ],
+        "probe_to_source_bed": {
+          "signed_vertical_gap_mm": 9.499871641513948,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            121.89999998509967,
+            -76.2500000000001,
+            445.1001313640516
+          ]
+        },
+        "nozzle_tipface_native_distance": {
+          "distance_mm": 8.499872052786486,
+          "head_tip_face": 1585,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034197501
+          ],
+          "bed_in_head_relative_mm": [
+            -0.3045370501137234,
+            -60.9034438131048,
+            445.100131364051
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        },
+        "probe_tipface_native_distance": {
+          "distance_mm": 9.499871596810465,
+          "head_tip_face": 41,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -28.09999939799386,
+            -79.2500000000001,
+            454.60000300556555
+          ],
+          "bed_in_head_relative_mm": [
+            -28.09999939799386,
+            -79.25000000000045,
+            445.1001313640517
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        }
+      },
+      {
+        "name": "x-reset",
+        "axes": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "nozzle_world_mm": [
+          6.169073646640315e-07,
+          -61.3000000000003,
+          453.6000034242881
+        ],
+        "nozzle_to_source_bed": {
+          "signed_vertical_gap_mm": 8.499872060237067,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            6.169073646640315e-07,
+            -61.3000000000003,
+            445.10013136405104
+          ]
+        },
+        "probe_world_mm": [
+          -28.099999397992967,
+          -76.2500000000001,
+          454.60000300556555
+        ],
+        "probe_to_source_bed": {
+          "signed_vertical_gap_mm": 9.499871641513948,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            -28.099999397992967,
+            -76.2500000000001,
+            445.1001313640516
+          ]
+        },
+        "nozzle_tipface_native_distance": {
+          "distance_mm": 8.499872052786486,
+          "head_tip_face": 1585,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034197501
+          ],
+          "bed_in_head_relative_mm": [
+            -0.3045370501137234,
+            -60.9034438131048,
+            445.100131364051
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        },
+        "probe_tipface_native_distance": {
+          "distance_mm": 9.499871596810465,
+          "head_tip_face": 41,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -28.09999939799386,
+            -79.2500000000001,
+            454.60000300556555
+          ],
+          "bed_in_head_relative_mm": [
+            -28.09999939799386,
+            -79.25000000000045,
+            445.1001313640517
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        }
+      },
+      {
+        "name": "y-minimum",
+        "axes": {
+          "x": 0,
+          "y": -148.7,
+          "z": 0
+        },
+        "nozzle_world_mm": [
+          6.169073646640315e-07,
+          -210.00000000000028,
+          453.6000034242881
+        ],
+        "nozzle_to_source_bed": {
+          "signed_vertical_gap_mm": 8.49987206023144,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            6.169073646640315e-07,
+            -210.00000000000028,
+            445.10013136405667
+          ]
+        },
+        "probe_world_mm": [
+          -28.099999397992967,
+          -224.9500000000001,
+          454.60000300556555
+        ],
+        "probe_to_source_bed": {
+          "signed_vertical_gap_mm": 9.49987164150832,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            -28.099999397992967,
+            -224.9500000000001,
+            445.10013136405723
+          ]
+        },
+        "nozzle_tipface_native_distance": {
+          "distance_mm": 8.499872052780859,
+          "head_tip_face": 1585,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034197501
+          ],
+          "bed_in_head_relative_mm": [
+            -0.3045370501137234,
+            -60.9034438131048,
+            445.10013136405667
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        },
+        "probe_tipface_native_distance": {
+          "distance_mm": 9.499871596804837,
+          "head_tip_face": 41,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -31.099582693410046,
+            -76.30000053854535,
+            454.60000296086827
+          ],
+          "bed_in_head_relative_mm": [
+            -31.099582693410053,
+            -76.30000054090502,
+            445.10013136405723
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        }
+      },
+      {
+        "name": "y-maximum",
+        "axes": {
+          "x": 0,
+          "y": 151.3,
+          "z": 0
+        },
+        "nozzle_world_mm": [
+          6.169073646640315e-07,
+          89.99999999999972,
+          453.6000034242881
+        ],
+        "nozzle_to_source_bed": {
+          "signed_vertical_gap_mm": 8.499872060242865,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            6.169073646640315e-07,
+            89.99999999999972,
+            445.10013136404524
+          ]
+        },
+        "probe_world_mm": [
+          -28.099999397992967,
+          75.04999999999991,
+          454.60000300556555
+        ],
+        "probe_to_source_bed": {
+          "signed_vertical_gap_mm": 9.499871641519746,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            -28.099999397992967,
+            75.04999999999991,
+            445.1001313640458
+          ]
+        },
+        "nozzle_tipface_native_distance": {
+          "distance_mm": 8.499872052792284,
+          "head_tip_face": 1585,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034197501
+          ],
+          "bed_in_head_relative_mm": [
+            -0.3045370501137234,
+            -60.9034438131048,
+            445.10013136404524
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        },
+        "probe_tipface_native_distance": {
+          "distance_mm": 9.499871596816263,
+          "head_tip_face": 41,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -28.09999939799386,
+            -79.2500000000001,
+            454.60000300556555
+          ],
+          "bed_in_head_relative_mm": [
+            -28.09999939799386,
+            -79.25000000000045,
+            445.1001313640459
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        }
+      },
+      {
+        "name": "y-intermediate",
+        "axes": {
+          "x": 0,
+          "y": 1.3000000000000114,
+          "z": 0
+        },
+        "nozzle_world_mm": [
+          6.169073646640315e-07,
+          -60.00000000000029,
+          453.6000034242881
+        ],
+        "nozzle_to_source_bed": {
+          "signed_vertical_gap_mm": 8.499872060237124,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            6.169073646640315e-07,
+            -60.00000000000029,
+            445.100131364051
+          ]
+        },
+        "probe_world_mm": [
+          -28.099999397992967,
+          -74.95000000000009,
+          454.60000300556555
+        ],
+        "probe_to_source_bed": {
+          "signed_vertical_gap_mm": 9.499871641514005,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            -28.099999397992967,
+            -74.95000000000009,
+            445.10013136405155
+          ]
+        },
+        "nozzle_tipface_native_distance": {
+          "distance_mm": 8.499872052786543,
+          "head_tip_face": 1585,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034197501
+          ],
+          "bed_in_head_relative_mm": [
+            -0.3045370501137234,
+            -60.9034438131048,
+            445.1001313640509
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        },
+        "probe_tipface_native_distance": {
+          "distance_mm": 9.499871596810522,
+          "head_tip_face": 41,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -28.09999939799386,
+            -79.2500000000001,
+            454.60000300556555
+          ],
+          "bed_in_head_relative_mm": [
+            -28.09999939799386,
+            -79.25000000000045,
+            445.10013136405166
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        }
+      },
+      {
+        "name": "y-reversed-quarter",
+        "axes": {
+          "x": 0,
+          "y": -73.69999999999999,
+          "z": 0
+        },
+        "nozzle_world_mm": [
+          6.169073646640315e-07,
+          -135.00000000000028,
+          453.6000034242881
+        ],
+        "nozzle_to_source_bed": {
+          "signed_vertical_gap_mm": 8.499872060234281,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            6.169073646640315e-07,
+            -135.00000000000028,
+            445.1001313640538
+          ]
+        },
+        "probe_world_mm": [
+          -28.099999397992967,
+          -149.9500000000001,
+          454.60000300556555
+        ],
+        "probe_to_source_bed": {
+          "signed_vertical_gap_mm": 9.499871641511163,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            -28.099999397992967,
+            -149.9500000000001,
+            445.1001313640544
+          ]
+        },
+        "nozzle_tipface_native_distance": {
+          "distance_mm": 8.4998720527837,
+          "head_tip_face": 1585,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034197501
+          ],
+          "bed_in_head_relative_mm": [
+            -0.3045370501137234,
+            -60.9034438131048,
+            445.1001313640538
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        },
+        "probe_tipface_native_distance": {
+          "distance_mm": 9.49987159680768,
+          "head_tip_face": 41,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -28.09999939799386,
+            -79.2500000000001,
+            454.60000300556555
+          ],
+          "bed_in_head_relative_mm": [
+            -28.09999939799386,
+            -79.25000000000045,
+            445.1001313640545
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        }
+      },
+      {
+        "name": "y-reversed-maximum",
+        "axes": {
+          "x": 0,
+          "y": 151.3,
+          "z": 0
+        },
+        "nozzle_world_mm": [
+          6.169073646640315e-07,
+          89.99999999999972,
+          453.6000034242881
+        ],
+        "nozzle_to_source_bed": {
+          "signed_vertical_gap_mm": 8.499872060242865,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            6.169073646640315e-07,
+            89.99999999999972,
+            445.10013136404524
+          ]
+        },
+        "probe_world_mm": [
+          -28.099999397992967,
+          75.04999999999991,
+          454.60000300556555
+        ],
+        "probe_to_source_bed": {
+          "signed_vertical_gap_mm": 9.499871641519746,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            -28.099999397992967,
+            75.04999999999991,
+            445.1001313640458
+          ]
+        },
+        "nozzle_tipface_native_distance": {
+          "distance_mm": 8.499872052792284,
+          "head_tip_face": 1585,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034197501
+          ],
+          "bed_in_head_relative_mm": [
+            -0.3045370501137234,
+            -60.9034438131048,
+            445.10013136404524
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        },
+        "probe_tipface_native_distance": {
+          "distance_mm": 9.499871596816263,
+          "head_tip_face": 41,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -28.09999939799386,
+            -79.2500000000001,
+            454.60000300556555
+          ],
+          "bed_in_head_relative_mm": [
+            -28.09999939799386,
+            -79.25000000000045,
+            445.1001313640459
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        }
+      },
+      {
+        "name": "y-reset",
+        "axes": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "nozzle_world_mm": [
+          6.169073646640315e-07,
+          -61.3000000000003,
+          453.6000034242881
+        ],
+        "nozzle_to_source_bed": {
+          "signed_vertical_gap_mm": 8.499872060237067,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            6.169073646640315e-07,
+            -61.3000000000003,
+            445.10013136405104
+          ]
+        },
+        "probe_world_mm": [
+          -28.099999397992967,
+          -76.2500000000001,
+          454.60000300556555
+        ],
+        "probe_to_source_bed": {
+          "signed_vertical_gap_mm": 9.499871641513948,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            -28.099999397992967,
+            -76.2500000000001,
+            445.1001313640516
+          ]
+        },
+        "nozzle_tipface_native_distance": {
+          "distance_mm": 8.499872052786486,
+          "head_tip_face": 1585,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034197501
+          ],
+          "bed_in_head_relative_mm": [
+            -0.3045370501137234,
+            -60.9034438131048,
+            445.100131364051
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        },
+        "probe_tipface_native_distance": {
+          "distance_mm": 9.499871596810465,
+          "head_tip_face": 41,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -28.09999939799386,
+            -79.2500000000001,
+            454.60000300556555
+          ],
+          "bed_in_head_relative_mm": [
+            -28.09999939799386,
+            -79.25000000000045,
+            445.1001313640517
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        }
+      },
+      {
+        "name": "z-minimum",
+        "axes": {
+          "x": 0,
+          "y": 0,
+          "z": -291.50012793976316
+        },
+        "nozzle_world_mm": [
+          6.169073646640315e-07,
+          -61.3000000000003,
+          453.6000034242881
+        ],
+        "nozzle_to_source_bed": {
+          "signed_vertical_gap_mm": 300.0000000000002,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            6.169073646640315e-07,
+            -61.3000000000003,
+            445.100131364051
+          ]
+        },
+        "probe_world_mm": [
+          -28.099999397992967,
+          -76.2500000000001,
+          454.60000300556555
+        ],
+        "probe_to_source_bed": {
+          "signed_vertical_gap_mm": 300.99999958127717,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            -28.099999397992967,
+            -76.2500000000001,
+            445.10013136405155
+          ]
+        },
+        "nozzle_tipface_native_distance": {
+          "distance_mm": 299.99999999254965,
+          "head_tip_face": 1585,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034197501
+          ],
+          "bed_in_head_relative_mm": [
+            -0.3045370501137234,
+            -60.903443813115885,
+            153.60000342428788
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        },
+        "probe_tipface_native_distance": {
+          "distance_mm": 300.9999995365736,
+          "head_tip_face": 41,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -28.09999939799386,
+            -79.2500000000001,
+            454.60000300556555
+          ],
+          "bed_in_head_relative_mm": [
+            -28.09999939799386,
+            -79.25000000001154,
+            153.60000342428862
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        }
+      },
+      {
+        "name": "z-maximum",
+        "axes": {
+          "x": 0,
+          "y": 0,
+          "z": 8.49987206023684
+        },
+        "nozzle_world_mm": [
+          6.169073646640315e-07,
+          -61.3000000000003,
+          453.6000034242881
+        ],
+        "nozzle_to_source_bed": {
+          "signed_vertical_gap_mm": 2.2737367544323206e-13,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            6.169073646640315e-07,
+            -61.3000000000003,
+            445.10013136405104
+          ]
+        },
+        "probe_world_mm": [
+          -28.099999397992967,
+          -76.2500000000001,
+          454.60000300556555
+        ],
+        "probe_to_source_bed": {
+          "signed_vertical_gap_mm": 0.999999581277109,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            -28.099999397992967,
+            -76.2500000000001,
+            445.1001313640516
+          ]
+        },
+        "nozzle_tipface_native_distance": {
+          "distance_mm": 1.7053025658242417e-13,
+          "head_tip_face": 1585,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034197501
+          ],
+          "bed_in_head_relative_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034242878
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        },
+        "probe_tipface_native_distance": {
+          "distance_mm": 0.9999995365736254,
+          "head_tip_face": 41,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -28.09999939799386,
+            -79.2500000000001,
+            454.60000300556555
+          ],
+          "bed_in_head_relative_mm": [
+            -28.09999939799386,
+            -79.25000000000014,
+            453.60000342428856
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        }
+      },
+      {
+        "name": "z-intermediate",
+        "axes": {
+          "x": 0,
+          "y": 0,
+          "z": -141.50012793976316
+        },
+        "nozzle_world_mm": [
+          6.169073646640315e-07,
+          -61.3000000000003,
+          453.6000034242881
+        ],
+        "nozzle_to_source_bed": {
+          "signed_vertical_gap_mm": 150.00000000000023,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            6.169073646640315e-07,
+            -61.3000000000003,
+            445.10013136405104
+          ]
+        },
+        "probe_world_mm": [
+          -28.099999397992967,
+          -76.2500000000001,
+          454.60000300556555
+        ],
+        "probe_to_source_bed": {
+          "signed_vertical_gap_mm": 150.9999995812771,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            -28.099999397992967,
+            -76.2500000000001,
+            445.1001313640516
+          ]
+        },
+        "nozzle_tipface_native_distance": {
+          "distance_mm": 149.99999999254965,
+          "head_tip_face": 1585,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034197501
+          ],
+          "bed_in_head_relative_mm": [
+            -0.3045370501137234,
+            -60.90344381311018,
+            303.6000034242878
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        },
+        "probe_tipface_native_distance": {
+          "distance_mm": 150.99999953657363,
+          "head_tip_face": 41,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -28.09999939799386,
+            -79.2500000000001,
+            454.60000300556555
+          ],
+          "bed_in_head_relative_mm": [
+            -28.09999939799386,
+            -79.25000000000584,
+            303.6000034242885
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        }
+      },
+      {
+        "name": "z-reversed-quarter",
+        "axes": {
+          "x": 0,
+          "y": 0,
+          "z": -216.50012793976316
+        },
+        "nozzle_world_mm": [
+          6.169073646640315e-07,
+          -61.3000000000003,
+          453.6000034242881
+        ],
+        "nozzle_to_source_bed": {
+          "signed_vertical_gap_mm": 225.00000000000026,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            6.169073646640315e-07,
+            -61.3000000000003,
+            445.100131364051
+          ]
+        },
+        "probe_world_mm": [
+          -28.099999397992967,
+          -76.2500000000001,
+          454.60000300556555
+        ],
+        "probe_to_source_bed": {
+          "signed_vertical_gap_mm": 225.99999958127714,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            -28.099999397992967,
+            -76.2500000000001,
+            445.10013136405155
+          ]
+        },
+        "nozzle_tipface_native_distance": {
+          "distance_mm": 224.99999999254965,
+          "head_tip_face": 1585,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034197501
+          ],
+          "bed_in_head_relative_mm": [
+            -0.3045370501137234,
+            -60.903443813113036,
+            228.60000342428788
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        },
+        "probe_tipface_native_distance": {
+          "distance_mm": 225.99999953657363,
+          "head_tip_face": 41,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -28.09999939799386,
+            -79.2500000000001,
+            454.60000300556555
+          ],
+          "bed_in_head_relative_mm": [
+            -28.09999939799386,
+            -79.25000000000868,
+            228.60000342428856
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        }
+      },
+      {
+        "name": "z-reversed-maximum",
+        "axes": {
+          "x": 0,
+          "y": 0,
+          "z": 8.49987206023684
+        },
+        "nozzle_world_mm": [
+          6.169073646640315e-07,
+          -61.3000000000003,
+          453.6000034242881
+        ],
+        "nozzle_to_source_bed": {
+          "signed_vertical_gap_mm": 2.2737367544323206e-13,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            6.169073646640315e-07,
+            -61.3000000000003,
+            445.10013136405104
+          ]
+        },
+        "probe_world_mm": [
+          -28.099999397992967,
+          -76.2500000000001,
+          454.60000300556555
+        ],
+        "probe_to_source_bed": {
+          "signed_vertical_gap_mm": 0.999999581277109,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            -28.099999397992967,
+            -76.2500000000001,
+            445.1001313640516
+          ]
+        },
+        "nozzle_tipface_native_distance": {
+          "distance_mm": 1.7053025658242417e-13,
+          "head_tip_face": 1585,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034197501
+          ],
+          "bed_in_head_relative_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034242878
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        },
+        "probe_tipface_native_distance": {
+          "distance_mm": 0.9999995365736254,
+          "head_tip_face": 41,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -28.09999939799386,
+            -79.2500000000001,
+            454.60000300556555
+          ],
+          "bed_in_head_relative_mm": [
+            -28.09999939799386,
+            -79.25000000000014,
+            453.60000342428856
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        }
+      },
+      {
+        "name": "z-reset",
+        "axes": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "nozzle_world_mm": [
+          6.169073646640315e-07,
+          -61.3000000000003,
+          453.6000034242881
+        ],
+        "nozzle_to_source_bed": {
+          "signed_vertical_gap_mm": 8.499872060237067,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            6.169073646640315e-07,
+            -61.3000000000003,
+            445.10013136405104
+          ]
+        },
+        "probe_world_mm": [
+          -28.099999397992967,
+          -76.2500000000001,
+          454.60000300556555
+        ],
+        "probe_to_source_bed": {
+          "signed_vertical_gap_mm": 9.499871641513948,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            -28.099999397992967,
+            -76.2500000000001,
+            445.1001313640516
+          ]
+        },
+        "nozzle_tipface_native_distance": {
+          "distance_mm": 8.499872052786486,
+          "head_tip_face": 1585,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034197501
+          ],
+          "bed_in_head_relative_mm": [
+            -0.3045370501137234,
+            -60.9034438131048,
+            445.100131364051
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        },
+        "probe_tipface_native_distance": {
+          "distance_mm": 9.499871596810465,
+          "head_tip_face": 41,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -28.09999939799386,
+            -79.2500000000001,
+            454.60000300556555
+          ],
+          "bed_in_head_relative_mm": [
+            -28.09999939799386,
+            -79.25000000000045,
+            445.1001313640517
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        }
+      },
+      {
+        "name": "combined-0",
+        "axes": {
+          "x": -150.00000061690736,
+          "y": -148.7,
+          "z": -291.50012793976316
+        },
+        "nozzle_world_mm": [
+          -150.0,
+          -210.00000000000028,
+          453.6000034242881
+        ],
+        "nozzle_to_source_bed": {
+          "signed_vertical_gap_mm": 299.9999999999946,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            -150.0,
+            -210.00000000000028,
+            445.10013136405667
+          ]
+        },
+        "probe_world_mm": [
+          -178.10000001490033,
+          -224.9500000000001,
+          454.60000300556555
+        ],
+        "probe_to_source_bed": {
+          "signed_vertical_gap_mm": 300.9999995812715,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_OUT",
+          "bed_plane_projection_rest_mm": [
+            -178.10000001490033,
+            -224.9500000000001,
+            445.10013136405723
+          ]
+        },
+        "nozzle_tipface_native_distance": {
+          "distance_mm": 299.99999999254396,
+          "head_tip_face": 1585,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034197501
+          ],
+          "bed_in_head_relative_mm": [
+            -0.3045370501137234,
+            -60.903443813115885,
+            153.60000342429356
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        },
+        "probe_tipface_native_distance": {
+          "distance_mm": 301.82568075874644,
+          "head_tip_face": 41,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -25.35688964415696,
+            -75.03536059737488,
+            454.6000030464411
+          ],
+          "bed_in_head_relative_mm": [
+            -4.957179377829931,
+            -66.0024422429385,
+            153.6000034242937
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        }
+      },
+      {
+        "name": "combined-1",
+        "axes": {
+          "x": 149.99999938309264,
+          "y": 151.3,
+          "z": 8.49987206023684
+        },
+        "nozzle_world_mm": [
+          150.0,
+          89.99999999999972,
+          453.6000034242881
+        ],
+        "nozzle_to_source_bed": {
+          "signed_vertical_gap_mm": 6.0254023992456496e-12,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            150.0,
+            89.99999999999972,
+            445.10013136404524
+          ]
+        },
+        "probe_world_mm": [
+          121.89999998509967,
+          75.04999999999991,
+          454.60000300556555
+        ],
+        "probe_to_source_bed": {
+          "signed_vertical_gap_mm": 0.999999581282907,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            121.89999998509967,
+            75.04999999999991,
+            445.1001313640458
+          ]
+        },
+        "nozzle_tipface_native_distance": {
+          "distance_mm": 4.342925524316547e-14,
+          "head_tip_face": 1585,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034197501
+          ],
+          "bed_in_head_relative_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034242821
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        },
+        "probe_tipface_native_distance": {
+          "distance_mm": 0.9999995365794234,
+          "head_tip_face": 41,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -28.09999939799386,
+            -79.2500000000001,
+            454.60000300556555
+          ],
+          "bed_in_head_relative_mm": [
+            -28.09999939799386,
+            -79.25000000000014,
+            453.60000342428276
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        }
+      },
+      {
+        "name": "combined-2",
+        "axes": {
+          "x": -6.169073571982153e-07,
+          "y": 1.3000000000000114,
+          "z": -141.50012793976316
+        },
+        "nozzle_world_mm": [
+          7.465816159735184e-15,
+          -60.00000000000029,
+          453.6000034242881
+        ],
+        "nozzle_to_source_bed": {
+          "signed_vertical_gap_mm": 150.00000000000028,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            7.465816159735184e-15,
+            -60.00000000000029,
+            445.100131364051
+          ]
+        },
+        "probe_world_mm": [
+          -28.100000014900324,
+          -74.95000000000009,
+          454.60000300556555
+        ],
+        "probe_to_source_bed": {
+          "signed_vertical_gap_mm": 150.99999958127717,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            -28.100000014900324,
+            -74.95000000000009,
+            445.10013136405155
+          ]
+        },
+        "nozzle_tipface_native_distance": {
+          "distance_mm": 149.9999999925497,
+          "head_tip_face": 1585,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034197501
+          ],
+          "bed_in_head_relative_mm": [
+            -0.3045370501137234,
+            -60.90344381311018,
+            303.6000034242878
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        },
+        "probe_tipface_native_distance": {
+          "distance_mm": 150.99999953657368,
+          "head_tip_face": 41,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -28.09999939799386,
+            -79.2500000000001,
+            454.60000300556555
+          ],
+          "bed_in_head_relative_mm": [
+            -28.09999939799386,
+            -79.25000000000584,
+            303.6000034242885
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        }
+      },
+      {
+        "name": "combined-3",
+        "axes": {
+          "x": -150.00000061690736,
+          "y": -148.7,
+          "z": -291.50012793976316
+        },
+        "nozzle_world_mm": [
+          -150.0,
+          -210.00000000000028,
+          453.6000034242881
+        ],
+        "nozzle_to_source_bed": {
+          "signed_vertical_gap_mm": 299.9999999999946,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_IN",
+          "bed_plane_projection_rest_mm": [
+            -150.0,
+            -210.00000000000028,
+            445.10013136405667
+          ]
+        },
+        "probe_world_mm": [
+          -178.10000001490033,
+          -224.9500000000001,
+          454.60000300556555
+        ],
+        "probe_to_source_bed": {
+          "signed_vertical_gap_mm": 300.9999995812715,
+          "bed_face_projection_state": "TopAbs_State.TopAbs_OUT",
+          "bed_plane_projection_rest_mm": [
+            -178.10000001490033,
+            -224.9500000000001,
+            445.10013136405723
+          ]
+        },
+        "nozzle_tipface_native_distance": {
+          "distance_mm": 299.99999999254396,
+          "head_tip_face": 1585,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -0.3045370501137234,
+            -60.90344381310448,
+            453.6000034197501
+          ],
+          "bed_in_head_relative_mm": [
+            -0.3045370501137234,
+            -60.903443813115885,
+            153.60000342429356
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        },
+        "probe_tipface_native_distance": {
+          "distance_mm": 301.82568075874644,
+          "head_tip_face": 41,
+          "bed_print_face": 32,
+          "head_source_point_mm": [
+            -25.35688964415696,
+            -75.03536059737488,
+            454.6000030464411
+          ],
+          "bed_in_head_relative_mm": [
+            -4.957179377829931,
+            -66.0024422429385,
+            153.6000034242937
+          ],
+          "scope": "Exact authored tip face versus exact trimmed source print face; complete head/bed common operations reported separately."
+        }
+      }
+    ],
+    "source_native_printplane_contact_is_not_endstop_homing_verification": true
+  },
+  "rail_contact_review": {
+    "carriage_key": "eva3_native_000",
+    "rail_key": "692",
+    "carriage_native_brep_sha256": "a98ea7c0da731ebb98bea4e8368f9dba5526bd512ce93cf50a6a689b9090d2e3",
+    "rail_native_brep_sha256": "83f8e0ecc788d10b2f0a63e2e616dddc3f95a45828231542e904041427ec2941",
+    "source_mount_identity_bridge_sha256": "88915dabdce34b48c36f7a47d583a3e9997371247dc4e08a9d307325f8fb9041",
+    "features": {
+      "actual_native_rail_axis": {
+        "face": 85,
+        "radius_mm": 0.499999694000001,
+        "point_mm": [
+          -2.2435091836619653e-07,
+          -26.385767000000104,
+          510.055944424288
+        ],
+        "direction": [
+          1.0,
+          -3.019099614047648e-17,
+          1.49011610805081e-08
+        ],
+        "area_mm2": 754.5191754660613
+      },
+      "head_source_rail_mating_cylinders": [
+        {
+          "face": 27,
+          "radius_mm": 0.16,
+          "point_mm": [
+            -2.0744994833549722e-07,
+            -36.99000000000012,
+            508.92174342428774
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 3.6810849364469127
+        },
+        {
+          "face": 28,
+          "radius_mm": 1.1399998957,
+          "point_mm": [
+            -2.2435086015335054e-07,
+            -37.62528700000013,
+            510.05594442428776
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 13.596235772890433
+        },
+        {
+          "face": 29,
+          "radius_mm": 0.160000224100001,
+          "point_mm": [
+            -2.1488383956027897e-07,
+            -36.491105000000125,
+            509.4206234242878
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 3.6809653145807038
+        },
+        {
+          "face": 31,
+          "radius_mm": 0.499999694,
+          "point_mm": [
+            -2.243508601016921e-07,
+            -35.914233000000124,
+            510.05594442428776
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 40.932652360590865
+        },
+        {
+          "face": 33,
+          "radius_mm": 0.16,
+          "point_mm": [
+            -2.3381786577677685e-07,
+            -36.491105000000125,
+            510.69126442428774
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 3.6809726289954057
+        },
+        {
+          "face": 34,
+          "radius_mm": 1.1399996828,
+          "point_mm": [
+            -2.2435086015335054e-07,
+            -37.62528700000013,
+            510.05594442428776
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 13.596241727754595
+        },
+        {
+          "face": 35,
+          "radius_mm": 0.1600000142,
+          "point_mm": [
+            -2.412517570316829e-07,
+            -36.99000000000012,
+            511.1901444242878
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 3.6810726267438842
+        },
+        {
+          "face": 41,
+          "radius_mm": 0.16,
+          "point_mm": [
+            -2.41251756679052e-07,
+            -25.310000000000127,
+            511.1901444242878
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 3.681076479080865
+        },
+        {
+          "face": 42,
+          "radius_mm": 1.1399998957,
+          "point_mm": [
+            -2.2435085976235976e-07,
+            -24.674713000000125,
+            510.05594442428776
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 13.59624008788277
+        },
+        {
+          "face": 43,
+          "radius_mm": 0.1600002241,
+          "point_mm": [
+            -2.3381786545427025e-07,
+            -25.808895000000128,
+            510.69126442428774
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 3.680977784657689
+        },
+        {
+          "face": 45,
+          "radius_mm": 0.499999694000001,
+          "point_mm": [
+            -2.243508598140182e-07,
+            -26.385767000000126,
+            510.05594442428776
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 40.932652360590964
+        },
+        {
+          "face": 47,
+          "radius_mm": 0.16,
+          "point_mm": [
+            -2.1488383923777234e-07,
+            -25.808895000000128,
+            509.4206234242878
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 3.680959050849607
+        },
+        {
+          "face": 48,
+          "radius_mm": 1.1399996828,
+          "point_mm": [
+            -2.2435085976235976e-07,
+            -24.674713000000125,
+            510.05594442428776
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 13.596235453020347
+        },
+        {
+          "face": 49,
+          "radius_mm": 0.1600000142,
+          "point_mm": [
+            -2.0744994798286634e-07,
+            -25.310000000000127,
+            508.92174342428774
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 3.6810841519596917
+        },
+        {
+          "face": 60,
+          "radius_mm": 0.16,
+          "point_mm": [
+            -10.850000207449948,
+            -36.99000000000012,
+            508.92174326261016
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.8481762526375375
+        },
+        {
+          "face": 61,
+          "radius_mm": 1.1399998957,
+          "point_mm": [
+            -10.85000022435086,
+            -37.62528700000013,
+            510.0559442626102
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 3.132773219560007
+        },
+        {
+          "face": 62,
+          "radius_mm": 0.160000224100001,
+          "point_mm": [
+            -10.850000214883838,
+            -36.491105000000125,
+            509.42062326261015
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.848148689995554
+        },
+        {
+          "face": 64,
+          "radius_mm": 0.499999694,
+          "point_mm": [
+            -10.85000022435086,
+            -35.914233000000124,
+            510.0559442626102
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 9.431486719030156
+        },
+        {
+          "face": 66,
+          "radius_mm": 0.16,
+          "point_mm": [
+            -10.850000233817866,
+            -36.491105000000125,
+            510.69126426261016
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.8481503753445632
+        },
+        {
+          "face": 67,
+          "radius_mm": 1.1399996828,
+          "point_mm": [
+            -10.85000022435086,
+            -37.62528700000013,
+            510.0559442626102
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 3.1327745916485243
+        },
+        {
+          "face": 68,
+          "radius_mm": 0.1600000142,
+          "point_mm": [
+            -10.850000241251756,
+            -36.99000000000012,
+            511.19014426261015
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.8481734163004342
+        },
+        {
+          "face": 74,
+          "radius_mm": 0.16,
+          "point_mm": [
+            -10.850000241251756,
+            -25.310000000000127,
+            511.19014426261015
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.848174303935683
+        },
+        {
+          "face": 75,
+          "radius_mm": 1.1399998957,
+          "point_mm": [
+            -10.85000022435086,
+            -24.674713000000125,
+            510.0559442626102
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 3.132774213797873
+        },
+        {
+          "face": 76,
+          "radius_mm": 0.1600002241,
+          "point_mm": [
+            -10.850000233817866,
+            -25.808895000000128,
+            510.69126426261016
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.8481515632851819
+        },
+        {
+          "face": 78,
+          "radius_mm": 0.499999694000001,
+          "point_mm": [
+            -10.85000022435086,
+            -26.385767000000126,
+            510.0559442626102
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 9.431486719030177
+        },
+        {
+          "face": 80,
+          "radius_mm": 0.16,
+          "point_mm": [
+            -10.850000214883838,
+            -25.808895000000128,
+            509.42062326261015
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.8481472467395408
+        },
+        {
+          "face": 81,
+          "radius_mm": 1.1399996828,
+          "point_mm": [
+            -10.85000022435086,
+            -24.674713000000125,
+            510.0559442626102
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 3.132773145857223
+        },
+        {
+          "face": 82,
+          "radius_mm": 0.1600000142,
+          "point_mm": [
+            -10.850000207449948,
+            -25.310000000000127,
+            508.92174326261016
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.8481760718801133
+        },
+        {
+          "face": 125,
+          "radius_mm": 1.75,
+          "point_mm": [
+            -16.850000292062617,
+            -38.40000000000013,
+            514.6000031732032
+          ],
+          "direction": [
+            1.0,
+            -3.019099798414092e-17,
+            1.49011610805081e-08
+          ],
+          "area_mm2": 5.497787143782138
+        },
+        {
+          "face": 127,
+          "radius_mm": 1.75,
+          "point_mm": [
+            -16.850000292062617,
+            -23.900000000000126,
+            514.6000031732032
+          ],
+          "direction": [
+            1.0,
+            -3.019099798414092e-17,
+            1.49011610805081e-08
+          ],
+          "area_mm2": 5.497787143782138
+        },
+        {
+          "face": 130,
+          "radius_mm": 1.2,
+          "point_mm": [
+            -16.850000299513198,
+            -31.150000000000126,
+            515.1000031732032
+          ],
+          "direction": [
+            1.0,
+            -3.019099798414092e-17,
+            1.49011610805081e-08
+          ],
+          "area_mm2": 1.8849555921538763
+        },
+        {
+          "face": 134,
+          "radius_mm": 1.15,
+          "point_mm": [
+            -15.850000299513196,
+            -31.150000000000126,
+            515.1000031881043
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 3.612831551628278
+        },
+        {
+          "face": 141,
+          "radius_mm": 0.16,
+          "point_mm": [
+            -15.850000207449948,
+            -36.99000000000012,
+            508.92174318810436
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.1696352505275075
+        },
+        {
+          "face": 142,
+          "radius_mm": 1.1399998957,
+          "point_mm": [
+            -15.85000022435086,
+            -37.62528700000013,
+            510.0559441881044
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.6265546439120014
+        },
+        {
+          "face": 143,
+          "radius_mm": 0.160000224100001,
+          "point_mm": [
+            -15.850000214883838,
+            -36.491105000000125,
+            509.42062318810434
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.1696297379991108
+        },
+        {
+          "face": 145,
+          "radius_mm": 0.499999694,
+          "point_mm": [
+            -15.85000022435086,
+            -35.914233000000124,
+            510.0559441881044
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 1.886297343806031
+        },
+        {
+          "face": 147,
+          "radius_mm": 0.16,
+          "point_mm": [
+            -15.850000233817866,
+            -36.491105000000125,
+            510.69126418810436
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.16963007506891264
+        },
+        {
+          "face": 148,
+          "radius_mm": 1.1399996828,
+          "point_mm": [
+            -15.85000022435086,
+            -37.62528700000013,
+            510.0559441881044
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.626554918329705
+        },
+        {
+          "face": 149,
+          "radius_mm": 0.1600000142,
+          "point_mm": [
+            -15.850000241251756,
+            -36.99000000000012,
+            511.19014418810434
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.16963468326008682
+        },
+        {
+          "face": 155,
+          "radius_mm": 0.16,
+          "point_mm": [
+            -15.850000241251756,
+            -25.310000000000123,
+            511.19014418810434
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.16963486078713663
+        },
+        {
+          "face": 156,
+          "radius_mm": 1.1399998957,
+          "point_mm": [
+            -15.85000022435086,
+            -24.674713000000125,
+            510.0559441881044
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.6265548427595746
+        },
+        {
+          "face": 157,
+          "radius_mm": 0.1600002241,
+          "point_mm": [
+            -15.850000233817866,
+            -25.808895000000128,
+            510.69126418810436
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.16963031265703638
+        },
+        {
+          "face": 159,
+          "radius_mm": 0.499999694000001,
+          "point_mm": [
+            -15.85000022435086,
+            -26.385767000000126,
+            510.0559441881044
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 1.8862973438060353
+        },
+        {
+          "face": 161,
+          "radius_mm": 0.16,
+          "point_mm": [
+            -15.850000214883838,
+            -25.808895000000128,
+            509.42062318810434
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.16962944934790816
+        },
+        {
+          "face": 162,
+          "radius_mm": 1.1399996828,
+          "point_mm": [
+            -15.85000022435086,
+            -24.674713000000125,
+            510.0559441881044
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.6265546291714447
+        },
+        {
+          "face": 163,
+          "radius_mm": 0.1600000142,
+          "point_mm": [
+            -15.850000207449948,
+            -25.310000000000127,
+            508.92174318810436
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.16963521437602266
+        },
+        {
+          "face": 177,
+          "radius_mm": 0.16,
+          "point_mm": [
+            10.84999979255005,
+            -36.99000000000012,
+            508.9217435859654
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.8481762526375375
+        },
+        {
+          "face": 178,
+          "radius_mm": 1.1399998957,
+          "point_mm": [
+            10.84999977564914,
+            -37.62528700000013,
+            510.05594458596534
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 3.132773219560007
+        },
+        {
+          "face": 179,
+          "radius_mm": 0.160000224100001,
+          "point_mm": [
+            10.849999785116161,
+            -36.491105000000125,
+            509.42062358596536
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.848148689995554
+        },
+        {
+          "face": 181,
+          "radius_mm": 0.499999694,
+          "point_mm": [
+            10.84999977564914,
+            -35.914233000000124,
+            510.05594458596534
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 9.431486719030156
+        },
+        {
+          "face": 183,
+          "radius_mm": 0.16,
+          "point_mm": [
+            10.849999766182133,
+            -36.491105000000125,
+            510.69126458596537
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.8481503753445635
+        },
+        {
+          "face": 184,
+          "radius_mm": 1.1399996828,
+          "point_mm": [
+            10.84999977564914,
+            -37.62528700000013,
+            510.05594458596534
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 3.1327745916485243
+        },
+        {
+          "face": 185,
+          "radius_mm": 0.1600000142,
+          "point_mm": [
+            10.849999758748243,
+            -36.99000000000012,
+            511.19014458596536
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.8481734163004342
+        },
+        {
+          "face": 191,
+          "radius_mm": 0.16,
+          "point_mm": [
+            10.849999758748243,
+            -25.310000000000127,
+            511.19014458596536
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.8481743039356832
+        },
+        {
+          "face": 192,
+          "radius_mm": 1.1399998957,
+          "point_mm": [
+            10.84999977564914,
+            -24.674713000000125,
+            510.05594458596534
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 3.132774213797873
+        },
+        {
+          "face": 193,
+          "radius_mm": 0.1600002241,
+          "point_mm": [
+            10.849999766182133,
+            -25.808895000000128,
+            510.69126458596537
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.8481515632851819
+        },
+        {
+          "face": 195,
+          "radius_mm": 0.499999694000001,
+          "point_mm": [
+            10.84999977564914,
+            -26.385767000000126,
+            510.05594458596534
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 9.431486719030177
+        },
+        {
+          "face": 197,
+          "radius_mm": 0.16,
+          "point_mm": [
+            10.849999785116161,
+            -25.808895000000128,
+            509.42062358596536
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.8481472467395409
+        },
+        {
+          "face": 198,
+          "radius_mm": 1.1399996828,
+          "point_mm": [
+            10.84999977564914,
+            -24.674713000000125,
+            510.05594458596534
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 3.132773145857223
+        },
+        {
+          "face": 199,
+          "radius_mm": 0.1600000142,
+          "point_mm": [
+            10.84999979255005,
+            -25.310000000000127,
+            508.9217435859654
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.8481760718801133
+        },
+        {
+          "face": 242,
+          "radius_mm": 1.75,
+          "point_mm": [
+            16.849999707937386,
+            -38.40000000000013,
+            514.6000036753724
+          ],
+          "direction": [
+            1.0,
+            -3.019099798414092e-17,
+            1.49011610805081e-08
+          ],
+          "area_mm2": 5.497787143782138
+        },
+        {
+          "face": 244,
+          "radius_mm": 1.75,
+          "point_mm": [
+            16.849999707937386,
+            -23.900000000000126,
+            514.6000036753724
+          ],
+          "direction": [
+            1.0,
+            -3.019099798414092e-17,
+            1.49011610805081e-08
+          ],
+          "area_mm2": 5.497787143782138
+        },
+        {
+          "face": 247,
+          "radius_mm": 1.2,
+          "point_mm": [
+            16.849999700486805,
+            -31.150000000000126,
+            515.1000036753724
+          ],
+          "direction": [
+            1.0,
+            -3.019099798414092e-17,
+            1.49011610805081e-08
+          ],
+          "area_mm2": 1.8849555921538763
+        },
+        {
+          "face": 251,
+          "radius_mm": 1.15,
+          "point_mm": [
+            15.849999700486803,
+            -31.150000000000126,
+            515.1000036604712
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 3.612831551628278
+        },
+        {
+          "face": 258,
+          "radius_mm": 0.16,
+          "point_mm": [
+            15.84999979255005,
+            -36.99000000000013,
+            508.9217436604712
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.1696352505275075
+        },
+        {
+          "face": 259,
+          "radius_mm": 1.1399998957,
+          "point_mm": [
+            15.84999977564914,
+            -37.62528700000013,
+            510.05594466047114
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.6265546439120014
+        },
+        {
+          "face": 260,
+          "radius_mm": 0.160000224100001,
+          "point_mm": [
+            15.849999785116161,
+            -36.491105000000125,
+            509.42062366047116
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.1696297379991108
+        },
+        {
+          "face": 262,
+          "radius_mm": 0.499999694,
+          "point_mm": [
+            15.84999977564914,
+            -35.914233000000124,
+            510.05594466047114
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 1.886297343806031
+        },
+        {
+          "face": 264,
+          "radius_mm": 0.16,
+          "point_mm": [
+            15.849999766182133,
+            -36.491105000000125,
+            510.6912646604712
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.1696300750689127
+        },
+        {
+          "face": 265,
+          "radius_mm": 1.1399996828,
+          "point_mm": [
+            15.84999977564914,
+            -37.62528700000013,
+            510.05594466047114
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.626554918329705
+        },
+        {
+          "face": 266,
+          "radius_mm": 0.1600000142,
+          "point_mm": [
+            15.849999758748243,
+            -36.99000000000012,
+            511.19014466047116
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.16963468326008682
+        },
+        {
+          "face": 272,
+          "radius_mm": 0.16,
+          "point_mm": [
+            15.849999758748243,
+            -25.310000000000127,
+            511.19014466047116
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.16963486078713666
+        },
+        {
+          "face": 273,
+          "radius_mm": 1.1399998957,
+          "point_mm": [
+            15.84999977564914,
+            -24.67471300000013,
+            510.05594466047114
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.6265548427595746
+        },
+        {
+          "face": 274,
+          "radius_mm": 0.1600002241,
+          "point_mm": [
+            15.849999766182133,
+            -25.808895000000128,
+            510.6912646604712
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.16963031265703638
+        },
+        {
+          "face": 276,
+          "radius_mm": 0.499999694000001,
+          "point_mm": [
+            15.84999977564914,
+            -26.38576700000013,
+            510.05594466047114
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 1.8862973438060353
+        },
+        {
+          "face": 278,
+          "radius_mm": 0.16,
+          "point_mm": [
+            15.849999785116161,
+            -25.808895000000128,
+            509.42062366047116
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.1696294493479082
+        },
+        {
+          "face": 279,
+          "radius_mm": 1.1399996828,
+          "point_mm": [
+            15.84999977564914,
+            -24.67471300000013,
+            510.05594466047114
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.6265546291714447
+        },
+        {
+          "face": 280,
+          "radius_mm": 0.1600000142,
+          "point_mm": [
+            15.84999979255005,
+            -25.310000000000127,
+            508.9217436604712
+          ],
+          "direction": [
+            -1.0,
+            3.019099798414092e-17,
+            -1.49011610805081e-08
+          ],
+          "area_mm2": 0.16963521437602266
+        }
+      ],
+      "rail_source_race_cylinders": [
+        {
+          "face": 68,
+          "radius_mm": 0.1600000142,
+          "point_mm": [
+            -2.0745000688767546e-07,
+            -36.9900000000001,
+            508.92174342428797
+          ],
+          "direction": [
+            1.0,
+            -3.019099614047648e-17,
+            1.49011610805081e-08
+          ],
+          "area_mm2": 67.85396731143418
+        },
+        {
+          "face": 69,
+          "radius_mm": 1.1399996828,
+          "point_mm": [
+            -2.2435091870552878e-07,
+            -37.6252870000001,
+            510.055944424288
+          ],
+          "direction": [
+            1.0,
+            -3.019099614047648e-17,
+            1.49011610805081e-08
+          ],
+          "area_mm2": 250.62175012337553
+        },
+        {
+          "face": 70,
+          "radius_mm": 0.16,
+          "point_mm": [
+            -2.148838981124572e-07,
+            -36.491105000000104,
+            509.420623424288
+          ],
+          "direction": [
+            1.0,
+            -3.019099614047648e-17,
+            1.49011610805081e-08
+          ],
+          "area_mm2": 67.85192719443992
+        },
+        {
+          "face": 72,
+          "radius_mm": 0.499999694,
+          "point_mm": [
+            -2.2435091865387035e-07,
+            -35.9142330000001,
+            510.055944424288
+          ],
+          "direction": [
+            1.0,
+            -3.019099614047648e-17,
+            1.49011610805081e-08
+          ],
+          "area_mm2": 754.5191754660597
+        },
+        {
+          "face": 74,
+          "radius_mm": 0.1600002241,
+          "point_mm": [
+            -2.338179243289551e-07,
+            -36.491105000000104,
+            510.69126442428797
+          ],
+          "direction": [
+            1.0,
+            -3.019099614047648e-17,
+            1.49011610805081e-08
+          ],
+          "area_mm2": 67.85205253442635
+        },
+        {
+          "face": 75,
+          "radius_mm": 1.1399998957,
+          "point_mm": [
+            -2.2435091870552878e-07,
+            -37.6252870000001,
+            510.055944424288
+          ],
+          "direction": [
+            1.0,
+            -3.019099614047648e-17,
+            1.49011610805081e-08
+          ],
+          "area_mm2": 250.62193710382923
+        },
+        {
+          "face": 76,
+          "radius_mm": 0.16,
+          "point_mm": [
+            -2.412518155838611e-07,
+            -36.9900000000001,
+            511.190144424288
+          ],
+          "direction": [
+            1.0,
+            -3.019099614047648e-17,
+            1.49011610805081e-08
+          ],
+          "area_mm2": 67.8538565353488
+        },
+        {
+          "face": 81,
+          "radius_mm": 0.1600000142,
+          "point_mm": [
+            -2.4125181523123035e-07,
+            -25.3100000000001,
+            511.190144424288
+          ],
+          "direction": [
+            1.0,
+            -3.019099614047648e-17,
+            1.49011610805081e-08
+          ],
+          "area_mm2": 67.85378552452113
+        },
+        {
+          "face": 82,
+          "radius_mm": 1.1399996828,
+          "point_mm": [
+            -2.243509183145381e-07,
+            -24.674713000000104,
+            510.055944424288
+          ],
+          "direction": [
+            1.0,
+            -3.019099614047648e-17,
+            1.49011610805081e-08
+          ],
+          "area_mm2": 250.62183833854942
+        },
+        {
+          "face": 83,
+          "radius_mm": 0.16,
+          "point_mm": [
+            -2.3381792400644857e-07,
+            -25.808895000000103,
+            510.69126442428797
+          ],
+          "direction": [
+            1.0,
+            -3.019099614047648e-17,
+            1.49011610805081e-08
+          ],
+          "area_mm2": 67.85208649236031
+        },
+        {
+          "face": 85,
+          "radius_mm": 0.499999694000001,
+          "point_mm": [
+            -2.2435091836619653e-07,
+            -26.385767000000104,
+            510.055944424288
+          ],
+          "direction": [
+            1.0,
+            -3.019099614047648e-17,
+            1.49011610805081e-08
+          ],
+          "area_mm2": 754.5191754660613
+        },
+        {
+          "face": 87,
+          "radius_mm": 0.160000224100001,
+          "point_mm": [
+            -2.1488389778995069e-07,
+            -25.808895000000103,
+            509.420623424288
+          ],
+          "direction": [
+            1.0,
+            -3.019099614047648e-17,
+            1.49011610805081e-08
+          ],
+          "area_mm2": 67.85182267125664
+        },
+        {
+          "face": 88,
+          "radius_mm": 1.1399998957,
+          "point_mm": [
+            -2.243509183145381e-07,
+            -24.674713000000104,
+            510.055944424288
+          ],
+          "direction": [
+            1.0,
+            -3.019099614047648e-17,
+            1.49011610805081e-08
+          ],
+          "area_mm2": 250.62199648710893
+        },
+        {
+          "face": 89,
+          "radius_mm": 0.16,
+          "point_mm": [
+            -2.0745000653504468e-07,
+            -25.3100000000001,
+            508.92174342428797
+          ],
+          "direction": [
+            1.0,
+            -3.019099614047648e-17,
+            1.49011610805081e-08
+          ],
+          "area_mm2": 67.85402950881324
+        }
+      ],
+      "paired_original_source_race_surfaces": [
+        {
+          "carriage_face": 28,
+          "rail_face": 75,
+          "source_axis_offset_mm": 2.2914314794092256e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 1.1399998957,
+          "rail_radius_mm": 1.1399998957
+        },
+        {
+          "carriage_face": 31,
+          "rail_face": 72,
+          "source_axis_offset_mm": 2.28370691120241e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 0.499999694,
+          "rail_radius_mm": 0.499999694
+        },
+        {
+          "carriage_face": 34,
+          "rail_face": 69,
+          "source_axis_offset_mm": 2.2914314794092256e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 1.1399996828,
+          "rail_radius_mm": 1.1399996828
+        },
+        {
+          "carriage_face": 42,
+          "rail_face": 88,
+          "source_axis_offset_mm": 2.28370691120241e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 1.1399998957,
+          "rail_radius_mm": 1.1399998957
+        },
+        {
+          "carriage_face": 45,
+          "rail_face": 85,
+          "source_axis_offset_mm": 2.28370691120241e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 0.499999694000001,
+          "rail_radius_mm": 0.499999694000001
+        },
+        {
+          "carriage_face": 48,
+          "rail_face": 82,
+          "source_axis_offset_mm": 2.28370691120241e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 1.1399996828,
+          "rail_radius_mm": 1.1399996828
+        },
+        {
+          "carriage_face": 61,
+          "rail_face": 75,
+          "source_axis_offset_mm": 2.0787136474186035e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 1.1399998957,
+          "rail_radius_mm": 1.1399998957
+        },
+        {
+          "carriage_face": 64,
+          "rail_face": 72,
+          "source_axis_offset_mm": 2.0700830783169255e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 0.499999694,
+          "rail_radius_mm": 0.499999694
+        },
+        {
+          "carriage_face": 67,
+          "rail_face": 69,
+          "source_axis_offset_mm": 2.0787136474186035e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 1.1399996828,
+          "rail_radius_mm": 1.1399996828
+        },
+        {
+          "carriage_face": 75,
+          "rail_face": 88,
+          "source_axis_offset_mm": 2.0700830783169255e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 1.1399998957,
+          "rail_radius_mm": 1.1399998957
+        },
+        {
+          "carriage_face": 78,
+          "rail_face": 85,
+          "source_axis_offset_mm": 2.0700830783169255e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 0.499999694000001,
+          "rail_radius_mm": 0.499999694000001
+        },
+        {
+          "carriage_face": 81,
+          "rail_face": 82,
+          "source_axis_offset_mm": 2.0700830783169255e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 1.1399996828,
+          "rail_radius_mm": 1.1399996828
+        },
+        {
+          "carriage_face": 142,
+          "rail_face": 75,
+          "source_axis_offset_mm": 2.0847619022192977e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 1.1399998957,
+          "rail_radius_mm": 1.1399998957
+        },
+        {
+          "carriage_face": 145,
+          "rail_face": 72,
+          "source_axis_offset_mm": 2.076104812424392e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 0.499999694,
+          "rail_radius_mm": 0.499999694
+        },
+        {
+          "carriage_face": 148,
+          "rail_face": 69,
+          "source_axis_offset_mm": 2.0847619022192977e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 1.1399996828,
+          "rail_radius_mm": 1.1399996828
+        },
+        {
+          "carriage_face": 156,
+          "rail_face": 88,
+          "source_axis_offset_mm": 2.076104812424392e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 1.1399998957,
+          "rail_radius_mm": 1.1399998957
+        },
+        {
+          "carriage_face": 159,
+          "rail_face": 85,
+          "source_axis_offset_mm": 2.076104812424392e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 0.499999694000001,
+          "rail_radius_mm": 0.499999694000001
+        },
+        {
+          "carriage_face": 162,
+          "rail_face": 82,
+          "source_axis_offset_mm": 2.076104812424392e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 1.1399996828,
+          "rail_radius_mm": 1.1399996828
+        },
+        {
+          "carriage_face": 178,
+          "rail_face": 75,
+          "source_axis_offset_mm": 2.5046824609029927e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 1.1399998957,
+          "rail_radius_mm": 1.1399998957
+        },
+        {
+          "carriage_face": 181,
+          "rail_face": 72,
+          "source_axis_offset_mm": 2.4977107057618873e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 0.499999694,
+          "rail_radius_mm": 0.499999694
+        },
+        {
+          "carriage_face": 184,
+          "rail_face": 69,
+          "source_axis_offset_mm": 2.5046824609029927e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 1.1399996828,
+          "rail_radius_mm": 1.1399996828
+        },
+        {
+          "carriage_face": 192,
+          "rail_face": 88,
+          "source_axis_offset_mm": 2.4977107057618873e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 1.1399998957,
+          "rail_radius_mm": 1.1399998957
+        },
+        {
+          "carriage_face": 195,
+          "rail_face": 85,
+          "source_axis_offset_mm": 2.4977107057618873e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 0.499999694000001,
+          "rail_radius_mm": 0.499999694000001
+        },
+        {
+          "carriage_face": 198,
+          "rail_face": 82,
+          "source_axis_offset_mm": 2.4977107057618873e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 1.1399996828,
+          "rail_radius_mm": 1.1399996828
+        },
+        {
+          "carriage_face": 259,
+          "rail_face": 75,
+          "source_axis_offset_mm": 2.4990716216867284e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 1.1399998957,
+          "rail_radius_mm": 1.1399998957
+        },
+        {
+          "carriage_face": 262,
+          "rail_face": 72,
+          "source_axis_offset_mm": 2.492127209832082e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 0.499999694,
+          "rail_radius_mm": 0.499999694
+        },
+        {
+          "carriage_face": 265,
+          "rail_face": 69,
+          "source_axis_offset_mm": 2.4990716216867284e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 1.1399996828,
+          "rail_radius_mm": 1.1399996828
+        },
+        {
+          "carriage_face": 273,
+          "rail_face": 88,
+          "source_axis_offset_mm": 2.4953489380654423e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 1.1399998957,
+          "rail_radius_mm": 1.1399998957
+        },
+        {
+          "carriage_face": 276,
+          "rail_face": 85,
+          "source_axis_offset_mm": 2.4953489380654423e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 0.499999694000001,
+          "rail_radius_mm": 0.499999694000001
+        },
+        {
+          "carriage_face": 279,
+          "rail_face": 82,
+          "source_axis_offset_mm": 2.4953489380654423e-13,
+          "radius_difference_mm": 0.0,
+          "parallel_dot": 1.0000000000000002,
+          "carriage_radius_mm": 1.1399996828,
+          "rail_radius_mm": 1.1399996828
+        }
+      ],
+      "command_axis": [
+        1,
+        0,
+        0
+      ],
+      "native_axis_vs_command_cross_magnitude": 1.49011610805081e-08
+    },
+    "positive_common_components": [
+      {
+        "job_index": 2,
+        "relative_translation_mm": [
+          150.00000061690736,
+          0.0,
+          0.0
+        ],
+        "positive_volume_mm3": 0.00023600623170350055,
+        "components": [
+          {
+            "ordinal": 0,
+            "volume_mm3": 5.7302923982067956e-05,
+            "center_mm": [
+              -4.854591579633269,
+              1.7777766160948773e-11,
+              2.898595767764792
+            ],
+            "bounds_mm": [
+              [
+                -5.480696773086292,
+                -10.8500006,
+                2.455939887197303
+              ],
+              [
+                -4.264233305999996,
+                10.8500006,
+                3.0130677044356293
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 1,
+            "volume_mm3": 1.7611399912517006e-05,
+            "center_mm": [
+              -5.77863920513311,
+              -4.3082221549761736e-12,
+              3.3701551333880597
+            ],
+            "bounds_mm": [
+              [
+                -6.0000000141811665,
+                -10.85,
+                3.013067061067424
+              ],
+              [
+                -5.480696577570866,
+                10.85,
+                3.590138545377344
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_IN"
+            ]
+          },
+          {
+            "ordinal": 2,
+            "volume_mm3": 2.1310267427410157e-05,
+            "center_mm": [
+              5.780721329876654,
+              6.292847176418485e-12,
+              3.3533703254516447
+            ],
+            "bounds_mm": [
+              [
+                5.480696773086323,
+                -10.85,
+                3.013065537036746
+              ],
+              [
+                6.000000014199879,
+                10.85,
+                3.590138545377434
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 3,
+            "volume_mm3": 3.3653775939002095e-05,
+            "center_mm": [
+              4.749797835131919,
+              1.331761413917335e-11,
+              2.8519911138543517
+            ],
+            "bounds_mm": [
+              [
+                4.264233306000001,
+                -10.8500006,
+                2.4559398764526206
+              ],
+              [
+                5.480696773086325,
+                10.8500006,
+                3.013067594915827
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 4,
+            "volume_mm3": 1.3136529249871092e-05,
+            "center_mm": [
+              -4.845867349866277,
+              13.349999975512782,
+              2.8992377008458354
+            ],
+            "bounds_mm": [
+              [
+                -5.480696773086292,
+                10.8499994,
+                2.455939887197303
+              ],
+              [
+                -4.264233305999996,
+                15.8500006,
+                3.0130677044356293
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 5,
+            "volume_mm3": 4.537991964211063e-06,
+            "center_mm": [
+              -5.780460977510981,
+              13.349999968883257,
+              3.346898902195037
+            ],
+            "bounds_mm": [
+              [
+                -6.0000000141811665,
+                10.849999999999994,
+                3.013067061067424
+              ],
+              [
+                -5.480696577570866,
+                15.850000000000001,
+                3.590138545377344
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 6,
+            "volume_mm3": 4.95212932711403e-06,
+            "center_mm": [
+              5.777339922467647,
+              13.349999971619447,
+              3.356689443635294
+            ],
+            "bounds_mm": [
+              [
+                5.480696773086323,
+                10.849999999999994,
+                3.013065537036746
+              ],
+              [
+                6.000000014199879,
+                15.850000000000001,
+                3.5901385453774344
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 7,
+            "volume_mm3": 1.186566868064537e-05,
+            "center_mm": [
+              4.80917962280693,
+              13.349999972443676,
+              2.894235410111283
+            ],
+            "bounds_mm": [
+              [
+                4.264233306000001,
+                10.8499994,
+                2.4559398764526206
+              ],
+              [
+                5.480696773086325,
+                15.8500006,
+                3.013067594915827
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 8,
+            "volume_mm3": 2.7367790041768557e-06,
+            "center_mm": [
+              -4.83406121503089,
+              16.349999999989855,
+              2.893063285214361
+            ],
+            "bounds_mm": [
+              [
+                -5.480696773086292,
+                15.849999400000002,
+                2.455939887197303
+              ],
+              [
+                -4.264233305999996,
+                16.8500006,
+                3.0130677044356293
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 9,
+            "volume_mm3": 9.075984184724051e-07,
+            "center_mm": [
+              -5.78046097529254,
+              16.34999999993731,
+              3.346898900647439
+            ],
+            "bounds_mm": [
+              [
+                -6.0000000141811665,
+                15.849999999999994,
+                3.013067061067424
+              ],
+              [
+                -5.480696577570866,
+                16.85,
+                3.590138545377344
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 10,
+            "volume_mm3": 9.904258802852228e-07,
+            "center_mm": [
+              5.777339922190567,
+              16.3499999999098,
+              3.356689443133863
+            ],
+            "bounds_mm": [
+              [
+                5.480696773086323,
+                15.849999999999994,
+                3.013065537036746
+              ],
+              [
+                6.000000014199879,
+                16.85,
+                3.590138545377437
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 11,
+            "volume_mm3": 2.2655287587464157e-06,
+            "center_mm": [
+              4.821575611941936,
+              16.34999999979816,
+              2.9013201360059053
+            ],
+            "bounds_mm": [
+              [
+                4.264233306000001,
+                15.849999400000002,
+                2.4559398764526206
+              ],
+              [
+                5.480696773086325,
+                16.8500006,
+                3.013067594915827
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 12,
+            "volume_mm3": 1.3136529222638776e-05,
+            "center_mm": [
+              -4.8458673485302555,
+              -13.349999975336754,
+              2.8992377008064603
+            ],
+            "bounds_mm": [
+              [
+                -5.480696773086292,
+                -15.8500006,
+                2.455939887197303
+              ],
+              [
+                -4.264233305999996,
+                -10.8499994,
+                3.0130677044356293
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 13,
+            "volume_mm3": 4.537991992611956e-06,
+            "center_mm": [
+              -5.7804609764292785,
+              -13.349999968868655,
+              3.3468989015759827
+            ],
+            "bounds_mm": [
+              [
+                -6.0000000141811665,
+                -15.850000000000001,
+                3.013067061067424
+              ],
+              [
+                -5.480696577570866,
+                -10.849999999999994,
+                3.590138545377344
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 14,
+            "volume_mm3": 4.952129327100152e-06,
+            "center_mm": [
+              5.777339922461418,
+              -13.349999971634439,
+              3.3566894436390964
+            ],
+            "bounds_mm": [
+              [
+                5.480696773086323,
+                -15.850000000000001,
+                3.013065537036746
+              ],
+              [
+                6.000000014199879,
+                -10.849999999999994,
+                3.5901385453774344
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 15,
+            "volume_mm3": 1.1865668680610675e-05,
+            "center_mm": [
+              4.809179622891166,
+              -13.349999972576276,
+              2.894235410131441
+            ],
+            "bounds_mm": [
+              [
+                4.264233306000001,
+                -15.8500006,
+                2.4559398764526206
+              ],
+              [
+                5.480696773086325,
+                -10.8499994,
+                3.013067594915827
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 16,
+            "volume_mm3": 2.736779003186614e-06,
+            "center_mm": [
+              -4.834061214295107,
+              -16.350000000108295,
+              2.8930632851053706
+            ],
+            "bounds_mm": [
+              [
+                -5.480696773086292,
+                -16.8500006,
+                2.455939887197303
+              ],
+              [
+                -4.264233305999996,
+                -15.849999400000002,
+                3.0130677044356293
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 17,
+            "volume_mm3": 9.075984213138821e-07,
+            "center_mm": [
+              -5.780460974740407,
+              -16.349999999902522,
+              3.3468989003334313
+            ],
+            "bounds_mm": [
+              [
+                -6.0000000141811665,
+                -16.85,
+                3.013067061067424
+              ],
+              [
+                -5.480696577570866,
+                -15.849999999999994,
+                3.590138545377344
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 18,
+            "volume_mm3": 9.90425880283488e-07,
+            "center_mm": [
+              5.777339922206744,
+              -16.349999999969963,
+              3.356689443145199
+            ],
+            "bounds_mm": [
+              [
+                5.480696773086323,
+                -16.85,
+                3.013065537036746
+              ],
+              [
+                6.000000014199879,
+                -15.849999999999994,
+                3.590138545377437
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 19,
+            "volume_mm3": 2.2655287586909045e-06,
+            "center_mm": [
+              4.821575612095901,
+              -16.350000000225116,
+              2.901320136065042
+            ],
+            "bounds_mm": [
+              [
+                4.264233306000001,
+                -16.8500006,
+                2.4559398764526206
+              ],
+              [
+                5.480696773086325,
+                -15.849999400000002,
+                3.013067594915827
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          }
+        ],
+        "common_coordinate_frame": "Unchanged native carriage leaf definition frame",
+        "definition_to_native_host_matrix_mm": [
+          [
+            3.019099982780623e-17,
+            -1.0,
+            -1.49011610805081e-08,
+            -1.87754487512631e-07
+          ],
+          [
+            1.0,
+            3.019099798414087e-17,
+            1.237262969881738e-16,
+            -31.150000000000126
+          ],
+          [
+            -1.2372629653829283e-16,
+            -1.49011610805081e-08,
+            1.0,
+            507.60000342428776
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "max_command_vs_native_line_deviation_mm": 2.235174171268851e-06,
+        "native_direction_diagnostic": {
+          "translation_mm": [
+            150.00000061690736,
+            -4.528649439696519e-15,
+            2.235174171268851e-06
+          ],
+          "native_common_volume_mm3": 0.0,
+          "native_common_solids": 0,
+          "valid": true,
+          "profile_or_model_changed": false
+        }
+      },
+      {
+        "job_index": 4,
+        "relative_translation_mm": [
+          -149.99999938309264,
+          0.0,
+          0.0
+        ],
+        "positive_volume_mm3": 6.808831715413716e-05,
+        "components": [
+          {
+            "ordinal": 0,
+            "volume_mm3": 1.0237692476086635e-05,
+            "center_mm": [
+              5.2274786776667765,
+              -2.594547793651472e-10,
+              2.04907537307057
+            ],
+            "bounds_mm": [
+              [
+                4.919379529782522,
+                -10.85,
+                1.8988138414690987
+              ],
+              [
+                5.480697079420443,
+                10.85,
+                1.9806224592743646
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 1,
+            "volume_mm3": 9.168845826829086e-06,
+            "center_mm": [
+              -5.220724892693253,
+              -1.2828517683294333e-12,
+              1.9926231704332351
+            ],
+            "bounds_mm": [
+              [
+                -5.48069654054554,
+                -10.85,
+                1.8988139064402072
+              ],
+              [
+                -4.919379529782516,
+                10.85,
+                1.9806222351744616
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 2,
+            "volume_mm3": 4.122937442979646e-06,
+            "center_mm": [
+              -5.2186979354199075,
+              13.35000003643185,
+              1.984491104617581
+            ],
+            "bounds_mm": [
+              [
+                -5.48069654054554,
+                10.849999999999994,
+                1.8988139064402072
+              ],
+              [
+                -4.919379529782516,
+                15.850000000000001,
+                1.9806222351744616
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 3,
+            "volume_mm3": 4.324620609074542e-06,
+            "center_mm": [
+              5.226321101862332,
+              13.350000034613718,
+              1.9853104086791808
+            ],
+            "bounds_mm": [
+              [
+                4.919379529782523,
+                10.849999999999994,
+                1.8988138414690978
+              ],
+              [
+                5.480697079420443,
+                15.850000000000001,
+                1.9806224592743646
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 4,
+            "volume_mm3": 8.245874725562423e-07,
+            "center_mm": [
+              -5.21869793541948,
+              16.349999999969604,
+              1.984491104876686
+            ],
+            "bounds_mm": [
+              [
+                -5.48069654054554,
+                15.849999999999994,
+                1.8988139064402072
+              ],
+              [
+                -4.919379529782516,
+                16.85,
+                1.9806222351744616
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 5,
+            "volume_mm3": 8.649241057697137e-07,
+            "center_mm": [
+              5.226321102029038,
+              16.349999999817616,
+              1.98531040894404
+            ],
+            "bounds_mm": [
+              [
+                4.919379529782523,
+                15.849999999999994,
+                1.8988138414690978
+              ],
+              [
+                5.480697079420443,
+                16.85,
+                1.9806224592743646
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 6,
+            "volume_mm3": 4.122937442983116e-06,
+            "center_mm": [
+              -5.2186979354188825,
+              -13.350000036427348,
+              1.9844911046142282
+            ],
+            "bounds_mm": [
+              [
+                -5.48069654054554,
+                -15.850000000000001,
+                1.8988139064402072
+              ],
+              [
+                -4.919379529782516,
+                -10.849999999999994,
+                1.9806222351744616
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 7,
+            "volume_mm3": 4.32462060908495e-06,
+            "center_mm": [
+              5.226321101865799,
+              -13.350000034915325,
+              1.9853104086808206
+            ],
+            "bounds_mm": [
+              [
+                4.919379529782523,
+                -15.850000000000001,
+                1.8988138414690978
+              ],
+              [
+                5.480697079420443,
+                -10.849999999999994,
+                1.9806224592743646
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 8,
+            "volume_mm3": 8.245874725545076e-07,
+            "center_mm": [
+              -5.218697935417936,
+              -16.34999999997034,
+              1.9844911048745495
+            ],
+            "bounds_mm": [
+              [
+                -5.48069654054554,
+                -16.85,
+                1.8988139064402072
+              ],
+              [
+                -4.919379529782516,
+                -15.849999999999994,
+                1.9806222351744616
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 9,
+            "volume_mm3": 8.649241057697137e-07,
+            "center_mm": [
+              5.226321102029038,
+              -16.350000000090382,
+              1.98531040894404
+            ],
+            "bounds_mm": [
+              [
+                4.919379529782523,
+                -16.85,
+                1.8988138414690978
+              ],
+              [
+                5.480697079420443,
+                -15.849999999999994,
+                1.9806224592743646
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          }
+        ],
+        "common_coordinate_frame": "Unchanged native carriage leaf definition frame",
+        "definition_to_native_host_matrix_mm": [
+          [
+            3.019099982780623e-17,
+            -1.0,
+            -1.49011610805081e-08,
+            -1.87754487512631e-07
+          ],
+          [
+            1.0,
+            3.019099798414087e-17,
+            1.237262969881738e-16,
+            -31.150000000000126
+          ],
+          [
+            -1.2372629653829283e-16,
+            -1.49011610805081e-08,
+            1.0,
+            507.60000342428776
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "max_command_vs_native_line_deviation_mm": 2.235174152883579e-06,
+        "native_direction_diagnostic": {
+          "translation_mm": [
+            -149.99999938309264,
+            4.528649402446424e-15,
+            -2.235174152883579e-06
+          ],
+          "native_common_volume_mm3": 0.0,
+          "native_common_solids": 0,
+          "valid": true,
+          "profile_or_model_changed": false
+        }
+      },
+      {
+        "job_index": 8,
+        "relative_translation_mm": [
+          75.00000061690736,
+          0.0,
+          0.0
+        ],
+        "positive_volume_mm3": 8.921274648165944e-05,
+        "components": [
+          {
+            "ordinal": 0,
+            "volume_mm3": 2.6832069724092023e-05,
+            "center_mm": [
+              -4.816844230321213,
+              -6.882566763992739e-12,
+              2.8920516740544624
+            ],
+            "bounds_mm": [
+              [
+                -5.480696773086292,
+                -10.8500006,
+                2.455940449682546
+              ],
+              [
+                -4.264233305999996,
+                10.8500006,
+                3.0130677044356293
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 1,
+            "volume_mm3": 3.8013022560807325e-06,
+            "center_mm": [
+              -5.856635610547864,
+              -0.1679318310856734,
+              3.6608196108867967
+            ],
+            "bounds_mm": [
+              [
+                -6.000000014199996,
+                -10.85,
+                3.0130664773206814
+              ],
+              [
+                -5.480696577570866,
+                10.85,
+                3.590141000000058
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_IN"
+            ]
+          },
+          {
+            "ordinal": 2,
+            "volume_mm3": 1.1534149441438935e-05,
+            "center_mm": [
+              5.772796837109696,
+              -5.9154945333113695e-12,
+              3.3433217059420044
+            ],
+            "bounds_mm": [
+              [
+                5.480696773086323,
+                -10.85,
+                3.0130666546238354
+              ],
+              [
+                6.000000014199879,
+                10.85,
+                3.5901396629644755
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 3,
+            "volume_mm3": 1.7513930390983257e-05,
+            "center_mm": [
+              4.761413358454659,
+              -3.761365492278305e-11,
+              2.8623128703357823
+            ],
+            "bounds_mm": [
+              [
+                4.264233306000001,
+                -10.8500006,
+                2.4559404292857026
+              ],
+              [
+                5.480696773086325,
+                10.8500006,
+                3.013067594915827
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 4,
+            "volume_mm3": 6.113798918516711e-06,
+            "center_mm": [
+              -4.797882821859057,
+              13.349999946432794,
+              2.893460503859811
+            ],
+            "bounds_mm": [
+              [
+                -5.480696773086292,
+                10.8499994,
+                2.455940449682546
+              ],
+              [
+                -4.264233305999996,
+                15.8500006,
+                3.0130677044356293
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 5,
+            "volume_mm3": 1.873637587065935e-06,
+            "center_mm": [
+              -5.815640569379135,
+              13.349999924194774,
+              3.3782913654841824
+            ],
+            "bounds_mm": [
+              [
+                -6.000000014194409,
+                10.849999999999994,
+                3.0130664773206814
+              ],
+              [
+                -5.480696577570866,
+                15.850000000000009,
+                3.5901396629644333
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 6,
+            "volume_mm3": 5.880970245231154e-06,
+            "center_mm": [
+              4.813764733709373,
+              13.349999982754738,
+              2.8964448573509967
+            ],
+            "bounds_mm": [
+              [
+                4.264233306000001,
+                10.8499994,
+                2.455940429285703
+              ],
+              [
+                5.480696773086325,
+                15.8500006,
+                3.013067594915827
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 7,
+            "volume_mm3": 3.7472753229746136e-07,
+            "center_mm": [
+              -5.8156405675006955,
+              16.349999999685906,
+              3.378291363319924
+            ],
+            "bounds_mm": [
+              [
+                -6.000000014194409,
+                15.850000000000001,
+                3.0130664773206814
+              ],
+              [
+                -5.480696577570866,
+                16.85000000000001,
+                3.5901396629644333
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 8,
+            "volume_mm3": 5.375079840021918e-07,
+            "center_mm": [
+              5.767480902717896,
+              16.351190524406015,
+              3.3503984463945953
+            ],
+            "bounds_mm": [
+              [
+                5.480696773086323,
+                15.850000000000001,
+                3.0130666546238354
+              ],
+              [
+                6.000000014199879,
+                16.85000000000001,
+                3.5901410000000573
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_IN"
+            ]
+          },
+          {
+            "ordinal": 9,
+            "volume_mm3": 1.0685887816969108e-06,
+            "center_mm": [
+              4.840507398952727,
+              16.350000002694806,
+              2.911687714510458
+            ],
+            "bounds_mm": [
+              [
+                4.264233306000001,
+                15.849999400000002,
+                2.455940429285703
+              ],
+              [
+                5.480696773086325,
+                16.8500006,
+                3.013067594915827
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 10,
+            "volume_mm3": 6.113798919502034e-06,
+            "center_mm": [
+              -4.797882821771676,
+              -13.349999947585793,
+              2.8934605039238024
+            ],
+            "bounds_mm": [
+              [
+                -5.480696773086292,
+                -15.8500006,
+                2.455940449682546
+              ],
+              [
+                -4.264233305999996,
+                -10.8499994,
+                3.0130677044356293
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 11,
+            "volume_mm3": 1.8736375871561406e-06,
+            "center_mm": [
+              -5.815640569364632,
+              -13.349999924569744,
+              3.3782913654690527
+            ],
+            "bounds_mm": [
+              [
+                -6.000000014194409,
+                -15.850000000000001,
+                3.0130664773206814
+              ],
+              [
+                -5.480696577570866,
+                -10.849999999999994,
+                3.5901396629644333
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 12,
+            "volume_mm3": 5.880970244898087e-06,
+            "center_mm": [
+              4.813764733679948,
+              -13.349999944848198,
+              2.896444857326254
+            ],
+            "bounds_mm": [
+              [
+                4.264233306000001,
+                -15.8500006,
+                2.455940429285703
+              ],
+              [
+                5.480696773086325,
+                -10.8499994,
+                3.013067594915827
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN",
+              "TopAbs_State.TopAbs_OUT"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 13,
+            "volume_mm3": 1.3303656191260282e-06,
+            "center_mm": [
+              -4.777686835888846,
+              -16.350000000727597,
+              2.881458373388799
+            ],
+            "bounds_mm": [
+              [
+                -5.480696773086292,
+                -16.8500006,
+                2.455940449682546
+              ],
+              [
+                -4.264233305999996,
+                -15.849999400000002,
+                3.0130677044356293
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 14,
+            "volume_mm3": 3.747275323009308e-07,
+            "center_mm": [
+              -5.815640567482729,
+              -16.349999999756733,
+              3.378291363346512
+            ],
+            "bounds_mm": [
+              [
+                -6.000000014194409,
+                -16.85,
+                3.0130664773206814
+              ],
+              [
+                -5.480696577570866,
+                -15.850000000000001,
+                3.5901396629644333
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          },
+          {
+            "ordinal": 15,
+            "volume_mm3": 1.0685887936456862e-06,
+            "center_mm": [
+              4.840507401863373,
+              -16.35000000031039,
+              2.9116877145616336
+            ],
+            "bounds_mm": [
+              [
+                4.264233306000001,
+                -16.8500006,
+                2.455940429285703
+              ],
+              [
+                5.480696773086325,
+                -15.849999400000002,
+                3.013067594915827
+              ]
+            ],
+            "center_states_in_native_carriage": [
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_OUT",
+              "TopAbs_State.TopAbs_IN"
+            ],
+            "center_states_in_native_rail": [
+              "TopAbs_State.TopAbs_OUT"
+            ]
+          }
+        ],
+        "common_coordinate_frame": "Unchanged native carriage leaf definition frame",
+        "definition_to_native_host_matrix_mm": [
+          [
+            3.019099982780623e-17,
+            -1.0,
+            -1.49011610805081e-08,
+            -1.87754487512631e-07
+          ],
+          [
+            1.0,
+            3.019099798414087e-17,
+            1.237262969881738e-16,
+            -31.150000000000126
+          ],
+          [
+            -1.2372629653829283e-16,
+            -1.49011610805081e-08,
+            1.0,
+            507.60000342428776
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "max_command_vs_native_line_deviation_mm": 1.1175870902307435e-06,
+        "native_direction_diagnostic": {
+          "translation_mm": [
+            75.00000061690736,
+            -2.2643247291607834e-15,
+            1.1175870902307435e-06
+          ],
+          "native_common_volume_mm3": 0.0,
+          "native_common_solids": 0,
+          "valid": true,
+          "profile_or_model_changed": false
+        }
+      }
+    ],
+    "thread_contact_exemptions": [],
+    "classification": "Unchanged source sliding rail/carriage raceways with matched coaxial cylindrical surfaces; tiny source/preview-axis contact retained as a numerical and source-contact finding, not excluded as a threaded contact and not treated as a new extruder collision.",
+    "classifier_limit": "The center of mass of a curved thin common component can be outside the component; those state samples are not a disjointness proof.",
+    "full_physical_fit_certified": false
+  }
+}

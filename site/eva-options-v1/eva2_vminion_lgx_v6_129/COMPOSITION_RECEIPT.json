@@ -1,0 +1,247 @@
+{
+  "schema": "3d-print-rig-eva-composition-receipt-v1",
+  "recipe_sha256": "6f56a12526eb08e71bf40aa69487442f1d9d2dfb7057e0446b05fe50c3709cb0",
+  "id": "eva2_vminion_lgx_v6_129",
+  "inputs": [
+    {
+      "model_sha256": "4ee202295140575eb8eca12e23c1ccaf169c511568ef8a765af69e069359ac2f",
+      "metadata_sha256": "cd45ddc81aa7ca87b7c565beadf7d191bce1b7bc56cb90ccd26a096ac66be2d2",
+      "native_source_sha256": "46650c0be0527b0f799a6ebd5cde210254caafdc4c436f558857fa30c17e9b94",
+      "source_revision": "6811558082d6a1797dac160ca027692cd7904a4b",
+      "keys": [
+        "eva2_vminion_lgx_bmo_315",
+        "eva2_vminion_lgx_bmo_316",
+        "eva2_vminion_lgx_bmo_321",
+        "eva2_vminion_lgx_bmo_322",
+        "eva2_vminion_lgx_bmo_323",
+        "eva2_vminion_lgx_bmo_324",
+        "eva2_vminion_lgx_bmo_325",
+        "eva2_vminion_lgx_bmo_327",
+        "eva2_vminion_lgx_bmo_330",
+        "eva2_vminion_lgx_bmo_331",
+        "eva2_vminion_lgx_bmo_332",
+        "eva2_vminion_lgx_bmo_333",
+        "eva2_vminion_lgx_bmo_334",
+        "eva2_vminion_lgx_bmo_335",
+        "eva2_vminion_lgx_bmo_336",
+        "eva2_vminion_lgx_bmo_337",
+        "eva2_vminion_lgx_bmo_338",
+        "eva2_vminion_lgx_bmo_339",
+        "eva2_vminion_lgx_bmo_340",
+        "eva2_vminion_lgx_bmo_341",
+        "eva2_vminion_lgx_bmo_342",
+        "eva2_vminion_lgx_bmo_343",
+        "eva2_vminion_lgx_bmo_344",
+        "eva2_vminion_lgx_bmo_345",
+        "eva2_vminion_lgx_bmo_346",
+        "eva2_vminion_lgx_bmo_347",
+        "eva2_vminion_lgx_bmo_348",
+        "eva2_vminion_lgx_bmo_349",
+        "eva2_vminion_lgx_bmo_350",
+        "eva2_vminion_lgx_bmo_351",
+        "eva2_vminion_lgx_bmo_352",
+        "eva2_vminion_lgx_bmo_353",
+        "eva2_vminion_lgx_bmo_354",
+        "eva2_vminion_lgx_bmo_355",
+        "eva2_vminion_lgx_bmo_356",
+        "eva2_vminion_lgx_bmo_357",
+        "eva2_vminion_lgx_bmo_358",
+        "eva2_vminion_lgx_bmo_359",
+        "eva2_vminion_lgx_bmo_360",
+        "eva2_vminion_lgx_bmo_361",
+        "eva2_vminion_lgx_bmo_362",
+        "eva2_vminion_lgx_bmo_363",
+        "eva2_vminion_lgx_bmo_364",
+        "eva2_vminion_lgx_bmo_365",
+        "eva2_vminion_lgx_bmo_366",
+        "eva2_vminion_lgx_bmo_367",
+        "eva2_vminion_lgx_bmo_368",
+        "eva2_vminion_lgx_bmo_370",
+        "eva2_vminion_lgx_bmo_371",
+        "eva2_vminion_lgx_bmo_372",
+        "eva2_vminion_lgx_bmo_373",
+        "eva2_vminion_lgx_bmo_374",
+        "eva2_vminion_lgx_bmo_375",
+        "eva2_vminion_lgx_bmo_376",
+        "eva2_vminion_lgx_bmo_377",
+        "eva2_vminion_lgx_bmo_378",
+        "eva2_vminion_lgx_bmo_379",
+        "eva2_vminion_lgx_bmo_380",
+        "eva2_vminion_lgx_bmo_381",
+        "eva2_vminion_lgx_bmo_382",
+        "eva2_vminion_lgx_bmo_385",
+        "eva2_vminion_lgx_bmo_386",
+        "eva2_vminion_lgx_bmo_387",
+        "eva2_vminion_lgx_bmo_388",
+        "eva2_vminion_lgx_bmo_389",
+        "eva2_vminion_lgx_bmo_390",
+        "eva2_vminion_lgx_bmo_391",
+        "eva2_vminion_lgx_bmo_392",
+        "eva2_vminion_lgx_bmo_393",
+        "eva2_vminion_lgx_bmo_394",
+        "eva2_vminion_lgx_bmo_395",
+        "eva2_vminion_lgx_bmo_396",
+        "eva2_vminion_lgx_bmo_397",
+        "eva2_vminion_lgx_bmo_398",
+        "eva2_vminion_lgx_bmo_403",
+        "eva2_vminion_lgx_bmo_404"
+      ]
+    },
+    {
+      "model_sha256": "52bc40e478d7457e9ea03490625856e8d3406e39bead8ec8fddc1e1ce3ed6e6f",
+      "metadata_sha256": "bd31f90e7c904eacf30269cf871b72eae68fe3b708462f49db201ebae0a6e29f",
+      "native_source_sha256": "28300083086439ab2c64de2c72e032a740284e30902bb5c1c7ea8bd6a0a48f73",
+      "source_revision": "onshape:50b92c5c5279844e2ddad769:m:be06f4fa639340a45ffa88b7:e:9472e6dc4bde87bd27cfade0",
+      "keys": [
+        "eva2_author_v6_006",
+        "eva2_author_v6_008",
+        "eva2_author_v6_012",
+        "eva2_author_v6_016",
+        "eva2_author_v6_018"
+      ]
+    },
+    {
+      "model_sha256": "37ee886fd58131de182b3e45e8cf52ecebbd9866c73ef308e0b6c981760ceeb5",
+      "metadata_sha256": "ef7238863e714ea198de197096291ff69eb44a8b768e2fff206afbdb2a29781a",
+      "native_source_sha256": "46650c0be0527b0f799a6ebd5cde210254caafdc4c436f558857fa30c17e9b94",
+      "source_revision": "6811558082d6a1797dac160ca027692cd7904a4b",
+      "keys": [
+        "eva2_vminion_lgx_bmo_326"
+      ]
+    },
+    {
+      "model_sha256": "9e7a40cae0d5244d13444c02f033214db65d5c80134021c5b4031814f25e7c5e",
+      "metadata_sha256": "e86d2da9c4ee072abf05286df7b54e14128eb61c6fd89d8277a0ddde11bdd8a0",
+      "native_source_sha256": "46650c0be0527b0f799a6ebd5cde210254caafdc4c436f558857fa30c17e9b94",
+      "source_revision": "6811558082d6a1797dac160ca027692cd7904a4b",
+      "keys": [
+        "eva2_lgx_v6_prepared_ptfe"
+      ]
+    },
+    {
+      "model_sha256": "acd9ebddb6207ce6fa7c42c755f8e647afda1f0c054df2fd80cd35517d06985c",
+      "metadata_sha256": "db39c6f49de2f8ab270e863ab26e017c93047cce0663fb078a65619674be39e2",
+      "native_source_sha256": "28300083086439ab2c64de2c72e032a740284e30902bb5c1c7ea8bd6a0a48f73",
+      "source_revision": "onshape:50b92c5c5279844e2ddad769:m:be06f4fa639340a45ffa88b7:e:9472e6dc4bde87bd27cfade0",
+      "keys": [
+        "eva2_author_v6_facebolt_010",
+        "eva2_author_v6_facebolt_020"
+      ]
+    }
+  ],
+  "parts": 85,
+  "decoded_model_sha256": "549f4bb3e5f6d35089a87178a56ae6fec8058127b549f5bd7d248937ae0c7fe1",
+  "geometry_operation": "Copy explicitly selected source geometry and native occurrence transforms unchanged",
+  "geometry_scaled": false,
+  "mount_inferred": false,
+  "physical_fit_certified": false,
+  "public_payload_preparation": {
+    "operation": "Remove local file locator fields from native-preparation descriptors and corresponding GLB extras only",
+    "metadata_local_locator_fields_removed": 4,
+    "glb_extras_local_locator_fields_removed": 4,
+    "before_model": {
+      "path": "eva2_vminion_lgx_v6_129/model.glb.gz",
+      "bytes": 6931522,
+      "sha256": "ea587e3324d1d009ff9f0e28434984080f9c653430b051676e60c25a8978da5a",
+      "encoding": "gzip",
+      "decoded_bytes": 23712684,
+      "decoded_sha256": "6470727b21cad7bc75b3cad7bdef141e8da63ee769691030456161337799bd6c"
+    },
+    "before_metadata": {
+      "path": "eva2_vminion_lgx_v6_129/parts.json",
+      "bytes": 384591,
+      "sha256": "d34320fb139ccfcad20911eb5b5386104957bbc988de190407f7ea36a164db55"
+    },
+    "after_model": {
+      "path": "eva2_vminion_lgx_v6_129/model.glb.gz",
+      "bytes": 6931177,
+      "sha256": "7f11b3ebc4283d0f3235818f9fe46628a362d6a94fe2814824822d9d8d17c544",
+      "encoding": "gzip",
+      "decoded_bytes": 23712244,
+      "decoded_sha256": "f9b640955d86d3c0192e51bfb6cb80336c18e3e28160a1444eaf1797890b8055"
+    },
+    "after_metadata": {
+      "path": "eva2_vminion_lgx_v6_129/parts.json",
+      "bytes": 372173,
+      "sha256": "dcf89bbe445c134a3a5f316a45beee52d67f2a4f43e40eb0bd2e9e29a6e2f0aa"
+    },
+    "binary_chunk_tail_sha256": "bd0c59319591db5c2906998fb14139bd8b9800fca3b3d61983660c475c04a3b2",
+    "all_non_json_chunks_byte_identical": true,
+    "geometry_accessors_materials_transforms_unchanged": true,
+    "source_urls_native_labels_and_hashes_unchanged": true
+  },
+  "source_companion_membership": {
+    "eva2_vminion_lgx_bmo_330": [
+      "endstop_mount"
+    ],
+    "eva2_vminion_lgx_bmo_323": [
+      "endstop"
+    ]
+  },
+  "source_companion_role_review": {
+    "printed_endstop_carrier": {
+      "key": "eva2_vminion_lgx_bmo_330",
+      "printed": true,
+      "appearance_role": "base",
+      "source_path": [
+        "Rat Rig - V-Minion 1.0 v7",
+        "Full Assembly v6:1",
+        "EVA Assembly v5:1",
+        "top_endstop_angled v2:1"
+      ],
+      "source_label_path": null,
+      "definition_label": null,
+      "source_sha256": "46650c0be0527b0f799a6ebd5cde210254caafdc4c436f558857fa30c17e9b94"
+    },
+    "purchased_switch": {
+      "key": "eva2_vminion_lgx_bmo_323",
+      "printed": false,
+      "appearance_role": "native",
+      "source_path": [
+        "Rat Rig - V-Minion 1.0 v7",
+        "Full Assembly v6:1",
+        "EVA Assembly v5:1",
+        "Endstop Module - Horizontal Limit Switch v1:1"
+      ]
+    },
+    "original_fastener_keys_unchanged": [
+      "eva2_vminion_lgx_bmo_351",
+      "eva2_vminion_lgx_bmo_370",
+      "eva2_vminion_lgx_bmo_371",
+      "eva2_vminion_lgx_bmo_372",
+      "eva2_vminion_lgx_bmo_373"
+    ],
+    "all_non_json_chunks_byte_identical": true,
+    "binary_chunk_tail_sha256": "bd0c59319591db5c2906998fb14139bd8b9800fca3b3d61983660c475c04a3b2",
+    "geometry_materials_transforms_and_printed_palette_role_unchanged": true
+  },
+  "source_carriage_occurrence_proof": {
+    "source_path": [
+      "Rat Rig - V-Minion 1.0 v7",
+      "Full Assembly v6:1",
+      "EVA Assembly v5:1",
+      "_MGN12C Carriage v1:1"
+    ],
+    "source_brep_sha256": "580189672f447b8bc601a1b3d912c0dde89f98d72b90b8f5a0300f38ed85f8d6",
+    "method": "Exact hash of pinned public native occurrence BRep; unchanged geometry."
+  },
+  "installation_preview_bound_proof": {
+    "axes": {
+      "y": [
+        1.5,
+        180
+      ]
+    },
+    "native_source_keys": [
+      "231",
+      "289"
+    ],
+    "source_step_sha256": "46650c0be0527b0f799a6ebd5cde210254caafdc4c436f558857fa30c17e9b94",
+    "proof": {
+      "path": "SOURCE_CONTACT_FEATURE_CLASSIFICATION.json",
+      "bytes": 243858,
+      "sha256": "e0b787cb991dba0ded16697dbddcddd799184a0df3b3c7f49822c285ef362889"
+    },
+    "scope": "Measured original host body interference, not a new source translation or guessed physical fit."
+  }
+}

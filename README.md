@@ -25,3 +25,7 @@ The Trinity native alpha reference also has a lossless render delivery. Checked 
 EVA 2 is installed in its source V-Minion 1.0 assembly, and EVA 3 in the source V-Core 3.1 300 assembly. [Open V-Core 3.1 with EVA 3](https://psych0h3ad.github.io/3d-print-rig/viewer/community.html?machine=ratrig_vcore31_300&configuration=eva125__3__vcore_lgx_rapido). [EVA 2 mounting review](site/eva-installed-v1/reviews/eva2_mount.json) and [EVA 3 mounting review](site/eva-installed-v1/reviews/eva3_mount.json) record the original carriage interfaces; they do not certify universal printer compatibility or continuous physical clearance.
 
 EVA 2 and EVA 3 front fan grilles use source-derived rendering surfaces. Native aperture and outward-normal witnesses cover the standalone heads and both source printers before publication. Original CAD solids, hardware, materials and placements remain unchanged; see [surface provenance](site/eva-front-surfaces-v1/provenance.json) and [source-domain proof](site/eva-front-surfaces-v1/native-domain-proof.json).
+
+## Additional complete head options
+
+EVA 2 and EVA 3 companion assemblies and a complete Dragon Burner v8 are served with pinned native-review and source provenance files. Source-specific installation and review limits are recorded in the main [3D Print Rig viewer](https://psych0h3ad.github.io/3d-print-rig/viewer/). Original sources and separate licenses appear in `site/NOTICE.txt` and each export's source records.
