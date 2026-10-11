@@ -1,1 +1,957 @@
-{"schema":"large-voron-assets-1","files":{"voron_v24_1000_custom/model.glb":{"path":"voron1000-v1/voron_v24_1000_custom/model.glb.gz","bytes":50846351,"sha256":"9daba1200efc194ec5c9634253804569e622f35b02811009ab05e00c5d626045","encoding":"gzip","decoded_bytes":140486328,"decoded_sha256":"aacca629d947491958eab426727f9b5653c3aa00bd8fa2b5ab53c5b4c9c1a6cd"},"voron_v24_1000_custom/assembly_manifest.json":{"path":"voron1000-v1/voron_v24_1000_custom/assembly_manifest.json","bytes":1926144,"sha256":"82c421891fed42099df90386d03b05e3afae6aa8c4af3d49354050d82375e567"},"voron_v24_1000_custom/machine_profile.json":{"path":"voron1000-v1/voron_v24_1000_custom/machine_profile.json","bytes":4088,"sha256":"76040fee984f76b2004e8d1349dc58fbea3325e585db704288137bcc1bcd3dc3"},"voron_trident_1000_custom/model.glb":{"path":"voron1000-v1/voron_trident_1000_custom/model.glb.gz","bytes":60209946,"sha256":"7b2c9edae75d1ab594c59f98f4831806b63a4d5747d0d53be6508a4c1982a063","encoding":"gzip","decoded_bytes":182647008,"decoded_sha256":"1c1f4d3b282bec2666cc8f14e5d70b248326d4714edf1cad088f1492409355b6"},"voron_trident_1000_custom/assembly_manifest.json":{"path":"voron1000-v1/voron_trident_1000_custom/assembly_manifest.json","bytes":1897393,"sha256":"535ad28652ad221d4abfcc54a980a67507cf516313b3ddd390db9794c907417b"},"voron_trident_1000_custom/machine_profile.json":{"path":"voron1000-v1/voron_trident_1000_custom/machine_profile.json","bytes":8875,"sha256":"47c96b8df0388b30251415ac538065d1d3ee4e85dca3126562378c26cde35aa2"},"licenses/voron_v24/LICENSE":{"path":"licenses/voron_v24/LICENSE","bytes":35149,"sha256":"3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"},"licenses/voron_trident/LICENSE":{"path":"licenses/voron_trident/LICENSE","bytes":35149,"sha256":"3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"},"licenses/stealthburner/LICENSE":{"path":"licenses/stealthburner/LICENSE","bytes":35149,"sha256":"3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"},"SOURCES.json":{"bytes":8710,"sha256":"fbce55e72a7c506d2c1e92bf1ce10c64bf88769c183a92114ff1e812b4732d19","path":"SOURCES.json"},"elcrni_trident_internal_spool_holder_v32_installed_300/model.glb":{"sha256":"b35bb552b295b6497643e949fd1aed5c7f19078ea9ef75afe34d90e4a4b68f4b","bytes":8550961,"encoding":"gzip","decoded_bytes":27358140,"decoded_sha256":"e2af79ba292b08c16931e6f3bb9ec4893ec5bb062d0b1fd8ea5255b35ef6adff","path":"internal-spool-v1/elcrni_trident_internal_spool_holder_v32_installed_300/model.glb.gz"},"elcrni_trident_internal_spool_holder_v32_installed_300/parts.json":{"sha256":"9b099cd8fc3446a966eb73eed7df8a74017a4c2dfbcdbe9d0e402a05866100ed","bytes":376942,"path":"internal-spool-v1/elcrni_trident_internal_spool_holder_v32_installed_300/parts.json"},"elcrni_trident_internal_spool_holder_v32_installed_350/model.glb":{"sha256":"fa08b8af321af144bc63609bd712e4ab8afa02e76fb57e783dc5f1ef69660cb6","bytes":8551864,"encoding":"gzip","decoded_bytes":27358112,"decoded_sha256":"4bd2134add3e430f77b3ec4483e09456d052e4dee5abec65795a34a8179efa5e","path":"internal-spool-v1/elcrni_trident_internal_spool_holder_v32_installed_350/model.glb.gz"},"elcrni_trident_internal_spool_holder_v32_installed_350/parts.json":{"sha256":"27e4e35d317df3ccc2e675590d7ff6073ee29aff8de062aa147ac91ca48852fd","bytes":376952,"path":"internal-spool-v1/elcrni_trident_internal_spool_holder_v32_installed_350/parts.json"},"licenses/elcrni/LICENSE":{"bytes":35149,"sha256":"3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986","path":"licenses/elcrni/LICENSE"},"requested-mods-v1/v0mod_tall_skirts_841565/parts.json":{"path":"requested-mods-v1/v0mod_tall_skirts_841565/parts.json","bytes":28095,"sha256":"7075ca06f682621c61102b83330bbeb1367d0f4aabb31515141409f8d61d012e"},"requested-mods-v1/v0mod_tall_skirts_841565/model.glb":{"path":"requested-mods-v1/v0mod_tall_skirts_841565/model.glb.gz","bytes":5654734,"sha256":"837c09f54ceda977a8e1d17e0862d8a07fcf2f32fdbfa61c756f5a70993072b1","encoding":"gzip","decoded_bytes":25949008,"decoded_sha256":"c9330880b0a1cc0688d6776c545d8c8ad326a8800982aa239759d5899881d90a"},"requested-mods-v1/x1c_nozzle_wiper_546970/parts.json":{"path":"requested-mods-v1/x1c_nozzle_wiper_546970/parts.json","bytes":1759,"sha256":"f1bc535cf057af40eac027eb824d8cd3dae59e388f8840d58fceb3f375e4df3f"},"requested-mods-v1/x1c_nozzle_wiper_546970/model.glb":{"path":"requested-mods-v1/x1c_nozzle_wiper_546970/model.glb.gz","bytes":79647,"sha256":"801d441124b2d54a5a50b0e8e1d739809161623803745d82c4526c98df5a17d0","encoding":"gzip","decoded_bytes":406568,"decoded_sha256":"84cbad898b34b37acdd4ff03bfbcdfc53e0906dd67f3b0330a18878d83c7ce0e"},"requested-mods-v1/voron_v24_pg7_filter_1230133/parts.json":{"path":"requested-mods-v1/voron_v24_pg7_filter_1230133/parts.json","bytes":3003,"sha256":"802b51b3b2a885f675e7beaa49808fbdc9ea895c9d0e39153d9a355e10513982"},"requested-mods-v1/voron_v24_pg7_filter_1230133/model.glb":{"path":"requested-mods-v1/voron_v24_pg7_filter_1230133/model.glb.gz","bytes":13707988,"sha256":"c2382ccf06ee33dd3d795787895a4411166e4d736d7d388a9661c1cdd67b6454","encoding":"gzip","decoded_bytes":43870288,"decoded_sha256":"21eb6be4c23e83830066c4760d5770c006b3c99fbe247c606bbb3c9f5515c6fb"},"requested-mods-v1/trident_stepper_decoupler_430168/parts.json":{"path":"requested-mods-v1/trident_stepper_decoupler_430168/parts.json","bytes":8746,"sha256":"f74007efeac4031f89c5782176166e1a32b815c1b12e5f2219bc351f14522754"},"requested-mods-v1/trident_stepper_decoupler_430168/model.glb":{"path":"requested-mods-v1/trident_stepper_decoupler_430168/model.glb.gz","bytes":1438927,"sha256":"8c518744b852ae9d2876d7535414d8b312dbfdd43089d3239b73861fd72e8f80","encoding":"gzip","decoded_bytes":9321720,"decoded_sha256":"39422cf00b55595f88ff12e8ddcca7d65131c239920399b43da8507062a896ac"},"requested-mods-v1/trident_ab_stepper_fan_491404_v2/parts.json":{"path":"requested-mods-v1/trident_ab_stepper_fan_491404_v2/parts.json","bytes":3060,"sha256":"74a6fcb945d76178713e578a5bf29845bc8210479aeb716dc6864c97ef50d576"},"requested-mods-v1/trident_ab_stepper_fan_491404_v2/model.glb":{"path":"requested-mods-v1/trident_ab_stepper_fan_491404_v2/model.glb.gz","bytes":140594,"sha256":"d97fffe489d33232c7199780a285c79c8e92b46c502edaff89abac7c671bf187","encoding":"gzip","decoded_bytes":566716,"decoded_sha256":"38647b038c09dfe8e409d79c48dd9a4e86af234fe21bdc9f78efa675da396917"},"requested-mods-v1/trident_ab_stepper_fan_491404_v1/parts.json":{"path":"requested-mods-v1/trident_ab_stepper_fan_491404_v1/parts.json","bytes":3035,"sha256":"9e8dcf16e06a8827892377301e9d735ec2211bc464b5d39791d7e80c7058d469"},"requested-mods-v1/trident_ab_stepper_fan_491404_v1/model.glb":{"path":"requested-mods-v1/trident_ab_stepper_fan_491404_v1/model.glb.gz","bytes":404753,"sha256":"048ed2c30de95f2a87642677312d13307e8a0467739c7d0345a1480f3dae8b41","encoding":"gzip","decoded_bytes":1611660,"decoded_sha256":"42926f570dcb2930af5240b8749b8e90ba0ae75d9dc9ceb2decdb5aeb90bb318"},"requested-mods-v1/trident_stepper_spacer_534736/parts.json":{"path":"requested-mods-v1/trident_stepper_spacer_534736/parts.json","bytes":1317,"sha256":"d567790819f82007e65d836f626453a4973907d3bc09a3c0bd1a6a4bbad5456a"},"requested-mods-v1/trident_stepper_spacer_534736/model.glb":{"path":"requested-mods-v1/trident_stepper_spacer_534736/model.glb.gz","bytes":43320,"sha256":"a88507937ffa11ed74e73b49bc5779ce1bad2da3851979484ad8be01ec149d12","encoding":"gzip","decoded_bytes":227084,"decoded_sha256":"ab27b331a8fd5917589c56948935bc551c83e2cd976f416af783dfcd6361f313"},"requested-mods-v1/tanaes_trident_kinematic_left_STEP_62268ed/parts.json":{"path":"requested-mods-v1/tanaes_trident_kinematic_left_STEP_62268ed/parts.json","bytes":1831,"sha256":"e3916181bf576aa49be236ffb35fd5295af284a440519c30d19ba8e1ed229a2c"},"requested-mods-v1/tanaes_trident_kinematic_left_STEP_62268ed/model.glb":{"path":"requested-mods-v1/tanaes_trident_kinematic_left_STEP_62268ed/model.glb.gz","bytes":142567,"sha256":"448196e531492f7da378cda5d37ea472a46f1fa72eae67b040647e323f037f63","encoding":"gzip","decoded_bytes":453348,"decoded_sha256":"fa1f1f89fbd69198dfa670bb79a314203527deb99ec6f8777885272650d0403a"},"REQUESTED_MOD_SOURCES.json":{"path":"REQUESTED_MOD_SOURCES.json","bytes":82256,"sha256":"49b44264a01ffbb9e42bf1005d65bc48086577e20f90c15227825f1ea0c12f18"},"licenses/requested-mods-96/1230133/AUTHOR_METADATA.json":{"path":"licenses/requested-mods-96/1230133/AUTHOR_METADATA.json","bytes":2149,"sha256":"1037040921a0957e18ad6de522109a476448dd3d011a51c7fbc961b085edd771"},"licenses/requested-mods-96/1230133/LICENSE.txt":{"path":"licenses/requested-mods-96/1230133/LICENSE.txt","bytes":35149,"sha256":"3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"},"licenses/requested-mods-96/1230133/NOTICE.txt":{"path":"licenses/requested-mods-96/1230133/NOTICE.txt","bytes":1362,"sha256":"9e0c9d549e4514f2f02a061e3fd0fe22fe353da6e335532fc4a11c179601309f"},"licenses/requested-mods-96/1230133/RELATED_ORIGINAL_PARENT_METADATA.json":{"path":"licenses/requested-mods-96/1230133/RELATED_ORIGINAL_PARENT_METADATA.json","bytes":2723,"sha256":"293888a4e63845ca359d4c9376f2691bc41f40136a2747ce8c66027f8ea9cc1f"},"licenses/requested-mods-96/430168/AUTHOR_METADATA.json":{"path":"licenses/requested-mods-96/430168/AUTHOR_METADATA.json","bytes":2244,"sha256":"b506500e5ba0e7edda8f9be1ec53aaf33aff1bca396c92c9bd95d0d0a3c03437"},"licenses/requested-mods-96/430168/NOTICE.txt":{"path":"licenses/requested-mods-96/430168/NOTICE.txt","bytes":1891,"sha256":"d0459be59260b420f1450ae83768196d51c5d78e5dac1acb385ad32fced8d6cf"},"licenses/requested-mods-96/491404/AUTHOR_METADATA.json":{"path":"licenses/requested-mods-96/491404/AUTHOR_METADATA.json","bytes":833,"sha256":"e5cf960e15f5e448ca452525111e3827c209fe331ccffa9b7054c13a104e17f4"},"licenses/requested-mods-96/491404/NOTICE.txt":{"path":"licenses/requested-mods-96/491404/NOTICE.txt","bytes":1002,"sha256":"4363ff79075929fbc67363b0c66146b4bbb4aaae86ba7ef95fddc0bdbec5c243"},"licenses/requested-mods-96/534736/AUTHOR_METADATA.json":{"path":"licenses/requested-mods-96/534736/AUTHOR_METADATA.json","bytes":988,"sha256":"552aa6c95f6ee1a09d2eefe69a4f739bf0dd97e87ce50c2eb093a18929e51980"},"licenses/requested-mods-96/534736/NOTICE.txt":{"path":"licenses/requested-mods-96/534736/NOTICE.txt","bytes":878,"sha256":"051a33c1f9dbb9b614884054c2209c799ebd8da661aa68cc5b5ab721a5540f53"},"licenses/requested-mods-96/546970/AUTHOR_METADATA.json":{"path":"licenses/requested-mods-96/546970/AUTHOR_METADATA.json","bytes":6829,"sha256":"a86b7efac8ec5081f62458ad65d64edc951d26133dc3367218fce1af0e612030"},"licenses/requested-mods-96/546970/NOTICE.txt":{"path":"licenses/requested-mods-96/546970/NOTICE.txt","bytes":1268,"sha256":"6e55b511fe7cb9651a62b1169691392ea1c9025cf8047e026cc84343d2a1f6d6"},"licenses/requested-mods-96/681594/AUTHOR_METADATA.json":{"path":"licenses/requested-mods-96/681594/AUTHOR_METADATA.json","bytes":1357,"sha256":"13f263cf52ea44ee995437952397225def045203753dc482a24ee314a65f89e7"},"licenses/requested-mods-96/681594/NOTICE.txt":{"path":"licenses/requested-mods-96/681594/NOTICE.txt","bytes":865,"sha256":"871a3190154d212963c986d678558a53303958efb0aadc0cd85dd5979b0b76dc"},"licenses/requested-mods-96/841565/AUTHOR_METADATA.json":{"path":"licenses/requested-mods-96/841565/AUTHOR_METADATA.json","bytes":20814,"sha256":"495cab27d37701c16ad59c0da766d3db285249e452833bbe6433523fcf37d18c"},"licenses/requested-mods-96/841565/LICENSE.txt":{"path":"licenses/requested-mods-96/841565/LICENSE.txt","bytes":35149,"sha256":"3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"},"licenses/requested-mods-96/841565/NOTICE.txt":{"path":"licenses/requested-mods-96/841565/NOTICE.txt","bytes":6585,"sha256":"84f0a2b6242306d6a1e558fb034c2755228712aa2f363e4f553984ab1af39160"},"licenses/requested-mods-96/kinematic_trident/LICENSE.txt":{"path":"licenses/requested-mods-96/kinematic_trident/LICENSE.txt","bytes":35149,"sha256":"3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"},"licenses/requested-mods-96/kinematic_trident/NOTICE.txt":{"path":"licenses/requested-mods-96/kinematic_trident/NOTICE.txt","bytes":1228,"sha256":"b8d0a9f9185e5c052f8d9dfcfbbd2d3f4cb957bf2a959d9710840b9e314823bd"},"licenses/requested-mods-96/kinematic_v24/LICENSE.txt":{"path":"licenses/requested-mods-96/kinematic_v24/LICENSE.txt","bytes":35149,"sha256":"3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"},"licenses/requested-mods-96/kinematic_v24/NOTICE.txt":{"path":"licenses/requested-mods-96/kinematic_v24/NOTICE.txt","bytes":1214,"sha256":"ae1b3d36bc8d80316f01da33bd2ecc8edc9403d317ada8c581c20dcb6722ed4c"},"requested-mods-v1/trident_ab_stepper_fan_491404_v2_r2_350_alpha/parts.json":{"path":"requested-mods-v1/trident_ab_stepper_fan_491404_v2_r2_350_alpha/parts.json","bytes":43764,"sha256":"e94e0f8a8ace951cbd07e0979cd75b0499edf8773cdf395869d2890cb9939b79"},"requested-mods-v1/trident_ab_stepper_fan_491404_v2_r2_350_alpha/model.glb":{"path":"requested-mods-v1/trident_ab_stepper_fan_491404_v2_r2_350_alpha/model.glb.gz","bytes":3775464,"sha256":"775aed590e82cfc2cf8b4c26dbdb30c45b371387ac47b0461cb58a27f4a03eca","encoding":"gzip","decoded_bytes":13399668,"decoded_sha256":"2ddc8d8d238cefc91c1e0e20a887ce74d7d136886237db2489a111fdc464b826"},"requested-mods-v1/trident_ab_stepper_fan_491404_v2_r2_300_alpha/parts.json":{"path":"requested-mods-v1/trident_ab_stepper_fan_491404_v2_r2_300_alpha/parts.json","bytes":44398,"sha256":"095d236bbbd1e75bed769ffd042ad0483e6831f22451238d9f4006f430b9b76e"},"requested-mods-v1/trident_ab_stepper_fan_491404_v2_r2_300_alpha/model.glb":{"path":"requested-mods-v1/trident_ab_stepper_fan_491404_v2_r2_300_alpha/model.glb.gz","bytes":3775450,"sha256":"b0ae72f282ddad2137bbde18c5bc0535e9293762efddca16f3521765192dac74","encoding":"gzip","decoded_bytes":13399660,"decoded_sha256":"c05fc1f19f565139bd55044b96245809df8c518107dcd3ce686625c187c6f437"},"requested-mods-v1/trident_ab_stepper_fan_491404_v2_r2_250_alpha/parts.json":{"path":"requested-mods-v1/trident_ab_stepper_fan_491404_v2_r2_250_alpha/parts.json","bytes":44763,"sha256":"e7a279dd4bd5a073af78bd2ff07c167f61b80b111edf2b5644889545e67936b0"},"requested-mods-v1/trident_ab_stepper_fan_491404_v2_r2_250_alpha/model.glb":{"path":"requested-mods-v1/trident_ab_stepper_fan_491404_v2_r2_250_alpha/model.glb.gz","bytes":3775466,"sha256":"e078c28a95bf9596f516a73859bba548b058e485c8e7facfd2b69bd24d0162be","encoding":"gzip","decoded_bytes":13399656,"decoded_sha256":"5c240e78fd5b54a3a07c8849597cec251307310bc1159b85da08f85e35cb5351"},"requested-mods-v1/requested_mod_681594_head_source_preview_v5/parts.json":{"path":"requested-mods-v1/requested_mod_681594_head_source_preview_v5/parts.json","bytes":164470,"sha256":"7b7f59c96cff691a1d86629b7e2faea8045748b86534209e4134de23a98ce815"},"requested-mods-v1/requested_mod_681594_head_source_preview_v5/model.glb":{"path":"requested-mods-v1/requested_mod_681594_head_source_preview_v5/model.glb.gz","bytes":35280182,"sha256":"580405adc65bf4ac24a3cb7f25059d59bb2ae6d9c775236f4457638c6494167a"},"trinity-lossless-v1/assembly.gltf.json":{"path":"trinity-lossless-v1/assembly.gltf.json","bytes":397919,"sha256":"113042331ab75ccecc6d0f4604f238da59b6826df4f23ced10403638758e5dc1"},"trinity-lossless-v1/chunk-000.glb.gz":{"path":"trinity-lossless-v1/chunk-000.glb.gz","bytes":9657602,"sha256":"fd9ff05a5c902bce610d151945cefccd88f4a8bc4856f9d0222aa85129653b81","encoding":"gzip","decoded_bytes":33308504,"decoded_sha256":"971dc31876f34a04b885d1719d8dcd44bd8bd13fbd3dafe6d8bd2ac08ee71b40"},"trinity-lossless-v1/chunk-001.glb.gz":{"path":"trinity-lossless-v1/chunk-001.glb.gz","bytes":9888377,"sha256":"dcc32c8af8f2241ecf783f3361f1f0311bfc1f89c3f96cfa3fdb615857437147","encoding":"gzip","decoded_bytes":33305776,"decoded_sha256":"b7651b4b599a2ce8a9a44c06fe6e1b8032f1f05ee3ae133cca353098c70cc33d"},"trinity-lossless-v1/chunk-002.glb.gz":{"path":"trinity-lossless-v1/chunk-002.glb.gz","bytes":9673089,"sha256":"8fd08862e85afb78d79cb397706f4d493c1a6440376e9535eb4b47aa6c781696","encoding":"gzip","decoded_bytes":33310384,"decoded_sha256":"05b7955bd76a5a1ac0c7c8ba73091d746a4e2be8a52eb3431e065d89d2f78673"},"trinity-lossless-v1/chunk-003.glb.gz":{"path":"trinity-lossless-v1/chunk-003.glb.gz","bytes":10036754,"sha256":"e1fc737778db2b7637cbc98319acbf2d5bd1178003f3b4b82df7d0c955986cd8","encoding":"gzip","decoded_bytes":33294076,"decoded_sha256":"cb11e26646f218b254d23fb9ac6fce0f264ee863459cc474de8c444b5c5f9b04"},"trinity-lossless-v1/chunk-004.glb.gz":{"path":"trinity-lossless-v1/chunk-004.glb.gz","bytes":11042283,"sha256":"d12932819cbd53fe815e0a76fbb164a8367bce56b44f1d633e0932cb518fca9b","encoding":"gzip","decoded_bytes":33293044,"decoded_sha256":"68e9027e31b358e94d83468203613f9168a7314c176a03e9cfd946508d53e8c8"},"trinity-lossless-v1/chunk-005.glb.gz":{"path":"trinity-lossless-v1/chunk-005.glb.gz","bytes":9658497,"sha256":"c366b40c2ee4e85cd574546a80d3c6e909fd08c61e8085f00c38de4176e483f7","encoding":"gzip","decoded_bytes":33307740,"decoded_sha256":"592cd341669a51a01c396d5dd587655c4ae8f2257605914b20b86c587c119366"},"trinity-lossless-v1/chunk-006.glb.gz":{"path":"trinity-lossless-v1/chunk-006.glb.gz","bytes":9462123,"sha256":"16e226277ed15426aee7a71eb28a5fa7c033faac83ac0cd1bc6d3f85f08ec165","encoding":"gzip","decoded_bytes":33293024,"decoded_sha256":"36769f025148ffcd2341447e25cfe28af46097414b3da765343ea822eae6ad3c"},"trinity-lossless-v1/chunk-007.glb.gz":{"path":"trinity-lossless-v1/chunk-007.glb.gz","bytes":8643901,"sha256":"6be23422de982bc584374e461da6366799a6826ff4f9d433bdf007d3af25179f","encoding":"gzip","decoded_bytes":33296588,"decoded_sha256":"2dce0bd41896bd12b38b309c7ea1179e0729e88d2d2e91de2d12672ce1d2aad0"},"trinity-lossless-v1/chunk-008.glb.gz":{"path":"trinity-lossless-v1/chunk-008.glb.gz","bytes":9560496,"sha256":"a3058e16c3d45fe3e0959e2a16665fa1ab830f0ca24e71b0da5228d8f82f50cf","encoding":"gzip","decoded_bytes":33292968,"decoded_sha256":"c626262d09cf28679781f7eaf85bda370daaa6726c0046a031a7d9876d4a1826"},"trinity-lossless-v1/chunk-009.glb.gz":{"path":"trinity-lossless-v1/chunk-009.glb.gz","bytes":9704399,"sha256":"e4760db842e05dd013ba93acd330dbc061466e1688594fd97f4ba116d889ddb4","encoding":"gzip","decoded_bytes":33314364,"decoded_sha256":"398e7f74d6dfb4b832eca2c7532dfdc3c0e8e5e7bec9f202ddda0e7e9f825b60"},"trinity-lossless-v1/chunk-010.glb.gz":{"path":"trinity-lossless-v1/chunk-010.glb.gz","bytes":6929903,"sha256":"0d0b5eaa4287835dc1daa4dd923b54e41ebfb8e594c4d3ac3a44ca013aa452c8","encoding":"gzip","decoded_bytes":20921652,"decoded_sha256":"5a09dee9c4cdf56c3c1c33806b79eae20a762691ee77693fae21f9fb59d835b7"},"trinity-lossless-v1/licenses/Annex-Engineering/LICENSE.md":{"path":"trinity-lossless-v1/licenses/Annex-Engineering/LICENSE.md","bytes":10984,"sha256":"3a1f5e6d1dce247a8a0e748c13afdea997718298929f08975359eef7f699e7e7"},"trinity-lossless-v1/licenses/corresponding-source/README.txt":{"path":"trinity-lossless-v1/licenses/corresponding-source/README.txt","bytes":1154,"sha256":"467a5c9e1a00cb9c309e6fcbec28439fba4729b9d7ac0df2817029a28be1cef0"},"trinity-lossless-v1/licenses/corresponding-source/repack.py":{"path":"trinity-lossless-v1/licenses/corresponding-source/repack.py","bytes":10709,"sha256":"a9956261bbd6b0dd51a5e1d5870c93d406702e9f7ec51f6b5fb336812effe15a"},"trinity-lossless-v1/licenses/corresponding-source/requirements.txt":{"path":"trinity-lossless-v1/licenses/corresponding-source/requirements.txt","bytes":14,"sha256":"26d58e42cca83c41d14253ddd5bc33ec22da6c2a3b40fcc93914eff5e0c5ed34"},"trinity-lossless-v1/licenses/DW-Tas/LICENSE":{"path":"trinity-lossless-v1/licenses/DW-Tas/LICENSE","bytes":20848,"sha256":"9e502ba75fd0fd30cea5497b438a4bc12f07f02bc932a7a6041fd6a18b8f46a0"},"trinity-lossless-v1/licenses/Martin-Ivanc/LICENSE":{"path":"trinity-lossless-v1/licenses/Martin-Ivanc/LICENSE","bytes":35149,"sha256":"3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"},"trinity-lossless-v1/licenses/NOTICE.txt":{"path":"trinity-lossless-v1/licenses/NOTICE.txt","bytes":1521,"sha256":"5b826da7251208c3b4cefdfad277bfbeecef91e276511a027ad6c4f35823fd05"},"trinity-lossless-v1/licenses/provenance.json":{"path":"trinity-lossless-v1/licenses/provenance.json","bytes":4150,"sha256":"aa278001f06626bfcb18325d466c93ee163398c3e9536a7f6020dfea1d50796f"},"trinity-lossless-v1/licenses/WV-design/LICENSE":{"path":"trinity-lossless-v1/licenses/WV-design/LICENSE","bytes":35149,"sha256":"3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"},"trinity-lossless-v1/manifest.json":{"path":"trinity-lossless-v1/manifest.json","bytes":162346,"sha256":"dbf5c775152ee435ed074529077fb5a570c27a458184ff454b903b56d7419cdb"},"trinity-lossless-v1/parts.json":{"path":"trinity-lossless-v1/parts.json","bytes":64472,"sha256":"17f8f08a671a7fdcf2f5ab5bff1ab8b77c05c8a010d37a381fa1f4ba2bd72b80"},"trinity-lossless-v1/proof.json":{"path":"trinity-lossless-v1/proof.json","bytes":145568,"sha256":"7978bc4173f2713d7923410a5d3919d95b599c5b234f513007d6e7393badad84"},"trinity-lossless-v1/reassembly-prefix.bin":{"path":"trinity-lossless-v1/reassembly-prefix.bin","bytes":213316,"sha256":"38a185ce82aa02bfd445eccfd54423564d66c062c0461c47c9b5872ca016316e"},"trident-front-v100/voron_trident_500_custom/model.glb":{"path":"trident-front-v100/voron_trident_500_custom/model.glb.gz","bytes":39748968,"sha256":"f2c4b76eb0defa6704afa175c51940cce2fa343e6e91868f9038627c7bc0b097","encoding":"gzip","decoded_bytes":109074236,"decoded_sha256":"e579e2332f20d7f8a8dd4f5c1a412a19215a782edc32cafa05f7745d520eb4f6"},"trident-front-v100/voron_trident_500_custom/assembly_manifest.json":{"path":"trident-front-v100/voron_trident_500_custom/assembly_manifest.json","bytes":1553890,"sha256":"c54bd327f149443c48b4dcaac46795ff16b1d8be608efa2a462aa67e834b1c56"},"trident-front-v100/voron_trident_500_custom/machine_profile.json":{"path":"trident-front-v100/voron_trident_500_custom/machine_profile.json","bytes":7379,"sha256":"8dcb398d4d65665b87cc68973df84c7b63733c501339ece5a6144a2bf9e8d74b"},"trident-front-v100/voron_trident_350_half_z/model.glb":{"path":"trident-front-v100/voron_trident_350_half_z/model.glb.gz","bytes":31893813,"sha256":"bb59c005a4803a9e0a97e67df816813f6dc12f1eb574273954c1d715cf079c3b","encoding":"gzip","decoded_bytes":90740144,"decoded_sha256":"419520ea8478da0b0f76775b848bc86a7e4733b7558459c9e22ee64caea5f346"},"trident-front-v100/voron_trident_350_half_z/assembly_manifest.json":{"path":"trident-front-v100/voron_trident_350_half_z/assembly_manifest.json","bytes":1511494,"sha256":"5b6afa1e8a100206c0337c73864243097d6cb9aa2d483dd7b52b79647a76d87f"},"trident-front-v100/voron_trident_350_half_z/machine_profile.json":{"path":"trident-front-v100/voron_trident_350_half_z/machine_profile.json","bytes":6014,"sha256":"f8f3316c0ea84089826f4ed587ebbc68e637d11c33a5b8caa07bfa4edf8bae7d"},"trident-front-v100/voron_trident_1000_custom/model.glb":{"path":"trident-front-v100/voron_trident_1000_custom/model.glb.gz","bytes":57538436,"sha256":"11c03aa01e2310e6dab7caf979cf32c47dac4841e8db14bf199e9cef22cef212","encoding":"gzip","decoded_bytes":182647328,"decoded_sha256":"7179188c6de0756907746f33a120c30a7dcc2707a79dbd8c66ef23f5a5417a14"},"trident-front-v100/voron_trident_1000_custom/assembly_manifest.json":{"path":"trident-front-v100/voron_trident_1000_custom/assembly_manifest.json","bytes":2715106,"sha256":"03f6d6421f1f2bf338ea1d3ce288242cb096bc8c168e1e48ecd7dd6ae66368dd"},"trident-front-v100/voron_trident_1000_custom/machine_profile.json":{"path":"trident-front-v100/voron_trident_1000_custom/machine_profile.json","bytes":8875,"sha256":"47c96b8df0388b30251415ac538065d1d3ee4e85dca3126562378c26cde35aa2"},"trident-deck-v103/voron_trident_500_custom/model.glb":{"bytes":39752779,"sha256":"f9b66a158697e7b8be7cf6434fa0f583b1e6f6162758d0d36e97ef9e566530b3","decoded_bytes":109083980,"decoded_sha256":"4aa9673623c73d1090227efe2d522e68ee99b210c4704ae7bd15f5f7d09866b2","path":"trident-deck-v103/voron_trident_500_custom/model.glb.gz","encoding":"gzip"},"trident-deck-v103/voron_trident_500_custom/assembly_manifest.json":{"bytes":1052517,"sha256":"f5e370eb6a825d3e81d8384610e0898584df507f60b9cbeec0d97e6346985792","path":"trident-deck-v103/voron_trident_500_custom/assembly_manifest.json"},"trident-deck-v103/voron_trident_500_custom/machine_profile.json":{"bytes":7379,"sha256":"8dcb398d4d65665b87cc68973df84c7b63733c501339ece5a6144a2bf9e8d74b","path":"trident-deck-v103/voron_trident_500_custom/machine_profile.json"},"trident-deck-v103/voron_trident_1000_custom/model.glb":{"bytes":57542644,"sha256":"8f10f1c594fac72625118aa76fe8f9c761324d8915b7d9f3d09e8b5087451775","decoded_bytes":182657056,"decoded_sha256":"094d657422da5f74965a164e02c9e95824d5e0670fdaed9ffedd0590d4369ede","path":"trident-deck-v103/voron_trident_1000_custom/model.glb.gz","encoding":"gzip"},"trident-deck-v103/voron_trident_1000_custom/assembly_manifest.json":{"bytes":1901715,"sha256":"768233d0c3fbf28c9ff4f49718ee60af83c5b2294ee9bb8bb35a4d09a05444e4","path":"trident-deck-v103/voron_trident_1000_custom/assembly_manifest.json"},"trident-deck-v103/voron_trident_1000_custom/machine_profile.json":{"bytes":8875,"sha256":"47c96b8df0388b30251415ac538065d1d3ee4e85dca3126562378c26cde35aa2","path":"trident-deck-v103/voron_trident_1000_custom/machine_profile.json"},"trident-deck-v103/voron_trident_350_half_z/model.glb":{"bytes":31897441,"sha256":"1024170505a60e07a9cebcc13964efaac1d6b994b35dea659d46f9a2d8036f9e","decoded_bytes":90749888,"decoded_sha256":"c7964f897e5d1be6450c3adeb699d20ad375583a4989afb705ed9ee481a346a3","path":"trident-deck-v103/voron_trident_350_half_z/model.glb.gz","encoding":"gzip"},"trident-deck-v103/voron_trident_350_half_z/assembly_manifest.json":{"bytes":1023502,"sha256":"8704526653a8308dc542b34f27fbb6eae94407be1671c296ad9d2225e669c5ff","path":"trident-deck-v103/voron_trident_350_half_z/assembly_manifest.json"},"trident-deck-v103/voron_trident_350_half_z/machine_profile.json":{"bytes":6014,"sha256":"f8f3316c0ea84089826f4ed587ebbc68e637d11c33a5b8caa07bfa4edf8bae7d","path":"trident-deck-v103/voron_trident_350_half_z/machine_profile.json"},"doomcube-v103/doomcube2_350_reference/assembly_manifest.json":{"path":"doomcube-v103/doomcube2_350_reference/assembly_manifest.json","bytes":3177904,"sha256":"08072ed2c19bc2717f8bb79262ddac8fbcdad863da889379e608d3d19efa24bc"},"doomcube-v103/doomcube2_350_reference/machine_profile.json":{"path":"doomcube-v103/doomcube2_350_reference/machine_profile.json","bytes":5954,"sha256":"b04011b2b8e30e809d7525a648d5ba2bc028f49fef6f81fdf34fc9c390402118"},"doomcube-v103/doomcube2_350_reference/model.glb":{"path":"doomcube-v103/doomcube2_350_reference/model.glb.gz","bytes":24022510,"sha256":"67d368be1f7bb9a055bf7ad466ad0fd9391d7f5be6392fb7ab55a5289c0a0f76","encoding":"gzip","decoded_bytes":69636092,"decoded_sha256":"7a8d958a198ffabd374314c95a9d49e8b0f0f64fc51a488cdb3a1b973c8e95ad"},"doomcube-v103/LICENSE.txt":{"path":"doomcube-v103/LICENSE.txt","bytes":35149,"sha256":"3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"},"cocobustorzero-v1/v0mod_cocobustorzero_accessories/LICENSE":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_accessories/LICENSE","bytes":35149,"sha256":"3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"},"cocobustorzero-v1/v0mod_cocobustorzero_accessories/model.glb.gz":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_accessories/model.glb.gz","bytes":369355,"sha256":"0d7e65a9078dda1a6b2650be3c80e035f70a35118a9c33150e52248400bb4fbe","encoding":"gzip","decoded_bytes":1396656,"decoded_sha256":"b3577765491cf6e03dfe31bdf1fea164fdfeebea0aa6bb50b260226efa320883"},"cocobustorzero-v1/v0mod_cocobustorzero_accessories/NOTICE.txt":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_accessories/NOTICE.txt","bytes":1089,"sha256":"59b45af4f261837a8fe4f6312a112d6259b085f7bea92896f73f1e4c69c6577f"},"cocobustorzero-v1/v0mod_cocobustorzero_accessories/parts.json":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_accessories/parts.json","bytes":5812,"sha256":"542081947cdb8a0f8b299a6b687587ed93fb132b66f62a195ba4de128ce7f45c"},"cocobustorzero-v1/v0mod_cocobustorzero_accessories/SOURCE_FILES.json":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_accessories/SOURCE_FILES.json","bytes":2878,"sha256":"b7bf0dea660395ce5eb6b1da634e075c2d9c052c28473e5b9ca56b860bcc6553"},"cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/LICENSE":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/LICENSE","bytes":35149,"sha256":"3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"},"cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/model.glb.gz":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/model.glb.gz","bytes":1973484,"sha256":"c2a87b7810978502c1d87188bae04e1395511d4de3fbece1c2f8bbc6e352423c","encoding":"gzip","decoded_bytes":5754972,"decoded_sha256":"ce9482ee21944c40eac9a8a9a74c31ed69ca087778f3b244238c024a17668d5e"},"cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/NOTICE.txt":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/NOTICE.txt","bytes":1089,"sha256":"59b45af4f261837a8fe4f6312a112d6259b085f7bea92896f73f1e4c69c6577f"},"cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/parts.json":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/parts.json","bytes":1526,"sha256":"126ee01f35d252415f3c99a5c122fd623b1e622a844fd5e32b581671574fca5c"},"cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/SOURCE_FILES.json":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/SOURCE_FILES.json","bytes":474,"sha256":"ecc80e0cfb09664e0ff73946bd95d60f15c42551d2729f01171bd2c35bbb853f"},"cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/LICENSE":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/LICENSE","bytes":35149,"sha256":"3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"},"cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/model.glb.gz":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/model.glb.gz","bytes":1189094,"sha256":"b1bce37f51b40f019fcbff0f766cb85319cf698dd474ecd8d875dc94906d6bd7","encoding":"gzip","decoded_bytes":4360656,"decoded_sha256":"7605f5fba7945a479f29faf6ae95da1a159ebfc379364c3b7ca7c88f52b2a06e"},"cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/NOTICE.txt":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/NOTICE.txt","bytes":1089,"sha256":"59b45af4f261837a8fe4f6312a112d6259b085f7bea92896f73f1e4c69c6577f"},"cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/parts.json":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/parts.json","bytes":4917,"sha256":"0865b0b10c8e66aff1f70d44c0090993cccece7b8e0240532030deaee28a73f5"},"cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/SOURCE_FILES.json":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/SOURCE_FILES.json","bytes":2536,"sha256":"a6e9cf2eff72f241fa4cd8beadc1191cb8595eae8968c548c1710ddc90675ba1"},"cocobustorzero-v1/v0mod_cocobustorzero_belted_z/LICENSE":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_belted_z/LICENSE","bytes":35149,"sha256":"3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"},"cocobustorzero-v1/v0mod_cocobustorzero_belted_z/model.glb.gz":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_belted_z/model.glb.gz","bytes":1039633,"sha256":"7954031bf4b33785a9f53015777851ce305416e09503fcd14bb130a210e68372","encoding":"gzip","decoded_bytes":3790552,"decoded_sha256":"55876b50b3ef431716c92f1482c372b50ebd9287aac28712f576d5850c79dbe8"},"cocobustorzero-v1/v0mod_cocobustorzero_belted_z/NOTICE.txt":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_belted_z/NOTICE.txt","bytes":1089,"sha256":"59b45af4f261837a8fe4f6312a112d6259b085f7bea92896f73f1e4c69c6577f"},"cocobustorzero-v1/v0mod_cocobustorzero_belted_z/parts.json":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_belted_z/parts.json","bytes":8486,"sha256":"a27cd54248535a2b1de244b400b864aa7691e31aaf56c3755aba5991e42a528b"},"cocobustorzero-v1/v0mod_cocobustorzero_belted_z/SOURCE_FILES.json":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_belted_z/SOURCE_FILES.json","bytes":4243,"sha256":"1600cc3f9665a727dc732c6358610fab7f08b31860e74ea9aa0036eeef23ddef"},"cocobustorzero-v1/v0mod_cocobustorzero_m4max/LICENSE":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_m4max/LICENSE","bytes":35149,"sha256":"3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"},"cocobustorzero-v1/v0mod_cocobustorzero_m4max/model.glb.gz":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_m4max/model.glb.gz","bytes":572337,"sha256":"5772cbdec6903f83a48e17c2e9b5deeee62993da289302bc975576ad9701076e","encoding":"gzip","decoded_bytes":2030612,"decoded_sha256":"a84eaadf1cb2e22b29cb32f3296570bd05597e16553d9a70cb7e2b36dc375292"},"cocobustorzero-v1/v0mod_cocobustorzero_m4max/NOTICE.txt":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_m4max/NOTICE.txt","bytes":1089,"sha256":"59b45af4f261837a8fe4f6312a112d6259b085f7bea92896f73f1e4c69c6577f"},"cocobustorzero-v1/v0mod_cocobustorzero_m4max/parts.json":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_m4max/parts.json","bytes":7438,"sha256":"ec8e31a2089315cfe22f310d6be61a5d139a352bf193b49bfc88a65e4d42390f"},"cocobustorzero-v1/v0mod_cocobustorzero_m4max/SOURCE_FILES.json":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_m4max/SOURCE_FILES.json","bytes":3498,"sha256":"f99bb123bc5b3b4b27f3e71c8b6b608a146f7bf69632b09a945256dadc146926"},"cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/LICENSE":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/LICENSE","bytes":35149,"sha256":"3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"},"cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/model.glb.gz":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/model.glb.gz","bytes":600624,"sha256":"64d59a3d9fcd8be218413ef06739dc81528ecd0d2c5d2eb63785429c2e78c6ed","encoding":"gzip","decoded_bytes":2094044,"decoded_sha256":"6d5e2fb7053f3e644132b3306e38b59ef9d1deac05963650e35c086bd382e017"},"cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/NOTICE.txt":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/NOTICE.txt","bytes":1089,"sha256":"59b45af4f261837a8fe4f6312a112d6259b085f7bea92896f73f1e4c69c6577f"},"cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/parts.json":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/parts.json","bytes":6031,"sha256":"a387e7ad7a33250f4953a8088975d355fdc7cf160d9ecaaa3a1ae2ef4598c05c"},"cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/SOURCE_FILES.json":{"path":"cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/SOURCE_FILES.json","bytes":2985,"sha256":"1a2a71c947e672bfd487ad2f30974723d057b894394b43e3e15ee886e24958d7"},"ducky0-v1/v0mod_ducky0_motor_cooling/LICENSE":{"path":"ducky0-v1/v0mod_ducky0_motor_cooling/LICENSE","bytes":35149,"sha256":"3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"},"ducky0-v1/v0mod_ducky0_motor_cooling/NOTICE.txt":{"path":"ducky0-v1/v0mod_ducky0_motor_cooling/NOTICE.txt","bytes":482,"sha256":"aad8161605e13381a5b530b26ce1ea876f81c73cbe2f41639d0a73f1f9db5351"},"ducky0-v1/v0mod_ducky0_motor_cooling/SOURCE_FILES.json":{"path":"ducky0-v1/v0mod_ducky0_motor_cooling/SOURCE_FILES.json","bytes":1801,"sha256":"bec1717ee64e64cac6aa8d59cfe6ef3f925102d597b52ed39ead66cc8a1cff86"},"ducky0-v1/v0mod_ducky0_motor_cooling/parts.json":{"path":"ducky0-v1/v0mod_ducky0_motor_cooling/parts.json","bytes":4503,"sha256":"961b07d30aca04a02e0002b338e516602d58e313fd389dd33437be7414c23b1d"},"ducky0-v1/v0mod_ducky0_motor_cooling/model.glb.gz":{"path":"ducky0-v1/v0mod_ducky0_motor_cooling/model.glb.gz","bytes":95593,"sha256":"0bf3bfcb60634058c377fe4cf09858ff366249cb35c166abe61905370d39290b","encoding":"gzip","decoded_bytes":452612,"decoded_sha256":"0d694b53cf0fe7c4ae7b65349db58564f2e35ee7cb6409cc2eef22b59622c31f"},"ducky0-v1/v0mod_ducky0_electronics_mounts/LICENSE":{"path":"ducky0-v1/v0mod_ducky0_electronics_mounts/LICENSE","bytes":35149,"sha256":"3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"},"ducky0-v1/v0mod_ducky0_electronics_mounts/NOTICE.txt":{"path":"ducky0-v1/v0mod_ducky0_electronics_mounts/NOTICE.txt","bytes":1131,"sha256":"cb5f74372674ae674c76c692875f30c2652538014b92bd2290346ddc17c99774"},"ducky0-v1/v0mod_ducky0_electronics_mounts/SOURCE_FILES.json":{"path":"ducky0-v1/v0mod_ducky0_electronics_mounts/SOURCE_FILES.json","bytes":870,"sha256":"a1f372b606da9533efe65946297d6f43ece7555dea0bd1ddc6cc9b3e03f96016"},"ducky0-v1/v0mod_ducky0_electronics_mounts/parts.json":{"path":"ducky0-v1/v0mod_ducky0_electronics_mounts/parts.json","bytes":2526,"sha256":"520ee28f0f6c1398c995c2645f6f091720e0f3fa12514624a27101e811a20a36"},"ducky0-v1/v0mod_ducky0_electronics_mounts/model.glb.gz":{"path":"ducky0-v1/v0mod_ducky0_electronics_mounts/model.glb.gz","bytes":68102,"sha256":"8c1c4f5f12ea332917fe109c4ee8ec4879f84aad10e757cb765c513f0767d528","encoding":"gzip","decoded_bytes":304532,"decoded_sha256":"71e820c76e11d5ab4336ea01d6bc59f00d597e2b6fae5f36d227316c62e0aa27"},"eva2_vminion_lgx_bmo/parts.json":{"path":"eva-generations-v1/eva2_vminion_lgx_bmo/parts.json","bytes":79056,"sha256":"9831dc9193fab6d3c98e4b3e9b2d8348f8c2345b1137de13e7730a7869adae92"},"eva2_vminion_lgx_bmo/model.glb":{"path":"eva-generations-v1/eva2_vminion_lgx_bmo/model.glb.gz","bytes":4438059,"sha256":"6bc9646adc104c066d7a568d3a6d21dd0392b29392eaae920b1240bf955d43fb","encoding":"gzip","decoded_bytes":10128596,"decoded_sha256":"21b8cf9694d86062e6b124051c1b60b963d66328a0df7a1b45ba2baaabd46b3b"},"eva2_vminion_lgx_bmo/SOURCE_RECIPE.json":{"path":"eva-generations-v1/eva2_vminion_lgx_bmo/SOURCE_RECIPE.json","bytes":6531,"sha256":"0fc29a3bb93157e3372fe8797f8597c031f09d9c9a37539e59babcc279d28572"},"eva2_vminion_lgx_bmo/NATIVE_BOUNDS_RECEIPT.json":{"path":"eva-generations-v1/eva2_vminion_lgx_bmo/NATIVE_BOUNDS_RECEIPT.json","bytes":11089,"sha256":"83e5a44adb3a6d1694e420d46c598fc9edc6ca78c387395026aa5b3f0fd55749"},"eva3_ratrig_vcore31_urn9_rapido_hf_lgx_lite/parts.json":{"path":"eva-generations-v1/eva3_ratrig_vcore31_urn9_rapido_hf_lgx_lite/parts.json","bytes":962860,"sha256":"7d547ae0d602a6cfc90351ff5cf6089f7d7e45b164657a0c34456d8208d073db"},"eva3_ratrig_vcore31_urn9_rapido_hf_lgx_lite/model.glb":{"path":"eva-generations-v1/eva3_ratrig_vcore31_urn9_rapido_hf_lgx_lite/model.glb.gz","bytes":16998549,"sha256":"4c9bdc6f9fe29543f6f2969d69842315639bce7a186ea51eb289f5c922b792b2","encoding":"gzip","decoded_bytes":35883076,"decoded_sha256":"619857aca76e72c14601b086db8c2cf86b7c3ab7d24b1e4323f3d60f6eb58168"},"eva3_ratrig_vcore31_urn9_rapido_hf_lgx_lite/NATIVE_DATUMS.json":{"path":"eva-generations-v1/eva3_ratrig_vcore31_urn9_rapido_hf_lgx_lite/NATIVE_DATUMS.json","bytes":978,"sha256":"1e75f00f10f0d0cbfc278c0842fa44fa0100580fcfeb1c1273a73709ef76ae98"},"eva3_ratrig_vcore31_urn9_rapido_hf_lgx_lite/SOURCE_COLORS.json":{"path":"eva-generations-v1/eva3_ratrig_vcore31_urn9_rapido_hf_lgx_lite/SOURCE_COLORS.json","bytes":1898908,"sha256":"8a88452c00735d72b8b6d946b6da74169f254a4a391b93d0f65026d4aac7b0f3"},"eva3_ratrig_vcore31_urn9_rapido_hf_lgx_lite/EXPORT_RECEIPT.json":{"path":"eva-generations-v1/eva3_ratrig_vcore31_urn9_rapido_hf_lgx_lite/EXPORT_RECEIPT.json","bytes":2485,"sha256":"eac7e91f43aaedb0efc3744314836d2655f7e24c99f99f2e2bfb57395a30d51d"},"eva-generations-v1/NOTICE.txt":{"path":"eva-generations-v1/NOTICE.txt","bytes":1104,"sha256":"63287877136a1284581fcea6d48f5b4ee68980d62fbcd6ae1007067af1b3183f"}}}
+{
+  "schema": "large-voron-assets-1",
+  "files": {
+    "voron_v24_1000_custom/model.glb": {
+      "path": "voron1000-v1/voron_v24_1000_custom/model.glb.gz",
+      "bytes": 50846351,
+      "sha256": "9daba1200efc194ec5c9634253804569e622f35b02811009ab05e00c5d626045",
+      "encoding": "gzip",
+      "decoded_bytes": 140486328,
+      "decoded_sha256": "aacca629d947491958eab426727f9b5653c3aa00bd8fa2b5ab53c5b4c9c1a6cd"
+    },
+    "voron_v24_1000_custom/assembly_manifest.json": {
+      "path": "voron1000-v1/voron_v24_1000_custom/assembly_manifest.json",
+      "bytes": 1926144,
+      "sha256": "82c421891fed42099df90386d03b05e3afae6aa8c4af3d49354050d82375e567"
+    },
+    "voron_v24_1000_custom/machine_profile.json": {
+      "path": "voron1000-v1/voron_v24_1000_custom/machine_profile.json",
+      "bytes": 4088,
+      "sha256": "76040fee984f76b2004e8d1349dc58fbea3325e585db704288137bcc1bcd3dc3"
+    },
+    "voron_trident_1000_custom/model.glb": {
+      "path": "voron1000-v1/voron_trident_1000_custom/model.glb.gz",
+      "bytes": 60209946,
+      "sha256": "7b2c9edae75d1ab594c59f98f4831806b63a4d5747d0d53be6508a4c1982a063",
+      "encoding": "gzip",
+      "decoded_bytes": 182647008,
+      "decoded_sha256": "1c1f4d3b282bec2666cc8f14e5d70b248326d4714edf1cad088f1492409355b6"
+    },
+    "voron_trident_1000_custom/assembly_manifest.json": {
+      "path": "voron1000-v1/voron_trident_1000_custom/assembly_manifest.json",
+      "bytes": 1897393,
+      "sha256": "535ad28652ad221d4abfcc54a980a67507cf516313b3ddd390db9794c907417b"
+    },
+    "voron_trident_1000_custom/machine_profile.json": {
+      "path": "voron1000-v1/voron_trident_1000_custom/machine_profile.json",
+      "bytes": 8875,
+      "sha256": "47c96b8df0388b30251415ac538065d1d3ee4e85dca3126562378c26cde35aa2"
+    },
+    "licenses/voron_v24/LICENSE": {
+      "path": "licenses/voron_v24/LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "licenses/voron_trident/LICENSE": {
+      "path": "licenses/voron_trident/LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "licenses/stealthburner/LICENSE": {
+      "path": "licenses/stealthburner/LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "SOURCES.json": {
+      "bytes": 8710,
+      "sha256": "fbce55e72a7c506d2c1e92bf1ce10c64bf88769c183a92114ff1e812b4732d19",
+      "path": "SOURCES.json"
+    },
+    "elcrni_trident_internal_spool_holder_v32_installed_300/model.glb": {
+      "sha256": "b35bb552b295b6497643e949fd1aed5c7f19078ea9ef75afe34d90e4a4b68f4b",
+      "bytes": 8550961,
+      "encoding": "gzip",
+      "decoded_bytes": 27358140,
+      "decoded_sha256": "e2af79ba292b08c16931e6f3bb9ec4893ec5bb062d0b1fd8ea5255b35ef6adff",
+      "path": "internal-spool-v1/elcrni_trident_internal_spool_holder_v32_installed_300/model.glb.gz"
+    },
+    "elcrni_trident_internal_spool_holder_v32_installed_300/parts.json": {
+      "sha256": "9b099cd8fc3446a966eb73eed7df8a74017a4c2dfbcdbe9d0e402a05866100ed",
+      "bytes": 376942,
+      "path": "internal-spool-v1/elcrni_trident_internal_spool_holder_v32_installed_300/parts.json"
+    },
+    "elcrni_trident_internal_spool_holder_v32_installed_350/model.glb": {
+      "sha256": "fa08b8af321af144bc63609bd712e4ab8afa02e76fb57e783dc5f1ef69660cb6",
+      "bytes": 8551864,
+      "encoding": "gzip",
+      "decoded_bytes": 27358112,
+      "decoded_sha256": "4bd2134add3e430f77b3ec4483e09456d052e4dee5abec65795a34a8179efa5e",
+      "path": "internal-spool-v1/elcrni_trident_internal_spool_holder_v32_installed_350/model.glb.gz"
+    },
+    "elcrni_trident_internal_spool_holder_v32_installed_350/parts.json": {
+      "sha256": "27e4e35d317df3ccc2e675590d7ff6073ee29aff8de062aa147ac91ca48852fd",
+      "bytes": 376952,
+      "path": "internal-spool-v1/elcrni_trident_internal_spool_holder_v32_installed_350/parts.json"
+    },
+    "licenses/elcrni/LICENSE": {
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "path": "licenses/elcrni/LICENSE"
+    },
+    "requested-mods-v1/v0mod_tall_skirts_841565/parts.json": {
+      "path": "requested-mods-v1/v0mod_tall_skirts_841565/parts.json",
+      "bytes": 28095,
+      "sha256": "7075ca06f682621c61102b83330bbeb1367d0f4aabb31515141409f8d61d012e"
+    },
+    "requested-mods-v1/v0mod_tall_skirts_841565/model.glb": {
+      "path": "requested-mods-v1/v0mod_tall_skirts_841565/model.glb.gz",
+      "bytes": 5654734,
+      "sha256": "837c09f54ceda977a8e1d17e0862d8a07fcf2f32fdbfa61c756f5a70993072b1",
+      "encoding": "gzip",
+      "decoded_bytes": 25949008,
+      "decoded_sha256": "c9330880b0a1cc0688d6776c545d8c8ad326a8800982aa239759d5899881d90a"
+    },
+    "requested-mods-v1/x1c_nozzle_wiper_546970/parts.json": {
+      "path": "requested-mods-v1/x1c_nozzle_wiper_546970/parts.json",
+      "bytes": 1759,
+      "sha256": "f1bc535cf057af40eac027eb824d8cd3dae59e388f8840d58fceb3f375e4df3f"
+    },
+    "requested-mods-v1/x1c_nozzle_wiper_546970/model.glb": {
+      "path": "requested-mods-v1/x1c_nozzle_wiper_546970/model.glb.gz",
+      "bytes": 79647,
+      "sha256": "801d441124b2d54a5a50b0e8e1d739809161623803745d82c4526c98df5a17d0",
+      "encoding": "gzip",
+      "decoded_bytes": 406568,
+      "decoded_sha256": "84cbad898b34b37acdd4ff03bfbcdfc53e0906dd67f3b0330a18878d83c7ce0e"
+    },
+    "requested-mods-v1/voron_v24_pg7_filter_1230133/parts.json": {
+      "path": "requested-mods-v1/voron_v24_pg7_filter_1230133/parts.json",
+      "bytes": 3003,
+      "sha256": "802b51b3b2a885f675e7beaa49808fbdc9ea895c9d0e39153d9a355e10513982"
+    },
+    "requested-mods-v1/voron_v24_pg7_filter_1230133/model.glb": {
+      "path": "requested-mods-v1/voron_v24_pg7_filter_1230133/model.glb.gz",
+      "bytes": 13707988,
+      "sha256": "c2382ccf06ee33dd3d795787895a4411166e4d736d7d388a9661c1cdd67b6454",
+      "encoding": "gzip",
+      "decoded_bytes": 43870288,
+      "decoded_sha256": "21eb6be4c23e83830066c4760d5770c006b3c99fbe247c606bbb3c9f5515c6fb"
+    },
+    "requested-mods-v1/trident_stepper_decoupler_430168/parts.json": {
+      "path": "requested-mods-v1/trident_stepper_decoupler_430168/parts.json",
+      "bytes": 8746,
+      "sha256": "f74007efeac4031f89c5782176166e1a32b815c1b12e5f2219bc351f14522754"
+    },
+    "requested-mods-v1/trident_stepper_decoupler_430168/model.glb": {
+      "path": "requested-mods-v1/trident_stepper_decoupler_430168/model.glb.gz",
+      "bytes": 1438927,
+      "sha256": "8c518744b852ae9d2876d7535414d8b312dbfdd43089d3239b73861fd72e8f80",
+      "encoding": "gzip",
+      "decoded_bytes": 9321720,
+      "decoded_sha256": "39422cf00b55595f88ff12e8ddcca7d65131c239920399b43da8507062a896ac"
+    },
+    "requested-mods-v1/trident_ab_stepper_fan_491404_v2/parts.json": {
+      "path": "requested-mods-v1/trident_ab_stepper_fan_491404_v2/parts.json",
+      "bytes": 3060,
+      "sha256": "74a6fcb945d76178713e578a5bf29845bc8210479aeb716dc6864c97ef50d576"
+    },
+    "requested-mods-v1/trident_ab_stepper_fan_491404_v2/model.glb": {
+      "path": "requested-mods-v1/trident_ab_stepper_fan_491404_v2/model.glb.gz",
+      "bytes": 140594,
+      "sha256": "d97fffe489d33232c7199780a285c79c8e92b46c502edaff89abac7c671bf187",
+      "encoding": "gzip",
+      "decoded_bytes": 566716,
+      "decoded_sha256": "38647b038c09dfe8e409d79c48dd9a4e86af234fe21bdc9f78efa675da396917"
+    },
+    "requested-mods-v1/trident_ab_stepper_fan_491404_v1/parts.json": {
+      "path": "requested-mods-v1/trident_ab_stepper_fan_491404_v1/parts.json",
+      "bytes": 3035,
+      "sha256": "9e8dcf16e06a8827892377301e9d735ec2211bc464b5d39791d7e80c7058d469"
+    },
+    "requested-mods-v1/trident_ab_stepper_fan_491404_v1/model.glb": {
+      "path": "requested-mods-v1/trident_ab_stepper_fan_491404_v1/model.glb.gz",
+      "bytes": 404753,
+      "sha256": "048ed2c30de95f2a87642677312d13307e8a0467739c7d0345a1480f3dae8b41",
+      "encoding": "gzip",
+      "decoded_bytes": 1611660,
+      "decoded_sha256": "42926f570dcb2930af5240b8749b8e90ba0ae75d9dc9ceb2decdb5aeb90bb318"
+    },
+    "requested-mods-v1/trident_stepper_spacer_534736/parts.json": {
+      "path": "requested-mods-v1/trident_stepper_spacer_534736/parts.json",
+      "bytes": 1317,
+      "sha256": "d567790819f82007e65d836f626453a4973907d3bc09a3c0bd1a6a4bbad5456a"
+    },
+    "requested-mods-v1/trident_stepper_spacer_534736/model.glb": {
+      "path": "requested-mods-v1/trident_stepper_spacer_534736/model.glb.gz",
+      "bytes": 43320,
+      "sha256": "a88507937ffa11ed74e73b49bc5779ce1bad2da3851979484ad8be01ec149d12",
+      "encoding": "gzip",
+      "decoded_bytes": 227084,
+      "decoded_sha256": "ab27b331a8fd5917589c56948935bc551c83e2cd976f416af783dfcd6361f313"
+    },
+    "requested-mods-v1/tanaes_trident_kinematic_left_STEP_62268ed/parts.json": {
+      "path": "requested-mods-v1/tanaes_trident_kinematic_left_STEP_62268ed/parts.json",
+      "bytes": 1831,
+      "sha256": "e3916181bf576aa49be236ffb35fd5295af284a440519c30d19ba8e1ed229a2c"
+    },
+    "requested-mods-v1/tanaes_trident_kinematic_left_STEP_62268ed/model.glb": {
+      "path": "requested-mods-v1/tanaes_trident_kinematic_left_STEP_62268ed/model.glb.gz",
+      "bytes": 142567,
+      "sha256": "448196e531492f7da378cda5d37ea472a46f1fa72eae67b040647e323f037f63",
+      "encoding": "gzip",
+      "decoded_bytes": 453348,
+      "decoded_sha256": "fa1f1f89fbd69198dfa670bb79a314203527deb99ec6f8777885272650d0403a"
+    },
+    "REQUESTED_MOD_SOURCES.json": {
+      "path": "REQUESTED_MOD_SOURCES.json",
+      "bytes": 82256,
+      "sha256": "49b44264a01ffbb9e42bf1005d65bc48086577e20f90c15227825f1ea0c12f18"
+    },
+    "licenses/requested-mods-96/1230133/AUTHOR_METADATA.json": {
+      "path": "licenses/requested-mods-96/1230133/AUTHOR_METADATA.json",
+      "bytes": 2149,
+      "sha256": "1037040921a0957e18ad6de522109a476448dd3d011a51c7fbc961b085edd771"
+    },
+    "licenses/requested-mods-96/1230133/LICENSE.txt": {
+      "path": "licenses/requested-mods-96/1230133/LICENSE.txt",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "licenses/requested-mods-96/1230133/NOTICE.txt": {
+      "path": "licenses/requested-mods-96/1230133/NOTICE.txt",
+      "bytes": 1362,
+      "sha256": "9e0c9d549e4514f2f02a061e3fd0fe22fe353da6e335532fc4a11c179601309f"
+    },
+    "licenses/requested-mods-96/1230133/RELATED_ORIGINAL_PARENT_METADATA.json": {
+      "path": "licenses/requested-mods-96/1230133/RELATED_ORIGINAL_PARENT_METADATA.json",
+      "bytes": 2723,
+      "sha256": "293888a4e63845ca359d4c9376f2691bc41f40136a2747ce8c66027f8ea9cc1f"
+    },
+    "licenses/requested-mods-96/430168/AUTHOR_METADATA.json": {
+      "path": "licenses/requested-mods-96/430168/AUTHOR_METADATA.json",
+      "bytes": 2244,
+      "sha256": "b506500e5ba0e7edda8f9be1ec53aaf33aff1bca396c92c9bd95d0d0a3c03437"
+    },
+    "licenses/requested-mods-96/430168/NOTICE.txt": {
+      "path": "licenses/requested-mods-96/430168/NOTICE.txt",
+      "bytes": 1891,
+      "sha256": "d0459be59260b420f1450ae83768196d51c5d78e5dac1acb385ad32fced8d6cf"
+    },
+    "licenses/requested-mods-96/491404/AUTHOR_METADATA.json": {
+      "path": "licenses/requested-mods-96/491404/AUTHOR_METADATA.json",
+      "bytes": 833,
+      "sha256": "e5cf960e15f5e448ca452525111e3827c209fe331ccffa9b7054c13a104e17f4"
+    },
+    "licenses/requested-mods-96/491404/NOTICE.txt": {
+      "path": "licenses/requested-mods-96/491404/NOTICE.txt",
+      "bytes": 1002,
+      "sha256": "4363ff79075929fbc67363b0c66146b4bbb4aaae86ba7ef95fddc0bdbec5c243"
+    },
+    "licenses/requested-mods-96/534736/AUTHOR_METADATA.json": {
+      "path": "licenses/requested-mods-96/534736/AUTHOR_METADATA.json",
+      "bytes": 988,
+      "sha256": "552aa6c95f6ee1a09d2eefe69a4f739bf0dd97e87ce50c2eb093a18929e51980"
+    },
+    "licenses/requested-mods-96/534736/NOTICE.txt": {
+      "path": "licenses/requested-mods-96/534736/NOTICE.txt",
+      "bytes": 878,
+      "sha256": "051a33c1f9dbb9b614884054c2209c799ebd8da661aa68cc5b5ab721a5540f53"
+    },
+    "licenses/requested-mods-96/546970/AUTHOR_METADATA.json": {
+      "path": "licenses/requested-mods-96/546970/AUTHOR_METADATA.json",
+      "bytes": 6829,
+      "sha256": "a86b7efac8ec5081f62458ad65d64edc951d26133dc3367218fce1af0e612030"
+    },
+    "licenses/requested-mods-96/546970/NOTICE.txt": {
+      "path": "licenses/requested-mods-96/546970/NOTICE.txt",
+      "bytes": 1268,
+      "sha256": "6e55b511fe7cb9651a62b1169691392ea1c9025cf8047e026cc84343d2a1f6d6"
+    },
+    "licenses/requested-mods-96/681594/AUTHOR_METADATA.json": {
+      "path": "licenses/requested-mods-96/681594/AUTHOR_METADATA.json",
+      "bytes": 1357,
+      "sha256": "13f263cf52ea44ee995437952397225def045203753dc482a24ee314a65f89e7"
+    },
+    "licenses/requested-mods-96/681594/NOTICE.txt": {
+      "path": "licenses/requested-mods-96/681594/NOTICE.txt",
+      "bytes": 865,
+      "sha256": "871a3190154d212963c986d678558a53303958efb0aadc0cd85dd5979b0b76dc"
+    },
+    "licenses/requested-mods-96/841565/AUTHOR_METADATA.json": {
+      "path": "licenses/requested-mods-96/841565/AUTHOR_METADATA.json",
+      "bytes": 20814,
+      "sha256": "495cab27d37701c16ad59c0da766d3db285249e452833bbe6433523fcf37d18c"
+    },
+    "licenses/requested-mods-96/841565/LICENSE.txt": {
+      "path": "licenses/requested-mods-96/841565/LICENSE.txt",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "licenses/requested-mods-96/841565/NOTICE.txt": {
+      "path": "licenses/requested-mods-96/841565/NOTICE.txt",
+      "bytes": 6585,
+      "sha256": "84f0a2b6242306d6a1e558fb034c2755228712aa2f363e4f553984ab1af39160"
+    },
+    "licenses/requested-mods-96/kinematic_trident/LICENSE.txt": {
+      "path": "licenses/requested-mods-96/kinematic_trident/LICENSE.txt",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "licenses/requested-mods-96/kinematic_trident/NOTICE.txt": {
+      "path": "licenses/requested-mods-96/kinematic_trident/NOTICE.txt",
+      "bytes": 1228,
+      "sha256": "b8d0a9f9185e5c052f8d9dfcfbbd2d3f4cb957bf2a959d9710840b9e314823bd"
+    },
+    "licenses/requested-mods-96/kinematic_v24/LICENSE.txt": {
+      "path": "licenses/requested-mods-96/kinematic_v24/LICENSE.txt",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "licenses/requested-mods-96/kinematic_v24/NOTICE.txt": {
+      "path": "licenses/requested-mods-96/kinematic_v24/NOTICE.txt",
+      "bytes": 1214,
+      "sha256": "ae1b3d36bc8d80316f01da33bd2ecc8edc9403d317ada8c581c20dcb6722ed4c"
+    },
+    "requested-mods-v1/trident_ab_stepper_fan_491404_v2_r2_350_alpha/parts.json": {
+      "path": "requested-mods-v1/trident_ab_stepper_fan_491404_v2_r2_350_alpha/parts.json",
+      "bytes": 43764,
+      "sha256": "e94e0f8a8ace951cbd07e0979cd75b0499edf8773cdf395869d2890cb9939b79"
+    },
+    "requested-mods-v1/trident_ab_stepper_fan_491404_v2_r2_350_alpha/model.glb": {
+      "path": "requested-mods-v1/trident_ab_stepper_fan_491404_v2_r2_350_alpha/model.glb.gz",
+      "bytes": 3775464,
+      "sha256": "775aed590e82cfc2cf8b4c26dbdb30c45b371387ac47b0461cb58a27f4a03eca",
+      "encoding": "gzip",
+      "decoded_bytes": 13399668,
+      "decoded_sha256": "2ddc8d8d238cefc91c1e0e20a887ce74d7d136886237db2489a111fdc464b826"
+    },
+    "requested-mods-v1/trident_ab_stepper_fan_491404_v2_r2_300_alpha/parts.json": {
+      "path": "requested-mods-v1/trident_ab_stepper_fan_491404_v2_r2_300_alpha/parts.json",
+      "bytes": 44398,
+      "sha256": "095d236bbbd1e75bed769ffd042ad0483e6831f22451238d9f4006f430b9b76e"
+    },
+    "requested-mods-v1/trident_ab_stepper_fan_491404_v2_r2_300_alpha/model.glb": {
+      "path": "requested-mods-v1/trident_ab_stepper_fan_491404_v2_r2_300_alpha/model.glb.gz",
+      "bytes": 3775450,
+      "sha256": "b0ae72f282ddad2137bbde18c5bc0535e9293762efddca16f3521765192dac74",
+      "encoding": "gzip",
+      "decoded_bytes": 13399660,
+      "decoded_sha256": "c05fc1f19f565139bd55044b96245809df8c518107dcd3ce686625c187c6f437"
+    },
+    "requested-mods-v1/trident_ab_stepper_fan_491404_v2_r2_250_alpha/parts.json": {
+      "path": "requested-mods-v1/trident_ab_stepper_fan_491404_v2_r2_250_alpha/parts.json",
+      "bytes": 44763,
+      "sha256": "e7a279dd4bd5a073af78bd2ff07c167f61b80b111edf2b5644889545e67936b0"
+    },
+    "requested-mods-v1/trident_ab_stepper_fan_491404_v2_r2_250_alpha/model.glb": {
+      "path": "requested-mods-v1/trident_ab_stepper_fan_491404_v2_r2_250_alpha/model.glb.gz",
+      "bytes": 3775466,
+      "sha256": "e078c28a95bf9596f516a73859bba548b058e485c8e7facfd2b69bd24d0162be",
+      "encoding": "gzip",
+      "decoded_bytes": 13399656,
+      "decoded_sha256": "5c240e78fd5b54a3a07c8849597cec251307310bc1159b85da08f85e35cb5351"
+    },
+    "requested-mods-v1/requested_mod_681594_head_source_preview_v5/parts.json": {
+      "path": "requested-mods-v1/requested_mod_681594_head_source_preview_v5/parts.json",
+      "bytes": 164470,
+      "sha256": "7b7f59c96cff691a1d86629b7e2faea8045748b86534209e4134de23a98ce815"
+    },
+    "requested-mods-v1/requested_mod_681594_head_source_preview_v5/model.glb": {
+      "path": "requested-mods-v1/requested_mod_681594_head_source_preview_v5/model.glb.gz",
+      "bytes": 35280182,
+      "sha256": "580405adc65bf4ac24a3cb7f25059d59bb2ae6d9c775236f4457638c6494167a"
+    },
+    "trinity-lossless-v1/assembly.gltf.json": {
+      "path": "trinity-lossless-v1/assembly.gltf.json",
+      "bytes": 397919,
+      "sha256": "113042331ab75ccecc6d0f4604f238da59b6826df4f23ced10403638758e5dc1"
+    },
+    "trinity-lossless-v1/chunk-000.glb.gz": {
+      "path": "trinity-lossless-v1/chunk-000.glb.gz",
+      "bytes": 9657602,
+      "sha256": "fd9ff05a5c902bce610d151945cefccd88f4a8bc4856f9d0222aa85129653b81",
+      "encoding": "gzip",
+      "decoded_bytes": 33308504,
+      "decoded_sha256": "971dc31876f34a04b885d1719d8dcd44bd8bd13fbd3dafe6d8bd2ac08ee71b40"
+    },
+    "trinity-lossless-v1/chunk-001.glb.gz": {
+      "path": "trinity-lossless-v1/chunk-001.glb.gz",
+      "bytes": 9888377,
+      "sha256": "dcc32c8af8f2241ecf783f3361f1f0311bfc1f89c3f96cfa3fdb615857437147",
+      "encoding": "gzip",
+      "decoded_bytes": 33305776,
+      "decoded_sha256": "b7651b4b599a2ce8a9a44c06fe6e1b8032f1f05ee3ae133cca353098c70cc33d"
+    },
+    "trinity-lossless-v1/chunk-002.glb.gz": {
+      "path": "trinity-lossless-v1/chunk-002.glb.gz",
+      "bytes": 9673089,
+      "sha256": "8fd08862e85afb78d79cb397706f4d493c1a6440376e9535eb4b47aa6c781696",
+      "encoding": "gzip",
+      "decoded_bytes": 33310384,
+      "decoded_sha256": "05b7955bd76a5a1ac0c7c8ba73091d746a4e2be8a52eb3431e065d89d2f78673"
+    },
+    "trinity-lossless-v1/chunk-003.glb.gz": {
+      "path": "trinity-lossless-v1/chunk-003.glb.gz",
+      "bytes": 10036754,
+      "sha256": "e1fc737778db2b7637cbc98319acbf2d5bd1178003f3b4b82df7d0c955986cd8",
+      "encoding": "gzip",
+      "decoded_bytes": 33294076,
+      "decoded_sha256": "cb11e26646f218b254d23fb9ac6fce0f264ee863459cc474de8c444b5c5f9b04"
+    },
+    "trinity-lossless-v1/chunk-004.glb.gz": {
+      "path": "trinity-lossless-v1/chunk-004.glb.gz",
+      "bytes": 11042283,
+      "sha256": "d12932819cbd53fe815e0a76fbb164a8367bce56b44f1d633e0932cb518fca9b",
+      "encoding": "gzip",
+      "decoded_bytes": 33293044,
+      "decoded_sha256": "68e9027e31b358e94d83468203613f9168a7314c176a03e9cfd946508d53e8c8"
+    },
+    "trinity-lossless-v1/chunk-005.glb.gz": {
+      "path": "trinity-lossless-v1/chunk-005.glb.gz",
+      "bytes": 9658497,
+      "sha256": "c366b40c2ee4e85cd574546a80d3c6e909fd08c61e8085f00c38de4176e483f7",
+      "encoding": "gzip",
+      "decoded_bytes": 33307740,
+      "decoded_sha256": "592cd341669a51a01c396d5dd587655c4ae8f2257605914b20b86c587c119366"
+    },
+    "trinity-lossless-v1/chunk-006.glb.gz": {
+      "path": "trinity-lossless-v1/chunk-006.glb.gz",
+      "bytes": 9462123,
+      "sha256": "16e226277ed15426aee7a71eb28a5fa7c033faac83ac0cd1bc6d3f85f08ec165",
+      "encoding": "gzip",
+      "decoded_bytes": 33293024,
+      "decoded_sha256": "36769f025148ffcd2341447e25cfe28af46097414b3da765343ea822eae6ad3c"
+    },
+    "trinity-lossless-v1/chunk-007.glb.gz": {
+      "path": "trinity-lossless-v1/chunk-007.glb.gz",
+      "bytes": 8643901,
+      "sha256": "6be23422de982bc584374e461da6366799a6826ff4f9d433bdf007d3af25179f",
+      "encoding": "gzip",
+      "decoded_bytes": 33296588,
+      "decoded_sha256": "2dce0bd41896bd12b38b309c7ea1179e0729e88d2d2e91de2d12672ce1d2aad0"
+    },
+    "trinity-lossless-v1/chunk-008.glb.gz": {
+      "path": "trinity-lossless-v1/chunk-008.glb.gz",
+      "bytes": 9560496,
+      "sha256": "a3058e16c3d45fe3e0959e2a16665fa1ab830f0ca24e71b0da5228d8f82f50cf",
+      "encoding": "gzip",
+      "decoded_bytes": 33292968,
+      "decoded_sha256": "c626262d09cf28679781f7eaf85bda370daaa6726c0046a031a7d9876d4a1826"
+    },
+    "trinity-lossless-v1/chunk-009.glb.gz": {
+      "path": "trinity-lossless-v1/chunk-009.glb.gz",
+      "bytes": 9704399,
+      "sha256": "e4760db842e05dd013ba93acd330dbc061466e1688594fd97f4ba116d889ddb4",
+      "encoding": "gzip",
+      "decoded_bytes": 33314364,
+      "decoded_sha256": "398e7f74d6dfb4b832eca2c7532dfdc3c0e8e5e7bec9f202ddda0e7e9f825b60"
+    },
+    "trinity-lossless-v1/chunk-010.glb.gz": {
+      "path": "trinity-lossless-v1/chunk-010.glb.gz",
+      "bytes": 6929903,
+      "sha256": "0d0b5eaa4287835dc1daa4dd923b54e41ebfb8e594c4d3ac3a44ca013aa452c8",
+      "encoding": "gzip",
+      "decoded_bytes": 20921652,
+      "decoded_sha256": "5a09dee9c4cdf56c3c1c33806b79eae20a762691ee77693fae21f9fb59d835b7"
+    },
+    "trinity-lossless-v1/licenses/Annex-Engineering/LICENSE.md": {
+      "path": "trinity-lossless-v1/licenses/Annex-Engineering/LICENSE.md",
+      "bytes": 10984,
+      "sha256": "3a1f5e6d1dce247a8a0e748c13afdea997718298929f08975359eef7f699e7e7"
+    },
+    "trinity-lossless-v1/licenses/corresponding-source/README.txt": {
+      "path": "trinity-lossless-v1/licenses/corresponding-source/README.txt",
+      "bytes": 1154,
+      "sha256": "467a5c9e1a00cb9c309e6fcbec28439fba4729b9d7ac0df2817029a28be1cef0"
+    },
+    "trinity-lossless-v1/licenses/corresponding-source/repack.py": {
+      "path": "trinity-lossless-v1/licenses/corresponding-source/repack.py",
+      "bytes": 10709,
+      "sha256": "a9956261bbd6b0dd51a5e1d5870c93d406702e9f7ec51f6b5fb336812effe15a"
+    },
+    "trinity-lossless-v1/licenses/corresponding-source/requirements.txt": {
+      "path": "trinity-lossless-v1/licenses/corresponding-source/requirements.txt",
+      "bytes": 14,
+      "sha256": "26d58e42cca83c41d14253ddd5bc33ec22da6c2a3b40fcc93914eff5e0c5ed34"
+    },
+    "trinity-lossless-v1/licenses/DW-Tas/LICENSE": {
+      "path": "trinity-lossless-v1/licenses/DW-Tas/LICENSE",
+      "bytes": 20848,
+      "sha256": "9e502ba75fd0fd30cea5497b438a4bc12f07f02bc932a7a6041fd6a18b8f46a0"
+    },
+    "trinity-lossless-v1/licenses/Martin-Ivanc/LICENSE": {
+      "path": "trinity-lossless-v1/licenses/Martin-Ivanc/LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "trinity-lossless-v1/licenses/NOTICE.txt": {
+      "path": "trinity-lossless-v1/licenses/NOTICE.txt",
+      "bytes": 1521,
+      "sha256": "5b826da7251208c3b4cefdfad277bfbeecef91e276511a027ad6c4f35823fd05"
+    },
+    "trinity-lossless-v1/licenses/provenance.json": {
+      "path": "trinity-lossless-v1/licenses/provenance.json",
+      "bytes": 4150,
+      "sha256": "aa278001f06626bfcb18325d466c93ee163398c3e9536a7f6020dfea1d50796f"
+    },
+    "trinity-lossless-v1/licenses/WV-design/LICENSE": {
+      "path": "trinity-lossless-v1/licenses/WV-design/LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "trinity-lossless-v1/manifest.json": {
+      "path": "trinity-lossless-v1/manifest.json",
+      "bytes": 162346,
+      "sha256": "dbf5c775152ee435ed074529077fb5a570c27a458184ff454b903b56d7419cdb"
+    },
+    "trinity-lossless-v1/parts.json": {
+      "path": "trinity-lossless-v1/parts.json",
+      "bytes": 64472,
+      "sha256": "17f8f08a671a7fdcf2f5ab5bff1ab8b77c05c8a010d37a381fa1f4ba2bd72b80"
+    },
+    "trinity-lossless-v1/proof.json": {
+      "path": "trinity-lossless-v1/proof.json",
+      "bytes": 145568,
+      "sha256": "7978bc4173f2713d7923410a5d3919d95b599c5b234f513007d6e7393badad84"
+    },
+    "trinity-lossless-v1/reassembly-prefix.bin": {
+      "path": "trinity-lossless-v1/reassembly-prefix.bin",
+      "bytes": 213316,
+      "sha256": "38a185ce82aa02bfd445eccfd54423564d66c062c0461c47c9b5872ca016316e"
+    },
+    "trident-front-v100/voron_trident_500_custom/model.glb": {
+      "path": "trident-front-v100/voron_trident_500_custom/model.glb.gz",
+      "bytes": 39748968,
+      "sha256": "f2c4b76eb0defa6704afa175c51940cce2fa343e6e91868f9038627c7bc0b097",
+      "encoding": "gzip",
+      "decoded_bytes": 109074236,
+      "decoded_sha256": "e579e2332f20d7f8a8dd4f5c1a412a19215a782edc32cafa05f7745d520eb4f6"
+    },
+    "trident-front-v100/voron_trident_500_custom/assembly_manifest.json": {
+      "path": "trident-front-v100/voron_trident_500_custom/assembly_manifest.json",
+      "bytes": 1553890,
+      "sha256": "c54bd327f149443c48b4dcaac46795ff16b1d8be608efa2a462aa67e834b1c56"
+    },
+    "trident-front-v100/voron_trident_500_custom/machine_profile.json": {
+      "path": "trident-front-v100/voron_trident_500_custom/machine_profile.json",
+      "bytes": 7379,
+      "sha256": "8dcb398d4d65665b87cc68973df84c7b63733c501339ece5a6144a2bf9e8d74b"
+    },
+    "trident-front-v100/voron_trident_350_half_z/model.glb": {
+      "path": "trident-front-v100/voron_trident_350_half_z/model.glb.gz",
+      "bytes": 31893813,
+      "sha256": "bb59c005a4803a9e0a97e67df816813f6dc12f1eb574273954c1d715cf079c3b",
+      "encoding": "gzip",
+      "decoded_bytes": 90740144,
+      "decoded_sha256": "419520ea8478da0b0f76775b848bc86a7e4733b7558459c9e22ee64caea5f346"
+    },
+    "trident-front-v100/voron_trident_350_half_z/assembly_manifest.json": {
+      "path": "trident-front-v100/voron_trident_350_half_z/assembly_manifest.json",
+      "bytes": 1511494,
+      "sha256": "5b6afa1e8a100206c0337c73864243097d6cb9aa2d483dd7b52b79647a76d87f"
+    },
+    "trident-front-v100/voron_trident_350_half_z/machine_profile.json": {
+      "path": "trident-front-v100/voron_trident_350_half_z/machine_profile.json",
+      "bytes": 6014,
+      "sha256": "f8f3316c0ea84089826f4ed587ebbc68e637d11c33a5b8caa07bfa4edf8bae7d"
+    },
+    "trident-front-v100/voron_trident_1000_custom/model.glb": {
+      "path": "trident-front-v100/voron_trident_1000_custom/model.glb.gz",
+      "bytes": 57538436,
+      "sha256": "11c03aa01e2310e6dab7caf979cf32c47dac4841e8db14bf199e9cef22cef212",
+      "encoding": "gzip",
+      "decoded_bytes": 182647328,
+      "decoded_sha256": "7179188c6de0756907746f33a120c30a7dcc2707a79dbd8c66ef23f5a5417a14"
+    },
+    "trident-front-v100/voron_trident_1000_custom/assembly_manifest.json": {
+      "path": "trident-front-v100/voron_trident_1000_custom/assembly_manifest.json",
+      "bytes": 2715106,
+      "sha256": "03f6d6421f1f2bf338ea1d3ce288242cb096bc8c168e1e48ecd7dd6ae66368dd"
+    },
+    "trident-front-v100/voron_trident_1000_custom/machine_profile.json": {
+      "path": "trident-front-v100/voron_trident_1000_custom/machine_profile.json",
+      "bytes": 8875,
+      "sha256": "47c96b8df0388b30251415ac538065d1d3ee4e85dca3126562378c26cde35aa2"
+    },
+    "trident-deck-v103/voron_trident_500_custom/model.glb": {
+      "bytes": 39752779,
+      "sha256": "f9b66a158697e7b8be7cf6434fa0f583b1e6f6162758d0d36e97ef9e566530b3",
+      "decoded_bytes": 109083980,
+      "decoded_sha256": "4aa9673623c73d1090227efe2d522e68ee99b210c4704ae7bd15f5f7d09866b2",
+      "path": "trident-deck-v103/voron_trident_500_custom/model.glb.gz",
+      "encoding": "gzip"
+    },
+    "trident-deck-v103/voron_trident_500_custom/assembly_manifest.json": {
+      "bytes": 1052517,
+      "sha256": "f5e370eb6a825d3e81d8384610e0898584df507f60b9cbeec0d97e6346985792",
+      "path": "trident-deck-v103/voron_trident_500_custom/assembly_manifest.json"
+    },
+    "trident-deck-v103/voron_trident_500_custom/machine_profile.json": {
+      "bytes": 7379,
+      "sha256": "8dcb398d4d65665b87cc68973df84c7b63733c501339ece5a6144a2bf9e8d74b",
+      "path": "trident-deck-v103/voron_trident_500_custom/machine_profile.json"
+    },
+    "trident-deck-v103/voron_trident_1000_custom/model.glb": {
+      "bytes": 57542644,
+      "sha256": "8f10f1c594fac72625118aa76fe8f9c761324d8915b7d9f3d09e8b5087451775",
+      "decoded_bytes": 182657056,
+      "decoded_sha256": "094d657422da5f74965a164e02c9e95824d5e0670fdaed9ffedd0590d4369ede",
+      "path": "trident-deck-v103/voron_trident_1000_custom/model.glb.gz",
+      "encoding": "gzip"
+    },
+    "trident-deck-v103/voron_trident_1000_custom/assembly_manifest.json": {
+      "bytes": 1901715,
+      "sha256": "768233d0c3fbf28c9ff4f49718ee60af83c5b2294ee9bb8bb35a4d09a05444e4",
+      "path": "trident-deck-v103/voron_trident_1000_custom/assembly_manifest.json"
+    },
+    "trident-deck-v103/voron_trident_1000_custom/machine_profile.json": {
+      "bytes": 8875,
+      "sha256": "47c96b8df0388b30251415ac538065d1d3ee4e85dca3126562378c26cde35aa2",
+      "path": "trident-deck-v103/voron_trident_1000_custom/machine_profile.json"
+    },
+    "trident-deck-v103/voron_trident_350_half_z/model.glb": {
+      "bytes": 31897441,
+      "sha256": "1024170505a60e07a9cebcc13964efaac1d6b994b35dea659d46f9a2d8036f9e",
+      "decoded_bytes": 90749888,
+      "decoded_sha256": "c7964f897e5d1be6450c3adeb699d20ad375583a4989afb705ed9ee481a346a3",
+      "path": "trident-deck-v103/voron_trident_350_half_z/model.glb.gz",
+      "encoding": "gzip"
+    },
+    "trident-deck-v103/voron_trident_350_half_z/assembly_manifest.json": {
+      "bytes": 1023502,
+      "sha256": "8704526653a8308dc542b34f27fbb6eae94407be1671c296ad9d2225e669c5ff",
+      "path": "trident-deck-v103/voron_trident_350_half_z/assembly_manifest.json"
+    },
+    "trident-deck-v103/voron_trident_350_half_z/machine_profile.json": {
+      "bytes": 6014,
+      "sha256": "f8f3316c0ea84089826f4ed587ebbc68e637d11c33a5b8caa07bfa4edf8bae7d",
+      "path": "trident-deck-v103/voron_trident_350_half_z/machine_profile.json"
+    },
+    "doomcube-v103/doomcube2_350_reference/assembly_manifest.json": {
+      "path": "doomcube-v103/doomcube2_350_reference/assembly_manifest.json",
+      "bytes": 3177904,
+      "sha256": "08072ed2c19bc2717f8bb79262ddac8fbcdad863da889379e608d3d19efa24bc"
+    },
+    "doomcube-v103/doomcube2_350_reference/machine_profile.json": {
+      "path": "doomcube-v103/doomcube2_350_reference/machine_profile.json",
+      "bytes": 5954,
+      "sha256": "b04011b2b8e30e809d7525a648d5ba2bc028f49fef6f81fdf34fc9c390402118"
+    },
+    "doomcube-v103/doomcube2_350_reference/model.glb": {
+      "path": "doomcube-v103/doomcube2_350_reference/model.glb.gz",
+      "bytes": 24022510,
+      "sha256": "67d368be1f7bb9a055bf7ad466ad0fd9391d7f5be6392fb7ab55a5289c0a0f76",
+      "encoding": "gzip",
+      "decoded_bytes": 69636092,
+      "decoded_sha256": "7a8d958a198ffabd374314c95a9d49e8b0f0f64fc51a488cdb3a1b973c8e95ad"
+    },
+    "doomcube-v103/LICENSE.txt": {
+      "path": "doomcube-v103/LICENSE.txt",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_accessories/LICENSE": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_accessories/LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_accessories/model.glb.gz": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_accessories/model.glb.gz",
+      "bytes": 369355,
+      "sha256": "0d7e65a9078dda1a6b2650be3c80e035f70a35118a9c33150e52248400bb4fbe",
+      "encoding": "gzip",
+      "decoded_bytes": 1396656,
+      "decoded_sha256": "b3577765491cf6e03dfe31bdf1fea164fdfeebea0aa6bb50b260226efa320883"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_accessories/NOTICE.txt": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_accessories/NOTICE.txt",
+      "bytes": 1089,
+      "sha256": "59b45af4f261837a8fe4f6312a112d6259b085f7bea92896f73f1e4c69c6577f"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_accessories/parts.json": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_accessories/parts.json",
+      "bytes": 5812,
+      "sha256": "542081947cdb8a0f8b299a6b687587ed93fb132b66f62a195ba4de128ce7f45c"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_accessories/SOURCE_FILES.json": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_accessories/SOURCE_FILES.json",
+      "bytes": 2878,
+      "sha256": "b7bf0dea660395ce5eb6b1da634e075c2d9c052c28473e5b9ca56b860bcc6553"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/LICENSE": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/model.glb.gz": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/model.glb.gz",
+      "bytes": 1973484,
+      "sha256": "c2a87b7810978502c1d87188bae04e1395511d4de3fbece1c2f8bbc6e352423c",
+      "encoding": "gzip",
+      "decoded_bytes": 5754972,
+      "decoded_sha256": "ce9482ee21944c40eac9a8a9a74c31ed69ca087778f3b244238c024a17668d5e"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/NOTICE.txt": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/NOTICE.txt",
+      "bytes": 1089,
+      "sha256": "59b45af4f261837a8fe4f6312a112d6259b085f7bea92896f73f1e4c69c6577f"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/parts.json": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/parts.json",
+      "bytes": 1526,
+      "sha256": "126ee01f35d252415f3c99a5c122fd623b1e622a844fd5e32b581671574fca5c"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/SOURCE_FILES.json": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/SOURCE_FILES.json",
+      "bytes": 474,
+      "sha256": "ecc80e0cfb09664e0ff73946bd95d60f15c42551d2729f01171bd2c35bbb853f"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/LICENSE": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/model.glb.gz": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/model.glb.gz",
+      "bytes": 1189094,
+      "sha256": "b1bce37f51b40f019fcbff0f766cb85319cf698dd474ecd8d875dc94906d6bd7",
+      "encoding": "gzip",
+      "decoded_bytes": 4360656,
+      "decoded_sha256": "7605f5fba7945a479f29faf6ae95da1a159ebfc379364c3b7ca7c88f52b2a06e"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/NOTICE.txt": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/NOTICE.txt",
+      "bytes": 1089,
+      "sha256": "59b45af4f261837a8fe4f6312a112d6259b085f7bea92896f73f1e4c69c6577f"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/parts.json": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/parts.json",
+      "bytes": 4917,
+      "sha256": "0865b0b10c8e66aff1f70d44c0090993cccece7b8e0240532030deaee28a73f5"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/SOURCE_FILES.json": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/SOURCE_FILES.json",
+      "bytes": 2536,
+      "sha256": "a6e9cf2eff72f241fa4cd8beadc1191cb8595eae8968c548c1710ddc90675ba1"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_belted_z/LICENSE": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_belted_z/LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_belted_z/model.glb.gz": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_belted_z/model.glb.gz",
+      "bytes": 1039633,
+      "sha256": "7954031bf4b33785a9f53015777851ce305416e09503fcd14bb130a210e68372",
+      "encoding": "gzip",
+      "decoded_bytes": 3790552,
+      "decoded_sha256": "55876b50b3ef431716c92f1482c372b50ebd9287aac28712f576d5850c79dbe8"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_belted_z/NOTICE.txt": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_belted_z/NOTICE.txt",
+      "bytes": 1089,
+      "sha256": "59b45af4f261837a8fe4f6312a112d6259b085f7bea92896f73f1e4c69c6577f"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_belted_z/parts.json": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_belted_z/parts.json",
+      "bytes": 8486,
+      "sha256": "a27cd54248535a2b1de244b400b864aa7691e31aaf56c3755aba5991e42a528b"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_belted_z/SOURCE_FILES.json": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_belted_z/SOURCE_FILES.json",
+      "bytes": 4243,
+      "sha256": "1600cc3f9665a727dc732c6358610fab7f08b31860e74ea9aa0036eeef23ddef"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_m4max/LICENSE": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_m4max/LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_m4max/model.glb.gz": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_m4max/model.glb.gz",
+      "bytes": 572337,
+      "sha256": "5772cbdec6903f83a48e17c2e9b5deeee62993da289302bc975576ad9701076e",
+      "encoding": "gzip",
+      "decoded_bytes": 2030612,
+      "decoded_sha256": "a84eaadf1cb2e22b29cb32f3296570bd05597e16553d9a70cb7e2b36dc375292"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_m4max/NOTICE.txt": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_m4max/NOTICE.txt",
+      "bytes": 1089,
+      "sha256": "59b45af4f261837a8fe4f6312a112d6259b085f7bea92896f73f1e4c69c6577f"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_m4max/parts.json": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_m4max/parts.json",
+      "bytes": 7438,
+      "sha256": "ec8e31a2089315cfe22f310d6be61a5d139a352bf193b49bfc88a65e4d42390f"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_m4max/SOURCE_FILES.json": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_m4max/SOURCE_FILES.json",
+      "bytes": 3498,
+      "sha256": "f99bb123bc5b3b4b27f3e71c8b6b608a146f7bf69632b09a945256dadc146926"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/LICENSE": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/model.glb.gz": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/model.glb.gz",
+      "bytes": 600624,
+      "sha256": "64d59a3d9fcd8be218413ef06739dc81528ecd0d2c5d2eb63785429c2e78c6ed",
+      "encoding": "gzip",
+      "decoded_bytes": 2094044,
+      "decoded_sha256": "6d5e2fb7053f3e644132b3306e38b59ef9d1deac05963650e35c086bd382e017"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/NOTICE.txt": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/NOTICE.txt",
+      "bytes": 1089,
+      "sha256": "59b45af4f261837a8fe4f6312a112d6259b085f7bea92896f73f1e4c69c6577f"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/parts.json": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/parts.json",
+      "bytes": 6031,
+      "sha256": "a387e7ad7a33250f4953a8088975d355fdc7cf160d9ecaaa3a1ae2ef4598c05c"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/SOURCE_FILES.json": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/SOURCE_FILES.json",
+      "bytes": 2985,
+      "sha256": "1a2a71c947e672bfd487ad2f30974723d057b894394b43e3e15ee886e24958d7"
+    },
+    "ducky0-v1/v0mod_ducky0_motor_cooling/LICENSE": {
+      "path": "ducky0-v1/v0mod_ducky0_motor_cooling/LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "ducky0-v1/v0mod_ducky0_motor_cooling/NOTICE.txt": {
+      "path": "ducky0-v1/v0mod_ducky0_motor_cooling/NOTICE.txt",
+      "bytes": 482,
+      "sha256": "aad8161605e13381a5b530b26ce1ea876f81c73cbe2f41639d0a73f1f9db5351"
+    },
+    "ducky0-v1/v0mod_ducky0_motor_cooling/SOURCE_FILES.json": {
+      "path": "ducky0-v1/v0mod_ducky0_motor_cooling/SOURCE_FILES.json",
+      "bytes": 1801,
+      "sha256": "bec1717ee64e64cac6aa8d59cfe6ef3f925102d597b52ed39ead66cc8a1cff86"
+    },
+    "ducky0-v1/v0mod_ducky0_motor_cooling/parts.json": {
+      "path": "ducky0-v1/v0mod_ducky0_motor_cooling/parts.json",
+      "bytes": 4503,
+      "sha256": "961b07d30aca04a02e0002b338e516602d58e313fd389dd33437be7414c23b1d"
+    },
+    "ducky0-v1/v0mod_ducky0_motor_cooling/model.glb.gz": {
+      "path": "ducky0-v1/v0mod_ducky0_motor_cooling/model.glb.gz",
+      "bytes": 95593,
+      "sha256": "0bf3bfcb60634058c377fe4cf09858ff366249cb35c166abe61905370d39290b",
+      "encoding": "gzip",
+      "decoded_bytes": 452612,
+      "decoded_sha256": "0d694b53cf0fe7c4ae7b65349db58564f2e35ee7cb6409cc2eef22b59622c31f"
+    },
+    "ducky0-v1/v0mod_ducky0_electronics_mounts/LICENSE": {
+      "path": "ducky0-v1/v0mod_ducky0_electronics_mounts/LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "ducky0-v1/v0mod_ducky0_electronics_mounts/NOTICE.txt": {
+      "path": "ducky0-v1/v0mod_ducky0_electronics_mounts/NOTICE.txt",
+      "bytes": 1131,
+      "sha256": "cb5f74372674ae674c76c692875f30c2652538014b92bd2290346ddc17c99774"
+    },
+    "ducky0-v1/v0mod_ducky0_electronics_mounts/SOURCE_FILES.json": {
+      "path": "ducky0-v1/v0mod_ducky0_electronics_mounts/SOURCE_FILES.json",
+      "bytes": 870,
+      "sha256": "a1f372b606da9533efe65946297d6f43ece7555dea0bd1ddc6cc9b3e03f96016"
+    },
+    "ducky0-v1/v0mod_ducky0_electronics_mounts/parts.json": {
+      "path": "ducky0-v1/v0mod_ducky0_electronics_mounts/parts.json",
+      "bytes": 2526,
+      "sha256": "520ee28f0f6c1398c995c2645f6f091720e0f3fa12514624a27101e811a20a36"
+    },
+    "ducky0-v1/v0mod_ducky0_electronics_mounts/model.glb.gz": {
+      "path": "ducky0-v1/v0mod_ducky0_electronics_mounts/model.glb.gz",
+      "bytes": 68102,
+      "sha256": "8c1c4f5f12ea332917fe109c4ee8ec4879f84aad10e757cb765c513f0767d528",
+      "encoding": "gzip",
+      "decoded_bytes": 304532,
+      "decoded_sha256": "71e820c76e11d5ab4336ea01d6bc59f00d597e2b6fae5f36d227316c62e0aa27"
+    },
+    "eva2_vminion_lgx_bmo/parts.json": {
+      "path": "eva-generations-v1/eva2_vminion_lgx_bmo/parts.json",
+      "bytes": 79056,
+      "sha256": "9831dc9193fab6d3c98e4b3e9b2d8348f8c2345b1137de13e7730a7869adae92"
+    },
+    "eva2_vminion_lgx_bmo/model.glb": {
+      "path": "eva-generations-v1/eva2_vminion_lgx_bmo/model.glb.gz",
+      "bytes": 4438059,
+      "sha256": "6bc9646adc104c066d7a568d3a6d21dd0392b29392eaae920b1240bf955d43fb",
+      "encoding": "gzip",
+      "decoded_bytes": 10128596,
+      "decoded_sha256": "21b8cf9694d86062e6b124051c1b60b963d66328a0df7a1b45ba2baaabd46b3b"
+    },
+    "eva2_vminion_lgx_bmo/SOURCE_RECIPE.json": {
+      "path": "eva-generations-v1/eva2_vminion_lgx_bmo/SOURCE_RECIPE.json",
+      "bytes": 6531,
+      "sha256": "0fc29a3bb93157e3372fe8797f8597c031f09d9c9a37539e59babcc279d28572"
+    },
+    "eva2_vminion_lgx_bmo/NATIVE_BOUNDS_RECEIPT.json": {
+      "path": "eva-generations-v1/eva2_vminion_lgx_bmo/NATIVE_BOUNDS_RECEIPT.json",
+      "bytes": 11089,
+      "sha256": "83e5a44adb3a6d1694e420d46c598fc9edc6ca78c387395026aa5b3f0fd55749"
+    },
+    "eva3_ratrig_vcore31_urn9_rapido_hf_lgx_lite/parts.json": {
+      "path": "eva-generations-v1/eva3_ratrig_vcore31_urn9_rapido_hf_lgx_lite/parts.json",
+      "bytes": 962860,
+      "sha256": "7d547ae0d602a6cfc90351ff5cf6089f7d7e45b164657a0c34456d8208d073db"
+    },
+    "eva3_ratrig_vcore31_urn9_rapido_hf_lgx_lite/model.glb": {
+      "path": "eva-generations-v1/eva3_ratrig_vcore31_urn9_rapido_hf_lgx_lite/model.glb.gz",
+      "bytes": 16998549,
+      "sha256": "4c9bdc6f9fe29543f6f2969d69842315639bce7a186ea51eb289f5c922b792b2",
+      "encoding": "gzip",
+      "decoded_bytes": 35883076,
+      "decoded_sha256": "619857aca76e72c14601b086db8c2cf86b7c3ab7d24b1e4323f3d60f6eb58168"
+    },
+    "eva3_ratrig_vcore31_urn9_rapido_hf_lgx_lite/NATIVE_DATUMS.json": {
+      "path": "eva-generations-v1/eva3_ratrig_vcore31_urn9_rapido_hf_lgx_lite/NATIVE_DATUMS.json",
+      "bytes": 978,
+      "sha256": "1e75f00f10f0d0cbfc278c0842fa44fa0100580fcfeb1c1273a73709ef76ae98"
+    },
+    "eva3_ratrig_vcore31_urn9_rapido_hf_lgx_lite/SOURCE_COLORS.json": {
+      "path": "eva-generations-v1/eva3_ratrig_vcore31_urn9_rapido_hf_lgx_lite/SOURCE_COLORS.json",
+      "bytes": 1898908,
+      "sha256": "8a88452c00735d72b8b6d946b6da74169f254a4a391b93d0f65026d4aac7b0f3"
+    },
+    "eva3_ratrig_vcore31_urn9_rapido_hf_lgx_lite/EXPORT_RECEIPT.json": {
+      "path": "eva-generations-v1/eva3_ratrig_vcore31_urn9_rapido_hf_lgx_lite/EXPORT_RECEIPT.json",
+      "bytes": 2485,
+      "sha256": "eac7e91f43aaedb0efc3744314836d2655f7e24c99f99f2e2bfb57395a30d51d"
+    },
+    "eva-generations-v1/NOTICE.txt": {
+      "path": "eva-generations-v1/NOTICE.txt",
+      "bytes": 1104,
+      "sha256": "63287877136a1284581fcea6d48f5b4ee68980d62fbcd6ae1007067af1b3183f"
+    },
+    "eva-installed-v1/reviews/eva2_mount.json": {
+      "path": "eva-installed-v1/reviews/eva2_mount.json",
+      "bytes": 15352,
+      "sha256": "e43318764bae2cd8817cb91e0048c5b0bb3eb8f28ae27b3c2c62484a41dd8658"
+    },
+    "eva-installed-v1/reviews/eva3_mount.json": {
+      "path": "eva-installed-v1/reviews/eva3_mount.json",
+      "bytes": 14909,
+      "sha256": "8c5d20e403a7c7e7ab83ab04c81bfab37bc8879e208ae460252e2eb51d7639ad"
+    },
+    "eva-installed-v1/vcore31/assembly_manifest.json": {
+      "path": "eva-installed-v1/vcore31/assembly_manifest.json",
+      "bytes": 3166575,
+      "sha256": "c189b953685eb811c9fa9a2fe0d0aafbda169dcaf24c3ceee3294e186f7ab185"
+    },
+    "eva-installed-v1/vcore31/machine_profile.json": {
+      "path": "eva-installed-v1/vcore31/machine_profile.json",
+      "bytes": 36233,
+      "sha256": "6ca2464c60b71f1911de34b57747f2cb4ead800b053beb2c2a04ee252564ec33"
+    },
+    "eva-installed-v1/vcore31/model.glb": {
+      "path": "eva-installed-v1/vcore31/model.glb.gz",
+      "bytes": 33766127,
+      "sha256": "89b02be47eb3a1ebc66cc6128160ad253247532040c07d905d5f2ec72b76fd27",
+      "encoding": "gzip",
+      "decoded_bytes": 71807460,
+      "decoded_sha256": "6a375f65c81f6cd993313257bab4fe8cae0345ad1b8ee500dece3dc890014a16"
+    },
+    "eva-installed-v1/vcore31/native_mount_review.json": {
+      "path": "eva-installed-v1/vcore31/native_mount_review.json",
+      "bytes": 14909,
+      "sha256": "8c5d20e403a7c7e7ab83ab04c81bfab37bc8879e208ae460252e2eb51d7639ad"
+    }
+  }
+}

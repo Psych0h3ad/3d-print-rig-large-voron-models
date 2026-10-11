@@ -1,0 +1,587 @@
+{
+  "machine_id": "ratrig_vminion_180",
+  "eva_generation": 2,
+  "source_step_sha256": "46650c0be0527b0f799a6ebd5cde210254caafdc4c436f558857fa30c17e9b94",
+  "source_revision": "urn:adsk.wipprod:fs.file:vf.vNkJMJ3hQ6ifQxhNCE27ww?version=7",
+  "mount_review": {
+    "mount_verified": true,
+    "axis_error_mm": 6.054112672007536e-14,
+    "fastener_keys": [
+      "376",
+      "377",
+      "378",
+      "379"
+    ],
+    "rail_keys": [
+      "158"
+    ],
+    "native_scope": "Source occurrence carriage/top opposing mounting faces and four native M3 shaft/bore axes; original rail/block relationship measured. Thread flank fit and whole travel clearance are outside this verified scope.",
+    "full_physical_fit_certified": false
+  },
+  "carriage_key": "315",
+  "printed_mount_key": "324",
+  "native_mating_planes": {
+    "carriage": {
+      "face_ordinal": 4,
+      "z_mm": 176.8999999999999,
+      "center_mm": [
+        -17.499999922180546,
+        35.222375366970816,
+        176.8999999999999
+      ],
+      "normal": [
+        -2.0052862730271596e-24,
+        -5.5178438066009125e-17,
+        1.0
+      ],
+      "area_mm2": 128.80819345827285
+    },
+    "printed_mount": {
+      "face_ordinal": 42,
+      "z_mm": 176.89999999999992,
+      "center_mm": [
+        -17.499999913160064,
+        35.827731264303154,
+        176.89999999999992
+      ],
+      "normal": [
+        1.2246467226488856e-16,
+        -4.097510464991073e-16,
+        -1.0
+      ],
+      "area_mm2": 324.2440280012034
+    },
+    "gap_mm": 2.842170943040401e-14
+  },
+  "native_fastener_hole_axes": [
+    {
+      "fastener_key": "376",
+      "source_shaft": {
+        "face_ordinal": 1,
+        "radius_mm": 1.4635,
+        "axis": [
+          -2.407932153588057e-16,
+          -4.0975081318681436e-16,
+          -1.0
+        ],
+        "origin_mm": [
+          -9.99999992549425,
+          34.99999809712179,
+          183.0499999999999
+        ],
+        "area_mm2": 85.39346931972284
+      },
+      "matched_bores": {
+        "315": {
+          "axis_error_mm": 3.058416825343439e-14,
+          "source_bore": {
+            "face_ordinal": 11,
+            "radius_mm": 1.2645,
+            "axis": [
+              -2.0052862730271607e-24,
+              -5.5178438066009106e-17,
+              1.0
+            ],
+            "origin_mm": [
+              -9.999999925494224,
+              34.999998097121775,
+              175.1499999999999
+            ],
+            "area_mm2": 25.821535418017916
+          }
+        },
+        "324": {
+          "axis_error_mm": 4.5469284304368453e-14,
+          "source_bore": {
+            "face_ordinal": 80,
+            "radius_mm": 1.65,
+            "axis": [
+              1.2246467226488858e-16,
+              -4.0975104649910744e-16,
+              -1.0
+            ],
+            "origin_mm": [
+              -9.99999992549425,
+              34.99999809712175,
+              189.89999999999992
+            ],
+            "area_mm2": 31.87931145230242
+          }
+        }
+      },
+      "thread_flank_fit_verified": false
+    },
+    {
+      "fastener_key": "377",
+      "source_shaft": {
+        "face_ordinal": 1,
+        "radius_mm": 1.4635,
+        "axis": [
+          -2.4079321535880567e-16,
+          -4.097508131868144e-16,
+          -1.0
+        ],
+        "origin_mm": [
+          -24.999999925494222,
+          34.999998320639214,
+          183.0499999999999
+        ],
+        "area_mm2": 85.39346931972287
+      },
+      "matched_bores": {
+        "315": {
+          "axis_error_mm": 1.817905172107534e-14,
+          "source_bore": {
+            "face_ordinal": 1,
+            "radius_mm": 1.2645,
+            "axis": [
+              2.0052862730271607e-24,
+              5.5178438066009106e-17,
+              -1.0
+            ],
+            "origin_mm": [
+              -24.999999925494222,
+              34.99999832063919,
+              175.1499999999999
+            ],
+            "area_mm2": 23.835263462785772
+          }
+        },
+        "324": {
+          "axis_error_mm": 6.054112672007536e-14,
+          "source_bore": {
+            "face_ordinal": 59,
+            "radius_mm": 1.65,
+            "axis": [
+              1.2246467226488858e-16,
+              -4.0975104649910744e-16,
+              -1.0
+            ],
+            "origin_mm": [
+              -24.99999992549425,
+              34.999998320639165,
+              189.89999999999992
+            ],
+            "area_mm2": 31.87931145230243
+          }
+        }
+      },
+      "thread_flank_fit_verified": false
+    },
+    {
+      "fastener_key": "378",
+      "source_shaft": {
+        "face_ordinal": 1,
+        "radius_mm": 1.4635,
+        "axis": [
+          -2.4079321535880567e-16,
+          -4.097508131868144e-16,
+          -1.0
+        ],
+        "origin_mm": [
+          -9.999999627471016,
+          54.99999809712176,
+          183.0499999999999
+        ],
+        "area_mm2": 85.39346931972287
+      },
+      "matched_bores": {
+        "315": {
+          "axis_error_mm": 2.1498664277918036e-14,
+          "source_bore": {
+            "face_ordinal": 9,
+            "radius_mm": 1.2645,
+            "axis": [
+              -2.0052862730271607e-24,
+              -5.5178438066009106e-17,
+              1.0
+            ],
+            "origin_mm": [
+              -9.999999627471006,
+              54.999998097121775,
+              175.1499999999999
+            ],
+            "area_mm2": 25.821535418017838
+          }
+        },
+        "324": {
+          "axis_error_mm": 1.9137605002448656e-14,
+          "source_bore": {
+            "face_ordinal": 77,
+            "radius_mm": 1.65,
+            "axis": [
+              1.2246467226488858e-16,
+              -4.0975104649910744e-16,
+              -1.0
+            ],
+            "origin_mm": [
+              -9.999999627471023,
+              54.99999809712175,
+              189.89999999999992
+            ],
+            "area_mm2": 31.879311452302417
+          }
+        }
+      },
+      "thread_flank_fit_verified": false
+    },
+    {
+      "fastener_key": "379",
+      "source_shaft": {
+        "face_ordinal": 1,
+        "radius_mm": 1.4635,
+        "axis": [
+          -2.4079321535880567e-16,
+          -4.097508131868144e-16,
+          -1.0
+        ],
+        "origin_mm": [
+          -24.999999627471006,
+          54.99999832063918,
+          183.0499999999999
+        ],
+        "area_mm2": 85.39346931972287
+      },
+      "matched_bores": {
+        "315": {
+          "axis_error_mm": 2.629018426961256e-14,
+          "source_bore": {
+            "face_ordinal": 7,
+            "radius_mm": 1.2645,
+            "axis": [
+              2.0052862730271607e-24,
+              5.5178438066009106e-17,
+              -1.0
+            ],
+            "origin_mm": [
+              -24.999999627470988,
+              54.99999832063919,
+              175.1499999999999
+            ],
+            "area_mm2": 25.821535418017838
+          }
+        },
+        "324": {
+          "axis_error_mm": 2.581598302733552e-14,
+          "source_bore": {
+            "face_ordinal": 56,
+            "radius_mm": 1.65,
+            "axis": [
+              1.2246467226488858e-16,
+              -4.0975104649910744e-16,
+              -1.0
+            ],
+            "origin_mm": [
+              -24.999999627471023,
+              54.999998320639165,
+              189.89999999999992
+            ],
+            "area_mm2": 31.879311452302435
+          }
+        }
+      },
+      "thread_flank_fit_verified": false
+    }
+  ],
+  "rail_block": {
+    "rail_key": "158",
+    "block_key": "315",
+    "native_minimum_distance_mm": 0.0,
+    "native_common_volume_mm3": 0.0,
+    "intended_rolling_contact_certified": false,
+    "source_linear_axis": [
+      1,
+      0,
+      0
+    ]
+  },
+  "source_leaf_witnesses": [
+    {
+      "key": "315",
+      "source_identity": {
+        "path": [
+          "Rat Rig - V-Minion 1.0 v7",
+          "Full Assembly v6:1",
+          "EVA Assembly v5:1",
+          "_MGN12C Carriage v1:1"
+        ],
+        "label_path": [
+          "0:1:1:1",
+          "0:1:1:1:2",
+          "0:1:1:3:11",
+          "0:1:1:112:1"
+        ],
+        "definition_label": "0:1:1:113"
+      },
+      "native_transform": [
+        [
+          1.4901161344065704e-08,
+          -1.0,
+          3.0079296111656038e-24,
+          -17.49999977648261
+        ],
+        [
+          1.0,
+          1.4901161344065704e-08,
+          2.8125278151737206e-16,
+          44.999998208880484
+        ],
+        [
+          -2.812527815173721e-16,
+          -1.1830634646920165e-24,
+          1.0,
+          166.8999999999999
+        ]
+      ],
+      "brep_sha256": "580189672f447b8bc601a1b3d912c0dde89f98d72b90b8f5a0300f38ed85f8d6",
+      "valid": true
+    },
+    {
+      "key": "324",
+      "source_identity": {
+        "path": [
+          "Rat Rig - V-Minion 1.0 v7",
+          "Full Assembly v6:1",
+          "EVA Assembly v5:1",
+          "top_mgn12_lgx_lite v2:1"
+        ],
+        "label_path": [
+          "0:1:1:1",
+          "0:1:1:1:2",
+          "0:1:1:3:11",
+          "0:1:1:112:8"
+        ],
+        "definition_label": "0:1:1:123"
+      },
+      "native_transform": [
+        [
+          1.4901161344065558e-08,
+          -5.735076468495636e-24,
+          -1.0,
+          4.550000096857492
+        ],
+        [
+          1.0,
+          -2.812530094167006e-16,
+          1.4901161344065558e-08,
+          36.49999788030985
+        ],
+        [
+          -2.812530094167007e-16,
+          -1.0,
+          1.544079996673391e-24,
+          188.89999999999992
+        ]
+      ],
+      "brep_sha256": "5c3146aa2ca45cb3e5a0ad666fc342bff65ddf167cf5ec13cfaa23f895ab85ab",
+      "valid": true
+    },
+    {
+      "key": "158",
+      "source_identity": {
+        "path": [
+          "Rat Rig - V-Minion 1.0 v7",
+          "Full Assembly v6:1",
+          "X-Axis Assembly v3:1",
+          "MGN12R 250mm 2020 Assembly v2:1",
+          "Linear Rail - MGN12 250mm + MGN12C carriage v1:1"
+        ],
+        "label_path": [
+          "0:1:1:1",
+          "0:1:1:1:2",
+          "0:1:1:3:4",
+          "0:1:1:45:23",
+          "0:1:1:66:1"
+        ],
+        "definition_label": "0:1:1:67"
+      },
+      "native_transform": [
+        [
+          -1.4901161221600883e-08,
+          1.0,
+          -4.980153074880785e-16,
+          61.50000022351719
+        ],
+        [
+          -1.0,
+          -1.4901161221600883e-08,
+          -1.2246467456168016e-16,
+          44.999997031688736
+        ],
+        [
+          -1.2246468198268658e-16,
+          4.980153056632125e-16,
+          1.0,
+          163.89999999999958
+        ]
+      ],
+      "brep_sha256": "0797b497149ab57e9acac91686144431a6ca23bf638cebd0f8236d4369bc2ca9",
+      "valid": true
+    },
+    {
+      "key": "376",
+      "source_identity": {
+        "path": [
+          "Rat Rig - V-Minion 1.0 v7",
+          "Full Assembly v6:1",
+          "EVA Assembly v5:1",
+          "Cap Head Screw M3x10 v2:3"
+        ],
+        "label_path": [
+          "0:1:1:1",
+          "0:1:1:1:2",
+          "0:1:1:3:11",
+          "0:1:1:112:51"
+        ],
+        "definition_label": "0:1:1:146"
+      },
+      "native_transform": [
+        [
+          -1.0,
+          -1.4901161691010253e-08,
+          2.407932153588057e-16,
+          -9.99999992549425
+        ],
+        [
+          1.4901161691010253e-08,
+          -1.0,
+          4.097508131868145e-16,
+          34.99999809712179
+        ],
+        [
+          2.4079320925304253e-16,
+          4.0975081677491313e-16,
+          1.0,
+          183.0499999999999
+        ]
+      ],
+      "brep_sha256": "07b362b89179533955b27ca7332305c3b57b7d2e5a786b4bb7f11916b2bc7e21",
+      "valid": true
+    },
+    {
+      "key": "377",
+      "source_identity": {
+        "path": [
+          "Rat Rig - V-Minion 1.0 v7",
+          "Full Assembly v6:1",
+          "EVA Assembly v5:1",
+          "Cap Head Screw M3x10 v2:4"
+        ],
+        "label_path": [
+          "0:1:1:1",
+          "0:1:1:1:2",
+          "0:1:1:3:11",
+          "0:1:1:112:52"
+        ],
+        "definition_label": "0:1:1:146"
+      },
+      "native_transform": [
+        [
+          -1.0,
+          -1.4901161405297897e-08,
+          2.407932153588057e-16,
+          -24.999999925494222
+        ],
+        [
+          1.4901161405297897e-08,
+          -1.0,
+          4.097508131868145e-16,
+          34.999998320639214
+        ],
+        [
+          2.4079320925304267e-16,
+          4.0975081677491303e-16,
+          1.0,
+          183.0499999999999
+        ]
+      ],
+      "brep_sha256": "668ea2d0ca6f6b37025c96c50a5b855af7f4d04c246400ed4d552f01092891ff",
+      "valid": true
+    },
+    {
+      "key": "378",
+      "source_identity": {
+        "path": [
+          "Rat Rig - V-Minion 1.0 v7",
+          "Full Assembly v6:1",
+          "EVA Assembly v5:1",
+          "Cap Head Screw M3x10 v2:5"
+        ],
+        "label_path": [
+          "0:1:1:1",
+          "0:1:1:1:2",
+          "0:1:1:3:11",
+          "0:1:1:112:53"
+        ],
+        "definition_label": "0:1:1:146"
+      },
+      "native_transform": [
+        [
+          -1.0,
+          -1.4901161405297897e-08,
+          2.407932153588057e-16,
+          -9.999999627471016
+        ],
+        [
+          1.4901161405297897e-08,
+          -1.0,
+          4.097508131868145e-16,
+          54.99999809712176
+        ],
+        [
+          2.4079320925304267e-16,
+          4.0975081677491303e-16,
+          1.0,
+          183.0499999999999
+        ]
+      ],
+      "brep_sha256": "1bc5817b67437308af8c94efbb6ad28f4cbd3380426ece6d8734865f863b46ba",
+      "valid": true
+    },
+    {
+      "key": "379",
+      "source_identity": {
+        "path": [
+          "Rat Rig - V-Minion 1.0 v7",
+          "Full Assembly v6:1",
+          "EVA Assembly v5:1",
+          "Cap Head Screw M3x10 v2:6"
+        ],
+        "label_path": [
+          "0:1:1:1",
+          "0:1:1:1:2",
+          "0:1:1:3:11",
+          "0:1:1:112:54"
+        ],
+        "definition_label": "0:1:1:146"
+      },
+      "native_transform": [
+        [
+          -1.0,
+          -1.4901161405297897e-08,
+          2.407932153588057e-16,
+          -24.999999627471006
+        ],
+        [
+          1.4901161405297897e-08,
+          -1.0,
+          4.097508131868145e-16,
+          54.99999832063918
+        ],
+        [
+          2.4079320925304267e-16,
+          4.0975081677491303e-16,
+          1.0,
+          183.0499999999999
+        ]
+      ],
+      "brep_sha256": "a96a032c8e9be866c24e88f37df1b1d5c1ea50ceb45609211e85cc82daef8e25",
+      "valid": true
+    }
+  ],
+  "full_physical_fit_certified": false,
+  "open_findings": [
+    "Native rail/block rolling/contact geometry is retained; no friction, preload or thread flank certificate.",
+    "Whole-machine travel and source head rigid-body overlaps are reviewed separately."
+  ]
+}
