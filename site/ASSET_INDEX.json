@@ -639,6 +639,174 @@
       "path": "doomcube-v103/LICENSE.txt",
       "bytes": 35149,
       "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_accessories/LICENSE": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_accessories/LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_accessories/model.glb.gz": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_accessories/model.glb.gz",
+      "bytes": 369355,
+      "sha256": "0d7e65a9078dda1a6b2650be3c80e035f70a35118a9c33150e52248400bb4fbe",
+      "encoding": "gzip",
+      "decoded_bytes": 1396656,
+      "decoded_sha256": "b3577765491cf6e03dfe31bdf1fea164fdfeebea0aa6bb50b260226efa320883"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_accessories/NOTICE.txt": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_accessories/NOTICE.txt",
+      "bytes": 1089,
+      "sha256": "59b45af4f261837a8fe4f6312a112d6259b085f7bea92896f73f1e4c69c6577f"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_accessories/parts.json": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_accessories/parts.json",
+      "bytes": 5812,
+      "sha256": "542081947cdb8a0f8b299a6b687587ed93fb132b66f62a195ba4de128ce7f45c"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_accessories/SOURCE_FILES.json": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_accessories/SOURCE_FILES.json",
+      "bytes": 2878,
+      "sha256": "b7bf0dea660395ce5eb6b1da634e075c2d9c052c28473e5b9ca56b860bcc6553"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/LICENSE": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/model.glb.gz": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/model.glb.gz",
+      "bytes": 1973484,
+      "sha256": "c2a87b7810978502c1d87188bae04e1395511d4de3fbece1c2f8bbc6e352423c",
+      "encoding": "gzip",
+      "decoded_bytes": 5754972,
+      "decoded_sha256": "ce9482ee21944c40eac9a8a9a74c31ed69ca087778f3b244238c024a17668d5e"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/NOTICE.txt": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/NOTICE.txt",
+      "bytes": 1089,
+      "sha256": "59b45af4f261837a8fe4f6312a112d6259b085f7bea92896f73f1e4c69c6577f"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/parts.json": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/parts.json",
+      "bytes": 1526,
+      "sha256": "126ee01f35d252415f3c99a5c122fd623b1e622a844fd5e32b581671574fca5c"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/SOURCE_FILES.json": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_air_ducts/SOURCE_FILES.json",
+      "bytes": 474,
+      "sha256": "ecc80e0cfb09664e0ff73946bd95d60f15c42551d2729f01171bd2c35bbb853f"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/LICENSE": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/model.glb.gz": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/model.glb.gz",
+      "bytes": 1189094,
+      "sha256": "b1bce37f51b40f019fcbff0f766cb85319cf698dd474ecd8d875dc94906d6bd7",
+      "encoding": "gzip",
+      "decoded_bytes": 4360656,
+      "decoded_sha256": "7605f5fba7945a479f29faf6ae95da1a159ebfc379364c3b7ca7c88f52b2a06e"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/NOTICE.txt": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/NOTICE.txt",
+      "bytes": 1089,
+      "sha256": "59b45af4f261837a8fe4f6312a112d6259b085f7bea92896f73f1e4c69c6577f"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/parts.json": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/parts.json",
+      "bytes": 4917,
+      "sha256": "0865b0b10c8e66aff1f70d44c0090993cccece7b8e0240532030deaee28a73f5"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/SOURCE_FILES.json": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_awd_coconut_v2/SOURCE_FILES.json",
+      "bytes": 2536,
+      "sha256": "a6e9cf2eff72f241fa4cd8beadc1191cb8595eae8968c548c1710ddc90675ba1"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_belted_z/LICENSE": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_belted_z/LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_belted_z/model.glb.gz": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_belted_z/model.glb.gz",
+      "bytes": 1039633,
+      "sha256": "7954031bf4b33785a9f53015777851ce305416e09503fcd14bb130a210e68372",
+      "encoding": "gzip",
+      "decoded_bytes": 3790552,
+      "decoded_sha256": "55876b50b3ef431716c92f1482c372b50ebd9287aac28712f576d5850c79dbe8"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_belted_z/NOTICE.txt": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_belted_z/NOTICE.txt",
+      "bytes": 1089,
+      "sha256": "59b45af4f261837a8fe4f6312a112d6259b085f7bea92896f73f1e4c69c6577f"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_belted_z/parts.json": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_belted_z/parts.json",
+      "bytes": 8486,
+      "sha256": "a27cd54248535a2b1de244b400b864aa7691e31aaf56c3755aba5991e42a528b"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_belted_z/SOURCE_FILES.json": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_belted_z/SOURCE_FILES.json",
+      "bytes": 4243,
+      "sha256": "1600cc3f9665a727dc732c6358610fab7f08b31860e74ea9aa0036eeef23ddef"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_m4max/LICENSE": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_m4max/LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_m4max/model.glb.gz": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_m4max/model.glb.gz",
+      "bytes": 572337,
+      "sha256": "5772cbdec6903f83a48e17c2e9b5deeee62993da289302bc975576ad9701076e",
+      "encoding": "gzip",
+      "decoded_bytes": 2030612,
+      "decoded_sha256": "a84eaadf1cb2e22b29cb32f3296570bd05597e16553d9a70cb7e2b36dc375292"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_m4max/NOTICE.txt": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_m4max/NOTICE.txt",
+      "bytes": 1089,
+      "sha256": "59b45af4f261837a8fe4f6312a112d6259b085f7bea92896f73f1e4c69c6577f"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_m4max/parts.json": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_m4max/parts.json",
+      "bytes": 7438,
+      "sha256": "ec8e31a2089315cfe22f310d6be61a5d139a352bf193b49bfc88a65e4d42390f"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_m4max/SOURCE_FILES.json": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_m4max/SOURCE_FILES.json",
+      "bytes": 3498,
+      "sha256": "f99bb123bc5b3b4b27f3e71c8b6b608a146f7bf69632b09a945256dadc146926"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/LICENSE": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/model.glb.gz": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/model.glb.gz",
+      "bytes": 600624,
+      "sha256": "64d59a3d9fcd8be218413ef06739dc81528ecd0d2c5d2eb63785429c2e78c6ed",
+      "encoding": "gzip",
+      "decoded_bytes": 2094044,
+      "decoded_sha256": "6d5e2fb7053f3e644132b3306e38b59ef9d1deac05963650e35c086bd382e017"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/NOTICE.txt": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/NOTICE.txt",
+      "bytes": 1089,
+      "sha256": "59b45af4f261837a8fe4f6312a112d6259b085f7bea92896f73f1e4c69c6577f"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/parts.json": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/parts.json",
+      "bytes": 6031,
+      "sha256": "a387e7ad7a33250f4953a8088975d355fdc7cf160d9ecaaa3a1ae2ef4598c05c"
+    },
+    "cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/SOURCE_FILES.json": {
+      "path": "cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/SOURCE_FILES.json",
+      "bytes": 2985,
+      "sha256": "1a2a71c947e672bfd487ad2f30974723d057b894394b43e3e15ee886e24958d7"
     }
   }
 }
