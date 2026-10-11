@@ -1,0 +1,34 @@
+[
+  {
+    "path": "STLs/12032 Motor cooling bracket top left.stl",
+    "bytes": 92084,
+    "git_blob_sha1": "bbb1313d1626101037740b52980bdb10200f2398",
+    "revision": "a831046bed5624bc98ab2a42843d2d5ae851755a",
+    "url": "https://raw.githubusercontent.com/Ducky28/Ducky0/a831046bed5624bc98ab2a42843d2d5ae851755a/STLs/12032%20Motor%20cooling%20bracket%20top%20left.stl",
+    "sha256": "596de48f320c66b9132164235b7a417e4e46ac5f99bcba393d0b93b564cbd58c"
+  },
+  {
+    "path": "STLs/12032 motor cooling bracket bottom left.stl",
+    "bytes": 162684,
+    "git_blob_sha1": "76e27bf45b91d0b994d0d2fb718434eaf1f0ffda",
+    "revision": "a831046bed5624bc98ab2a42843d2d5ae851755a",
+    "url": "https://raw.githubusercontent.com/Ducky28/Ducky0/a831046bed5624bc98ab2a42843d2d5ae851755a/STLs/12032%20motor%20cooling%20bracket%20bottom%20left.stl",
+    "sha256": "c0f9482a1b3b9304bd8c56672e17cc5400ad9543aae89cad603a1f45af1fa9d0"
+  },
+  {
+    "path": "STLs/12032 motor cooling bracket.stl",
+    "bytes": 119284,
+    "git_blob_sha1": "b980707db08a4bf321208fe732739117a456b526",
+    "revision": "a831046bed5624bc98ab2a42843d2d5ae851755a",
+    "url": "https://raw.githubusercontent.com/Ducky28/Ducky0/a831046bed5624bc98ab2a42843d2d5ae851755a/STLs/12032%20motor%20cooling%20bracket.stl",
+    "sha256": "770d2d8790193f6d10c0d324f3f3a953098bdc1a4d9f3bf8578aff1e4b872c29"
+  },
+  {
+    "path": "STLs/12032 motor cooling top bracket.stl",
+    "bytes": 92084,
+    "git_blob_sha1": "dc62d923a72ae323fb01647d99447973c0ae84f9",
+    "revision": "a831046bed5624bc98ab2a42843d2d5ae851755a",
+    "url": "https://raw.githubusercontent.com/Ducky28/Ducky0/a831046bed5624bc98ab2a42843d2d5ae851755a/STLs/12032%20motor%20cooling%20top%20bracket.stl",
+    "sha256": "48d54eef4d5859287e991375aec96a5f14ec858cec695b81e55b1bf7f97aee53"
+  }
+]

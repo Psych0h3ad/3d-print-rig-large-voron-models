@@ -1,0 +1,9 @@
+Ducky0 source-part preview
+Ducky28: https://github.com/Ducky28/Ducky0
+Revision: a831046bed5624bc98ab2a42843d2d5ae851755a
+Repository license: GPL-3.0
+FT BTT Pi TFT70 screen mount by Fizzy / @FizzysTech: https://www.printables.com/model/581227-ft-btt-pi-tft70-screen-mount
+Original work: CC-BY-SA-4.0, https://creativecommons.org/licenses/by-sa/4.0/ (observed 2026-10-11). Ducky0 contributions: repository-declared GPL-3.0. GPLv3 is an approved one-way adaptation license for CC-BY-SA-4.0: https://creativecommons.org/compatible-licenses/ . This does not relicense the original work.
+Only the Ducky0 attachment STL is included. Exact original file revision, modification history and the full screen assembly are not supplied. Preview conversion changes units, axes, normals and viewer material only.
+Original source triangles and winding retained; source supports have not been identified or removed. Viewer base material is illustrative; STL has no authored color.
+Independent source parts only. Complete printer assembly, installation, hardware completeness and motion are unverified. No unrelated firmware or UI artwork included.

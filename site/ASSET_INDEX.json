@@ -807,6 +807,62 @@
       "path": "cocobustorzero-v1/v0mod_cocobustorzero_ulw_x/SOURCE_FILES.json",
       "bytes": 2985,
       "sha256": "1a2a71c947e672bfd487ad2f30974723d057b894394b43e3e15ee886e24958d7"
+    },
+    "ducky0-v1/v0mod_ducky0_motor_cooling/LICENSE": {
+      "path": "ducky0-v1/v0mod_ducky0_motor_cooling/LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "ducky0-v1/v0mod_ducky0_motor_cooling/NOTICE.txt": {
+      "path": "ducky0-v1/v0mod_ducky0_motor_cooling/NOTICE.txt",
+      "bytes": 482,
+      "sha256": "aad8161605e13381a5b530b26ce1ea876f81c73cbe2f41639d0a73f1f9db5351"
+    },
+    "ducky0-v1/v0mod_ducky0_motor_cooling/SOURCE_FILES.json": {
+      "path": "ducky0-v1/v0mod_ducky0_motor_cooling/SOURCE_FILES.json",
+      "bytes": 1801,
+      "sha256": "bec1717ee64e64cac6aa8d59cfe6ef3f925102d597b52ed39ead66cc8a1cff86"
+    },
+    "ducky0-v1/v0mod_ducky0_motor_cooling/parts.json": {
+      "path": "ducky0-v1/v0mod_ducky0_motor_cooling/parts.json",
+      "bytes": 4503,
+      "sha256": "961b07d30aca04a02e0002b338e516602d58e313fd389dd33437be7414c23b1d"
+    },
+    "ducky0-v1/v0mod_ducky0_motor_cooling/model.glb.gz": {
+      "path": "ducky0-v1/v0mod_ducky0_motor_cooling/model.glb.gz",
+      "bytes": 95593,
+      "sha256": "0bf3bfcb60634058c377fe4cf09858ff366249cb35c166abe61905370d39290b",
+      "encoding": "gzip",
+      "decoded_bytes": 452612,
+      "decoded_sha256": "0d694b53cf0fe7c4ae7b65349db58564f2e35ee7cb6409cc2eef22b59622c31f"
+    },
+    "ducky0-v1/v0mod_ducky0_electronics_mounts/LICENSE": {
+      "path": "ducky0-v1/v0mod_ducky0_electronics_mounts/LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "ducky0-v1/v0mod_ducky0_electronics_mounts/NOTICE.txt": {
+      "path": "ducky0-v1/v0mod_ducky0_electronics_mounts/NOTICE.txt",
+      "bytes": 1131,
+      "sha256": "cb5f74372674ae674c76c692875f30c2652538014b92bd2290346ddc17c99774"
+    },
+    "ducky0-v1/v0mod_ducky0_electronics_mounts/SOURCE_FILES.json": {
+      "path": "ducky0-v1/v0mod_ducky0_electronics_mounts/SOURCE_FILES.json",
+      "bytes": 870,
+      "sha256": "a1f372b606da9533efe65946297d6f43ece7555dea0bd1ddc6cc9b3e03f96016"
+    },
+    "ducky0-v1/v0mod_ducky0_electronics_mounts/parts.json": {
+      "path": "ducky0-v1/v0mod_ducky0_electronics_mounts/parts.json",
+      "bytes": 2526,
+      "sha256": "520ee28f0f6c1398c995c2645f6f091720e0f3fa12514624a27101e811a20a36"
+    },
+    "ducky0-v1/v0mod_ducky0_electronics_mounts/model.glb.gz": {
+      "path": "ducky0-v1/v0mod_ducky0_electronics_mounts/model.glb.gz",
+      "bytes": 68102,
+      "sha256": "8c1c4f5f12ea332917fe109c4ee8ec4879f84aad10e757cb765c513f0767d528",
+      "encoding": "gzip",
+      "decoded_bytes": 304532,
+      "decoded_sha256": "71e820c76e11d5ab4336ea01d6bc59f00d597e2b6fae5f36d227316c62e0aa27"
     }
   }
 }
