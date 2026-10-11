@@ -1,0 +1,15 @@
+EVA source toolhead assemblies
+
+EVA by Pawel Kucmus. Complete printer assemblies by Rat Rig.
+EVA 2.x: V-Minion 1.0 v7 / EVA Assembly v5.
+EVA 3.x: V-Core 3.1 v9 / EVA 3 Assembly v4.
+Exact EVA patch versions are not identified. Original native placements retained; viewer geometry is extracted/tessellated. Purchased polymer material overrides are recorded in the corresponding recipe/receipt. No identified built-in supports were removed; support identity remains unresolved.
+
+Public sources and license notices:
+https://wiki.ratrig.com/products/v-minion/files
+https://wiki.ratrig.com/products/v-core-3-1/files
+https://github.com/Rat-Rig/V-Minion/blob/6811558082d6a1797dac160ca027692cd7904a4b/LICENSE
+https://github.com/Rat-Rig/V-core-3/blob/4f5d91f42c9a9f7ec346c73728fa6329491aad8c/LICENSE
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+CC BY-NC-SA 4.0: retain attribution, noncommercial use and ShareAlike terms, with original disclaimers. Individual upstream components retain their own applicable source terms. The viewer references do not certify other printer mounting or continuous clearance.

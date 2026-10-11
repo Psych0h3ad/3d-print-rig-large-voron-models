@@ -1,0 +1,95 @@
+{
+  "id": "eva3_ratrig_vcore31_urn9_rapido_hf_lgx_lite",
+  "parts": 123,
+  "triangles": 1175712,
+  "vertices": 901479,
+  "source_revision": "urn:adsk.wipprod:fs.file:vf.eL92Eu5CTp6oAA3iYBTPpw?version=9",
+  "source_sha256": "9bfde01c4d811eaef253831f2fe7354e14c36b607d36b5b37bfc4fe9f48906d6",
+  "companion_counts": {
+    "carriage": 2,
+    "core": 13,
+    "cover": 1,
+    "duct": 2,
+    "extruder": 11,
+    "extruder_mount": 1,
+    "fasteners": 96,
+    "hotend": 1,
+    "hotend_fan": 1,
+    "hotend_mount": 1,
+    "nozzle": 1,
+    "part_fan": 1,
+    "probe": 1,
+    "probe_mount": 1
+  },
+  "appearance_counts": {
+    "purchased": 108,
+    "base": 11,
+    "accent": 4
+  },
+  "files": {
+    "model.glb": {
+      "bytes": 35883076,
+      "sha256": "619857aca76e72c14601b086db8c2cf86b7c3ab7d24b1e4323f3d60f6eb58168"
+    },
+    "model.glb.gz": {
+      "bytes": 16998549,
+      "sha256": "4c9bdc6f9fe29543f6f2969d69842315639bce7a186ea51eb289f5c922b792b2"
+    },
+    "NATIVE_DATUMS.json": {
+      "bytes": 978,
+      "sha256": "1e75f00f10f0d0cbfc278c0842fa44fa0100580fcfeb1c1273a73709ef76ae98"
+    },
+    "parts.json": {
+      "bytes": 962860,
+      "sha256": "7d547ae0d602a6cfc90351ff5cf6089f7d7e45b164657a0c34456d8208d073db"
+    },
+    "SOURCE_COLORS.json": {
+      "bytes": 1898908,
+      "sha256": "8a88452c00735d72b8b6d946b6da74169f254a4a391b93d0f65026d4aac7b0f3"
+    }
+  },
+  "unassigned_source_color_faces": 0,
+  "datums": {
+    "nozzle_native_zup_mm": [
+      6.169073646640315e-07,
+      -61.3000000000003,
+      453.6000034242881
+    ],
+    "nozzle_gltf_m": [
+      6.169073646640314e-10,
+      0.4536000034242881,
+      0.061300000000000306
+    ],
+    "nozzle_part_key": "eva3_native_003",
+    "nozzle_solid_ordinal": 9,
+    "nozzle_exit_face_ordinal": 1585,
+    "nozzle_exit_annular_area_mm2": 0.6597344572538583,
+    "nozzle_bore_face_ordinal": 1598,
+    "evidence": "Native Rapido HF planar annular exit face center; coaxial native 0.4 mm bore",
+    "native_carriage_bounds_mm": [
+      [
+        -17.350000402493436,
+        -44.65000000000013,
+        507.60000317320316
+      ],
+      [
+        17.349999818368204,
+        -17.650000000000126,
+        517.6000035859654
+      ]
+    ],
+    "probe_bounds_mm": [
+      [
+        -32.03461650393241,
+        -80.18461611268911,
+        454.60000296086207
+      ],
+      [
+        -24.16538888538677,
+        -72.31538389007184,
+        504.6000030316426
+      ]
+    ],
+    "probe_tip_minus_nozzle_tip_mm": 0.9999995365739665
+  }
+}

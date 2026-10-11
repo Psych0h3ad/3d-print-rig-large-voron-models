@@ -1,0 +1,43 @@
+{
+  "nozzle_native_zup_mm": [
+    6.169073646640315e-07,
+    -61.3000000000003,
+    453.6000034242881
+  ],
+  "nozzle_gltf_m": [
+    6.169073646640314e-10,
+    0.4536000034242881,
+    0.061300000000000306
+  ],
+  "nozzle_part_key": "eva3_native_003",
+  "nozzle_solid_ordinal": 9,
+  "nozzle_exit_face_ordinal": 1585,
+  "nozzle_exit_annular_area_mm2": 0.6597344572538583,
+  "nozzle_bore_face_ordinal": 1598,
+  "evidence": "Native Rapido HF planar annular exit face center; coaxial native 0.4 mm bore",
+  "native_carriage_bounds_mm": [
+    [
+      -17.350000402493436,
+      -44.65000000000013,
+      507.60000317320316
+    ],
+    [
+      17.349999818368204,
+      -17.650000000000126,
+      517.6000035859654
+    ]
+  ],
+  "probe_bounds_mm": [
+    [
+      -32.03461650393241,
+      -80.18461611268911,
+      454.60000296086207
+    ],
+    [
+      -24.16538888538677,
+      -72.31538389007184,
+      504.6000030316426
+    ]
+  ],
+  "probe_tip_minus_nozzle_tip_mm": 0.9999995365739665
+}
