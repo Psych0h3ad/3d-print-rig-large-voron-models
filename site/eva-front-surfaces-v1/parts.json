@@ -1,0 +1,97 @@
+{
+  "id": "eva_front_surfaces_v1",
+  "schema": "3d-print-rig-eva-front-parts-v1",
+  "source_solids_modified": false,
+  "supports_removed": false,
+  "parts": [
+    {
+      "key": "eva2_shroud",
+      "source_brep_sha256": "c2849ab7e2b621903eec5fb0cf658f7f0d6893f45bfacc016a2105a772f81add",
+      "source_step_sha256": "46650c0be0527b0f799a6ebd5cde210254caafdc4c436f558857fa30c17e9b94",
+      "source_path": [
+        "Rat Rig - V-Minion 1.0 v7",
+        "Full Assembly v6:1",
+        "EVA Assembly v5:1",
+        "ratrig_eva_shroud v2:1"
+      ],
+      "printed": true,
+      "appearance_role": "base",
+      "source_key": "334",
+      "vertices": 11861,
+      "triangles": 11554,
+      "surface_input_sha256": "a602a615bed0845a38f216a5b5b757d61d711afa07ed88a51087d251c4e4f326",
+      "native_bounds_mm": [
+        [
+          -39.66625802126694,
+          -13.361986043538188,
+          127.94842818099845
+        ],
+        [
+          4.696974383583308,
+          0.21774228076910487,
+          187.72426126029148
+        ]
+      ]
+    },
+    {
+      "key": "eva3_shroud",
+      "source_brep_sha256": "f60993d60da9eb279606063b3b066f6168dc79d1d6a54009ac497e92277871bf",
+      "source_step_sha256": "9bfde01c4d811eaef253831f2fe7354e14c36b607d36b5b37bfc4fe9f48906d6",
+      "source_path": [
+        "Rat Rig V-Core 3.1 - 300 v9",
+        "EVA3 Assembly v4:1",
+        "ratrig_eva3_shroud v3:1"
+      ],
+      "printed": true,
+      "appearance_role": "base",
+      "source_key": "889",
+      "vertices": 11841,
+      "triangles": 11532,
+      "surface_input_sha256": "4e2aac06d5f722b6f8ef3c0bc4abf6a57c9ab355c82641c4a32b1cd3da70e27e",
+      "native_bounds_mm": [
+        [
+          -22.166255800879938,
+          -89.65013832771325,
+          473.9484312848156
+        ],
+        [
+          22.196974959516403,
+          -76.07039617390474,
+          533.7242665251161
+        ]
+      ]
+    },
+    {
+      "key": "eva3_inlet",
+      "source_brep_sha256": "e0a95a592dff7faee704e368f384875b82c79f387b4c4660cc3c2bdacb7b4640",
+      "source_step_sha256": "9bfde01c4d811eaef253831f2fe7354e14c36b607d36b5b37bfc4fe9f48906d6",
+      "source_path": [
+        "Rat Rig V-Core 3.1 - 300 v9",
+        "EVA3 Assembly v4:1",
+        "40mm_fan_inlet v2:1"
+      ],
+      "printed": true,
+      "appearance_role": "base",
+      "source_key": "805",
+      "vertices": 24212,
+      "triangles": 34827,
+      "surface_input_sha256": "2bb5d9586d2ed1e2fd5ba689a80ca84bc977821430f44289ea81e382424b7e81",
+      "native_bounds_mm": [
+        [
+          -28.600001284327195,
+          -6.000000100000158,
+          461.10000294281724
+        ],
+        [
+          28.60000203766282,
+          47.60698211204687,
+          548.6744938710046
+        ]
+      ]
+    }
+  ],
+  "notices": [
+    "Rendering-only correction of source-opposed zero-volume fan-grille domains and native outward normals. Original CAD solids, hardware, materials and placements remain unchanged."
+  ],
+  "physical_fit_certified": false
+}

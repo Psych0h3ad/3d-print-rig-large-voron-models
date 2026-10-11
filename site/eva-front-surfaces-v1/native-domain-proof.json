@@ -1,0 +1,1775 @@
+{
+  "schema": "eva-source-null-domain-proof-v1",
+  "status": "approved_for_source_backed_render_surface_correction_only",
+  "proof_scope": "Exact source shroud back-plane cap domains and inlet native surface normal/winding. No native BRep repair or whole-printer physical-fit certificate.",
+  "public_sources_only": true,
+  "author_printable": {
+    "source_url": "https://raw.githubusercontent.com/Rat-Rig/V-core-3/4f5d91f42c9a9f7ec346c73728fa6329491aad8c/cad/printed_parts/stl/eva3/ratrig_eva3_shroud.stl",
+    "source_commit": "4f5d91f42c9a9f7ec346c73728fa6329491aad8c",
+    "filename": "ratrig_eva3_shroud-author.stl",
+    "bytes": 639984,
+    "sha256": "d039cd73ef26dfed17472d78edc0455a01fe392c00cb0dcf6142a1f41612cf29",
+    "public_download": true,
+    "production_modified": false
+  },
+  "author_STEP": {
+    "source_commit": "4f5d91f42c9a9f7ec346c73728fa6329491aad8c",
+    "source_url": "https://raw.githubusercontent.com/Rat-Rig/V-core-3/4f5d91f42c9a9f7ec346c73728fa6329491aad8c/cad/printed_parts/step/eva3/ratrig_eva3_shroud.step",
+    "sha256": "fc453e51c8afe9862585f47e7a1a1b0a0a7e904d3f333a54332b957e28daec11",
+    "also_contains_source_cap_artifacts": true
+  },
+  "author_registration": {
+    "method": "Rigid fit of four exact native fan-plane / 1.6mm-radius bore datum intersections; no eyeballed transform.",
+    "registration_transform_authorlocal_to_EVA3_world": [
+      [
+        -0.9999999999999369,
+        -1.490115045283328e-08,
+        3.5507327331643433e-07,
+        -0.07623169981881443
+      ],
+      [
+        3.55073272876197e-07,
+        2.8738068618604044e-08,
+        0.9999999999999365,
+        -89.65000762458
+      ],
+      [
+        -1.4901160440520248e-08,
+        0.9999999999999996,
+        -2.8738063369850464e-08,
+        501.45492751115904
+      ]
+    ],
+    "maximum_bore_anchor_error_mm": 1.145853433319398e-13
+  },
+  "author_both_side_source_witnesses": [
+    {
+      "fan_offset_xz_mm": [
+        0,
+        0
+      ],
+      "original_STEP_adjacent_states": [
+        {
+          "y_offset_mm": -0.1,
+          "solid_classifier": "IN"
+        },
+        {
+          "y_offset_mm": -0.01,
+          "solid_classifier": "IN"
+        },
+        {
+          "y_offset_mm": -0.001,
+          "solid_classifier": "IN"
+        },
+        {
+          "y_offset_mm": 0.001,
+          "solid_classifier": "OUT"
+        },
+        {
+          "y_offset_mm": 0.01,
+          "solid_classifier": "OUT"
+        },
+        {
+          "y_offset_mm": 0.1,
+          "solid_classifier": "OUT"
+        }
+      ],
+      "both_side_author_source_witnesses": [
+        {
+          "offset_y_mm": -0.1,
+          "native_faceted_solid_states": [
+            "IN"
+          ],
+          "exact_author_triangle_winding_number": 1.0000000000000002
+        },
+        {
+          "offset_y_mm": -0.01,
+          "native_faceted_solid_states": [
+            "IN"
+          ],
+          "exact_author_triangle_winding_number": 1.0
+        },
+        {
+          "offset_y_mm": -0.001,
+          "native_faceted_solid_states": [
+            "IN"
+          ],
+          "exact_author_triangle_winding_number": 1.0
+        },
+        {
+          "offset_y_mm": 0.001,
+          "native_faceted_solid_states": [
+            "OUT"
+          ],
+          "exact_author_triangle_winding_number": -1.501928599579994e-16
+        },
+        {
+          "offset_y_mm": 0.01,
+          "native_faceted_solid_states": [
+            "OUT"
+          ],
+          "exact_author_triangle_winding_number": 7.50964299789997e-17
+        },
+        {
+          "offset_y_mm": 0.1,
+          "native_faceted_solid_states": [
+            "OUT"
+          ],
+          "exact_author_triangle_winding_number": -6.184411880623505e-17
+        }
+      ]
+    },
+    {
+      "fan_offset_xz_mm": [
+        5,
+        0
+      ],
+      "original_STEP_adjacent_states": [
+        {
+          "y_offset_mm": -0.1,
+          "solid_classifier": "IN"
+        },
+        {
+          "y_offset_mm": -0.01,
+          "solid_classifier": "IN"
+        },
+        {
+          "y_offset_mm": -0.001,
+          "solid_classifier": "IN"
+        },
+        {
+          "y_offset_mm": 0.001,
+          "solid_classifier": "OUT"
+        },
+        {
+          "y_offset_mm": 0.01,
+          "solid_classifier": "OUT"
+        },
+        {
+          "y_offset_mm": 0.1,
+          "solid_classifier": "OUT"
+        }
+      ],
+      "both_side_author_source_witnesses": [
+        {
+          "offset_y_mm": -0.1,
+          "native_faceted_solid_states": [
+            "IN"
+          ],
+          "exact_author_triangle_winding_number": 1.0000000000000449
+        },
+        {
+          "offset_y_mm": -0.01,
+          "native_faceted_solid_states": [
+            "IN"
+          ],
+          "exact_author_triangle_winding_number": 1.0000000000000029
+        },
+        {
+          "offset_y_mm": -0.001,
+          "native_faceted_solid_states": [
+            "IN"
+          ],
+          "exact_author_triangle_winding_number": 1.0000000000000013
+        },
+        {
+          "offset_y_mm": 0.001,
+          "native_faceted_solid_states": [
+            "OUT"
+          ],
+          "exact_author_triangle_winding_number": 3.710647128374103e-16
+        },
+        {
+          "offset_y_mm": 0.01,
+          "native_faceted_solid_states": [
+            "OUT"
+          ],
+          "exact_author_triangle_winding_number": -1.425065194777959e-14
+        },
+        {
+          "offset_y_mm": 0.1,
+          "native_faceted_solid_states": [
+            "OUT"
+          ],
+          "exact_author_triangle_winding_number": 2.6601805960796246e-14
+        }
+      ]
+    },
+    {
+      "fan_offset_xz_mm": [
+        10,
+        10
+      ],
+      "original_STEP_adjacent_states": [
+        {
+          "y_offset_mm": -0.1,
+          "solid_classifier": "IN"
+        },
+        {
+          "y_offset_mm": -0.01,
+          "solid_classifier": "IN"
+        },
+        {
+          "y_offset_mm": -0.001,
+          "solid_classifier": "IN"
+        },
+        {
+          "y_offset_mm": 0.001,
+          "solid_classifier": "OUT"
+        },
+        {
+          "y_offset_mm": 0.01,
+          "solid_classifier": "OUT"
+        },
+        {
+          "y_offset_mm": 0.1,
+          "solid_classifier": "OUT"
+        }
+      ],
+      "both_side_author_source_witnesses": [
+        {
+          "offset_y_mm": -0.1,
+          "native_faceted_solid_states": [
+            "OUT"
+          ],
+          "exact_author_triangle_winding_number": 0.0
+        },
+        {
+          "offset_y_mm": -0.01,
+          "native_faceted_solid_states": [
+            "OUT"
+          ],
+          "exact_author_triangle_winding_number": 3.533949646070574e-17
+        },
+        {
+          "offset_y_mm": -0.001,
+          "native_faceted_solid_states": [
+            "OUT"
+          ],
+          "exact_author_triangle_winding_number": -1.0601848938211722e-16
+        },
+        {
+          "offset_y_mm": 0.001,
+          "native_faceted_solid_states": [
+            "OUT"
+          ],
+          "exact_author_triangle_winding_number": -5.300924469105861e-17
+        },
+        {
+          "offset_y_mm": 0.01,
+          "native_faceted_solid_states": [
+            "OUT"
+          ],
+          "exact_author_triangle_winding_number": 5.300924469105861e-17
+        },
+        {
+          "offset_y_mm": 0.1,
+          "native_faceted_solid_states": [
+            "OUT"
+          ],
+          "exact_author_triangle_winding_number": 5.300924469105861e-17
+        }
+      ]
+    },
+    {
+      "fan_offset_xz_mm": [
+        -10,
+        -10
+      ],
+      "original_STEP_adjacent_states": [
+        {
+          "y_offset_mm": -0.1,
+          "solid_classifier": "IN"
+        },
+        {
+          "y_offset_mm": -0.01,
+          "solid_classifier": "IN"
+        },
+        {
+          "y_offset_mm": -0.001,
+          "solid_classifier": "IN"
+        },
+        {
+          "y_offset_mm": 0.001,
+          "solid_classifier": "OUT"
+        },
+        {
+          "y_offset_mm": 0.01,
+          "solid_classifier": "OUT"
+        },
+        {
+          "y_offset_mm": 0.1,
+          "solid_classifier": "OUT"
+        }
+      ],
+      "both_side_author_source_witnesses": [
+        {
+          "offset_y_mm": -0.1,
+          "native_faceted_solid_states": [
+            "OUT"
+          ],
+          "exact_author_triangle_winding_number": 0.0
+        },
+        {
+          "offset_y_mm": -0.01,
+          "native_faceted_solid_states": [
+            "OUT"
+          ],
+          "exact_author_triangle_winding_number": 1.766974823035287e-17
+        },
+        {
+          "offset_y_mm": -0.001,
+          "native_faceted_solid_states": [
+            "OUT"
+          ],
+          "exact_author_triangle_winding_number": -8.834874115176436e-18
+        },
+        {
+          "offset_y_mm": 0.001,
+          "native_faceted_solid_states": [
+            "OUT"
+          ],
+          "exact_author_triangle_winding_number": 3.533949646070574e-17
+        },
+        {
+          "offset_y_mm": 0.01,
+          "native_faceted_solid_states": [
+            "OUT"
+          ],
+          "exact_author_triangle_winding_number": 5.300924469105861e-17
+        },
+        {
+          "offset_y_mm": 0.1,
+          "native_faceted_solid_states": [
+            "OUT"
+          ],
+          "exact_author_triangle_winding_number": 0.0
+        }
+      ]
+    },
+    {
+      "fan_offset_xz_mm": [
+        15,
+        0
+      ],
+      "original_STEP_adjacent_states": [
+        {
+          "y_offset_mm": -0.1,
+          "solid_classifier": "IN"
+        },
+        {
+          "y_offset_mm": -0.01,
+          "solid_classifier": "IN"
+        },
+        {
+          "y_offset_mm": -0.001,
+          "solid_classifier": "IN"
+        },
+        {
+          "y_offset_mm": 0.001,
+          "solid_classifier": "OUT"
+        },
+        {
+          "y_offset_mm": 0.01,
+          "solid_classifier": "OUT"
+        },
+        {
+          "y_offset_mm": 0.1,
+          "solid_classifier": "OUT"
+        }
+      ],
+      "both_side_author_source_witnesses": [
+        {
+          "offset_y_mm": -0.1,
+          "native_faceted_solid_states": [
+            "OUT"
+          ],
+          "exact_author_triangle_winding_number": 0.0
+        },
+        {
+          "offset_y_mm": -0.01,
+          "native_faceted_solid_states": [
+            "OUT"
+          ],
+          "exact_author_triangle_winding_number": -3.533949646070574e-17
+        },
+        {
+          "offset_y_mm": -0.001,
+          "native_faceted_solid_states": [
+            "OUT"
+          ],
+          "exact_author_triangle_winding_number": -5.300924469105861e-17
+        },
+        {
+          "offset_y_mm": 0.001,
+          "native_faceted_solid_states": [
+            "OUT"
+          ],
+          "exact_author_triangle_winding_number": -3.533949646070574e-17
+        },
+        {
+          "offset_y_mm": 0.01,
+          "native_faceted_solid_states": [
+            "OUT"
+          ],
+          "exact_author_triangle_winding_number": -1.766974823035287e-17
+        },
+        {
+          "offset_y_mm": 0.1,
+          "native_faceted_solid_states": [
+            "OUT"
+          ],
+          "exact_author_triangle_winding_number": -5.300924469105861e-17
+        }
+      ]
+    }
+  ],
+  "limitations": {
+    "original_STEP_classifier_alone_is_not_null_volume_proof": true,
+    "author_native_faceted_solid_valid": false,
+    "author_STL_nonmanifold_edges": 5,
+    "author_faceted_solid_classifier_is_not_global_certificate": true,
+    "explanation": "All exact author triangles retained for independent aperture rays/winding. Native faceted classifier agrees locally but the author STL has five four-incidence edges elsewhere. This evidence qualifies the matched vent/grille samples and source-opposed coplanar domains only.",
+    "source_topological_endpoint_tolerances_retained": true,
+    "full_physical_fit_certified": false
+  },
+  "source_parts": [
+    {
+      "source_key": "334",
+      "eva_generation": 2,
+      "file": "eva2_source_334.surface.json.gz",
+      "bytes": 492797,
+      "sha256": "a602a615bed0845a38f216a5b5b757d61d711afa07ed88a51087d251c4e4f326",
+      "decoded_sha256": "147004895274265232a40b95e4c750016cd6c0391c2598cf02a3a544794febb1",
+      "source_STEP": {
+        "filename": "vminion-v7.step",
+        "sha256": "46650c0be0527b0f799a6ebd5cde210254caafdc4c436f558857fa30c17e9b94",
+        "revision": "urn:adsk.wipprod:fs.file:vf.vNkJMJ3hQ6ifQxhNCE27ww?version=7"
+      },
+      "source_BRep_sha256": "c2849ab7e2b621903eec5fb0cf658f7f0d6893f45bfacc016a2105a772f81add",
+      "source_identity": {
+        "path": [
+          "Rat Rig - V-Minion 1.0 v7",
+          "Full Assembly v6:1",
+          "EVA Assembly v5:1",
+          "ratrig_eva_shroud v2:1"
+        ],
+        "label_path": [
+          "0:1:1:1",
+          "0:1:1:1:2",
+          "0:1:1:3:11",
+          "0:1:1:112:18"
+        ],
+        "definition_label": "0:1:1:133"
+      },
+      "native_transform": [
+        [
+          -0.9999999999998144,
+          2.462313649698961e-13,
+          6.095692419722182e-07,
+          -17.576233717357532
+        ],
+        [
+          6.095692419722681e-07,
+          4.0414412841109956e-07,
+          0.9999999999997327,
+          -13.361859861001946
+        ],
+        [
+          -1.224650332465535e-16,
+          0.9999999999999184,
+          -4.041441284111745e-07,
+          155.45492606392003
+        ]
+      ],
+      "source_native_solid_count": 4,
+      "source_native_volume_mm3": 3460.374047769797,
+      "source_native_face_count": 264,
+      "rendered_source_faces": 261,
+      "vertices": 11861,
+      "triangles": 11554,
+      "source_native_bounds_mm": [
+        [
+          -39.66625802126694,
+          -13.361986043538188,
+          127.94842818099845
+        ],
+        [
+          4.696974383583308,
+          0.21774228076910487,
+          187.72426126029148
+        ]
+      ],
+      "export_bounds_mm": [
+        [
+          -39.66625665508516,
+          -13.36192090495285,
+          127.94842828138961
+        ],
+        [
+          4.696967789793618,
+          0.2177421759669862,
+          187.72422114862997
+        ]
+      ],
+      "envelope_max_error_mm": 6.513858533807593e-05,
+      "normals_unit_max_error": 2.220446049250313e-16,
+      "float32_zero_area_triangles": 0,
+      "float32_reversed_triangles": 0,
+      "owner_render_frame_checks": [
+        {
+          "source_origin_mm": [
+            0,
+            0,
+            0
+          ],
+          "conversion": "First source-world Float32 GLB metres; helper origin subtraction in float64; second Float32 attribute write",
+          "float32_zero_area_triangles": 0,
+          "float32_reversed_triangles": 0
+        },
+        {
+          "source_origin_mm": [
+            70,
+            0,
+            0
+          ],
+          "conversion": "First source-world Float32 GLB metres; helper origin subtraction in float64; second Float32 attribute write",
+          "float32_zero_area_triangles": 0,
+          "float32_reversed_triangles": 0
+        }
+      ],
+      "standalone_source_key": null,
+      "materials_changed": false,
+      "hardware_changed": false,
+      "node_placements_changed": false,
+      "native_BRep_modified": false
+    },
+    {
+      "source_key": "889",
+      "eva_generation": 3,
+      "file": "eva3_source_889.surface.json.gz",
+      "bytes": 490797,
+      "sha256": "4e2aac06d5f722b6f8ef3c0bc4abf6a57c9ab355c82641c4a32b1cd3da70e27e",
+      "decoded_sha256": "6a4cfc6e2f5ed2d82a5e3367a9a669f606d6fe4a328458ff54fcf0a4aac13b2a",
+      "source_STEP": {
+        "filename": "vcore31-v9.step",
+        "sha256": "9bfde01c4d811eaef253831f2fe7354e14c36b607d36b5b37bfc4fe9f48906d6",
+        "revision": "urn:adsk.wipprod:fs.file:vf.eL92Eu5CTp6oAA3iYBTPpw?version=9"
+      },
+      "source_BRep_sha256": "f60993d60da9eb279606063b3b066f6168dc79d1d6a54009ac497e92277871bf",
+      "source_identity": {
+        "path": [
+          "Rat Rig V-Core 3.1 - 300 v9",
+          "EVA3 Assembly v4:1",
+          "ratrig_eva3_shroud v3:1"
+        ],
+        "label_path": [
+          "0:1:1:1",
+          "0:1:1:1:20",
+          "0:1:1:141:85"
+        ],
+        "definition_label": "0:1:1:171"
+      },
+      "native_transform": [
+        [
+          -0.999999999999937,
+          -1.4901150876387885e-08,
+          3.5507327353709235e-07,
+          -0.07623169981881615
+        ],
+        [
+          3.55073273108862e-07,
+          2.873806874066587e-08,
+          0.9999999999999366,
+          -89.65000762458
+        ],
+        [
+          -1.4901161080507086e-08,
+          0.9999999999999996,
+          -2.8738063449663645e-08,
+          501.4549275111588
+        ]
+      ],
+      "source_native_solid_count": 4,
+      "source_native_volume_mm3": 3460.4499298683745,
+      "source_native_face_count": 264,
+      "rendered_source_faces": 261,
+      "vertices": 11841,
+      "triangles": 11532,
+      "source_native_bounds_mm": [
+        [
+          -22.166255800879938,
+          -89.65013832771325,
+          473.9484312848156
+        ],
+        [
+          22.196974959516403,
+          -76.07039617390474,
+          533.7242665251161
+        ]
+      ],
+      "export_bounds_mm": [
+        [
+          -22.166254525292704,
+          -89.65007268237964,
+          473.94843138520685
+        ],
+        [
+          22.196966639392794,
+          -76.07039627949436,
+          533.7242264071831
+        ]
+      ],
+      "envelope_max_error_mm": 6.56453336063123e-05,
+      "normals_unit_max_error": 2.220446049250313e-16,
+      "float32_zero_area_triangles": 0,
+      "float32_reversed_triangles": 0,
+      "owner_render_frame_checks": [
+        {
+          "source_origin_mm": [
+            0,
+            0,
+            0
+          ],
+          "conversion": "First source-world Float32 GLB metres; helper origin subtraction in float64; second Float32 attribute write",
+          "float32_zero_area_triangles": 0,
+          "float32_reversed_triangles": 0
+        }
+      ],
+      "standalone_source_key": "eva3_native_094",
+      "materials_changed": false,
+      "hardware_changed": false,
+      "node_placements_changed": false,
+      "native_BRep_modified": false
+    },
+    {
+      "source_key": "805",
+      "eva_generation": 3,
+      "file": "eva3_source_805.surface.json.gz",
+      "bytes": 1215128,
+      "sha256": "2bb5d9586d2ed1e2fd5ba689a80ca84bc977821430f44289ea81e382424b7e81",
+      "decoded_sha256": "99d901f5eec69b244149d6cf7881b821a089ace7c8725c9d19081557ac9313e3",
+      "source_STEP": {
+        "filename": "vcore31-v9.step",
+        "sha256": "9bfde01c4d811eaef253831f2fe7354e14c36b607d36b5b37bfc4fe9f48906d6",
+        "revision": "urn:adsk.wipprod:fs.file:vf.eL92Eu5CTp6oAA3iYBTPpw?version=9"
+      },
+      "source_BRep_sha256": "e0a95a592dff7faee704e368f384875b82c79f387b4c4660cc3c2bdacb7b4640",
+      "source_identity": {
+        "path": [
+          "Rat Rig V-Core 3.1 - 300 v9",
+          "EVA3 Assembly v4:1",
+          "40mm_fan_inlet v2:1"
+        ],
+        "label_path": [
+          "0:1:1:1",
+          "0:1:1:1:20",
+          "0:1:1:141:11"
+        ],
+        "definition_label": "0:1:1:151"
+      },
+      "native_transform": [
+        [
+          -1.0,
+          4.423216452960977e-09,
+          1.4229538090513081e-08,
+          -7.069245322457399e-07
+        ],
+        [
+          -4.0756878978209794e-16,
+          0.9549281431439746,
+          -0.296837062092322,
+          27.553491006023403
+        ],
+        [
+          -1.4901160963465468e-08,
+          -0.296837062092322,
+          -0.9549281431439746,
+          542.4409151988452
+        ]
+      ],
+      "source_native_solid_count": 1,
+      "source_native_volume_mm3": 18121.10473414858,
+      "source_native_face_count": 181,
+      "rendered_source_faces": 181,
+      "vertices": 24212,
+      "triangles": 34827,
+      "source_native_bounds_mm": [
+        [
+          -28.600001284327195,
+          -6.000000100000158,
+          461.10000294281724
+        ],
+        [
+          28.60000203766282,
+          47.60698211204687,
+          548.6744938710046
+        ]
+      ],
+      "export_bounds_mm": [
+        [
+          -28.599999651312704,
+          -6.000000000000085,
+          461.1000030428173
+        ],
+        [
+          28.60000046044603,
+          47.60698201204693,
+          548.6744937710046
+        ]
+      ],
+      "envelope_max_error_mm": 1.6330144916310019e-06,
+      "normals_unit_max_error": 2.220446049250313e-16,
+      "float32_zero_area_triangles": 0,
+      "float32_reversed_triangles": 0,
+      "owner_render_frame_checks": [
+        {
+          "source_origin_mm": [
+            0,
+            0,
+            0
+          ],
+          "conversion": "First source-world Float32 GLB metres; helper origin subtraction in float64; second Float32 attribute write",
+          "float32_zero_area_triangles": 0,
+          "float32_reversed_triangles": 0
+        }
+      ],
+      "standalone_source_key": "eva3_native_010",
+      "materials_changed": false,
+      "hardware_changed": false,
+      "node_placements_changed": false,
+      "native_BRep_modified": false
+    }
+  ],
+  "shroud_domain_reviews": [
+    {
+      "source_key": "334",
+      "original_back_face": 141,
+      "cancelled_source_faces": [
+        146,
+        147,
+        148
+      ],
+      "operation": "Remove the exact source-opposed cap twins and subtract their original ordered native trim domains from the back render surface. No guessed circle, generic cylinder, fan deletion or support removal.",
+      "original_native_plane_proofs": [
+        {
+          "source_face": 141,
+          "source_orientation": "TopAbs_Orientation.TopAbs_REVERSED",
+          "opposed_normal_dot": 1.0000000000000002,
+          "exact_native_plane_offset_mm": 0.0,
+          "maximum_projection_to_original_back_plane_mm": 0.0005246168938326326,
+          "maximum_source_vertex_tolerance_mm": 0.0360526167806383,
+          "source_native_area_mm2": 1781.6008403391406,
+          "original_ordered_trim_domain_area_mm2": 1781.604462388554
+        },
+        {
+          "source_face": 146,
+          "source_orientation": "TopAbs_Orientation.TopAbs_FORWARD",
+          "opposed_normal_dot": -1.0000000000000002,
+          "exact_native_plane_offset_mm": 0.0,
+          "maximum_projection_to_original_back_plane_mm": 0.006216406124601879,
+          "maximum_source_vertex_tolerance_mm": 0.0553706504578328,
+          "source_native_area_mm2": 201.96800912756808,
+          "original_ordered_trim_domain_area_mm2": 201.94778631440198
+        },
+        {
+          "source_face": 147,
+          "source_orientation": "TopAbs_Orientation.TopAbs_FORWARD",
+          "opposed_normal_dot": -1.0000000000000002,
+          "exact_native_plane_offset_mm": 0.0,
+          "maximum_projection_to_original_back_plane_mm": 0.0027907615764028444,
+          "maximum_source_vertex_tolerance_mm": 0.0624067429367313,
+          "source_native_area_mm2": 208.8341415994172,
+          "original_ordered_trim_domain_area_mm2": 209.97505767912912
+        },
+        {
+          "source_face": 148,
+          "source_orientation": "TopAbs_Orientation.TopAbs_FORWARD",
+          "opposed_normal_dot": -1.0000000000000002,
+          "exact_native_plane_offset_mm": 0.0,
+          "maximum_projection_to_original_back_plane_mm": 0.002788783657175566,
+          "maximum_source_vertex_tolerance_mm": 0.0624792285307958,
+          "source_native_area_mm2": 207.27239530941722,
+          "original_ordered_trim_domain_area_mm2": 208.45422613268988
+        }
+      ],
+      "cancelled_back_overlap_area_mm2": 620.3770701262197,
+      "retained_back_domain_area_mm2": 1161.227392262332,
+      "mesh_back_area_mm2": 1161.2280893628874,
+      "area_scope": "Areas of the ordered source trim tessellation are not a repaired-solid volume proof. Original STEP endpoint/trim discrepancies are kept as authored-tolerance witnesses.",
+      "source_curve_chord_budget_mm": 5e-05,
+      "measured_curve_domain_hausdorff_mm": 4.9694604396340256e-05,
+      "numeric_UV_grid_mm": 5e-06,
+      "numeric_UV_max_vertex_rounding_mm": 3.535533905932738e-06,
+      "numeric_UV_domain_difference_mm2": 0.00040119648548997915,
+      "numeric_components_before_after": [
+        2,
+        1
+      ],
+      "numeric_scope": "A sub-float32 ~1e-13 mm2 sampled Boolean boundary island collapses under recorded UV quantization; no additional source face, solid, support, grille, logo or hardware omitted.",
+      "retained_native_faces": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263
+      ],
+      "actual_exported_array_rays": [
+        {
+          "fan_offset_xz_mm": [
+            10,
+            10
+          ],
+          "kind": "vent",
+          "unique_ray_hits_mm": [],
+          "source_faces": []
+        },
+        {
+          "fan_offset_xz_mm": [
+            -10,
+            -10
+          ],
+          "kind": "vent",
+          "unique_ray_hits_mm": [],
+          "source_faces": []
+        },
+        {
+          "fan_offset_xz_mm": [
+            15,
+            0
+          ],
+          "kind": "vent",
+          "unique_ray_hits_mm": [],
+          "source_faces": []
+        },
+        {
+          "fan_offset_xz_mm": [
+            5,
+            0
+          ],
+          "kind": "grille",
+          "unique_ray_hits_mm": [
+            136.6381371,
+            138.00010363
+          ],
+          "source_faces": [
+            9,
+            141
+          ]
+        },
+        {
+          "fan_offset_xz_mm": [
+            0,
+            0
+          ],
+          "kind": "logo",
+          "unique_ray_hits_mm": [
+            137.3147388,
+            138.00011966
+          ],
+          "source_faces": [
+            130,
+            141
+          ]
+        },
+        {
+          "fan_offset_xz_mm": [
+            10,
+            0
+          ],
+          "kind": "grille",
+          "unique_ray_hits_mm": [
+            136.63813406,
+            138.0000876
+          ],
+          "source_faces": [
+            9,
+            141
+          ]
+        },
+        {
+          "fan_offset_xz_mm": [
+            0,
+            15
+          ],
+          "kind": "grille",
+          "unique_ray_hits_mm": [
+            136.63814621,
+            137.99991518
+          ],
+          "source_faces": [
+            9,
+            141
+          ]
+        }
+      ]
+    },
+    {
+      "source_key": "889",
+      "original_back_face": 141,
+      "cancelled_source_faces": [
+        146,
+        147,
+        148
+      ],
+      "operation": "Remove the exact source-opposed cap twins and subtract their original ordered native trim domains from the back render surface. No guessed circle, generic cylinder, fan deletion or support removal.",
+      "original_native_plane_proofs": [
+        {
+          "source_face": 141,
+          "source_orientation": "TopAbs_Orientation.TopAbs_REVERSED",
+          "opposed_normal_dot": 1.0,
+          "exact_native_plane_offset_mm": 0.0,
+          "maximum_projection_to_original_back_plane_mm": 0.0005246168938383296,
+          "maximum_source_vertex_tolerance_mm": 0.0360526167806526,
+          "source_native_area_mm2": 1781.6008385068067,
+          "original_ordered_trim_domain_area_mm2": 1781.6044276875928
+        },
+        {
+          "source_face": 146,
+          "source_orientation": "TopAbs_Orientation.TopAbs_FORWARD",
+          "opposed_normal_dot": -1.0,
+          "exact_native_plane_offset_mm": 0.0,
+          "maximum_projection_to_original_back_plane_mm": 0.006216406124606619,
+          "maximum_source_vertex_tolerance_mm": 0.0553706504578271,
+          "source_native_area_mm2": 201.96800921577815,
+          "original_ordered_trim_domain_area_mm2": 201.9477863391089
+        },
+        {
+          "source_face": 147,
+          "source_orientation": "TopAbs_Orientation.TopAbs_FORWARD",
+          "opposed_normal_dot": -1.0,
+          "exact_native_plane_offset_mm": 0.0,
+          "maximum_projection_to_original_back_plane_mm": 0.0027907615763966905,
+          "maximum_source_vertex_tolerance_mm": 0.0624067429367313,
+          "source_native_area_mm2": 208.83415747012373,
+          "original_ordered_trim_domain_area_mm2": 209.97505767431622
+        },
+        {
+          "source_face": 148,
+          "source_orientation": "TopAbs_Orientation.TopAbs_FORWARD",
+          "opposed_normal_dot": -1.0,
+          "exact_native_plane_offset_mm": 0.0,
+          "maximum_projection_to_original_back_plane_mm": 0.0027887836571753315,
+          "maximum_source_vertex_tolerance_mm": 0.0624792285307958,
+          "source_native_area_mm2": 207.27239477152995,
+          "original_ordered_trim_domain_area_mm2": 208.45422611564587
+        }
+      ],
+      "cancelled_back_overlap_area_mm2": 620.377070129069,
+      "retained_back_domain_area_mm2": 1161.2273575585234,
+      "mesh_back_area_mm2": 1161.2279811370258,
+      "area_scope": "Areas of the ordered source trim tessellation are not a repaired-solid volume proof. Original STEP endpoint/trim discrepancies are kept as authored-tolerance witnesses.",
+      "source_curve_chord_budget_mm": 5e-05,
+      "measured_curve_domain_hausdorff_mm": 4.969460445709388e-05,
+      "numeric_UV_grid_mm": 5e-06,
+      "numeric_UV_max_vertex_rounding_mm": 3.535533905932738e-06,
+      "numeric_UV_domain_difference_mm2": 0.0003874216020218268,
+      "numeric_components_before_after": [
+        2,
+        1
+      ],
+      "numeric_scope": "A sub-float32 ~1e-13 mm2 sampled Boolean boundary island collapses under recorded UV quantization; no additional source face, solid, support, grille, logo or hardware omitted.",
+      "retained_native_faces": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263
+      ],
+      "actual_exported_array_rays": [
+        {
+          "fan_offset_xz_mm": [
+            10,
+            10
+          ],
+          "kind": "vent",
+          "unique_ray_hits_mm": [],
+          "source_faces": []
+        },
+        {
+          "fan_offset_xz_mm": [
+            -10,
+            -10
+          ],
+          "kind": "vent",
+          "unique_ray_hits_mm": [],
+          "source_faces": []
+        },
+        {
+          "fan_offset_xz_mm": [
+            15,
+            0
+          ],
+          "kind": "vent",
+          "unique_ray_hits_mm": [],
+          "source_faces": []
+        },
+        {
+          "fan_offset_xz_mm": [
+            5,
+            0
+          ],
+          "kind": "grille",
+          "unique_ray_hits_mm": [
+            60.34999058,
+            61.7119571
+          ],
+          "source_faces": [
+            9,
+            141
+          ]
+        },
+        {
+          "fan_offset_xz_mm": [
+            0,
+            0
+          ],
+          "kind": "logo",
+          "unique_ray_hits_mm": [
+            61.02659101,
+            61.71197186
+          ],
+          "source_faces": [
+            130,
+            141
+          ]
+        },
+        {
+          "fan_offset_xz_mm": [
+            10,
+            0
+          ],
+          "kind": "grille",
+          "unique_ray_hits_mm": [
+            60.3499888,
+            61.71194235
+          ],
+          "source_faces": [
+            9,
+            141
+          ]
+        },
+        {
+          "fan_offset_xz_mm": [
+            0,
+            15
+          ],
+          "kind": "grille",
+          "unique_ray_hits_mm": [
+            60.34999278,
+            61.71176175
+          ],
+          "source_faces": [
+            9,
+            141
+          ]
+        }
+      ]
+    }
+  ],
+  "inlet_face15_review": {
+    "source_face": 15,
+    "native_type": "BSPLINE",
+    "source_orientation": "TopAbs_Orientation.TopAbs_REVERSED",
+    "native_area_mm2": 4047.167939881085,
+    "normal_method": "Native surface D1 / original face orientation; planar constant D1 for planar fallback",
+    "triangles": 4416,
+    "vertices": 2273,
+    "native_winding_flips": 4415,
+    "exact_zero_area_native_facets": 0,
+    "minimum_triangle_normal_dot_native_surface": 0.9797979933319999,
+    "singular_native_UV_vertices": [],
+    "triangle_offset": 7504,
+    "vertex_offset": 4070
+  },
+  "native_spherical_pole_normal_review": {
+    "file": "FACE82_NATIVE_NORMAL_PROBE.json",
+    "sha256": "d3118a5a2f95a138874fbe99bf9a3b17f3560603878b5277523926a93ff7122f",
+    "correction": "Source SPHERE radial analytic outward normal is unique at pole; D1 cross degenerates and flips for source UV v=pi/2+6e-16. Exact closest native point plus both-side native body classifier confirms radial normal. No flip selected merely to satisfy QA."
+  },
+  "native_owner_frame_regressions": {
+    "file": "NATIVE_SURFACE_REGRESSIONS.json",
+    "sha256": "13b326ac122fcbf1b802bff41e1cad8a31039fa8c4c10091a4426134abd9a54f",
+    "status": "passed",
+    "source_array_owner_checks": [
+      {
+        "owner_id": "eva2_vminion_lgx_bmo",
+        "source_origin_mm": [
+          70,
+          0,
+          0
+        ],
+        "original_owner_model_sha256": "21b8cf9694d86062e6b124051c1b60b963d66328a0df7a1b45ba2baaabd46b3b",
+        "targets": [
+          {
+            "source_key": "334",
+            "part_key": "eva2_vminion_lgx_bmo_334",
+            "patch_key": "eva2_shroud",
+            "source_brep_sha256": "c2849ab7e2b621903eec5fb0cf658f7f0d6893f45bfacc016a2105a772f81add",
+            "vertices": 11861,
+            "triangles": 11554,
+            "float32_zero_area_triangles": 0,
+            "float32_reversed_triangles": 0
+          }
+        ],
+        "scope": "Current source arrays through the exact two-stage owner conversion; not a replacement for independent actual packaged GLB/loader audit"
+      },
+      {
+        "owner_id": "ratrig_vminion_180",
+        "source_origin_mm": [
+          70,
+          0,
+          0
+        ],
+        "original_owner_model_sha256": "b394124d0ef44519aa24cd005d1433305f35a545c3b8d5f9c8cccb8268fb0175",
+        "targets": [
+          {
+            "source_key": "334",
+            "part_key": "334",
+            "patch_key": "eva2_shroud",
+            "source_brep_sha256": "c2849ab7e2b621903eec5fb0cf658f7f0d6893f45bfacc016a2105a772f81add",
+            "vertices": 11861,
+            "triangles": 11554,
+            "float32_zero_area_triangles": 0,
+            "float32_reversed_triangles": 0
+          }
+        ],
+        "scope": "Current source arrays through the exact two-stage owner conversion; not a replacement for independent actual packaged GLB/loader audit"
+      },
+      {
+        "owner_id": "eva3_ratrig_vcore31_urn9_rapido_hf_lgx_lite",
+        "source_origin_mm": [
+          0,
+          0,
+          0
+        ],
+        "original_owner_model_sha256": "619857aca76e72c14601b086db8c2cf86b7c3ab7d24b1e4323f3d60f6eb58168",
+        "targets": [
+          {
+            "source_key": "889",
+            "part_key": "eva3_native_094",
+            "patch_key": "eva3_shroud",
+            "source_brep_sha256": "f60993d60da9eb279606063b3b066f6168dc79d1d6a54009ac497e92277871bf",
+            "vertices": 11841,
+            "triangles": 11532,
+            "float32_zero_area_triangles": 0,
+            "float32_reversed_triangles": 0
+          },
+          {
+            "source_key": "805",
+            "part_key": "eva3_native_010",
+            "patch_key": "eva3_inlet",
+            "source_brep_sha256": "e0a95a592dff7faee704e368f384875b82c79f387b4c4660cc3c2bdacb7b4640",
+            "vertices": 24212,
+            "triangles": 34827,
+            "float32_zero_area_triangles": 0,
+            "float32_reversed_triangles": 0
+          }
+        ],
+        "scope": "Current source arrays through the exact two-stage owner conversion; not a replacement for independent actual packaged GLB/loader audit"
+      },
+      {
+        "owner_id": "ratrig_vcore31_300",
+        "source_origin_mm": [
+          0,
+          0,
+          0
+        ],
+        "original_owner_model_sha256": "6a375f65c81f6cd993313257bab4fe8cae0345ad1b8ee500dece3dc890014a16",
+        "targets": [
+          {
+            "source_key": "889",
+            "part_key": "889",
+            "patch_key": "eva3_shroud",
+            "source_brep_sha256": "f60993d60da9eb279606063b3b066f6168dc79d1d6a54009ac497e92277871bf",
+            "vertices": 11841,
+            "triangles": 11532,
+            "float32_zero_area_triangles": 0,
+            "float32_reversed_triangles": 0
+          },
+          {
+            "source_key": "805",
+            "part_key": "805",
+            "patch_key": "eva3_inlet",
+            "source_brep_sha256": "e0a95a592dff7faee704e368f384875b82c79f387b4c4660cc3c2bdacb7b4640",
+            "vertices": 24212,
+            "triangles": 34827,
+            "float32_zero_area_triangles": 0,
+            "float32_reversed_triangles": 0
+          }
+        ],
+        "scope": "Current source arrays through the exact two-stage owner conversion; not a replacement for independent actual packaged GLB/loader audit"
+      }
+    ],
+    "planar_face145": {
+      "source_key": "334",
+      "source_face": 145,
+      "source_native_area_mm2": 23.37899183040815,
+      "new_mesh_area_mm2": 23.378593902190364,
+      "new_triangles": 23,
+      "old_origin0_origin70_zero_area_counts": [
+        0,
+        1
+      ],
+      "corrected_frame_checks": [
+        {
+          "source_origin_mm": [
+            0,
+            0,
+            0
+          ],
+          "zero_area_triangles": 0,
+          "reversed_triangles": 0,
+          "maximum_rendered_vertex_distance_to_native_plane_mm": 4.5476665292353783e-07,
+          "minimum_rendered_double_area_m2": 2.656710303593363e-12
+        },
+        {
+          "source_origin_mm": [
+            70,
+            0,
+            0
+          ],
+          "zero_area_triangles": 0,
+          "reversed_triangles": 0,
+          "maximum_rendered_vertex_distance_to_native_plane_mm": 4.5377792948209355e-07,
+          "minimum_rendered_double_area_m2": 5.313420607186726e-12
+        }
+      ],
+      "strict_native_trim_centroid_samples": 23,
+      "strict_native_classifier_tolerance_mm": 1e-07,
+      "correction": "Retessellate the same source native plane from its original ordered pcurves and actual source vertices projected onto that plane; source-authored vertex tolerance joins recorded. No real face or source edge deletion, no hardware transform, no guessed vertex displacement, no relaxed render tolerance."
+    },
+    "sphere_face82": {
+      "minimum_rendered_normal_dot_closest_native": 0.999999661082595,
+      "source_surface": "Exact original SPHERE, FORWARD; unique radial pole limit"
+    },
+    "independent_actual_packaged_GLb_loader_audit_still_required": true
+  },
+  "hardware_preserved": {
+    "purchased_4010_fans": true,
+    "fan_hub_blades_frame": true,
+    "printed_grille_logo": true,
+    "screw_boss_solids": true,
+    "all_original_fasteners": true
+  },
+  "native_BReps_unchanged": true,
+  "original_complete_and_standalone_GLBS_unchanged": true,
+  "supports_removed": false,
+  "authoritative_assembly_references": [
+    "https://ratrig.dozuki.com/Guide/07.+EVA+Assembly/117?lang=en",
+    "https://ratrig.dozuki.com/Guide/10.+EVA+3.0+Hex+Nut+Assembly/166",
+    "https://rat-rig.github.io/V-core-3/upgrade/"
+  ]
+}

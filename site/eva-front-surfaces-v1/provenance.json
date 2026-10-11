@@ -1,0 +1,330 @@
+{
+  "schema": "3d-print-rig-eva-front-provenance-v1",
+  "parts": [
+    {
+      "source_key": "334",
+      "eva_generation": 2,
+      "sha256": "a602a615bed0845a38f216a5b5b757d61d711afa07ed88a51087d251c4e4f326",
+      "source_STEP": {
+        "filename": "vminion-v7.step",
+        "sha256": "46650c0be0527b0f799a6ebd5cde210254caafdc4c436f558857fa30c17e9b94",
+        "revision": "urn:adsk.wipprod:fs.file:vf.vNkJMJ3hQ6ifQxhNCE27ww?version=7"
+      },
+      "source_BRep_sha256": "c2849ab7e2b621903eec5fb0cf658f7f0d6893f45bfacc016a2105a772f81add",
+      "source_identity": {
+        "path": [
+          "Rat Rig - V-Minion 1.0 v7",
+          "Full Assembly v6:1",
+          "EVA Assembly v5:1",
+          "ratrig_eva_shroud v2:1"
+        ],
+        "label_path": [
+          "0:1:1:1",
+          "0:1:1:1:2",
+          "0:1:1:3:11",
+          "0:1:1:112:18"
+        ],
+        "definition_label": "0:1:1:133"
+      },
+      "vertices": 11861,
+      "triangles": 11554,
+      "source_native_bounds_mm": [
+        [
+          -39.66625802126694,
+          -13.361986043538188,
+          127.94842818099845
+        ],
+        [
+          4.696974383583308,
+          0.21774228076910487,
+          187.72426126029148
+        ]
+      ],
+      "export_bounds_mm": [
+        [
+          -39.66625665508516,
+          -13.36192090495285,
+          127.94842828138961
+        ],
+        [
+          4.696967789793618,
+          0.2177421759669862,
+          187.72422114862997
+        ]
+      ],
+      "float32_zero_area_triangles": 0,
+      "float32_reversed_triangles": 0,
+      "owner_render_frame_checks": [
+        {
+          "source_origin_mm": [
+            0,
+            0,
+            0
+          ],
+          "conversion": "First source-world Float32 GLB metres; helper origin subtraction in float64; second Float32 attribute write",
+          "float32_zero_area_triangles": 0,
+          "float32_reversed_triangles": 0
+        },
+        {
+          "source_origin_mm": [
+            70,
+            0,
+            0
+          ],
+          "conversion": "First source-world Float32 GLB metres; helper origin subtraction in float64; second Float32 attribute write",
+          "float32_zero_area_triangles": 0,
+          "float32_reversed_triangles": 0
+        }
+      ]
+    },
+    {
+      "source_key": "889",
+      "eva_generation": 3,
+      "sha256": "4e2aac06d5f722b6f8ef3c0bc4abf6a57c9ab355c82641c4a32b1cd3da70e27e",
+      "source_STEP": {
+        "filename": "vcore31-v9.step",
+        "sha256": "9bfde01c4d811eaef253831f2fe7354e14c36b607d36b5b37bfc4fe9f48906d6",
+        "revision": "urn:adsk.wipprod:fs.file:vf.eL92Eu5CTp6oAA3iYBTPpw?version=9"
+      },
+      "source_BRep_sha256": "f60993d60da9eb279606063b3b066f6168dc79d1d6a54009ac497e92277871bf",
+      "source_identity": {
+        "path": [
+          "Rat Rig V-Core 3.1 - 300 v9",
+          "EVA3 Assembly v4:1",
+          "ratrig_eva3_shroud v3:1"
+        ],
+        "label_path": [
+          "0:1:1:1",
+          "0:1:1:1:20",
+          "0:1:1:141:85"
+        ],
+        "definition_label": "0:1:1:171"
+      },
+      "vertices": 11841,
+      "triangles": 11532,
+      "source_native_bounds_mm": [
+        [
+          -22.166255800879938,
+          -89.65013832771325,
+          473.9484312848156
+        ],
+        [
+          22.196974959516403,
+          -76.07039617390474,
+          533.7242665251161
+        ]
+      ],
+      "export_bounds_mm": [
+        [
+          -22.166254525292704,
+          -89.65007268237964,
+          473.94843138520685
+        ],
+        [
+          22.196966639392794,
+          -76.07039627949436,
+          533.7242264071831
+        ]
+      ],
+      "float32_zero_area_triangles": 0,
+      "float32_reversed_triangles": 0,
+      "owner_render_frame_checks": [
+        {
+          "source_origin_mm": [
+            0,
+            0,
+            0
+          ],
+          "conversion": "First source-world Float32 GLB metres; helper origin subtraction in float64; second Float32 attribute write",
+          "float32_zero_area_triangles": 0,
+          "float32_reversed_triangles": 0
+        }
+      ]
+    },
+    {
+      "source_key": "805",
+      "eva_generation": 3,
+      "sha256": "2bb5d9586d2ed1e2fd5ba689a80ca84bc977821430f44289ea81e382424b7e81",
+      "source_STEP": {
+        "filename": "vcore31-v9.step",
+        "sha256": "9bfde01c4d811eaef253831f2fe7354e14c36b607d36b5b37bfc4fe9f48906d6",
+        "revision": "urn:adsk.wipprod:fs.file:vf.eL92Eu5CTp6oAA3iYBTPpw?version=9"
+      },
+      "source_BRep_sha256": "e0a95a592dff7faee704e368f384875b82c79f387b4c4660cc3c2bdacb7b4640",
+      "source_identity": {
+        "path": [
+          "Rat Rig V-Core 3.1 - 300 v9",
+          "EVA3 Assembly v4:1",
+          "40mm_fan_inlet v2:1"
+        ],
+        "label_path": [
+          "0:1:1:1",
+          "0:1:1:1:20",
+          "0:1:1:141:11"
+        ],
+        "definition_label": "0:1:1:151"
+      },
+      "vertices": 24212,
+      "triangles": 34827,
+      "source_native_bounds_mm": [
+        [
+          -28.600001284327195,
+          -6.000000100000158,
+          461.10000294281724
+        ],
+        [
+          28.60000203766282,
+          47.60698211204687,
+          548.6744938710046
+        ]
+      ],
+      "export_bounds_mm": [
+        [
+          -28.599999651312704,
+          -6.000000000000085,
+          461.1000030428173
+        ],
+        [
+          28.60000046044603,
+          47.60698201204693,
+          548.6744937710046
+        ]
+      ],
+      "float32_zero_area_triangles": 0,
+      "float32_reversed_triangles": 0,
+      "owner_render_frame_checks": [
+        {
+          "source_origin_mm": [
+            0,
+            0,
+            0
+          ],
+          "conversion": "First source-world Float32 GLB metres; helper origin subtraction in float64; second Float32 attribute write",
+          "float32_zero_area_triangles": 0,
+          "float32_reversed_triangles": 0
+        }
+      ]
+    }
+  ],
+  "owners": {
+    "eva2_vminion_lgx_bmo": {
+      "id": "eva2_vminion_lgx_bmo",
+      "model_sha256": "21b8cf9694d86062e6b124051c1b60b963d66328a0df7a1b45ba2baaabd46b3b",
+      "source_step_sha256": "46650c0be0527b0f799a6ebd5cde210254caafdc4c436f558857fa30c17e9b94",
+      "source_origin_mm": [
+        70,
+        0,
+        0
+      ],
+      "targets": [
+        {
+          "part_key": "eva2_vminion_lgx_bmo_334",
+          "patch_key": "eva2_shroud",
+          "source_path": [
+            "Rat Rig - V-Minion 1.0 v7",
+            "Full Assembly v6:1",
+            "EVA Assembly v5:1",
+            "ratrig_eva_shroud v2:1"
+          ],
+          "source_brep_sha256": "c2849ab7e2b621903eec5fb0cf658f7f0d6893f45bfacc016a2105a772f81add"
+        }
+      ]
+    },
+    "ratrig_vminion_180": {
+      "id": "ratrig_vminion_180",
+      "model_sha256": "b394124d0ef44519aa24cd005d1433305f35a545c3b8d5f9c8cccb8268fb0175",
+      "source_step_sha256": "46650c0be0527b0f799a6ebd5cde210254caafdc4c436f558857fa30c17e9b94",
+      "source_origin_mm": [
+        70,
+        0,
+        0
+      ],
+      "targets": [
+        {
+          "part_key": "334",
+          "patch_key": "eva2_shroud",
+          "source_path": [
+            "Rat Rig - V-Minion 1.0 v7",
+            "Full Assembly v6:1",
+            "EVA Assembly v5:1",
+            "ratrig_eva_shroud v2:1"
+          ],
+          "source_brep_sha256": "c2849ab7e2b621903eec5fb0cf658f7f0d6893f45bfacc016a2105a772f81add"
+        }
+      ]
+    },
+    "eva3_ratrig_vcore31_urn9_rapido_hf_lgx_lite": {
+      "id": "eva3_ratrig_vcore31_urn9_rapido_hf_lgx_lite",
+      "model_sha256": "619857aca76e72c14601b086db8c2cf86b7c3ab7d24b1e4323f3d60f6eb58168",
+      "source_step_sha256": "9bfde01c4d811eaef253831f2fe7354e14c36b607d36b5b37bfc4fe9f48906d6",
+      "source_origin_mm": [
+        0,
+        0,
+        0
+      ],
+      "targets": [
+        {
+          "part_key": "eva3_native_094",
+          "patch_key": "eva3_shroud",
+          "source_path": [
+            "Rat Rig V-Core 3.1 - 300 v9",
+            "EVA3 Assembly v4:1",
+            "ratrig_eva3_shroud v3:1"
+          ],
+          "source_brep_sha256": "f60993d60da9eb279606063b3b066f6168dc79d1d6a54009ac497e92277871bf"
+        },
+        {
+          "part_key": "eva3_native_010",
+          "patch_key": "eva3_inlet",
+          "source_path": [
+            "Rat Rig V-Core 3.1 - 300 v9",
+            "EVA3 Assembly v4:1",
+            "40mm_fan_inlet v2:1"
+          ],
+          "source_brep_sha256": "e0a95a592dff7faee704e368f384875b82c79f387b4c4660cc3c2bdacb7b4640"
+        }
+      ]
+    },
+    "ratrig_vcore31_300": {
+      "id": "ratrig_vcore31_300",
+      "model_sha256": "6a375f65c81f6cd993313257bab4fe8cae0345ad1b8ee500dece3dc890014a16",
+      "source_step_sha256": "9bfde01c4d811eaef253831f2fe7354e14c36b607d36b5b37bfc4fe9f48906d6",
+      "source_origin_mm": [
+        0,
+        0,
+        0
+      ],
+      "targets": [
+        {
+          "part_key": "889",
+          "patch_key": "eva3_shroud",
+          "source_path": [
+            "Rat Rig V-Core 3.1 - 300 v9",
+            "EVA3 Assembly v4:1",
+            "ratrig_eva3_shroud v3:1"
+          ],
+          "source_brep_sha256": "f60993d60da9eb279606063b3b066f6168dc79d1d6a54009ac497e92277871bf"
+        },
+        {
+          "part_key": "805",
+          "patch_key": "eva3_inlet",
+          "source_path": [
+            "Rat Rig V-Core 3.1 - 300 v9",
+            "EVA3 Assembly v4:1",
+            "40mm_fan_inlet v2:1"
+          ],
+          "source_brep_sha256": "e0a95a592dff7faee704e368f384875b82c79f387b4c4660cc3c2bdacb7b4640"
+        }
+      ]
+    }
+  },
+  "source_solids_modified": false,
+  "supports_removed": false,
+  "hardware_changed": false,
+  "materials_changed": false,
+  "authored_placements_changed": false,
+  "physical_fit_certified": false,
+  "render_operation": "Exact source shroud back-plane cap domains and inlet native surface normal/winding. No native BRep repair or whole-printer physical-fit certificate.",
+  "native_domain_proof_sha256": "3505a711ce06e0fa55dc50fd2f1578a10ed31a549100c874f97cc974ba2850d4",
+  "licenses": "Original Rat Rig / EVA notices and component terms apply; see eva-generations-v1 source notices and licenses. EVA version patch numbers remain unconfirmed."
+}
