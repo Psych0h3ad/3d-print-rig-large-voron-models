@@ -1,0 +1,28 @@
+V0 source hinge display tessellation
+
+Original VORON designs: VoronDesign/Voron-0 contributors, GPL-3.0.
+Source revisions:
+  https://github.com/VoronDesign/Voron-0/tree/a4d02db92a7dd71e8f2c72d6f74f6bc3b9d020c8
+  https://github.com/VoronDesign/Voron-0/tree/a53fc87562fd630c846af38d7de850c894dc3d85
+Tessellation editing, source-coordinate recipe and generator: 3D Print Rig contributors, GPL-3.0-only.
+See COPYING. These model/source terms remain separate from the application license.
+
+Only the finite upper bolt cylinder and lower bolt cylinder/underhead display
+facets are retessellated using source-derived points. Source radius, source
+pose, hardware materials, identities, original vertex prefix, other facets
+and original absence of NORMAL are retained. This is a display representation,
+not a new fastener or a complete CAD repair.
+
+Regeneration uses Python 3.13 with its standard library and the exact original
+public mesh identified by source-tessellation.recipe.json. Download that model
+only from its recorded public URL and verify its stored SHA256 and byte count.
+The generator checks the decoded model and all original/new geometry buffers.
+
+  python regenerate_hinge_tessellation.py --recipe source-tessellation.recipe.json --source-model ORIGINAL.glb.gz --output NEW_DIRECTORY
+
+The archive contains the editable evaluated point and triangle-patch source,
+metadata, generator and license. It reproduces the reviewed display bytes;
+it does not replay the original CAD exporter or native kernel evaluation.
+No original private CAD, whole-machine STEP, thread/contact/holding proof or
+continuous physical compatibility certification is included or implied.
+Do not replace a checksum or alter a part to force a different output to pass.
