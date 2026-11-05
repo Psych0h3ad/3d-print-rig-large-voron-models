@@ -5,3 +5,5 @@
 *.yml text eol=lf
 # Indexed assets retain their exact checksum-pinned bytes.
 site/** -text
+# Exact checksum-pinned metadata keeps its original CRLF bytes.
+site/modules/v0_hinge_source_tessellation.json whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
